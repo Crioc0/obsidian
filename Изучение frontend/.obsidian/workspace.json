@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zetttlecasten.md",
+                "file": "Zettlecasten/Импорт и экспорт компонентов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zetttlecasten"
+              "title": "Импорт и экспорт компонентов"
             }
           }
         ],
@@ -263,14 +263,14 @@
   },
   "active": "9e1ac728d409c0fb",
   "lastOpenFiles": [
+    "templates/Zetttlecasten.md",
+    "Zettlecasten/Иммутабельность Props.md",
     "Zettlecasten/Рендеринг списков.md",
     "Zettlecasten/JSX.md",
     "Zettlecasten/JavaScript в JSX.md",
     "Zettlecasten/Условный рендеринг JSX.md",
     "Zettlecasten/Импорт и экспорт компонентов.md",
-    "Zettlecasten/Иммутабельность Props.md",
     "Zettlecasten/Props.md",
-    "templates/Zetttlecasten.md",
     "Без названия.md",
     "Тест.md",
     "Без названия.canvas",
