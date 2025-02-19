@@ -17,3 +17,4 @@ function Profile(props) {
     );
 }
 ```
+Props явля
