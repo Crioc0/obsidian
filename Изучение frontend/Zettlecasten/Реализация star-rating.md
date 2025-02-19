@@ -1,6 +1,9 @@
 2025 02 172205
 Tags: #react #библиотеки
-Links: 
+###### Links: 
+1) 
+# Заметка
+
 
 Для реализации star-raiting я использовал следующие библиотеки :
 1) @fortawesome/react-fontawesome

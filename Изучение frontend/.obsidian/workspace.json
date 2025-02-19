@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zetttlecasten.md",
+                "file": "Zettlecasten/Условный рендеринг JSX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zetttlecasten"
+              "title": "Условный рендеринг JSX"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Zetttlecasten.md",
+                "file": "Zettlecasten/Условный рендеринг JSX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Zetttlecasten"
+              "title": "Структура Условный рендеринг JSX"
             }
           },
           {
@@ -264,18 +264,18 @@
   },
   "active": "9e1ac728d409c0fb",
   "lastOpenFiles": [
-    "Zettlecasten/Иммутабельность Props.md",
-    "Zettlecasten/Импорт и экспорт компонентов.md",
-    "templates/Zetttlecasten.md",
     "Zettlecasten/Рендеринг списков.md",
+    "Zettlecasten/Реализация star-rating.md",
+    "templates/Zetttlecasten.md",
+    "Zettlecasten/Компоненты.md",
+    "Zettlecasten/Импорт и экспорт компонентов.md",
+    "Zettlecasten/Иммутабельность Props.md",
     "Zettlecasten/JSX.md",
     "Zettlecasten/JavaScript в JSX.md",
     "Zettlecasten/Условный рендеринг JSX.md",
     "Zettlecasten/Props.md",
     "Без названия.md",
     "Тест.md",
-    "Без названия.canvas",
-    "Zettlecasten/Компоненты.md",
-    "Zettlecasten/Реализация star-rating.md"
+    "Без названия.canvas"
   ]
 }
