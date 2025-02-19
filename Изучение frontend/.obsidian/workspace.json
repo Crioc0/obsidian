@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Props.md",
+                "file": "Zettlecasten/JSX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Props"
+              "title": "JSX"
             }
           }
         ],
@@ -207,6 +207,7 @@
   },
   "active": "5e42bc2ad3ebb935",
   "lastOpenFiles": [
+    "Zettlecasten/Props.md",
     "Zettlecasten/JSX.md",
     "Тест.md",
     "Без названия.canvas",
@@ -214,7 +215,6 @@
     "Zettlecasten/Импорт и экспорт компонентов.md",
     "Zettlecasten/Компоненты.md",
     "Zettlecasten/JavaScript в JSX.md",
-    "Zettlecasten/Props.md",
     "Zettlecasten/Реализация star-rating.md"
   ]
 }
