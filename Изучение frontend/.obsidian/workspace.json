@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zetttlecasten.md",
+                "file": "Zettlecasten/Props.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zetttlecasten"
+              "title": "Props"
             }
           }
         ],
@@ -221,13 +221,13 @@
   },
   "active": "7fe544aff068bf04",
   "lastOpenFiles": [
+    "templates/Zetttlecasten.md",
     "Zettlecasten/Иммутабельность Props.md",
     "Zettlecasten/Props.md",
     "Без названия.md",
     "Zettlecasten/JSX.md",
     "Тест.md",
     "Без названия.canvas",
-    "templates/Zetttlecasten.md",
     "Zettlecasten/Импорт и экспорт компонентов.md",
     "Zettlecasten/Компоненты.md",
     "Zettlecasten/JavaScript в JSX.md",

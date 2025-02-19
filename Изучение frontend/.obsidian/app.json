@@ -1,5 +1,7 @@
 {
   "userIgnoreFilters": [
     "templates/"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettlecasten"
 }
