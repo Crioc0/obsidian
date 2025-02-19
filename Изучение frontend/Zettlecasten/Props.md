@@ -6,3 +6,4 @@ Links:
 ```js
 function Avatar({ person, size }) { // ... }
 ``` 
+Значение можно у
