@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Импорт и экспорт компонентов.md",
+                "file": "templates/Zetttlecasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Импорт и экспорт компонентов"
+              "title": "Zetttlecasten"
             }
           }
         ],
@@ -225,12 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "templates/Zetttlecasten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Zetttlecasten"
             }
           },
           {
@@ -244,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -263,13 +264,13 @@
   },
   "active": "9e1ac728d409c0fb",
   "lastOpenFiles": [
-    "templates/Zetttlecasten.md",
     "Zettlecasten/Иммутабельность Props.md",
+    "Zettlecasten/Импорт и экспорт компонентов.md",
+    "templates/Zetttlecasten.md",
     "Zettlecasten/Рендеринг списков.md",
     "Zettlecasten/JSX.md",
     "Zettlecasten/JavaScript в JSX.md",
     "Zettlecasten/Условный рендеринг JSX.md",
-    "Zettlecasten/Импорт и экспорт компонентов.md",
     "Zettlecasten/Props.md",
     "Без названия.md",
     "Тест.md",
