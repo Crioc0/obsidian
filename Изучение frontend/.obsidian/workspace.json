@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Рендеринг списков"
             }
+          },
+          {
+            "id": "479c3a2db4bf732c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -225,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Рендеринг списков.md",
+                "file": "Zettlecasten/Key.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Рендеринг списков"
+              "title": "Структура Key"
             }
           },
           {
@@ -262,14 +276,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1ac728d409c0fb",
+  "active": "479c3a2db4bf732c",
   "lastOpenFiles": [
+    "Zettlecasten/Key.md",
+    "Zettlecasten/Рендеринг списков.md",
     "Zettlecasten/Условный рендеринг JSX.md",
     "Zettlecasten/JavaScript в JSX.md",
     "Zettlecasten/JSX.md",
     "Zettlecasten/Props.md",
     "templates/Zetttlecasten.md",
-    "Zettlecasten/Рендеринг списков.md",
     "Zettlecasten/Реализация star-rating.md",
     "Zettlecasten/Компоненты.md",
     "Zettlecasten/Импорт и экспорт компонентов.md",
