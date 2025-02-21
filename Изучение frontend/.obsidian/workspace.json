@@ -188,9 +188,23 @@
               "icon": "lucide-file",
               "title": "2025-02-21"
             }
+          },
+          {
+            "id": "ac9c2a52a9ececd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Объект location.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Объект location"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -345,10 +359,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49ba86e97f34acfb",
+  "active": "ac9c2a52a9ececd0",
   "lastOpenFiles": [
-    "Zettlecasten/Объект history.md",
     "daily/2025-02-21.md",
+    "Zettlecasten/Объект location.md",
+    "Zettlecasten/Объект history.md",
     "daily",
     "Zettlecasten/Чистые функции в React.md",
     "Zettlecasten/Поддержание чистоты компонентов.md",
