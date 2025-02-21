@@ -165,10 +165,14 @@
             "id": "216101e633592153",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-02-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-21"
             }
           }
         ],
@@ -327,8 +331,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "216101e633592153",
+  "active": "5124abb7dcf47e31",
   "lastOpenFiles": [
+    "daily",
+    "daily/2025-02-21.md",
     "Zettlecasten/Чистые функции в React.md",
     "Zettlecasten/Поддержание чистоты компонентов.md",
     "Zettlecasten/Побочные эффекты.md",
