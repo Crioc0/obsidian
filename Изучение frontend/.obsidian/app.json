@@ -3,5 +3,6 @@
     "templates/"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettlecasten"
+  "newFileFolderPath": "Zettlecasten",
+  "alwaysUpdateLinks": true
 }

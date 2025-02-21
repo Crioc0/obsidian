@@ -263,14 +263,10 @@
             "id": "3eedc6f559c436eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/react/Библиотека react-router.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Библиотека react-router"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -431,15 +427,17 @@
   },
   "active": "3eedc6f559c436eb",
   "lastOpenFiles": [
-    "Zettlecasten/javaScript/Событие popstate.md",
-    "Zettlecasten/Реализации/Реализация star-rating.md",
-    "templates/Zetttlecasten.md",
-    "Zettlecasten/Чистые функции.md",
     "Zettlecasten/сеть/get-параметры.md",
+    "Zettlecasten/Реализации/Реализация star-rating.md",
+    "Zettlecasten/react/Props.md",
+    "Zettlecasten/Чистые функции.md",
+    "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
+    "Zettlecasten/react/Роутинг библиотека react-router.md",
+    "Zettlecasten/javaScript/Событие popstate.md",
+    "templates/Zetttlecasten.md",
     "Zettlecasten/сеть/Виды маршрутов.md",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
-    "Zettlecasten/react/Props.md",
     "Zettlecasten/react/Key.md",
     "Zettlecasten/react/JSX.md",
     "Zettlecasten/react/JavaScript в JSX.md",
@@ -452,12 +450,10 @@
     "Zettlecasten/сеть",
     "Zettlecasten/react/Поддержание чистоты компонентов.md",
     "Zettlecasten/react/Побочные эффекты.md",
-    "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
     "Zettlecasten/javaScript",
     "Zettlecasten/react/Компоненты.md",
     "Zettlecasten/react/Импорт и экспорт компонентов.md",
     "Zettlecasten/react/Иммутабельность Props.md",
-    "Zettlecasten/react/Библиотека react-router.md",
     "Zettlecasten/react",
     "daily/2025-02-21.md",
     "daily",
