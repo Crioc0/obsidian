@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "daily/2025-02-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "2025-02-21"
             }
           }
         ],
@@ -375,8 +375,9 @@
   },
   "active": "86daf58f1fc1a179",
   "lastOpenFiles": [
+    "templates/Zetttlecasten.md",
+    "Событие popstate.md",
     "daily/2025-02-21.md",
-    "Без названия.md",
     "Zettlecasten/Объект window.md",
     "Zettlecasten/Объект location.md",
     "Zettlecasten/Объект history.md",
@@ -394,7 +395,6 @@
     "Zettlecasten/JavaScript в JSX.md",
     "Zettlecasten/JSX.md",
     "Zettlecasten/Props.md",
-    "templates/Zetttlecasten.md",
     "Zettlecasten/Реализация star-rating.md",
     "Zettlecasten/Иммутабельность Props.md",
     "Тест.md",
