@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Виды маршрутов.md",
+                "file": "daily/2025-02-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды маршрутов"
+              "title": "2025-02-21"
             }
           }
         ],
@@ -389,9 +389,9 @@
   },
   "active": "f96b3a773429be68",
   "lastOpenFiles": [
-    "daily/2025-02-21.md",
-    "Zettlecasten/Виды маршрутов.md",
     "templates/Zetttlecasten.md",
+    "Zettlecasten/Виды маршрутов.md",
+    "daily/2025-02-21.md",
     "Событие popstate.md",
     "Zettlecasten/Объект window.md",
     "Zettlecasten/Объект location.md",
