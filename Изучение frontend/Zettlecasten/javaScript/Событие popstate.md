@@ -1,5 +1,5 @@
 2025 02 2116 16
-Tags: #javaScript 
+Tags: #javaScript #события
 ###### Links: 
 1) 
 # Заметка
