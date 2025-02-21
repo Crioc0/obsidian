@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия.md",
+                "file": "Zettlecasten/Библиотека react-router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Библиотека react-router"
             }
           }
         ],
@@ -432,7 +432,7 @@
   "active": "3eedc6f559c436eb",
   "lastOpenFiles": [
     "daily/2025-02-21.md",
-    "Zettlecasten/Без названия.md",
+    "Zettlecasten/Библиотека react-router.md",
     "Zettlecasten/Конструктор URLSearchParam.md",
     "Zettlecasten/Виды маршрутов.md",
     "templates/Zetttlecasten.md",
