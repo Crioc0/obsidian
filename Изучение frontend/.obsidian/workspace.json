@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "4726153d83736a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/react/Компоненты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Компоненты"
+            }
+          },
+          {
+            "id": "7951d61e4949dec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/React рендерит ваши компоненты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React рендерит ваши компоненты"
+            }
+          },
+          {
             "id": "5a919e36395172aa",
             "type": "leaf",
             "state": {
@@ -36,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,14 +219,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a919e36395172aa",
+  "active": "7951d61e4949dec0",
   "lastOpenFiles": [
     "Zettlecasten/Render и Commit.md",
+    "Zettlecasten/react/Компоненты.md",
+    "Zettlecasten/useState.md",
+    "Чистые функции.md",
     "Zettlecasten/Чистым вычислением.md",
     "Zettlecasten/React рендерит ваши компоненты.md",
     "Zettlecasten/Запуск рендеринга.md",
-    "Zettlecasten/useState.md",
-    "Zettlecasten/react/Компоненты.md",
     "Zettlecasten/react/Обработчики событий JSX.md",
     "Zettlecasten/react/Побочные эффекты.md",
     "daily/2025-02-21.md",
@@ -206,7 +235,6 @@
     "Zettlecasten/javaScript/Объект location.md",
     "Zettlecasten/Хуки.md",
     "Zettlecasten/react/Остановка распространения в React.md",
-    "Чистые функции.md",
     "Zettlecasten/сеть/get-параметры.md",
     "Zettlecasten/Реализации/Реализация star-rating.md",
     "Zettlecasten/react/Props.md",
