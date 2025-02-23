@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cce82a2dd7a90c52",
+  "active": "7951d61e4949dec0",
   "lastOpenFiles": [
     "Zettlecasten/React фиксирует изменения в DOM.md",
     "Zettlecasten/Render и Commit.md",
