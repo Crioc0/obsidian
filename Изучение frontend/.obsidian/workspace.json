@@ -306,7 +306,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "собы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,7 +327,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -429,7 +430,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5124abb7dcf47e31",
+  "active": "d581ff012d771b1f",
   "lastOpenFiles": [
     "Чистые функции.md",
     "daily/2025-02-21.md",
