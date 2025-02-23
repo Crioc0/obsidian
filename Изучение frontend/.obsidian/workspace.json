@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Чистые функции.md",
+                "file": "Чистые функции.md",
                 "mode": "source",
                 "source": false
               },
@@ -429,13 +429,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eedc6f559c436eb",
+  "active": "5124abb7dcf47e31",
   "lastOpenFiles": [
+    "Чистые функции.md",
     "daily/2025-02-21.md",
     "Zettlecasten/сеть/get-параметры.md",
     "Zettlecasten/Реализации/Реализация star-rating.md",
     "Zettlecasten/react/Props.md",
-    "Zettlecasten/Чистые функции.md",
     "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
     "Zettlecasten/react/Роутинг библиотека react-router.md",
     "Zettlecasten/javaScript/Событие popstate.md",
