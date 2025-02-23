@@ -279,7 +279,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Обработчики событий JSX.md",
+                "file": "Zettlecasten/react/Обработчики событий JSX.md",
                 "mode": "source",
                 "source": false
               },
@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Остановка распространения в React.md",
+                "file": "Zettlecasten/react/Компоненты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Остановка распространения в React"
+              "title": "Компоненты"
             }
           }
         ],
@@ -459,8 +459,8 @@
   },
   "active": "0c4fe3c20649e357",
   "lastOpenFiles": [
-    "Zettlecasten/Остановка распространения в React.md",
-    "Zettlecasten/Обработчики событий JSX.md",
+    "Zettlecasten/react/Остановка распространения в React.md",
+    "Zettlecasten/react/Обработчики событий JSX.md",
     "Zettlecasten/react/Побочные эффекты.md",
     "Чистые функции.md",
     "daily/2025-02-21.md",
