@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/useState.md",
+                "file": "Zettlecasten/useState(состояние).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useState"
+              "title": "useState(состояние)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Render и Commit.md",
+                "file": "Zettlecasten/useState(состояние).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Render и Commit"
+              "title": "useState(состояние)"
             }
           },
           {
@@ -235,11 +235,11 @@
   },
   "active": "7951d61e4949dec0",
   "lastOpenFiles": [
-    "Zettlecasten/React фиксирует изменения в DOM.md",
-    "Zettlecasten/Render и Commit.md",
-    "Zettlecasten/React рендерит ваши компоненты.md",
     "Zettlecasten/react/Компоненты.md",
-    "Zettlecasten/useState.md",
+    "Zettlecasten/Render и Commit.md",
+    "Zettlecasten/React фиксирует изменения в DOM.md",
+    "Zettlecasten/React рендерит ваши компоненты.md",
+    "Zettlecasten/useState(состояние).md",
     "Чистые функции.md",
     "Zettlecasten/Чистым вычислением.md",
     "Zettlecasten/Запуск рендеринга.md",
