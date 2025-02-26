@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/useState(состояние).md",
+                "file": "Zettlecasten/Принципы структурирования состояния.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useState(состояние)"
+              "title": "Принципы структурирования состояния"
             }
           },
           {
@@ -292,8 +292,9 @@
   },
   "active": "7c799abdc8ff7fa1",
   "lastOpenFiles": [
-    "Zettlecasten/Декларативный пользовательский интерфейс.md",
     "Zettlecasten/useState(состояние).md",
+    "Zettlecasten/Принципы структурирования состояния.md",
+    "Zettlecasten/Декларативный пользовательский интерфейс.md",
     "Zettlecasten/react/Иммутабельность Props.md",
     "Zettlecasten/Обновление объектов внутри массивов.md",
     "Zettlecasten/react/Без названия",
@@ -318,7 +319,6 @@
     "Zettlecasten/Реализации/Реализация star-rating.md",
     "Zettlecasten/react/Props.md",
     "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
-    "Zettlecasten/react/Роутинг библиотека react-router.md",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
     "Zettlecasten/сеть",
