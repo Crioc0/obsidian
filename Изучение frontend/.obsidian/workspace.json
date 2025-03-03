@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/useState(состояние).md",
+                "file": "daily/2025-03-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useState(состояние)"
+              "title": "2025-03-03"
             }
           },
           {
@@ -133,8 +133,7 @@
               "title": "Чистые функции"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +186,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,10 +288,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c799abdc8ff7fa1",
+  "active": "08e4cac2fb338fc8",
   "lastOpenFiles": [
-    "Zettlecasten/Совместное использование состояний между компонентами.md",
+    "daily/2025-03-03.md",
     "Zettlecasten/useState(состояние).md",
+    "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
+    "Zettlecasten/Совместное использование состояний между компонентами.md",
     "Zettlecasten/Принципы структурирования состояния.md",
     "Zettlecasten/Декларативный пользовательский интерфейс.md",
     "Zettlecasten/react/Иммутабельность Props.md",
@@ -317,8 +317,6 @@
     "Zettlecasten/Хуки.md",
     "Zettlecasten/react/Остановка распространения в React.md",
     "Zettlecasten/сеть/get-параметры.md",
-    "Zettlecasten/Реализации/Реализация star-rating.md",
-    "Zettlecasten/react/Props.md",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
     "Zettlecasten/сеть",
