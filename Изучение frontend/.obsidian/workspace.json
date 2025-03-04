@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "URLSe",
+                "query": "memo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,7 +289,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08e4cac2fb338fc8",
+  "active": "d581ff012d771b1f",
   "lastOpenFiles": [
     "daily/2025-03-04.md",
     "Zettlecasten/react/useMemo.md",
