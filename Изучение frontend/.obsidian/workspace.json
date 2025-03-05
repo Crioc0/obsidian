@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/react/useCallback.md",
+                "file": "Zettlecasten/useState(состояние).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useCallback"
+              "title": "useState(состояние)"
             }
           },
           {
@@ -288,10 +288,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08e4cac2fb338fc8",
+  "active": "5124abb7dcf47e31",
   "lastOpenFiles": [
-    "Zettlecasten/react/useMemo.md",
     "Zettlecasten/react/useCallback.md",
+    "Zettlecasten/react/useMemo.md",
     "daily/2025-03-04.md",
     "Zettlecasten/react/Мемоизация.md",
     "daily/2025-03-03.md",
