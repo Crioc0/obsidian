@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,13 +292,14 @@
   "active": "08e4cac2fb338fc8",
   "lastOpenFiles": [
     "daily/2025-03-05.md",
+    "daily/2025-03-04.md",
+    "daily/2025-03-03.md",
+    "daily/2025-02-21.md",
     "Zettlecasten/Codesplitting.md",
     "Zettlecasten/useState(состояние).md",
     "Zettlecasten/react/useCallback.md",
     "Zettlecasten/react/useMemo.md",
-    "daily/2025-03-04.md",
     "Zettlecasten/react/Мемоизация.md",
-    "daily/2025-03-03.md",
     "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
     "Zettlecasten/Совместное использование состояний между компонентами.md",
     "Zettlecasten/Принципы структурирования состояния.md",
@@ -316,7 +318,6 @@
     "Zettlecasten/Чистым вычислением.md",
     "Zettlecasten/Запуск рендеринга.md",
     "Zettlecasten/react/Обработчики событий JSX.md",
-    "Zettlecasten/react/Побочные эффекты.md",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
     "Zettlecasten/сеть",
