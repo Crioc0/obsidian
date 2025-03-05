@@ -25,10 +25,14 @@
             "id": "b95d5c320ab43583",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/lazyLoading React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lazyLoading React"
             }
           },
           {
@@ -176,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "загру",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,11 +201,13 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
