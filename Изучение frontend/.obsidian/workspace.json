@@ -147,12 +147,14 @@
             "id": "6f4b4b73676bb2b9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Zettlecasten/lazyLoading React.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "lazyLoading React"
             }
           }
         ],
@@ -188,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "загру",
+                "query": "lazy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +211,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
