@@ -142,9 +142,21 @@
               "icon": "lucide-file",
               "title": "Чистые функции"
             }
+          },
+          {
+            "id": "6f4b4b73676bb2b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -197,8 +209,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,7 +311,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b95d5c320ab43583",
+  "active": "6f4b4b73676bb2b9",
   "lastOpenFiles": [
     "Zettlecasten/Механизмы ускорения работы.md",
     "Zettlecasten/lazyLoading React.md",

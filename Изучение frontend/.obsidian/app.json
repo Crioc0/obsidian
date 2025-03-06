@@ -1,6 +1,7 @@
 {
   "userIgnoreFilters": [
-    "templates/"
+    "templates/",
+    "daily/"
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettlecasten",
