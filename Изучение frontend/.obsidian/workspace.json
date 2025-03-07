@@ -176,56 +176,10 @@
   "left": {
     "id": "2ad2727dd4971ecc",
     "type": "split",
-    "children": [
-      {
-        "id": "71b12f5124ff6987",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5124abb7dcf47e31",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
-            }
-          },
-          {
-            "id": "d581ff012d771b1f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Поиск"
-            }
-          },
-          {
-            "id": "c9117ccae941d2db",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
