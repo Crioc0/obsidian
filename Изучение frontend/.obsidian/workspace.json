@@ -159,12 +159,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/JavaScript движок.md",
+                "file": "daily/2025-03-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript движок"
+              "title": "2025-03-07"
             }
           }
         ],
@@ -325,6 +325,7 @@
   },
   "active": "af5b528f749f8719",
   "lastOpenFiles": [
+    "daily/2025-03-07.md",
     "Zettlecasten/JavaScript движок.md",
     "Без названия.canvas",
     "Zettlecasten/react/useCallback.md",
@@ -352,7 +353,6 @@
     "Zettlecasten/Render и Commit.md",
     "Zettlecasten/React фиксирует изменения в DOM.md",
     "Zettlecasten/React рендерит ваши компоненты.md",
-    "Чистые функции.md",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
     "Zettlecasten/сеть",
