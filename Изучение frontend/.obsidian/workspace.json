@@ -216,8 +216,7 @@
               "title": "Паттерны проектирования приложения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,11 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e721d7a13d549f6f",
+  "active": "3efd61b5af34f818",
   "lastOpenFiles": [
-    "Zettlecasten/5 паттернов react-компонентов.md",
-    "Zettlecasten/FSD- Feature-Sliced design.md",
     "Zettlecasten/Паттерны проектирования приложения.md",
+    "Zettlecasten/FSD- Feature-Sliced design.md",
+    "Zettlecasten/5 паттернов react-компонентов.md",
     "daily/2025-03-07.md",
     "Zettlecasten/JavaScript движок.md",
     "Без названия.canvas",
