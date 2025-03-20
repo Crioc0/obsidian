@@ -3,4 +3,4 @@ Tags: #react #tanstack-qurey
 ###### Links: 
 1) [[Хуки]]
 # Заметка
-Чтобы применить хук useInfin
+Чтобы применить хук useInfiniteQuery, нужно передать querryKey, queryFn, initionalPageParam и 
