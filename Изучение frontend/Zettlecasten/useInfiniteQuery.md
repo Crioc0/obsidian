@@ -3,4 +3,4 @@ Tags: #react #tanstack-qurey
 ###### Links: 
 1) [[Хуки]]
 # Заметка
-Чтобы применить хук useInfiniteQuery, нужно передать querryKey, queryFn, initionalPageParam и 
+Чтобы применить хук useInfiniteQuery, нужно передать querryKey, queryFn, initionalPageParam и функцию getNextPageParam для перехода между страницами. Дата будет сохраняться между запросами. В queryFn не нужно явно передавать page
