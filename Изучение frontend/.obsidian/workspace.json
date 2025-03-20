@@ -194,12 +194,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 2.md",
+                "file": "Zettlecasten/useInfiniteQuery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "useInfiniteQuery"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tanstack-query",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -284,7 +284,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -304,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Без названия 2.md",
+                "file": "Zettlecasten/useInfiniteQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 2"
+              "title": "Обратные ссылки для useInfiniteQuery"
             }
           },
           {
@@ -323,12 +324,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Без названия 2.md",
+                "file": "Zettlecasten/useInfiniteQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия 2"
+              "title": "Исходящие ссылки из useInfiniteQuery"
             }
           },
           {
@@ -352,13 +353,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Без названия 2.md",
+                "file": "Zettlecasten/useInfiniteQuery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура useInfiniteQuery"
             }
           }
         ]
@@ -379,10 +380,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca4c4e4c2823464d",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "daily/2025-03-20.md",
-    "Zettlecasten/Без названия 2.md",
+    "Zettlecasten/useInfiniteQuery.md",
     "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия.md",
     "Zettlecasten/5 паттернов react-компонентов.md",
