@@ -173,12 +173,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Методы массивов, создающие копии самих себя.md",
+                "file": "Zettlecasten/Иммутабельные методы массивов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методы массивов, создающие копии самих себя"
+              "title": "Иммутабельные методы массивов"
             }
           }
         ],
@@ -397,7 +397,7 @@
   "active": "72dcbfd30eb5bc8a",
   "lastOpenFiles": [
     "daily/2025-03-07.md",
-    "Zettlecasten/Методы массивов, создающие копии самих себя.md",
+    "Zettlecasten/Иммутабельные методы массивов.md",
     "daily/2025-03-20.md",
     "Zettlecasten/useInfiniteQuery.md",
     "Zettlecasten/Без названия 1.md",
