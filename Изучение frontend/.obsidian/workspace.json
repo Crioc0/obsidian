@@ -168,17 +168,17 @@
             }
           },
           {
-            "id": "72dcbfd30eb5bc8a",
+            "id": "c8aaef57a259bf91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zetttlecasten.md",
+                "file": "Zettlecasten/spread и rest в Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zetttlecasten"
+              "title": "spread и rest в Javascript"
             }
           }
         ],
@@ -332,8 +332,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72dcbfd30eb5bc8a",
+  "active": "c8aaef57a259bf91",
   "lastOpenFiles": [
+    "daily/2025-03-07.md",
+    "Zettlecasten/spread и rest в Javascript.md",
+    "templates/Zetttlecasten.md",
     "Zettlecasten/Web Sockets.md",
     "Zettlecasten/SSE.md",
     "Zettlecasten/EventLoop.md",
@@ -342,14 +345,12 @@
     "daily/2025-06-10.md",
     "Zettlecasten/Service Worker.md",
     "daily/2025-03-20.md",
-    "templates/Zetttlecasten.md",
     "Zettlecasten/Иммутабельные методы массивов.md",
     "Без названия 1.canvas",
     "Zettlecasten/Без названия 2.md",
     "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 3.md",
     "Zettlecasten/useInfiniteQuery.md",
-    "daily/2025-03-07.md",
     "Zettlecasten/5 паттернов react-компонентов.md",
     "Zettlecasten/Паттерны проектирования приложения.md",
     "Zettlecasten/FSD- Feature-Sliced design.md",
@@ -361,7 +362,6 @@
     "Zettlecasten/Механизмы ускорения работы.md",
     "Zettlecasten/Codesplitting.md",
     "daily/2025-03-05.md",
-    "daily/2025-03-04.md",
     "Zettlecasten/react/Без названия",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
