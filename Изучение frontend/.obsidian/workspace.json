@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -359,11 +359,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35ba6b555cbc9ac3",
+  "active": "2c61332b303389bb",
   "lastOpenFiles": [
+    "Zettlecasten/Service Worker.md",
     "Zettlecasten/SSE.md",
     "Zettlecasten/Web Sockets.md",
-    "Zettlecasten/Service Worker.md",
     "templates/Zetttlecasten.md",
     "Zettlecasten/Иммутабельные методы массивов.md",
     "Zettlecasten/Без названия 2.md",
