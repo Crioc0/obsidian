@@ -1,5 +1,5 @@
 2025 06 1020 38
-Tags: []
+Tags: #javaScript 
 ###### Links: 
 1) 
 # Заметка
