@@ -3,3 +3,4 @@ Tags: #javaScript
 ###### Links: 
 1) [[SSE]]
 
+Web-sokets - это протокол связи, который создает 
