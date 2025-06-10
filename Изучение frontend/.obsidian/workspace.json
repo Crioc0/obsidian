@@ -270,7 +270,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "tag:#javaScript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,7 +291,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
