@@ -173,26 +173,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Иммутабельные методы массивов.md",
+                "file": "templates/Zetttlecasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Иммутабельные методы массивов"
-            }
-          },
-          {
-            "id": "35ba6b555cbc9ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Service Worker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Service Worker"
+              "title": "Zetttlecasten"
             }
           },
           {
@@ -210,21 +196,21 @@
             }
           },
           {
-            "id": "8b748e2e816df0e5",
+            "id": "ac62b577b1028997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/EventLoop.md",
+                "file": "daily/2025-06-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EventLoop"
+              "title": "2025-06-10"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -277,8 +263,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -373,19 +358,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b748e2e816df0e5",
+  "active": "ac62b577b1028997",
   "lastOpenFiles": [
     "Zettlecasten/SSE.md",
-    "Zettlecasten/EventLoop.md",
     "Zettlecasten/Service Worker.md",
-    "Zettlecasten/Web Sockets.md",
+    "daily/2025-06-10.md",
+    "daily/2025-03-20.md",
     "templates/Zetttlecasten.md",
     "Zettlecasten/Иммутабельные методы массивов.md",
+    "Без названия 1.canvas",
+    "Zettlecasten/EventLoop.md",
+    "Zettlecasten/Web Sockets.md",
     "Zettlecasten/Без названия 2.md",
     "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 3.md",
-    "daily/2025-06-10.md",
-    "daily/2025-03-20.md",
     "Zettlecasten/useInfiniteQuery.md",
     "daily/2025-03-07.md",
     "Zettlecasten/5 паттернов react-компонентов.md",
@@ -401,7 +387,6 @@
     "daily/2025-03-05.md",
     "daily/2025-03-04.md",
     "daily/2025-03-03.md",
-    "daily/2025-02-21.md",
     "Zettlecasten/react/Без названия",
     "Zettlecasten/Реализации",
     "Zettlecasten/Релизации",
