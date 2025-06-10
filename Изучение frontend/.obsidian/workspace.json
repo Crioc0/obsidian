@@ -187,12 +187,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия.md",
+                "file": "Zettlecasten/SSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "SSE"
             }
           }
         ],
@@ -347,7 +347,7 @@
   "active": "35ba6b555cbc9ac3",
   "lastOpenFiles": [
     "Zettlecasten/Иммутабельные методы массивов.md",
-    "Zettlecasten/Без названия.md",
+    "Zettlecasten/SSE.md",
     "Zettlecasten/Без названия 2.md",
     "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 3.md",
