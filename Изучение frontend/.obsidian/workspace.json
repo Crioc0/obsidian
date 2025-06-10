@@ -187,12 +187,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Web Sockets.md",
+                "file": "Zettlecasten/Service Worker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Sockets"
+              "title": "Service Worker"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tanstack-query",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,7 +263,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -361,8 +362,8 @@
   "active": "35ba6b555cbc9ac3",
   "lastOpenFiles": [
     "Zettlecasten/SSE.md",
-    "Zettlecasten/Service Worker.md",
     "Zettlecasten/Web Sockets.md",
+    "Zettlecasten/Service Worker.md",
     "templates/Zetttlecasten.md",
     "Zettlecasten/Иммутабельные методы массивов.md",
     "Zettlecasten/Без названия 2.md",
