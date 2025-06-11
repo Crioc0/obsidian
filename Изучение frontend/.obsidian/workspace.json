@@ -183,12 +183,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/SSE.md",
+                "file": "Zettlecasten/Service Worker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSE"
+              "title": "Service Worker"
             }
           }
         ],
@@ -344,9 +344,9 @@
   },
   "active": "1171fc6f0413a031",
   "lastOpenFiles": [
-    "Zettlecasten/Web Sockets.md",
-    "Zettlecasten/SSE.md",
     "Zettlecasten/Web workers.md",
+    "Zettlecasten/SSE.md",
+    "Zettlecasten/Web Sockets.md",
     "Zettlecasten/Service Worker.md",
     "Zettlecasten/spread и rest в Javascript.md",
     "daily/2025-03-07.md",
