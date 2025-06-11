@@ -245,8 +245,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -341,7 +340,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1171fc6f0413a031",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "Zettlecasten/SSE.md",
     "Zettlecasten/Web Sockets.md",
