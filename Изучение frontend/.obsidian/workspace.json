@@ -183,12 +183,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Web Sockets.md",
+                "file": "Zettlecasten/SSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Sockets"
+              "title": "SSE"
             }
           }
         ],
@@ -344,13 +344,13 @@
   },
   "active": "1171fc6f0413a031",
   "lastOpenFiles": [
+    "Zettlecasten/Web Sockets.md",
+    "Zettlecasten/SSE.md",
     "Zettlecasten/Web workers.md",
     "Zettlecasten/Service Worker.md",
-    "Zettlecasten/Web Sockets.md",
     "Zettlecasten/spread и rest в Javascript.md",
     "daily/2025-03-07.md",
     "templates/Zetttlecasten.md",
-    "Zettlecasten/SSE.md",
     "Zettlecasten/EventLoop.md",
     "Zettlecasten/fetch.md",
     "Zettlecasten/Работа браузера.md",
