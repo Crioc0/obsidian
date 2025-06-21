@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 1.md",
+                "file": "Zettlecasten/Основы реактивности.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
+              "title": "Основы реактивности"
             }
           }
         ],
@@ -243,7 +243,7 @@
   "active": "d5b0d3efa5d0e20f",
   "lastOpenFiles": [
     "Zettlecasten/Создание vue приложения.md",
-    "Zettlecasten/Без названия 1.md",
+    "Zettlecasten/Основы реактивности.md",
     "Zettlecasten/Без названия.md",
     "Zettlecasten/Директивы в Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
