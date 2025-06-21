@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия.md",
+                "file": "Zettlecasten/Создание vue приложения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Создание vue приложения"
             }
           }
         ],
@@ -202,7 +202,7 @@
   "active": "f1a85c467fa775c8",
   "lastOpenFiles": [
     "Zettlecasten/Composition API.md",
-    "Zettlecasten/Без названия.md",
+    "Zettlecasten/Создание vue приложения.md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Codesplitting.md",
     "Zettlecasten/useEffect.md",
