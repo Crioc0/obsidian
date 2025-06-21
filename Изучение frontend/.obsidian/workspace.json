@@ -55,44 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Синтаксис шаблонов в Vue.md",
+                "file": "Zettlecasten/Сырой HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Синтаксис шаблонов в Vue"
-            }
-          },
-          {
-            "id": "b9910f3f45812ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Текстовые интерполяции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Текстовые интерполяции"
-            }
-          },
-          {
-            "id": "1d6536369103abff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Текстовые интерполяции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Текстовые интерполяции"
+              "title": "Сырой HTML"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d6536369103abff",
+  "active": "19c3dd7bfe19ac87",
   "lastOpenFiles": [
-    "Zettlecasten/Текстовые интерполяции.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
+    "Zettlecasten/Сырой HTML.md",
+    "Zettlecasten/Текстовые интерполяции.md",
     "Zettlecasten/Создание vue приложения.md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/Option API.md",
@@ -269,7 +242,6 @@
     "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 3.md",
     "Zettlecasten/useInfiniteQuery.md",
-    "Zettlecasten/5 паттернов react-компонентов.md",
     "Без названия.canvas",
     "Zettlecasten/react/Без названия",
     "Zettlecasten/Реализации",
