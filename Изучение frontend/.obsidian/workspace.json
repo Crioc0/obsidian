@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/Использование JS-выражений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Атрибуты"
+              "title": "Использование JS-выражений"
             }
           }
         ],
@@ -215,6 +215,7 @@
   "active": "19c3dd7bfe19ac87",
   "lastOpenFiles": [
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
+    "Zettlecasten/Использование JS-выражений.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Сырой HTML.md",
     "Zettlecasten/Создание vue приложения.md",
@@ -240,7 +241,6 @@
     "Zettlecasten/Иммутабельные методы массивов.md",
     "Без названия 1.canvas",
     "Zettlecasten/Без названия 2.md",
-    "Zettlecasten/Без названия 1.md",
     "Без названия.canvas",
     "Zettlecasten/react/Без названия",
     "Zettlecasten/Реализации",
