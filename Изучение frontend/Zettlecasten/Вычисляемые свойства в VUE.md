@@ -53,5 +53,20 @@ const fullName = computed({
 ```
 С версии 3.4 можно получить предыдущее значение возвращенное вычисляемым свойством, обратившись к первому аргументу геттера
 ```js
+<script setup>
+import { ref, computed } from 'vue'
 
+const count = ref(2)
+
+// Это вычисление вернет значение count, если оно меньше или равно 3.
+// Если count >=4, вместо него будет возвращено последнее значение, выполнившее наше условие,
+// пока count не станет меньше или равно 3.
+const alwaysSmall = computed((previous) => {
+  if (count.value <= 3) {
+    return count.value
+  }
+
+  return previous
+})
+</script>
 ```
