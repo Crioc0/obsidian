@@ -28,4 +28,5 @@ const publishedBooksMessage = computed(() => {
   <span>{{ publishedBooksMessage }}</span>
 </template>
 ```
-Функция computed() ожидает передачу функции-геттера 
+Функция computed() ожидает передачу функции-геттера и возращет значение в виде ref вычисляемого свойтства.
+Того же резаультата можно добиться 
