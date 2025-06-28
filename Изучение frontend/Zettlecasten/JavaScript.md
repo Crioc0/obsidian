@@ -10,3 +10,7 @@
 [[spread и rest в Javascript]]
 [[SSE]]
 [[JavaScript движок]]
+[[Объект history]]
+[[Объект window]]
+[[Объект location]]
+[[Конструктор URLSearchParam]]
