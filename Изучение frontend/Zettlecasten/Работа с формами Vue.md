@@ -119,3 +119,12 @@ const options = ref([
   <option value="abc">ABC</option>
 </select>
 ```
+Но иногда может потребоваться привязать значение к динамическому свойству текущего активного экземпляра. Для этого можно использовать `v-bind`
+### Чекбокс
+```js
+<input
+  type="checkbox"
+  v-model="toggle"
+  true-value="да"
+  false-value="нет" />
+```
