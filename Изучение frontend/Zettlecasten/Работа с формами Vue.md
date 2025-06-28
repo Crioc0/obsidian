@@ -128,3 +128,16 @@ const options = ref([
   true-value="да"
   false-value="нет" />
 ```
+### Радиокнопки
+```js
+<input type="radio" v-model="pick" :value="first" />
+<input type="radio" v-model="pick" :value="second" />
+```
+### Выпадающие списки
+```js
+<select v-model="selected">
+  <!-- инлайновый объект с данными -->
+  <option :value="{ number: 123 }">123</option>
+</select>
+```
+Директива `v-model` поддерживает привязку и нестроковых значений! В примере выше, когда опция выбрана, значение `selected` будет объектом `{ number: 123 }`.
