@@ -54,3 +54,28 @@ const checkedNames = ref([])
 <input type="checkbox" id="mike" value="Mike" v-model="checkedNames" />
 <label for="mike">Mike</label>
 ```
+### Радиокнопки
+```js
+<div>Выбрано: {{ picked }}</div>
+
+<input type="radio" id="one" value="Один" v-model="picked" />
+<label for="one">Один</label>
+
+<input type="radio" id="two" value="Два" v-model="picked" />
+<label for="two">Два</label>
+```
+
+### Выпадающие списки
+```js
+<div>Выбрано: {{ selected }}</div>
+
+<select v-model="selected">
+  <option disabled value="">Выберите один из вариантов</option>
+  <option>А</option>
+  <option>Б</option>
+  <option>В</option>
+</select>
+```
+Выбор нескольких вариантов из списка (с привязкой к массиву):
+```
+```
