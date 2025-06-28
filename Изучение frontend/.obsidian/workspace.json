@@ -174,9 +174,37 @@
               "icon": "lucide-file",
               "title": "Работа с формами Vue"
             }
+          },
+          {
+            "id": "b7fc145d8d610dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Текстовые интерполяции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Текстовые интерполяции"
+            }
+          },
+          {
+            "id": "5f2b603ff751a4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Наблюдатели.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Наблюдатели"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -208,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Работ",
+                "query": "Побоч",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -335,8 +363,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a5cd06dcdff191f",
+  "active": "5f2b603ff751a4ee",
   "lastOpenFiles": [
+    "Чистые функции.md",
+    "Zettlecasten/Текстовые интерполяции.md",
+    "Zettlecasten/Работа с формами Vue.md",
+    "Zettlecasten/Обработка событий.md",
+    "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/сеть/get-параметры.md",
     "Zettlecasten/useInfiniteQuery.md",
     "Zettlecasten/useEffect.md",
@@ -357,12 +390,7 @@
     "Zettlecasten/Декларативный пользовательский интерфейс.md",
     "Zettlecasten/5 паттернов react-компонентов.md",
     "Zettlecasten/react/Мемоизация.md",
-    "Zettlecasten/Работа с формами Vue.md",
-    "Zettlecasten/Обработка событий.md",
     "Zettlecasten/Отслеживание изменений в массивах.md",
-    "Zettlecasten/Отрисовка списков.md",
-    "Zettlecasten/Условный рендеринг.md",
-    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/react/Без названия",
