@@ -21,4 +21,22 @@ const hasError = ref(false)
 ></div>
 ```
 Так как это рефы, класс ,будут динамически меняться
-Также можно использовать [[Вычисляемые свойства в VUE | Вычисляемые свойства]], кото
+Также можно использовать [[Вычисляемые свойства в VUE | Вычисляемые свойства]], который возвращает итоговый объект
+```js
+const isActive = ref(true)
+const error = ref(null)
+
+const classObject = computed(() => ({
+  active: isActive.value && !error.value,
+  'text-danger': error.value && error.value.type === 'fatal'
+}))
+<div :class="classObject"></div>
+```
+## Синтаксис массивов
+Можно передать список классов массивом.
+```js
+const activeClass = ref('active')
+const errorClass = ref('text-danger')
+
+<div :class="[activeClass, errorClass]"></div>
+```

@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "r",
+                "query": "rpath:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
