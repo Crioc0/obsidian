@@ -19,3 +19,10 @@ Tags: #vue
 - Элементы `<input>` с текстовым типом и `<textarea>` используют свойство `value` и событие `input`;
 - Элементы `<input type="checkbox">` и `<input type="radio">` используют свойство `checked` и событие `change`;
 - Элементы `<select>` используют свойство `value` и событие `change`.
+
+## Обычное использование
+Текст
+```js
+<p>Сообщение: {{ message }}</p>
+<input v-model="message" placeholder="отредактируй меня" />
+```
