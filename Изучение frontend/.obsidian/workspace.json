@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Работа со стилями в Vue.md",
+                "file": "Zettlecasten/Директивы в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа со стилями в Vue"
+              "title": "Директивы в Vue"
             }
           }
         ],
@@ -269,10 +269,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "84a7937b72da250a",
   "lastOpenFiles": [
-    "Zettlecasten/Вычисляемые свойства в VUE.md",
     "Zettlecasten/Работа со стилями в Vue.md",
+    "Zettlecasten/Вычисляемые свойства в VUE.md",
     "Zettlecasten/Основы реактивности.md",
     "Zettlecasten/Создание vue приложения.md",
     "Zettlecasten/Без названия.md",
