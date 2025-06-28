@@ -96,4 +96,12 @@ const options = ref([
   { text: 'Два', value: 'B' },
   { text: 'Три', value: 'C' }
 ])
+
+<select v-model="selected">
+  <option v-for="option in options" :value="option.value">
+    {{ option.text }}
+  </option>
+</select>
+
+<div>Выбрано: {{ selected }}</div>
 ```
