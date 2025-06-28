@@ -105,3 +105,17 @@ const options = ref([
 
 <div>Выбрано: {{ selected }}</div>
 ```
+## Привязка значений
+Для радиокнопок и выпадающих списков в качестве привязываемых значений `v-model` обычно будут статические строки (или булевые значения для чекбокса):
+```js
+<!-- `picked` будет строкой "a" при выборе -->
+<input type="radio" v-model="picked" value="a" />
+
+<!-- `toggle` может принимать значение true или false -->
+<input type="checkbox" v-model="toggle" />
+
+<!-- `selected` будет строкой "abc" при выборе первого пункта -->
+<select v-model="selected">
+  <option value="abc">ABC</option>
+</select>
+```
