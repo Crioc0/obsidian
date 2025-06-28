@@ -63,4 +63,11 @@ const errorClass = ref('text-danger')
 ```
 
 ## Привязка inline-стилей
-Объектный синтаксис для `:style` выглядит почти как для CSS, за исключением того, что это объект JavaScript и соответствует [свойству `style` элемента HTML](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style):
+Объектный синтаксис для `:style` выглядит почти как для CSS, за исключением того, что это объект JavaScript и соответствует свойству style элемента javascript
+```js
+const activeColor = ref('red')
+const fontSize = ref(30)
+
+<div :style="{ color: activeColor, fontSize: fontSize + 'px' }"></div>
+```
+Хотя рекомендуется использовать ключи в camelCase, `:style` также поддерживает ключи CSS-свойств в kebab-case (соответствует тому, как они используются в реальном CSS) — например:
