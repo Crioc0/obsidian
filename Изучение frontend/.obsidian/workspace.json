@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Отрисовка списков.md",
+                "file": "Zettlecasten/Условный рендеринг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отрисовка списков"
+              "title": "Условный рендеринг"
             }
           }
         ],
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -299,13 +300,13 @@
   },
   "active": "b7fc145d8d610dee",
   "lastOpenFiles": [
-    "Zettlecasten/Условный рендеринг.md",
+    "Zettlecasten/Создание vue приложения.md",
     "Zettlecasten/Отрисовка списков.md",
+    "Zettlecasten/Условный рендеринг.md",
     "Zettlecasten/Директивы в Vue.md",
     "Zettlecasten/Работа со стилями в Vue.md",
     "Zettlecasten/Вычисляемые свойства в VUE.md",
     "Zettlecasten/Основы реактивности.md",
-    "Zettlecasten/Создание vue приложения.md",
     "Zettlecasten/Без названия.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Использование JS-выражений.md",
