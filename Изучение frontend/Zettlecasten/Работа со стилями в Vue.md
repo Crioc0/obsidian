@@ -10,3 +10,13 @@ Tags: #vue
 ```js
 <div :class="{ active: isActive }"></div>
 ```
+Также можно использовать вместе с обычным атрибутом class, и управлять несколькими классами
+```js
+const isActive = ref(true)
+const hasError = ref(false)
+
+<div
+  class="static"
+  :class="{ active: isActive, 'text-danger': hasError }"
+></div>
+```
