@@ -20,3 +20,4 @@ const hasError = ref(false)
   :class="{ active: isActive, 'text-danger': hasError }"
 ></div>
 ```
+Так как это рефы, класс

@@ -152,8 +152,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#javaScript",
-                "matchingCase": false,
+                "query": "ref",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -173,7 +173,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,7 +269,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a7937b72da250a",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "Zettlecasten/Вычисляемые свойства в VUE.md",
     "Zettlecasten/Работа со стилями в Vue.md",
