@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rpath:",
+                "query": "@",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -270,7 +269,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a7937b72da250a",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "Zettlecasten/Вычисляемые свойства в VUE.md",
     "Zettlecasten/Работа со стилями в Vue.md",

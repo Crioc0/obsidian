@@ -71,3 +71,12 @@ const fontSize = ref(30)
 <div :style="{ color: activeColor, fontSize: fontSize + 'px' }"></div>
 ```
 Хотя рекомендуется использовать ключи в camelCase, `:style` также поддерживает ключи CSS-свойств в kebab-case (соответствует тому, как они используются в реальном CSS) — например:
+```js
+<div :style="{ 'font-size': fontSize + 'px' }"></div>
+```
+### Автоматические префиксы[​](https://ru.vuejs.org/guide/essentials/class-and-style.html#auto-prefixing)
+
+Если использовать CSS-свойство, которое требует [вендорного префикса](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix) в `:style`, Vue автоматически добавит соответствующий префикс. Во время выполнения будет проверять какие стилевые свойства поддерживаются в текущем браузере. Если определённое свойство не поддерживается браузером, то будут проверены различные варианты префиксов, чтобы попытаться найти тот, который поддерживается.
+```js
+<div :style="{ display: ['-webkit-box', '-ms-flexbox', 'flex'] }"></div>
+```
