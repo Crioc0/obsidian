@@ -230,19 +230,9 @@
               "icon": "lucide-file",
               "title": "Остановка наблюдателя"
             }
-          },
-          {
-            "id": "868833c0e570dbbc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -336,12 +326,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/useInfiniteQuery.md",
+                "file": "Zettlecasten/Остановка наблюдателя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из useInfiniteQuery"
+              "title": "Исходящие ссылки из Остановка наблюдателя"
             }
           },
           {
@@ -365,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/useInfiniteQuery.md",
+                "file": "Zettlecasten/Остановка наблюдателя.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура useInfiniteQuery"
+              "title": "Структура Остановка наблюдателя"
             }
           },
           {
@@ -385,7 +375,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -402,9 +392,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "868833c0e570dbbc",
+  "active": "5f9b562abe271f7e",
   "lastOpenFiles": [
     "Zettlecasten/Основы компонентов.md",
+    "Zettlecasten/Эффекты.md",
+    "Zettlecasten/useState(состояние).md",
+    "Без названия 1.canvas",
+    "Zettlecasten/React фиксирует изменения в DOM.md",
     "Zettlecasten/Хуки жизненного цикла.md",
     "lifecycle.BMeFqD-W.png",
     "Zettlecasten/Option API.md",
@@ -428,9 +422,6 @@
     "Zettlecasten/lazyLoading React.md",
     "Zettlecasten/FSD- Feature-Sliced design.md",
     "Zettlecasten/Codesplitting.md",
-    "Zettlecasten/Хуки.md",
-    "Zettlecasten/Совместное использование состояний между компонентами.md",
-    "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/react/Без названия",
     "Zettlecasten/Реализации",
