@@ -26,3 +26,31 @@ Tags: #vue
 <p>Сообщение: {{ message }}</p>
 <input v-model="message" placeholder="отредактируй меня" />
 ```
+
+### Многострочный текст
+```js
+<span>Многострочное сообщение:</span>
+<p style="white-space: pre-line;">{{ message }}</p>
+<textarea v-model="message" placeholder="введите несколько строчек"></textarea>
+```
+
+### Чекбоксы
+```js
+<input type="checkbox" id="checkbox" v-model="checked" />
+<label for="checkbox">{{ checked }}</label>
+```
+Список чекбоксов, привязанных к массиву или значениям [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set):
+```js
+const checkedNames = ref([])
+
+<div>Отмеченные имена: {{ checkedNames }}</div>
+
+<input type="checkbox" id="jack" value="Jack" v-model="checkedNames" />
+<label for="jack">Jack</label>
+
+<input type="checkbox" id="john" value="John" v-model="checkedNames" />
+<label for="john">John</label>
+
+<input type="checkbox" id="mike" value="Mike" v-model="checkedNames" />
+<label for="mike">Mike</label>
+```
