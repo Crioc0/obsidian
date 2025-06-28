@@ -202,6 +202,20 @@
               "icon": "lucide-file",
               "title": "Наблюдатели"
             }
+          },
+          {
+            "id": "d7f0c2b28a972fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Глубокие наблюдатели.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глубокие наблюдатели"
+            }
           }
         ],
         "currentTab": 13
@@ -365,11 +379,12 @@
   },
   "active": "5f2b603ff751a4ee",
   "lastOpenFiles": [
+    "Zettlecasten/Глубокие наблюдатели.md",
+    "Zettlecasten/Наблюдатели.md",
     "Чистые функции.md",
     "Zettlecasten/Текстовые интерполяции.md",
     "Zettlecasten/Работа с формами Vue.md",
     "Zettlecasten/Обработка событий.md",
-    "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/сеть/get-параметры.md",
     "Zettlecasten/useInfiniteQuery.md",
     "Zettlecasten/useEffect.md",
@@ -390,7 +405,6 @@
     "Zettlecasten/Декларативный пользовательский интерфейс.md",
     "Zettlecasten/5 паттернов react-компонентов.md",
     "Zettlecasten/react/Мемоизация.md",
-    "Zettlecasten/Отслеживание изменений в массивах.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/react/Без названия",
