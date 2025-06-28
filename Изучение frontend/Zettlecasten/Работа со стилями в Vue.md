@@ -61,3 +61,6 @@ const errorClass = ref('text-danger')
 <p class="baz">Привет</p>
 <span>Это дочерний компонент</span>
 ```
+
+## Привязка inline-стилей
+Объектный синтаксис для `:style` выглядит почти как для CSS, за исключением того, что это объект JavaScript и соответствует [свойству `style` элемента HTML](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style):
