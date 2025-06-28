@@ -77,5 +77,23 @@ const checkedNames = ref([])
 </select>
 ```
 Выбор нескольких вариантов из списка (с привязкой к массиву):
+```js
+<div>Выбраны: {{ selected }}</div>
+
+<select v-model="selected" multiple>
+  <option>А</option>
+  <option>Б</option>
+  <option>В</option>
+</select>
 ```
+
+Динамическое отображение списка опций с помощью `v-for`:
+```js
+const selected = ref('A')
+
+const options = ref([
+  { text: 'Один', value: 'A' },
+  { text: 'Два', value: 'B' },
+  { text: 'Три', value: 'C' }
+])
 ```
