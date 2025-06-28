@@ -9,3 +9,5 @@
 [[Хуки жизненного цикла]]
 [[Composition API]]
 [[Option API]]
+[[EventLoop]]
+[[fetch]]

@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -336,12 +336,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из JavaScript"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -365,13 +364,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура JavaScript"
+              "title": "Структура"
             }
           },
           {
@@ -402,12 +400,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f64869dba6feea45",
+  "active": "333b74a217d91ded",
   "lastOpenFiles": [
     "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Роутинг библиотека react-router.md",
+    "Zettlecasten/Vue.md",
     "Zettlecasten/Работа браузера.md",
     "Zettlecasten/Хуки жизненного цикла.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/Ссылки на элементы шаблона.md",
@@ -420,7 +419,6 @@
     "Zettlecasten/Основы реактивности.md",
     "Zettlecasten/Очередь обновления состояний.md",
     "Zettlecasten/SSE.md",
-    "Zettlecasten/Роутинг библиотека react-router.md",
     "Zettlecasten/Service Worker.md",
     "Zettlecasten/Запуск рендеринга.md",
     "Zettlecasten/Иммутабельные методы массивов.md",
