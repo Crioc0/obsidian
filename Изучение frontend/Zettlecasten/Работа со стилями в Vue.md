@@ -40,3 +40,7 @@ const errorClass = ref('text-danger')
 
 <div :class="[activeClass, errorClass]"></div>
 ```
+Переключать классы в массиве в заваис можно с помощью тернарного оператора
+```js
+<div :class="[isActive ? activeClass : '', errorClass]"></div>
+```
