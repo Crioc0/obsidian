@@ -221,10 +221,14 @@
             "id": "333b74a217d91ded",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Основы компонентов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы компонентов"
             }
           },
           {
@@ -242,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -336,12 +340,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Регистрация компонентов.md",
+                "file": "Zettlecasten/Основы компонентов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Регистрация компонентов"
+              "title": "Исходящие ссылки из Основы компонентов"
             }
           },
           {
@@ -401,7 +405,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123f4437bd72cb35",
+  "active": "333b74a217d91ded",
   "lastOpenFiles": [
     "Zettlecasten/Регистрация компонентов.md",
     "Zettlecasten/Паттерны проектирования приложения.md",
