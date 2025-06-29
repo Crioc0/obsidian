@@ -28,3 +28,27 @@ function update() {
 
 - Значение `.value` синхронизировано со значением, связанным с родительским `v-model`;
 - Когда оно изменяется дочерним элементом, это приводит к обновлению значения, связанного с родителем.
+
+реализация того же  дочернего компонента, который был показан выше до версии 3.4:
+```js
+<!-- Child.vue -->
+<script setup>
+const props = defineProps(['modelValue'])
+const emit = defineEmits(['update:modelValue'])
+</script>
+
+<template>
+  <input
+    :value="props.modelValue"
+    @input="emit('update:modelValue', $event.target.value)"
+  />
+</template>
+```
+Затем `v-model="foo"` в родительском компоненте будет скомпилирован в:
+```js
+<!-- Parent.vue -->
+<Child
+  :modelValue="foo"
+  @update:modelValue="$event => (foo = $event)"
+/>
+```
