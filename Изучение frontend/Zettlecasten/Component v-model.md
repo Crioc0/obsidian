@@ -168,3 +168,21 @@ defineEmits(['update:firstName', 'update:lastName'])
   />
 </template>
 ```
+## Работа с модификаторами `v-model`
+Когда мы изучали привязки ввода формы, мы видели, что `v-model` имеет [встроенные модификаторы](https://ru.vuejs.org/guide/essentials/forms.html#modifiers) - `.trim`, `.number` и `.lazy`. В некоторых случаях вам также может потребоваться, чтобы `v-model` в вашем компоненте ввода поддерживал пользовательские модификаторы.
+Давайте создадим пример пользовательского модификатора `capitalize`, который преобразует в верхний регистр первую букву строки, предоставленной привязкой `v-model`:
+```js
+<MyComponent v-model.capitalize="myText" />
+```
+Модификаторы, добавленные в компонент `v-model`, могут быть доступны в дочернем компоненте с помощью деструктуризации возвращаемого значения `defineModel()` следующим образом:
+```js
+<script setup>
+const [model, modifiers] = defineModel()
+
+console.log(modifiers) // { capitalize: true }
+</script>
+
+<template>
+  <input type="text" v-model="model" />
+</template>
+```
