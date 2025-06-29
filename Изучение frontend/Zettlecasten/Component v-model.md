@@ -186,3 +186,20 @@ console.log(modifiers) // { capitalize: true }
   <input type="text" v-model="model" />
 </template>
 ```
+Чтобы условно настроить чтение / запись значения на основе модификаторов, мы можем передать опции `get` и `set` в `defineModel()`. Эти две опции получают значение при получении / установке `ref` на модель и должны возвращать преобразованное значение. Вот как мы можем использовать `set` для реализации модификатора `capitalize`:
+```js
+<script setup>
+const [model, modifiers] = defineModel({
+  set(value) {
+    if (modifiers.capitalize) {
+      return value.charAt(0).toUpperCase() + value.slice(1)
+    }
+    return value
+  }
+})
+</script>
+
+<template>
+  <input type="text" v-model="model" />
+</template>
+```
