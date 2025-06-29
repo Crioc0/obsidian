@@ -60,3 +60,23 @@ const model = defineModel({ required: true })
 // установка значения по умолчанию
 const model = defineModel({ default: 0 })
 ```
+## Аргументы `v-model`
+`v-model` может принимать аргумент:
+```js
+<MyComponent v-model:title="bookTitle" />
+```
+В дочернем компоненте мы можем поддерживать соответствующий аргумент, передав строку в `defineModel()` в качестве его первого аргумента:
+```js
+<!-- MyComponent.vue -->
+<script setup>
+const title = defineModel('title')
+</script>
+
+<template>
+  <input type="text" v-model="title" />
+</template>
+```
+Если необходимо передать входные параметры, то их следует передавать после имени модели:
+```js
+const title = defineModel('title', { required: true })
+```
