@@ -39,3 +39,32 @@ function increaseCount(n) {
 }
 ```
 Все дополнительные аргументы, переданные в `$emit()` после имени события, будут переданы слушателю. Например, при `$emit('foo', 1, 2, 3)` функция обработчика события получит три аргумента.
+
+## Определение пользовательских событий
+События генерируемые компонентом можно объявить с помощью [`defineEmits()`](https://ru.vuejs.org/api/sfc-script-setup.html#defineprops-defineemits):
+```js
+<script setup>
+defineEmits(['inFocus', 'submit'])
+</script>
+```
+Метод `$emit`, который мы использовали в `<template>` недоступен в разделе `<script setup>` компонента, но `defineEmits()` возвращает эквивалентную функцию, которую мы можем использовать вместо него:
+```js
+<script setup>
+const emit = defineEmits(['inFocus', 'submit'])
+
+function buttonClick() {
+  emit('submit')
+}
+</script>
+```
+Опция `emits` также поддерживает синтаксис объекта, что позволяет нам выполнять проверку полезной нагрузки пользовательских событий во время выполнения:
+```js
+<script setup lang="ts">
+const emit = defineEmits({
+  submit(payload: { email: string, password: string }) {
+    // возвращает `true` или `false`, чтобы показать
+    // что проверка пройдена / не пройдена
+  }
+})
+</script>
+```
