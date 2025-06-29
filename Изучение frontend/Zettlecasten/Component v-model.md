@@ -52,3 +52,11 @@ const emit = defineEmits(['update:modelValue'])
   @update:modelValue="$event => (foo = $event)"
 />
 ```
+Поскольку `defineModel` объявляет входные параметры, вы можете также объявить входные параметры основного свойства, передав его в `defineModel`:
+```js
+// делает v-model обязательным
+const model = defineModel({ required: true })
+
+// установка значения по умолчанию
+const model = defineModel({ default: 0 })
+```
