@@ -11,3 +11,4 @@
 [[Option API]]
 [[EventLoop]]
 [[fetch]]
+[[Слоты]]

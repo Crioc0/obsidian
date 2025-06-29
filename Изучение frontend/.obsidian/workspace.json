@@ -218,6 +218,20 @@
             }
           },
           {
+            "id": "5c24f19febb9d5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Слоты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Слоты"
+            }
+          },
+          {
             "id": "333b74a217d91ded",
             "type": "leaf",
             "state": {
@@ -288,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -382,12 +396,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Передача обычных атрибутов в Vue.md",
+                "file": "Zettlecasten/Слоты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Передача обычных атрибутов в Vue"
+              "title": "Исходящие ссылки из Слоты"
             }
           },
           {
@@ -447,12 +461,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fad5612c141cdcf",
+  "active": "5c24f19febb9d5cc",
   "lastOpenFiles": [
+    "Zettlecasten/Слоты.md",
     "Zettlecasten/Vue.md",
-    "Zettlecasten/События в Vue.md",
     "Zettlecasten/Component v-model.md",
     "Zettlecasten/Передача обычных атрибутов в Vue.md",
+    "Zettlecasten/События в Vue.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Передача входных параметров.md",
     "Zettlecasten/Детали передачи входных параметров.md",
@@ -475,7 +490,6 @@
     "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/useState(состояние).md",
     "Без названия.canvas",
-    "Zettlecasten/Основы реактивности.md",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
     "Zettlecasten/react/Без названия",
