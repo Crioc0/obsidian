@@ -193,10 +193,14 @@
             "id": "f64869dba6feea45",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Provide и Inject.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Provide и Inject"
             }
           },
           {
@@ -406,11 +410,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlecasten/Provide и Inject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Provide и Inject"
             }
           },
           {
