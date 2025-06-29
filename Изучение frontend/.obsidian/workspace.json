@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-03-07.md",
+                "file": "Zettlecasten/Слоты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-07"
+              "title": "Слоты"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2025-03-07.md",
+                "file": "Zettlecasten/Слоты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2025-03-07"
+              "title": "Обратные ссылки для Слоты"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2025-03-07.md",
+                "file": "Zettlecasten/Слоты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 2025-03-07"
+              "title": "Исходящие ссылки из Слоты"
             }
           },
           {
@@ -161,11 +161,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +182,8 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Отрисовка списков.md",
+    "daily/2025-03-07.md",
     "Zettlecasten/Основы реактивности.md",
     "Zettlecasten/Слоты.md",
     "Zettlecasten/Vue.md",
@@ -205,8 +208,6 @@
     "Zettlecasten/Работа браузера.md",
     "Zettlecasten/Хуки жизненного цикла.md",
     "Zettlecasten/Option API.md",
-    "Zettlecasten/Composition API.md",
-    "Zettlecasten/Ссылки на элементы шаблона.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
