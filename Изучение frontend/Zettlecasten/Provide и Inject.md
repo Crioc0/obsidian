@@ -56,3 +56,42 @@ const value = inject('key', () => new ExpensiveClass(), true)
 Третий параметр указывает, что значение по умолчанию должно рассматриваться как фабричная функция.
 ## Работа с реактивностью
 При использовании реактивных значений provide / inject, **рекомендуется по возможности хранить любые мутации реактивного состояния внутри _провайдера_**. Это гарантирует, что предоставляемое состояние и его возможные мутации будут находиться в одном компоненте, что облегчает их поддержку в будущем.
+```js
+<!-- внутри компонента провайдер -->
+<script setup>
+import { provide, ref } from 'vue'
+
+const location = ref('North Pole')
+
+function updateLocation() {
+  location.value = 'South Pole'
+}
+
+provide('location', {
+  location,
+  updateLocation
+})
+</script>
+```
+
+```js
+<!-- в компоненте injector -->
+<script setup>
+import { inject } from 'vue'
+
+const { location, updateLocation } = inject('location')
+</script>
+
+<template>
+  <button @click="updateLocation">{{ location }}</button>
+</template>
+```
+Наконец, вы можете обернуть предоставленное значение с помощью [`readonly()`](https://ru.vuejs.org/api/reactivity-core.html#readonly), если хотите гарантировать, что данные, переданные через `provide`, не могут быть изменены инжектируемым компонентом.
+```js
+<script setup>
+import { ref, provide, readonly } from 'vue'
+
+const count = ref(0)
+provide('read-only-count', readonly(count))
+</script>
+```
