@@ -95,3 +95,24 @@ const count = ref(0)
 provide('read-only-count', readonly(count))
 </script>
 ```
+## Работа с символьными ключами
+До сих пор в примерах мы использовали ключи инъекции строк. Если вы работаете в большом приложении с большим количеством поставщиков зависимостей или создаете компоненты, которые будут использоваться другими разработчиками, лучше всего использовать ключи инъекции символов, чтобы избежать возможных коллизий.
+Рекомендуется экспортировать символы в отдельный файл:
+```js
+// keys.js
+export const myInjectionKey = Symbol()
+
+// в компоненте provider
+import { provide } from 'vue'
+import { myInjectionKey } from './keys.js'
+
+provide(myInjectionKey, {
+  /* данные для предоставления */
+})
+
+// в компоненте injector
+import { inject } from 'vue'
+import { myInjectionKey } from './keys.js'
+
+const injected = inject(myInjectionKey)
+```
