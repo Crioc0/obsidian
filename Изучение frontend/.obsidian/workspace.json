@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Основы реактивности.md",
+                "file": "Zettlecasten/Слоты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы реактивности"
+              "title": "Слоты"
             }
           },
           {
@@ -396,12 +396,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Основы реактивности.md",
+                "file": "Zettlecasten/Слоты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Основы реактивности"
+              "title": "Исходящие ссылки из Слоты"
             }
           },
           {
@@ -461,10 +461,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f2a5be34d118db",
+  "active": "f0042f80cd020efd",
   "lastOpenFiles": [
-    "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Vue.md",
+    "Zettlecasten/Основы реактивности.md",
+    "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Деструктурирование реактивных свойств.md",
     "Zettlecasten/Регистрация компонентов.md",
     "Zettlecasten/Provide и Inject.md",
@@ -488,7 +489,6 @@
     "Zettlecasten/Option API.md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/Ссылки на элементы шаблона.md",
-    "Zettlecasten/javaScript/Событие popstate.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
