@@ -19,3 +19,8 @@ function update() {
   <button @click="update">Увеличение</button>
 </template>
 ```
+Далее родитель может связать значение с помощью `v-model`:
+```js
+<!-- Parent.vue -->
+<Child v-model="countModel" />
+```
