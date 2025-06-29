@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Слоты.md",
+                "file": "Zettlecasten/Ссылки на элементы шаблона.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Слоты"
+              "title": "Ссылки на элементы шаблона"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Слоты.md",
+                "file": "Zettlecasten/Ссылки на элементы шаблона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Слоты"
+              "title": "Обратные ссылки для Ссылки на элементы шаблона"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Слоты.md",
+                "file": "Zettlecasten/Ссылки на элементы шаблона.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Слоты"
+              "title": "Исходящие ссылки из Ссылки на элементы шаблона"
             }
           },
           {
@@ -182,10 +182,10 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Слоты.md",
     "Zettlecasten/Отрисовка списков.md",
     "daily/2025-03-07.md",
     "Zettlecasten/Основы реактивности.md",
-    "Zettlecasten/Слоты.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Деструктурирование реактивных свойств.md",
