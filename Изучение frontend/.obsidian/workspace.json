@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Основы компонентов.md",
+                "file": "Zettlecasten/События в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы компонентов"
+              "title": "События в Vue"
             }
           },
           {
@@ -354,12 +354,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Основы компонентов.md",
+                "file": "Zettlecasten/События в Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Основы компонентов"
+              "title": "Исходящие ссылки из События в Vue"
             }
           },
           {
@@ -421,8 +421,9 @@
   },
   "active": "333b74a217d91ded",
   "lastOpenFiles": [
-    "Zettlecasten/Передача входных параметров.md",
     "Zettlecasten/Основы компонентов.md",
+    "Zettlecasten/События в Vue.md",
+    "Zettlecasten/Передача входных параметров.md",
     "Zettlecasten/Детали передачи входных параметров.md",
     "Zettlecasten/Передача деструктурированных свойств в функции.md",
     "Zettlecasten/Деструктурирование реактивных свойств.md",
@@ -447,7 +448,6 @@
     "Zettlecasten/Основы реактивности.md",
     "Zettlecasten/Очередь обновления состояний.md",
     "Zettlecasten/SSE.md",
-    "Zettlecasten/Service Worker.md",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
     "Zettlecasten/react/Без названия",
