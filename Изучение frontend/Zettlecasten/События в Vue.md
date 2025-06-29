@@ -68,3 +68,13 @@ const emit = defineEmits({
 })
 </script>
 ```
+Если вы используете TypeScript с `<script setup>`, можно также объявить генерируемые события с помощью чистых аннотаций типов:
+```js
+<script setup lang="ts">
+const emit = defineEmits<{
+  (e: 'change', id: number): void
+  (e: 'update', value: string): void
+}>()
+</script>
+```
+Если в опции `emits` определено собственное событие (например, `click`), слушатель теперь будет прослушивать только события `click`, генерируемые компонентом, и больше не будет реагировать на собственные события `click`.
