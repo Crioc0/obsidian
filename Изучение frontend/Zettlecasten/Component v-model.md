@@ -4,3 +4,18 @@ Tags: #vue
 1) [[Основы компонентов]]
 # Заметка
 `v-model` можно использовать в компоненте для реализации двустороннего связывания.
+```js
+<!-- Child.vue -->
+<script setup>
+const model = defineModel()
+
+function update() {
+  model.value++
+}
+</script>
+
+<template>
+  <div>Родительский связанный v-model - это: {{ model }}</div>
+  <button @click="update">Увеличение</button>
+</template>
+```
