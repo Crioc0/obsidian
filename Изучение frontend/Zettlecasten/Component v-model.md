@@ -80,3 +80,43 @@ const title = defineModel('title')
 ```js
 const title = defineModel('title', { required: true })
 ```
+Использование до версии 3.4
+```js
+<!-- MyComponent.vue -->
+<script setup>
+defineProps({
+  title: {
+    required: true
+  }
+})
+defineEmits(['update:title'])
+</script>
+
+<template>
+  <input
+    type="text"
+    :value="title"
+    @input="$emit('update:title', $event.target.value)"
+  />
+</template>
+```
+## Множественные привязки `v-model`
+Используя возможность указывать конкретное свойство и событие, как мы узнали ранее с [аргументами `v-model`](https://ru.vuejs.org/guide/components/v-model.html#v-model-arguments), теперь мы можем создать несколько `v-model` на одном экземпляре компонента.
+
+Каждый `v-model` будет синхронизироваться с разным свойством, без необходимости в дополнительных параметрах в компоненте:
+```js
+<UserName
+  v-model:first-name="first"
+  v-model:last-name="last"
+/>
+
+<script setup>
+const firstName = defineModel('firstName')
+const lastName = defineModel('lastName')
+</script>
+
+<template>
+  <input type="text" v-model="firstName" />
+  <input type="text" v-model="lastName" />
+</template>
+```
