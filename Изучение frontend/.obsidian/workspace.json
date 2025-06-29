@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/v-model.md",
+                "file": "Zettlecasten/Component v-model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v-model"
+              "title": "Component v-model"
             }
           },
           {
@@ -368,12 +368,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/v-model.md",
+                "file": "Zettlecasten/Component v-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из v-model"
+              "title": "Исходящие ссылки из Component v-model"
             }
           },
           {
@@ -436,7 +436,7 @@
   "active": "2a83083f3f1c517a",
   "lastOpenFiles": [
     "Zettlecasten/События в Vue.md",
-    "Zettlecasten/v-model.md",
+    "Zettlecasten/Component v-model.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Передача входных параметров.md",
     "Zettlecasten/Детали передачи входных параметров.md",
