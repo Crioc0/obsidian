@@ -58,3 +58,33 @@ Tags: #vue
 }
 ```
 ### CSS-анимации
+[Собственные CSS-анимации](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) применяются таким же образом, что и CSS-переходы. Они отличаются лишь тем, что `*-enter-from` удаляется не сразу после вставки элемента, а при наступлении события `animationend`.
+
+Для большинства CSS-анимаций мы можем просто объявить их в классах `*-enter-active` и `*-leave-active`. Вот пример:
+```js
+<Transition name="bounce">
+  <p v-if="show" style="text-align: center;">
+    Привет, вот какой-то задорный текст!
+  </p>
+</Transition>
+```
+
+```js
+.bounce-enter-active {
+  animation: bounce-in 0.5s;
+}
+.bounce-leave-active {
+  animation: bounce-in 0.5s reverse;
+}
+@keyframes bounce-in {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(1.25);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+```
