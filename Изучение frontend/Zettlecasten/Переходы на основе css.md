@@ -30,3 +30,30 @@ Tags: #vue
   opacity: 0;
 }
 ```
+### CSS-переходы
+`<Transition>` чаще всего используется в сочетании с [собственными CSS-переходами](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions), как показано в базовом примере выше. CSS-свойство `transition` - это сокращение, позволяющее указать множество аспектов перехода, включая свойства, которые должны быть анимированы, длительность перехода и [функции плавности](https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function).
+```js
+<Transition name="slide-fade">
+  <p v-if="show">привет</p>
+</Transition>
+```
+
+```js
+/*
+  Анимации появления и исчезновения могут иметь
+  различные продолжительности и функции плавности.
+*/
+.slide-fade-enter-active {
+  transition: all 0.3s ease-out;
+}
+
+.slide-fade-leave-active {
+  transition: all 0.8s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.slide-fade-enter-from,
+.slide-fade-leave-to {
+  transform: translateX(20px);
+  opacity: 0;
+}
+```
