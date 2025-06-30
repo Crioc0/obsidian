@@ -147,3 +147,7 @@ Tags: #vue
 ```js
 <Transition :duration="550">...</Transition>
 ```
+При необходимости можно также задать отдельные значения для продолжительности входа и выхода с помощью объекта:
+```js
+<Transition :duration="{ enter: 500, leave: 800 }">...</Transition>
+```
