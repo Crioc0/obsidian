@@ -40,4 +40,31 @@ const { x, y } = useMouse()
 
 <template>Положение мыши: {{ x }}, {{ y }}</template>
 ```
-Если нужно передать в функцию рекативное состояние, можно воспользоваться API toValue()
+Если нужно передать в функцию реактивное состояние, можно воспользоваться API toValue()
+`toValue()` - это API, добавленное в версии 3.3. Оно предназначено для нормализации ref-ссылок или геттеров в значения. Если аргумент - это ref-ссылка, оно возвращает его значение; если аргумент - это функция, она вызывает функцию и возвращает ее возвращаемое значение. В противном случае оно возвращает аргумент как есть. Оно работает аналогично [`unref()`](https://ru.vuejs.org/api/reactivity-utilities.html#unref), но с особой обработкой для функций.
+```js
+// fetch.js
+import { ref, watchEffect, toValue } from 'vue'
+
+export function useFetch(url) {
+  const data = ref(null)
+  const error = ref(null)
+
+  const fetchData = () => {
+    // сброс состояния перед выполнением запроса..
+    data.value = null
+    error.value = null
+
+    fetch(toValue(url))
+      .then((res) => res.json())
+      .then((json) => (data.value = json))
+      .catch((err) => (error.value = err))
+  }
+
+  watchEffect(() => {
+    fetchData()
+  })
+
+  return { data, error }
+}
+```
