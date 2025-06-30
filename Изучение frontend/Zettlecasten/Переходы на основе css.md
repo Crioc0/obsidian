@@ -14,5 +14,19 @@ Tags: #vue
 ### Именованные переходы
 Переход может быть назван с помощью свойства `name`:
 ```js
+<Transition name="fade">
+  ...
+</Transition>
+```
+Для именованного перехода его классы переходов будут иметь префикс с названием, а не `v`
+```js
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease;
+}
 
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
 ```
