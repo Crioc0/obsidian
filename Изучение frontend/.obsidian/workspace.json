@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,10 +238,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b2e42f6edd0c4f71",
+  "active": "c27d0726750d8a9e",
   "lastOpenFiles": [
-    "Zettlecasten/Transition.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
+    "Zettlecasten/Transition.md",
     "Zettlecasten/Пользовательские директивы.md",
     "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/Composables.md",
