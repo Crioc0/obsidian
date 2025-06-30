@@ -88,3 +88,24 @@ Tags: #vue
   }
 }
 ```
+### Пользовательские классы переходов
+Вы также можете указать пользовательские классы переходов, передав в `<Transition>` следующие входные параметры:
+
+- `enter-from-class`
+- `enter-active-class`
+- `enter-to-class`
+- `leave-from-class`
+- `leave-active-class`
+- `leave-to-class`
+
+Они будут заменять обычные имена классов. Это особенно полезно, если вы хотите объединить систему переходов Vue с существующей библиотекой анимации CSS, например [Animate.css](https://daneden.github.io/animate.css/):
+```js
+<!-- при условии, что Animate.css добавлен на странице -->
+<Transition
+  name="custom-classes"
+  enter-active-class="animate__animated animate__tada"
+  leave-active-class="animate__animated animate__bounceOutRight"
+>
+  <p v-if="show">привет</p>
+</Transition>
+```
