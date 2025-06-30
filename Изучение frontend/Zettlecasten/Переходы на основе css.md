@@ -116,3 +116,28 @@ Tags: #vue
 ```
 ### Вложенные переходы и явные длительности переходов
 Хотя классы перехода применяются только к непосредственному дочернему элементу `<Transition>`, мы можем переходить к вложенным элементам с помощью вложенных CSS-селекторов:
+```js
+<Transition name="nested">
+  <div v-if="show" class="outer">
+    <div class="inner">
+      Привет
+    </div>
+  </div>
+</Transition>
+```
+
+```js
+/* правила, нацеленные на вложенные элементы */
+.nested-enter-active .inner,
+.nested-leave-active .inner {
+  transition: all 0.3s ease-in-out;
+}
+
+.nested-enter-from .inner,
+.nested-leave-to .inner {
+  transform: translateX(30px);
+  opacity: 0;
+}
+
+/* ... другие необходимые CSS не указаны */
+```
