@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Атрибуты"
             }
+          },
+          {
+            "id": "c5ef0ce593da5d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Composables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Composables"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +196,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "c5ef0ce593da5d37",
   "lastOpenFiles": [
+    "Zettlecasten/Атрибуты.md",
+    "Zettlecasten/Composables.md",
     "Zettlecasten/watchEffect.md",
     "Zettlecasten/Нетерпеливые и единичные наблюдатели.md",
     "Zettlecasten/Остановка наблюдателя.md",
@@ -207,8 +224,6 @@
     "Zettlecasten/Provide и Inject.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Передача обычных атрибутов в Vue.md",
-    "Zettlecasten/События в Vue.md",
-    "Zettlecasten/Основы компонентов.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
