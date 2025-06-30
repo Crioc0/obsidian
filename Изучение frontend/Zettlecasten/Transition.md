@@ -3,4 +3,4 @@ Tags: #vue
 ###### Links: 
 1) 
 # Заметка
-Vue
+Transition является встроенным комп
