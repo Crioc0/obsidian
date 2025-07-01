@@ -97,16 +97,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Drag and drop.md",
+                "file": "Zettlecasten/События touch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drag and drop"
+              "title": "События touch"
             }
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "4a2021593a5b709c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ed25e2e652a82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/События.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "События"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,8 +288,11 @@
   },
   "active": "2c6d74d482c7c585",
   "lastOpenFiles": [
-    "Zettlecasten/Переходы на основе css.md",
+    "Zettlecasten/События.md",
+    "Zettlecasten/События touch.md",
     "Zettlecasten/Drag and drop.md",
+    "Zettlecasten/Без названия 1.md",
+    "Zettlecasten/Переходы на основе css.md",
     "transition-classes.DYG5-69l.png",
     "Zettlecasten/Transition.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
@@ -292,9 +315,6 @@
     "Zettlecasten/javaScript/Объект location.md",
     "Zettlecasten/Очистка от побочных эффектов.md",
     "Zettlecasten/Отслеживание изменений в массивах.md",
-    "Zettlecasten/Ссылки на элементы шаблона.md",
-    "Zettlecasten/Слоты.md",
-    "daily/2025-03-07.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
