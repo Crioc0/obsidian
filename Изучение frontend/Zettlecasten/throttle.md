@@ -35,5 +35,20 @@ function throttle(callee, timeout) {
     }, timeout)
   }
 }
+```
+Применение throttle
+```js
+function throttle(callee, timeout) {
+  /* ... */
+}
+
+// Указываем, что нам нужно ждать 50 мс,
+// прежде чем вызвать функцию заново:
+const optimizedHandler = throttle(recalculateProgress, 50)
+
+// Передаём новую throttled-функцию в addEventListener:
+window.addEventListener('scroll', optimizedHandler)
+window.addEventListener('resize', optimizedHandler)
 
 ```
+API функции не поменялось. То есть для внешнего мира throttled-функция ведёт себя точно так же, как и простая функция-обработчик
