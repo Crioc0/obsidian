@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Transition.md",
+                "file": "Zettlecasten/Динамические переходы и компоненты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transition"
+              "title": "Динамические переходы и компоненты"
             }
           },
           {
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Transition.md",
+                "file": "Zettlecasten/Динамические переходы и компоненты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transition"
+              "title": "Outline of Динамические переходы и компоненты"
             }
           },
           {
@@ -268,10 +268,11 @@
   },
   "active": "c27d0726750d8a9e",
   "lastOpenFiles": [
+    "Zettlecasten/Transition.md",
+    "Zettlecasten/Динамические переходы и компоненты.md",
     "Zettlecasten/Переходы на основе css.md",
     "Zettlecasten/События.md",
     "Zettlecasten/Работа со стилями в Vue.md",
-    "Zettlecasten/Transition.md",
     "Zettlecasten/Переиспользуемые переходы.md",
     "Zettlecasten/java-script хуки.md",
     "Zettlecasten/throttle.md",
@@ -294,7 +295,6 @@
     "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/сеть/get-параметры.md",
     "Zettlecasten/Component v-model.md",
-    "Zettlecasten/Регистрация компонентов.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
