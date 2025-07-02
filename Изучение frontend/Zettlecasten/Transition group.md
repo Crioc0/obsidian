@@ -17,3 +17,23 @@ Tags: #vue
 - Классы CSS-перехода будут применяться к отдельным элементам в списке, а не к самой группе / контейнеру.
 
 ## Анимация добавления / удаления элементов списка
+Вот пример анимации перехода добавления / удаления элементов `v-for` списка используя `<TransitionGroup>`:
+```js
+<TransitionGroup name="list" tag="ul">
+  <li v-for="item in items" :key="item">
+    {{ item }}
+  </li>
+</TransitionGroup>
+```
+
+```js
+.list-enter-active,
+.list-leave-active {
+  transition: all 0.5s ease;
+}
+.list-enter-from,
+.list-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+```
