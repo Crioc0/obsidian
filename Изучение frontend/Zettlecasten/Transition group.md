@@ -57,3 +57,6 @@ Tags: #vue
   position: absolute;
 }
 ```
+## Задержка переходов списка[​](https://ru.vuejs.org/guide/built-ins/transition-group.html#staggering-list-transitions)
+
+Настраивая JavaScript-переходы через data-атрибуты, также можно настроить задержку для переходов в списке. Сначала мы отображаем индекс элемента как data-атрибут в DOM:
