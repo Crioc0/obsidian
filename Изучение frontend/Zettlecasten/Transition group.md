@@ -37,3 +37,4 @@ Tags: #vue
   transform: translateX(30px);
 }
 ```
+Чтобы удаляющиеся элементы были выведены 
