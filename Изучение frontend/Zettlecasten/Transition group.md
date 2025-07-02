@@ -60,3 +60,31 @@ Tags: #vue
 ## Задержка переходов списка[​](https://ru.vuejs.org/guide/built-ins/transition-group.html#staggering-list-transitions)
 
 Настраивая JavaScript-переходы через data-атрибуты, также можно настроить задержку для переходов в списке. Сначала мы отображаем индекс элемента как data-атрибут в DOM:
+```js
+<TransitionGroup
+  tag="ul"
+  :css="false"
+  @before-enter="onBeforeEnter"
+  @enter="onEnter"
+  @leave="onLeave"
+>
+  <li
+    v-for="(item, index) in computedList"
+    :key="item.msg"
+    :data-index="index"
+  >
+    {{ item.msg }}
+  </li>
+</TransitionGroup>
+```
+Затем, в JavaScript-хуках, мы анимируем элемент с задержкой, отталкиваясь от этого data-атрибута.
+```js
+function onEnter(el, done) {
+  gsap.to(el, {
+    opacity: 1,
+    height: '1.6em',
+    delay: el.dataset.index * 0.15,
+    onComplete: done
+  })
+}
+```
