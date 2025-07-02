@@ -14,3 +14,4 @@
 [[Объект window]]
 [[Объект location]]
 [[Конструктор URLSearchParam]]
+[[События]] 
