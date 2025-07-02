@@ -51,4 +51,4 @@ window.addEventListener('scroll', optimizedHandler)
 window.addEventListener('resize', optimizedHandler)
 
 ```
-API функции не поменялось. То есть для внешнего мира throttled-функция ведёт себя точно так же, как и простая функция-обработчик
+API функции не поменялось. То есть для внешнего мира throttled-функция ведёт себя точно так же, как и простая функция-обработчикfff
