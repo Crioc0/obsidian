@@ -37,4 +37,23 @@ Tags: #vue
   transform: translateX(30px);
 }
 ```
-Чтобы удаляющиеся элементы были выведены 
+Чтобы при удалении или добавлении элементы не прыгали, нужно добавить несколько дополнительных правил CSS
+```js
+.list-move, /* применять переход к движущимся элементам */
+.list-enter-active,
+.list-leave-active {
+  transition: all 0.5s ease;
+}
+
+.list-enter-from,
+.list-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* убедитесь, что удаляющиеся элементы выведены из потока, чтобы 
+анимации перемещения могли быть рассчитаны правильно. */
+.list-leave-active {
+  position: absolute;
+}
+```
