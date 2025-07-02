@@ -5,4 +5,4 @@ Tags: #vue
 # Заметка
 [[Transition]]
 [[Transition group]]
-[[]]
+[[KeepAlive]]
