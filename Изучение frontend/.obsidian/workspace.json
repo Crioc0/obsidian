@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/throttle.md",
+                "file": "Zettlecasten/Transition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "throttle"
+              "title": "Transition"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Хук",
+                "query": "transi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -173,7 +173,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/throttle.md",
+                "file": "Zettlecasten/Transition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of throttle"
+              "title": "Outline of Transition"
             }
           },
           {
@@ -279,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8931235a5ec4568e",
+  "active": "b9bb73735fcaf97f",
   "lastOpenFiles": [
     "Zettlecasten/throttle.md",
     "Zettlecasten/События.md",
