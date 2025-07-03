@@ -29,3 +29,55 @@ export default defineComponent({
 })
 ```
 `defineComponent()` также поддерживает вывод входных параметров, переданных в `setup()`, при использовании Composition API без `<script setup>`:
+```js
+import { defineComponent } from 'vue'
+
+export default defineComponent({
+  // включен вывод типа
+  props: {
+    message: String
+  },
+  setup(props) {
+    props.message // тип: string | undefined
+  }
+})
+```
+
+### Использование в однофайловых компонентах[​](https://ru.vuejs.org/guide/typescript/overview.html#usage-in-single-file-components)
+
+Чтобы использовать TypeScript в SFC, добавьте атрибут `lang="ts"` к тегам `<script>`. При наличии `lang="ts"` все шаблонные выражения также проходят более строгую проверку типов.
+```js
+<script lang="ts">
+import { defineComponent } from 'vue'
+
+export default defineComponent({
+  data() {
+    return {
+      count: 1
+    }
+  }
+})
+</script>
+
+<template>
+  <!-- включена проверка типов и автозаполнение -->
+  {{ count.toFixed(2) }}
+</template>
+```
+
+`lang="ts"` может также использоваться с `<script setup>`:
+
+
+```vue
+<script setup lang="ts">
+// TypeScript включен
+import { ref } from 'vue'
+
+const count = ref(1)
+</script>
+
+<template>
+  <!-- включена проверка типов и автозаполнение -->
+  {{ count.toFixed(2) }}
+</template>
+```
