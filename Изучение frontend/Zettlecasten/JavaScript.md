@@ -15,3 +15,5 @@
 [[Объект location]]
 [[Конструктор URLSearchParam]]
 [[События]] 
+[[Vite]]
+[[### Vue CLI]]

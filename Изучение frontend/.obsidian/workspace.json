@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Однофайловые компоненты.md",
+                "file": "Zettlecasten/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Однофайловые компоненты"
+              "title": "Outgoing links from JavaScript"
             }
           },
           {
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Однофайловые компоненты.md",
+                "file": "Zettlecasten/JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Однофайловые компоненты"
+              "title": "Outline of JavaScript"
             }
           },
           {
@@ -266,10 +266,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39b987c67c16945d",
+  "active": "636a946df32dc1ff",
   "lastOpenFiles": [
-    "Zettlecasten/Suspense.md",
     "Zettlecasten/Однофайловые компоненты.md",
+    "Zettlecasten/Suspense.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
     "Zettlecasten/Teleport.md",
     "Zettlecasten/JavaScript.md",
