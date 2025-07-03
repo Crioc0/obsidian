@@ -120,6 +120,34 @@
             }
           },
           {
+            "id": "8849d3de995382c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/TS с CompositionAPI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TS с CompositionAPI"
+            }
+          },
+          {
+            "id": "858247d855eba97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Типизация входных параметров.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типизация входных параметров"
+            }
+          },
+          {
             "id": "766a07b7a73ce850",
             "type": "leaf",
             "state": {
@@ -134,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -294,10 +322,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b9bb73735fcaf97f",
+  "active": "858247d855eba97d",
   "lastOpenFiles": [
-    "Zettlecasten/Vue.md",
+    "Zettlecasten/Типизация входных параметров.md",
+    "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Использование Vue с Typescript.md",
+    "Zettlecasten/Vue.md",
     "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/throttle.md",
     "Zettlecasten/Управление состоянием Vue.md",
@@ -320,9 +350,7 @@
     "Zettlecasten/События touch.md",
     "Zettlecasten/Переходы на основе css.md",
     "Zettlecasten/Drag and drop.md",
-    "Zettlecasten/Без названия 1.md",
     "transition-classes.DYG5-69l.png",
-    "Zettlecasten/Transition.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
