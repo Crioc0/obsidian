@@ -61,3 +61,15 @@ Tags: #vue
 </RouterView>
 ```
 ## Вложенные Suspense
+`<Suspense>` создает "границу", которая будет регулировать все асинхронные компоненты вниз по дереву, как и ожидается. Однако, когда мы изменяем `DynamicAsyncOuter`, `<Suspense>` это корректно обрабатывает, но когда мы изменяем `DynamicAsyncInner`, вложенный `DynamicAsyncInner` отображает пустой node-узел, пока он не будет разрешен (вместо предыдущего или fallback-слота).
+
+Чтобы решить эту проблему, мы могли бы иметь вложенный `<Suspense>` для обработки патча для вложенного компонента, например:
+```js
+<Suspense>
+  <component :is="DynamicAsyncOuter">
+    <Suspense suspensible> <!-- этот -->
+      <component :is="DynamicAsyncInner" />
+    </Suspense>
+  </component>
+</Suspense>
+```
