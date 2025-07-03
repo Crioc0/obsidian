@@ -16,4 +16,5 @@
 [[Конструктор URLSearchParam]]
 [[События]] 
 [[Vite]]
-[[### Vue CLI]]
+[[Vue CLI]]
+[[Поддержка IDE Vue]]
