@@ -36,21 +36,91 @@
             }
           },
           {
-            "id": "636a946df32dc1ff",
+            "id": "062f80771974958d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Пользовательские директивы.md",
+                "file": "Zettlecasten/Управление состоянием Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пользовательские директивы"
+              "title": "Управление состоянием Vue"
             }
           },
           {
-            "id": "b2e42f6edd0c4f71",
+            "id": "45c364e9d456b1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/VueRouter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VueRouter"
+            }
+          },
+          {
+            "id": "343f02166844131f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Линтинг Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линтинг Vue"
+            }
+          },
+          {
+            "id": "5a219b1210eac4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Тестирование Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тестирование Vue"
+            }
+          },
+          {
+            "id": "2a8b10cdcbba7bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Typescript"
+            }
+          },
+          {
+            "id": "fdcedbec74b03a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Браузерные инструменты разработчика Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Браузерные инструменты разработчика Vue"
+            }
+          },
+          {
+            "id": "2c6d74d482c7c585",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,105 +134,49 @@
             }
           },
           {
-            "id": "c27d0726750d8a9e",
+            "id": "4c7e4195587fcdcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Transition.md",
+                "file": "Zettlecasten/Suspense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transition"
+              "title": "Suspense"
             }
           },
           {
-            "id": "8c87eba671a5e6ff",
+            "id": "39b987c67c16945d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Переходы на основе css.md",
+                "file": "Zettlecasten/Однофайловые компоненты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Переходы на основе css"
+              "title": "Однофайловые компоненты"
             }
           },
           {
-            "id": "2c6d74d482c7c585",
+            "id": "c8e07302d69ad07b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/События.md",
+                "file": "Zettlecasten/KeepAlive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "События"
-            }
-          },
-          {
-            "id": "b9bb73735fcaf97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Использование Vue с Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Использование Vue с Typescript"
-            }
-          },
-          {
-            "id": "8849d3de995382c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/TS с CompositionAPI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TS с CompositionAPI"
-            }
-          },
-          {
-            "id": "858247d855eba97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Типизация входных параметров.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Типизация входных параметров"
-            }
-          },
-          {
-            "id": "766a07b7a73ce850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/События Click.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "События Click"
+              "title": "KeepAlive"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +199,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -194,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Хук",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +216,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -215,12 +229,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -255,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/Управление состоянием Vue.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Атрибуты"
+              "title": "Outgoing links from Управление состоянием Vue"
             }
           },
           {
@@ -275,7 +289,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -284,12 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettlecasten/Управление состоянием Vue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Outline of Управление состоянием Vue"
             }
           },
           {
@@ -303,53 +318,52 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Открыть случайную заметку": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "858247d855eba97d",
+  "active": "062f80771974958d",
   "lastOpenFiles": [
     "Zettlecasten/Типизация входных параметров.md",
-    "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Использование Vue с Typescript.md",
-    "Zettlecasten/Vue.md",
-    "Zettlecasten/Однофайловые компоненты.md",
-    "Zettlecasten/throttle.md",
+    "Zettlecasten/TS с CompositionAPI.md",
+    "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/Управление состоянием Vue.md",
-    "Zettlecasten/Тестирование Vue.md",
-    "Zettlecasten/Роутинг Vue.md",
-    "Zettlecasten/Поддержка IDE Vue.md",
-    "Zettlecasten/Линтинг Vue.md",
-    "Zettlecasten/Браузерные инструменты разработчика Vue.md",
     "Zettlecasten/VueRouter.md",
+    "Zettlecasten/Роутинг Vue.md",
+    "Zettlecasten/Атрибуты.md",
+    "Zettlecasten/Линтинг Vue.md",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Тестирование Vue.md",
     "Zettlecasten/Typescript.md",
-    "Zettlecasten/Teleport.md",
+    "Zettlecasten/Браузерные инструменты разработчика Vue.md",
+    "Zettlecasten/Поддержка IDE Vue.md",
+    "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/Suspense.md",
-    "Zettlecasten/Переиспользуемые переходы.md",
-    "Zettlecasten/Динамические переходы и компоненты.md",
-    "Zettlecasten/java-script хуки.md",
-    "Zettlecasten/Transition group.md",
-    "Zettlecasten/KeepAlive.md",
-    "Zettlecasten/События.md",
-    "Zettlecasten/События Click.md",
-    "Zettlecasten/События touch.md",
+    "Zettlecasten/Встроенные компоненты Vue.md",
+    "Zettlecasten/Teleport.md",
     "Zettlecasten/Переходы на основе css.md",
-    "Zettlecasten/Drag and drop.md",
+    "Zettlecasten/KeepAlive.md",
+    "Zettlecasten/Динамические переходы и компоненты.md",
+    "Zettlecasten/Наблюдатели.md",
+    "Zettlecasten/События.md",
+    "Zettlecasten/Пользовательские директивы.md",
+    "Zettlecasten/Transition group.md",
+    "Zettlecasten/Transition.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
