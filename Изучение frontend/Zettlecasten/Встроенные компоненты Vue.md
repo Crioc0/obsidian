@@ -6,3 +6,4 @@ Tags: #vue
 [[Transition]]
 [[Transition group]]
 [[KeepAlive]]
+[[Teleport]]
