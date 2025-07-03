@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,12 +255,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/VueRouter.md",
+                "file": "Zettlecasten/Соглашения и лучшие практики composables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VueRouter"
+              "title": "Outgoing links from Соглашения и лучшие практики composables"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/VueRouter.md",
+                "file": "Zettlecasten/Соглашения и лучшие практики composables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VueRouter"
+              "title": "Outline of Соглашения и лучшие практики composables"
             }
           },
           {
@@ -322,10 +322,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45c364e9d456b1f5",
+  "active": "c5ef0ce593da5d37",
   "lastOpenFiles": [
-    "Zettlecasten/Роутинг Vue.md",
     "Zettlecasten/VueRouter.md",
+    "Zettlecasten/Роутинг Vue.md",
     "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Линтинг Vue.md",
