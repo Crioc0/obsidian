@@ -40,5 +40,24 @@ Tags: #vue
 ## Комбинирование с другими компонентами
 Часто требуется использовать `<Suspense>` в сочетании с компонентами [[Transition]] и [[KeepAlive]]. Порядок вложения этих компонентов важен для обеспечения их корректной работы.
 
-Кроме того, эти компоненты часто используются совместно с компонентом `<RouterView>` из [Vue Router](https://vue-router-ru.netlify.app/).
+Кроме того, эти компоненты часто используются совместно с компонентом `<RouterView>` из [[VueRouter]]
+```js
+<RouterView v-slot="{ Component }">
+  <template v-if="Component">
+    <Transition mode="out-in">
+      <KeepAlive>
+        <Suspense>
+          <!-- основное содержание -->
+          <component :is="Component"></component>
 
+          <!-- состояние загрузки -->
+          <template #fallback>
+            Загрузка...
+          </template>
+        </Suspense>
+      </KeepAlive>
+    </Transition>
+  </template>
+</RouterView>
+```
+## Вложенные Suspense
