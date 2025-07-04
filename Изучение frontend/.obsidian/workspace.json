@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "6456460d1f5d3cfa",
+            "id": "e2a1bbc21754c123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Типизация обработчиков событий.md",
+                "file": "Zettlecasten/Типизация Provide и inject.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типизация обработчиков событий"
+              "title": "Типизация Provide и inject"
+            }
+          },
+          {
+            "id": "5c6c988f4b498760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Типизация Provide/inject.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inject"
             }
           },
           {
@@ -311,12 +325,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Типизация обработчиков событий.md",
+                "file": "Zettlecasten/Типизация Provide и inject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Типизация обработчиков событий"
+              "title": "Outgoing links from Типизация Provide и inject"
             }
           },
           {
@@ -340,13 +354,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Типизация обработчиков событий.md",
+                "file": "Zettlecasten/Типизация Provide и inject.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типизация обработчиков событий"
+              "title": "Outline of Типизация Provide и inject"
             }
           },
           {
@@ -378,10 +392,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6456460d1f5d3cfa",
+  "active": "e2a1bbc21754c123",
   "lastOpenFiles": [
-    "Zettlecasten/Типизация обработчиков событий.md",
+    "Zettlecasten/Типизация Provide и inject.md",
     "Zettlecasten/TS с CompositionAPI.md",
+    "Типизация Provide/inject.md",
+    "Типизация Provide",
+    "Zettlecasten/Типизация обработчиков событий.md",
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Типизация испускаемых событий компонента.md",
     "Zettlecasten/Атрибуты.md",
@@ -404,8 +421,6 @@
     "Zettlecasten/Переходы на основе css.md",
     "Zettlecasten/KeepAlive.md",
     "Zettlecasten/Динамические переходы и компоненты.md",
-    "Zettlecasten/Наблюдатели.md",
-    "Zettlecasten/События.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
