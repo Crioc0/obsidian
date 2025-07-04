@@ -134,20 +134,6 @@
             }
           },
           {
-            "id": "858247d855eba97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Типизация входных параметров.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Типизация входных параметров"
-            }
-          },
-          {
             "id": "766a07b7a73ce850",
             "type": "leaf",
             "state": {
@@ -162,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -322,8 +308,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "858247d855eba97d",
+  "active": "8849d3de995382c9",
   "lastOpenFiles": [
+    "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Типизация обработчиков событий.md",
     "Zettlecasten/Типизация испускаемых событий компонента.md",
@@ -332,7 +319,6 @@
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Ref и reactive.md",
-    "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Использование Vue с Typescript.md",
     "Zettlecasten/Vue.md",
