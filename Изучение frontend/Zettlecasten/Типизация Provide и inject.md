@@ -26,3 +26,7 @@ const foo = inject<string>('foo') // тип: string | undefined
 ```js
 const foo = inject<string>('foo', 'bar') // тип: string
 ```
+Если вы уверены, что значение всегда будет предоставлено, вы можете также принудительно привести значение:
+```js
+const foo = inject('foo') as string
+```

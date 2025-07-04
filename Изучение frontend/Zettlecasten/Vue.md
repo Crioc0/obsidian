@@ -9,8 +9,6 @@
 [[Хуки жизненного цикла]]
 [[Composition API]]
 [[Option API]]
-[[EventLoop]]
-[[fetch]]
 [[Слоты]]
 [[Асинхронные компоненты Vue]]
 [[Использование Vue с Typescript]]
