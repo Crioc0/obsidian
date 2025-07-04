@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e8baf19c972181b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Типизация реактивности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типизация реактивности"
+            }
+          },
+          {
             "id": "8f010cbc6c731c9b",
             "type": "leaf",
             "state": {
@@ -283,12 +297,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Типизация испускаемых событий компонента.md",
+                "file": "Zettlecasten/Типизация реактивности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Типизация испускаемых событий компонента"
+              "title": "Outgoing links from Типизация реактивности"
             }
           },
           {
@@ -312,13 +326,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Типизация испускаемых событий компонента.md",
+                "file": "Zettlecasten/Типизация реактивности.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типизация испускаемых событий компонента"
+              "title": "Outline of Типизация реактивности"
             }
           },
           {
@@ -350,10 +364,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f010cbc6c731c9b",
+  "active": "e8baf19c972181b6",
   "lastOpenFiles": [
-    "Zettlecasten/Типизация испускаемых событий компонента.md",
+    "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/TS с CompositionAPI.md",
+    "Zettlecasten/Типизация испускаемых событий компонента.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Типизация входных параметров.md",
@@ -377,7 +392,6 @@
     "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/События.md",
     "Zettlecasten/Пользовательские директивы.md",
-    "Zettlecasten/Transition group.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
