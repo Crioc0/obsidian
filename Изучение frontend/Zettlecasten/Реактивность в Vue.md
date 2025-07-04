@@ -37,3 +37,4 @@ whenDepsChange(update)
 3. Определить, когда переменная мутирует. Например, когда переменной `A0` присваивается новое значение, уведомить все ее эффекты-подписчики о необходимости повторного выполнения.
 ## Как работает реактивность во Vue
 В обычном js нет механизма для отслеживания чтения и записи локальных элементов, но можно перехватить чтение и запись свойств объекта
+Существует два способа перехвата доступа к свойствам в JavaScript: [getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get#description) / [setters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set) и [Proxies](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy). Во Vue 2 геттеры / сеттеры использовались исключительно из-за ограничений поддержки браузерами. Во Vue 3 прокси используются для реактивных объектов, а геттеры / сеттеры - для ссылок.
