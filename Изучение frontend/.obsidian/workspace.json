@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Однофайловые компоненты.md",
+                "file": "Zettlecasten/Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Однофайловые компоненты"
+              "title": "Vue"
             }
           },
           {
@@ -296,12 +296,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Однофайловые компоненты.md",
+                "file": "Zettlecasten/Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Однофайловые компоненты"
+              "title": "Outgoing links from Vue"
             }
           },
           {
@@ -325,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Однофайловые компоненты.md",
+                "file": "Zettlecasten/Vue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Однофайловые компоненты"
+              "title": "Outline of Vue"
             }
           },
           {
@@ -365,6 +365,8 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Vue.md",
+    "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/Пользовательские директивы.md",
     "Zettlecasten/Директивы в Vue.md",
     "Zettlecasten/Ref и reactive.md",
@@ -375,7 +377,6 @@
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Типизация Provide/inject.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Typescript.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
@@ -391,7 +392,6 @@
     "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/VueRouter.md",
     "Zettlecasten/Роутинг Vue.md",
-    "Zettlecasten/Линтинг Vue.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
