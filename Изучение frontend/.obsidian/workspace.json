@@ -203,8 +203,7 @@
               "title": "KeepAlive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,12 +296,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Типизация реактивности.md",
+                "file": "Zettlecasten/TS с CompositionAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Типизация реактивности"
+              "title": "Outgoing links from TS с CompositionAPI"
             }
           },
           {
@@ -326,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Типизация реактивности.md",
+                "file": "Zettlecasten/TS с CompositionAPI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типизация реактивности"
+              "title": "Outline of TS с CompositionAPI"
             }
           },
           {
@@ -364,7 +363,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8baf19c972181b6",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/TS с CompositionAPI.md",
