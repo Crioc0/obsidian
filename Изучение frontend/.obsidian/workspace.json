@@ -11,10 +11,14 @@
             "id": "c279de53bff259bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Ref и reactive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ref и reactive"
             }
           },
           {
@@ -185,8 +189,7 @@
               "title": "KeepAlive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Основы компонентов.md",
+                "file": "Zettlecasten/Ref и reactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Основы компонентов"
+              "title": "Outgoing links from Ref и reactive"
             }
           },
           {
@@ -308,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Основы компонентов.md",
+                "file": "Zettlecasten/Ref и reactive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Основы компонентов"
+              "title": "Outline of Ref и reactive"
             }
           },
           {
@@ -346,10 +349,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cfba31f92873927",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "Zettlecasten/Передача входных параметров.md",
     "Zettlecasten/Основы компонентов.md",
+    "Zettlecasten/Передача входных параметров.md",
     "Zettlecasten/Типизация испускаемых событий компонента.md",
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
