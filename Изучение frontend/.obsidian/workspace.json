@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/TS с CompositionAPI.md",
+                "file": "Zettlecasten/Реактивность в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TS с CompositionAPI"
+              "title": "Реактивность в Vue"
             }
           },
           {
@@ -310,6 +310,7 @@
   },
   "active": "8849d3de995382c9",
   "lastOpenFiles": [
+    "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Типизация обработчиков событий.md",
@@ -319,7 +320,6 @@
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Ref и reactive.md",
-    "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Использование Vue с Typescript.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Однофайловые компоненты.md",
