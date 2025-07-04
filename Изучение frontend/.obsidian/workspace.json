@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Vue.md",
+                "file": "Zettlecasten/Ref и reactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vue"
+              "title": "Ref и reactive"
             }
           },
           {
@@ -217,7 +217,8 @@
               "title": "KeepAlive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,12 +311,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Vue.md",
+                "file": "Zettlecasten/Ref и reactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vue"
+              "title": "Outgoing links from Ref и reactive"
             }
           },
           {
@@ -339,13 +340,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Vue.md",
+                "file": "Zettlecasten/Ref и reactive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vue"
+              "title": "Outline of Ref и reactive"
             }
           },
           {
@@ -377,11 +378,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "e1ed345a110ba253",
   "lastOpenFiles": [
     "Zettlecasten/Vue.md",
-    "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Ref и reactive.md",
+    "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Реактивность в Vue.md",
     "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/Пользовательские директивы.md",
