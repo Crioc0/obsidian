@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/Механизмы отрисовки Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Атрибуты"
+              "title": "Механизмы отрисовки Vue"
+            }
+          },
+          {
+            "id": "64d17cccb789242d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Виртуальный DOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виртуальный DOM"
             }
           },
           {
@@ -90,65 +104,9 @@
               "icon": "lucide-file",
               "title": "Переходы на основе css"
             }
-          },
-          {
-            "id": "2c6d74d482c7c585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/События.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "События"
-            }
-          },
-          {
-            "id": "b9bb73735fcaf97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Использование Vue с Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Использование Vue с Typescript"
-            }
-          },
-          {
-            "id": "8849d3de995382c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Отладка реактивности.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Отладка реактивности"
-            }
-          },
-          {
-            "id": "766a07b7a73ce850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/События Click.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "События Click"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -308,10 +265,17 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8849d3de995382c9",
+  "active": "64d17cccb789242d",
   "lastOpenFiles": [
-    "Zettlecasten/Реактивность в Vue.md",
+    "Zettlecasten/Виртуальный DOM.md",
+    "Zettlecasten/Механизмы отрисовки Vue.md",
+    "Zettlecasten/Vue.md",
+    "Zettlecasten/Атрибуты.md",
+    "Zettlecasten/Переходы на основе css.md",
+    "Zettlecasten/События.md",
+    "Zettlecasten/Использование Vue с Typescript.md",
     "Zettlecasten/Отладка реактивности.md",
+    "Zettlecasten/Реактивность в Vue.md",
     "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/Типизация реактивности.md",
@@ -321,8 +285,6 @@
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Ref и reactive.md",
-    "Zettlecasten/Использование Vue с Typescript.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/throttle.md",
     "Zettlecasten/Управление состоянием Vue.md",
@@ -331,11 +293,6 @@
     "Zettlecasten/Поддержка IDE Vue.md",
     "Zettlecasten/Линтинг Vue.md",
     "Zettlecasten/Браузерные инструменты разработчика Vue.md",
-    "Zettlecasten/VueRouter.md",
-    "Zettlecasten/Typescript.md",
-    "Zettlecasten/Teleport.md",
-    "Zettlecasten/Suspense.md",
-    "Zettlecasten/Переиспользуемые переходы.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
