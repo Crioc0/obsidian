@@ -11,10 +11,14 @@
             "id": "e65ab1b2592799e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Transition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transition"
             }
           },
           {
@@ -301,6 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlecasten/Transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +315,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Transition"
             }
           },
           {
@@ -386,6 +391,10 @@
   },
   "active": "e65ab1b2592799e2",
   "lastOpenFiles": [
+    "Zettlecasten/Teleport.md",
+    "Zettlecasten/Transition.md",
+    "Zettlecasten/Suspense.md",
+    "Zettlecasten/KeepAlive.md",
     "Zettlecasten/reactive().md",
     "Zettlecasten/Реактивность-основное Composition API.md",
     "Zettlecasten/Composition API.md",
@@ -394,13 +403,11 @@
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Сырой HTML.md",
-    "Zettlecasten/Teleport.md",
     "Zettlecasten/Динамические переходы и компоненты.md",
     "Zettlecasten/Ref и reactive.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
     "Zettlecasten/Основы компонентов.md",
-    "Zettlecasten/KeepAlive.md",
     "Zettlecasten/Передача входных параметров в компоненты.md",
     "Zettlecasten/Provide и Inject.md",
     "Zettlecasten/Типизация Provide и inject.md",
@@ -410,8 +417,6 @@
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Слоты.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
-    "Zettlecasten/Деструктурирование реактивных свойств.md",
-    "Zettlecasten/Детали передачи входных параметров.md",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
