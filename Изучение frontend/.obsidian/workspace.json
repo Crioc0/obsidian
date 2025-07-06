@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Реактивность в Vue.md",
+                "file": "Zettlecasten/Composition API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реактивность в Vue"
+              "title": "Composition API"
             }
           },
           {
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Реактивность в Vue.md",
+                "file": "Zettlecasten/Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +329,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Реактивность в Vue"
+              "title": "Обратные ссылки для Composition API"
             }
           },
           {
@@ -405,6 +405,9 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/computed().md",
+    "Zettlecasten/reactive().md",
+    "Zettlecasten/Реактивность в Vue.md",
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Реактивность-основное API.md",
@@ -420,7 +423,6 @@
     "Zettlecasten/Provide и Inject.md",
     "Zettlecasten/Типизация Provide и inject.md",
     "Zettlecasten/Работа со стилями в Vue.md",
-    "Zettlecasten/reactive().md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/События Click.md",
     "Zettlecasten/События touch.md",
@@ -429,8 +431,6 @@
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Деструктурирование реактивных свойств.md",
     "Zettlecasten/Детали передачи входных параметров.md",
-    "Zettlecasten/Передача обычных атрибутов в Vue.md",
-    "Zettlecasten/Использование Vue с Typescript.md",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
