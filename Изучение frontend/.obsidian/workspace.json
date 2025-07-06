@@ -25,14 +25,10 @@
             "id": "c0517a08be27f58d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Передача значений входных параметров по умолчанию"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -292,7 +288,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +297,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Передача значений входных параметров по умолчанию"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -378,11 +373,12 @@
   },
   "active": "c0517a08be27f58d",
   "lastOpenFiles": [
+    "Zettlecasten/Vue.md",
     "Zettlecasten/Передача входных параметров в компоненты.md",
+    "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Деструктурирование реактивных свойств.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Детали передачи входных параметров.md",
-    "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Передача обычных атрибутов в Vue.md",
     "Zettlecasten/Слоты.md",
     "Zettlecasten/Использование Vue с Typescript.md",
@@ -402,7 +398,6 @@
     "Zettlecasten/Виртуальный DOM на основе данных компилятора Vue.md",
     "render-pipeline.CwxnH_lZ.png",
     "Zettlecasten/Виртуальный DOM.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Переходы на основе css.md",
     "transition-classes.DYG5-69l.png",
