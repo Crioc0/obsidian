@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Передача входных параметров в компоненты.md",
+                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Передача входных параметров в компоненты"
+              "title": "Передача значений входных параметров по умолчанию"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Деструктурирование реактивных свойств.md",
+                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +302,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Деструктурирование реактивных свойств"
+              "title": "Обратные ссылки для Передача значений входных параметров по умолчанию"
             }
           },
           {
@@ -376,13 +376,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "c0517a08be27f58d",
   "lastOpenFiles": [
     "Zettlecasten/Передача входных параметров в компоненты.md",
+    "Zettlecasten/Деструктурирование реактивных свойств.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Детали передачи входных параметров.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
-    "Zettlecasten/Деструктурирование реактивных свойств.md",
     "Zettlecasten/Передача обычных атрибутов в Vue.md",
     "Zettlecasten/Слоты.md",
     "Zettlecasten/Использование Vue с Typescript.md",
