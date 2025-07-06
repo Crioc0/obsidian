@@ -38,3 +38,13 @@ obj.count++
 console.log(obj.count) // 3
 console.log(count.value) // 3
 ```
+Обратите внимание, что рефссылки **не** разворачиваются при обращении к ним как к элементам массива или коллекции:
+```js
+const books = reactive([ref('Vue 3 Guide')])
+// здесь необходимо обращаться через .value
+console.log(books[0].value)
+
+const map = reactive(new Map([['count', ref(0)]]))
+// здесь необходимо обращаться через .value
+console.log(map.get('count').value)
+```
