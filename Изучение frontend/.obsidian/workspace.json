@@ -105,7 +105,8 @@
               "title": "Переходы на основе css"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,10 +266,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "ad72c7ae130e5340",
   "lastOpenFiles": [
-    "Zettlecasten/ref.md",
     "Zettlecasten/Реактивность-основное.md",
+    "Zettlecasten/ref.md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
