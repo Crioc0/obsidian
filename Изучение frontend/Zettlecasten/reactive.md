@@ -38,7 +38,7 @@ obj.count++
 console.log(obj.count) // 3
 console.log(count.value) // 3
 ```
-Обратите внимание, что рефссылки **не** разворачиваются при обращении к ним как к элементам массива или коллекции:
+Рефссылки **не** разворачиваются при обращении к ним как к элементам массива или коллекции:
 ```js
 const books = reactive([ref('Vue 3 Guide')])
 // здесь необходимо обращаться через .value
@@ -47,4 +47,14 @@ console.log(books[0].value)
 const map = reactive(new Map([['count', ref(0)]]))
 // здесь необходимо обращаться через .value
 console.log(map.get('count').value)
+```
+При назначении [ref](https://ru.vuejs.org/api/reactivity-core.html#ref) свойству `reactive` эта ссылка также будет автоматически развернута:
+```js
+const count = ref(1)
+const obj = reactive({})
+
+obj.count = count
+
+console.log(obj.count) // 1
+console.log(obj.count === count.value) // true
 ```
