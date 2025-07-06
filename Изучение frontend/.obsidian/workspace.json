@@ -250,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defineD",
+                "query": "defineDefaults",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
