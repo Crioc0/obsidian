@@ -119,8 +119,7 @@
               "title": "Переходы на основе css"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Управление состоянием Vue.md",
+                "file": "Zettlecasten/Реактивность-основное.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Управление состоянием Vue"
+              "title": "Обратные ссылки для Реактивность-основное"
             }
           },
           {
@@ -278,8 +277,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "ac182af0850eda5a",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Управление состоянием Vue.md",
+    "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/computed.md",
     "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/ref.md",
@@ -305,8 +306,6 @@
     "Zettlecasten/Типизация Provide и inject.md",
     "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Ref и reactive.md",
-    "Zettlecasten/Однофайловые компоненты.md",
-    "Zettlecasten/throttle.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
