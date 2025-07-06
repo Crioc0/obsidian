@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Composition API.md",
+                "file": "Zettlecasten/Реактивность-основное.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Composition API"
+              "title": "Реактивность-основное"
             }
           },
           {
@@ -119,8 +119,7 @@
               "title": "Переходы на основе css"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/computed.md",
+                "file": "Zettlecasten/Реактивность-основное.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для computed"
+              "title": "Обратные ссылки для Реактивность-основное"
             }
           },
           {
@@ -278,13 +277,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e04ceba2b26082bb",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
-    "Zettlecasten/computed.md",
     "Zettlecasten/Composition API.md",
-    "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/ref.md",
+    "Zettlecasten/computed.md",
+    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
+    "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
     "Zettlecasten/Виртуальный DOM на основе данных компилятора Vue.md",
