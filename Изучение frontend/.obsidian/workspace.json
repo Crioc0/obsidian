@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Реактивность-основное.md",
+                "file": "Zettlecasten/watchEffect().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реактивность-основное"
+              "title": "watchEffect()"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Переходы на основе css"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/watchEffect.md",
+                "file": "Zettlecasten/watchEffect().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +245,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для watchEffect"
+              "title": "Обратные ссылки для watchEffect()"
             }
           },
           {
@@ -320,7 +319,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "0c02ff56075b89fe",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
     "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/watchEffect.md",
