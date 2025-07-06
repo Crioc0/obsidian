@@ -1,0 +1,12 @@
+2025 07 0611 20
+Tags: #vue 
+###### Links: 
+1) [[Ref и reactive]]
+# Заметка
+Возвращает реактивную копию объекта.
+**Тип**
+```js
+function reactive<T extends object>(target: T): UnwrapNestedRefs<T>
+```
+**Подробности**
+Реактивное преобразование являе
