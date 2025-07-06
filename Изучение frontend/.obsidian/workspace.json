@@ -11,14 +11,24 @@
             "id": "c279de53bff259bd",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "e65ab1b2592799e2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Composition API.md",
+                "file": "Zettlecasten/reactive().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Composition API"
+              "title": "reactive()"
             }
           },
           {
@@ -305,7 +315,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +324,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Composition API"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -391,10 +400,14 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Provide и Inject.md",
+    "Zettlecasten/Типизация Provide и inject.md",
+    "Zettlecasten/Работа со стилями в Vue.md",
+    "Zettlecasten/reactive().md",
+    "Zettlecasten/Composition API.md",
     "Zettlecasten/События Click.md",
     "Zettlecasten/События touch.md",
     "Zettlecasten/Атрибуты.md",
-    "Zettlecasten/Работа со стилями в Vue.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Передача входных параметров в компоненты.md",
     "Zettlecasten/Слоты.md",
@@ -406,17 +419,13 @@
     "Zettlecasten/Использование Vue с Typescript.md",
     "Zettlecasten/watchEffect().md",
     "Zettlecasten/watchEffect.md",
-    "Zettlecasten/Composition API.md",
     "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/readonly().md",
-    "Zettlecasten/reactive().md",
     "Zettlecasten/computed().md",
     "Zettlecasten/ref().md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
-    "Zettlecasten/Option API.md",
-    "Zettlecasten/Механизмы отрисовки Vue.md",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
