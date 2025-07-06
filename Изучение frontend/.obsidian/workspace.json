@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e65ab1b2592799e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Transition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transition"
-            }
-          },
-          {
             "id": "a28a08a7271552ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Работа со стилями в Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа со стилями в Vue"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -305,7 +287,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Transition"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -389,10 +370,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e65ab1b2592799e2",
+  "active": "a28a08a7271552ed",
   "lastOpenFiles": [
-    "Zettlecasten/Teleport.md",
+    "Zettlecasten/Работа со стилями в Vue.md",
     "Zettlecasten/Transition.md",
+    "Zettlecasten/Teleport.md",
     "Zettlecasten/Suspense.md",
     "Zettlecasten/KeepAlive.md",
     "Zettlecasten/reactive().md",
@@ -411,7 +393,6 @@
     "Zettlecasten/Передача входных параметров в компоненты.md",
     "Zettlecasten/Provide и Inject.md",
     "Zettlecasten/Типизация Provide и inject.md",
-    "Zettlecasten/Работа со стилями в Vue.md",
     "Zettlecasten/События Click.md",
     "Zettlecasten/События touch.md",
     "Zettlecasten/Атрибуты.md",
