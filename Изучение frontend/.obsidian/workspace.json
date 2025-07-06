@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/computed.md",
+                "file": "Zettlecasten/Управление состоянием Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "computed"
+              "title": "Управление состоянием Vue"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "Переходы на основе css"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,17 +194,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Реактивность-основное.md",
+                "file": "Zettlecasten/Управление состоянием Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Реактивность-основное"
+              "title": "Обратные ссылки для Управление состоянием Vue"
             }
           },
           {
@@ -277,13 +278,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "ac182af0850eda5a",
   "lastOpenFiles": [
-    "Zettlecasten/Composition API.md",
-    "Zettlecasten/ref.md",
     "Zettlecasten/computed.md",
-    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Реактивность-основное.md",
+    "Zettlecasten/ref.md",
+    "Zettlecasten/Composition API.md",
+    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
     "Zettlecasten/Виртуальный DOM на основе данных компилятора Vue.md",
