@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/reactive.md",
+                "file": "Zettlecasten/Реактивность-основное.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reactive"
+              "title": "Реактивность-основное"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "Переходы на основе css"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,17 +194,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/reactive.md",
+                "file": "Zettlecasten/ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для reactive"
+              "title": "Обратные ссылки для ref"
             }
           },
           {
@@ -277,14 +278,14 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "e7f3357c16cb19a8",
   "lastOpenFiles": [
     "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/reactive.md",
+    "Zettlecasten/ref.md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Соглашения и лучшие практики composables.md",
     "Zettlecasten/computed.md",
-    "Zettlecasten/ref.md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Option API.md",
