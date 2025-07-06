@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Composition API.md",
+                "file": "Zettlecasten/Слоты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Composition API"
+              "title": "Слоты"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/watchEffect.md",
+                "file": "Zettlecasten/Основы компонентов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "watchEffect"
+              "title": "Основы компонентов"
             }
           },
           {
@@ -161,7 +161,8 @@
               "title": "Переходы на основе css"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Compositio",
+                "query": "defineProp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Composition API.md",
+                "file": "Zettlecasten/Основы компонентов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +246,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Composition API"
+              "title": "Обратные ссылки для Основы компонентов"
             }
           },
           {
@@ -319,18 +320,21 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "0c02ff56075b89fe",
   "lastOpenFiles": [
-    "Zettlecasten/Реактивность-основное.md",
+    "Zettlecasten/Деструктурирование реактивных свойств.md",
+    "Zettlecasten/Детали передачи входных параметров.md",
     "Zettlecasten/watchEffect().md",
     "Zettlecasten/watchEffect.md",
+    "Zettlecasten/Слоты.md",
+    "Zettlecasten/Composition API.md",
+    "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/readonly().md",
     "Zettlecasten/reactive().md",
     "Zettlecasten/computed().md",
     "Zettlecasten/ref().md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Соглашения и лучшие практики composables.md",
-    "Zettlecasten/Composition API.md",
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
@@ -345,9 +349,6 @@
     "Zettlecasten/Отладка реактивности.md",
     "Zettlecasten/Реактивность в Vue.md",
     "Zettlecasten/TS с CompositionAPI.md",
-    "Zettlecasten/Типизация входных параметров.md",
-    "Zettlecasten/Типизация реактивности.md",
-    "Zettlecasten/Типизация обработчиков событий.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
