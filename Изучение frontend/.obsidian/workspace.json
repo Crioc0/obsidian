@@ -11,10 +11,14 @@
             "id": "c279de53bff259bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Типизация реактивности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типизация реактивности"
             }
           },
           {
@@ -315,6 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlecasten/Типизация реактивности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +329,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Типизация реактивности"
             }
           },
           {
@@ -400,8 +405,10 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "Zettlecasten/Встроенные компоненты Vue.md",
+    "Zettlecasten/Ref и reactive.md",
+    "Zettlecasten/Типизация реактивности.md",
     "Zettlecasten/Vue.md",
+    "Zettlecasten/Встроенные компоненты Vue.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Teleport.md",
     "Zettlecasten/KeepAlive.md",
@@ -424,8 +431,6 @@
     "Zettlecasten/watchEffect.md",
     "Zettlecasten/Реактивность-основное.md",
     "Zettlecasten/readonly().md",
-    "Zettlecasten/computed().md",
-    "Zettlecasten/ref().md",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
