@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/События Click.md",
+                "file": "Zettlecasten/Composition API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "События Click"
+              "title": "Composition API"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/События Click.md",
+                "file": "Zettlecasten/Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для События Click"
+              "title": "Обратные ссылки для Composition API"
             }
           },
           {
@@ -391,6 +391,8 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/События Click.md",
+    "Zettlecasten/События touch.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Работа со стилями в Vue.md",
     "Zettlecasten/Основы компонентов.md",
@@ -415,9 +417,7 @@
     "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
-    "Zettlecasten/Виртуальный DOM на основе данных компилятора Vue.md",
     "render-pipeline.CwxnH_lZ.png",
-    "Zettlecasten/Виртуальный DOM.md",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
