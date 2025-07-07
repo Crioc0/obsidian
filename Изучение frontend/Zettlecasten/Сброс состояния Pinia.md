@@ -1,7 +1,7 @@
 2025 07 0716 48
 Tags: 
 ###### Links: 
-1) 
+1)
 # Заметка
 В [option-хранилищах](https://pinia-ru.netlify.app/core-concepts/#option-stores) вы можете сбросить состояние до его начального значения, вызвав на хранилище метод `$reset()` :
 ```js
@@ -22,4 +22,22 @@ export const useCounterStore = defineStore('counter', () => {
 
   return { count, $reset }
 })
+```
+### Использование с Options API
+Предположим, для следующих примеров было создано хранилище:
+```js
+// Пример пути файла:
+// ./src/stores/counter.js
+
+import { defineStore } from 'pinia'
+
+export const useCounterStore = defineStore('counter', {
+  state: () => ({
+    count: 0,
+  }),
+})
+```
+Если вы не используете Composition API, а используете `computed`, `methods`, ..., вы можете использовать помощник `mapState()` для отображения свойств состояния как вычисляемых свойств, доступных только для чтения:
+```js
+
 ```
