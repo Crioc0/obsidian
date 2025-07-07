@@ -316,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -409,12 +409,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Подписка на состояние.md",
+                "file": "Zettlecasten/Состояния Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Подписка на состояние"
+              "title": "Outgoing links from Состояния Pinia"
             }
           },
           {
@@ -476,8 +476,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bcb56080246130a",
+  "active": "601cf4bb9bb78c62",
   "lastOpenFiles": [
+    "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Подписка на состояние.md",
     "Zettlecasten/Состояния Pinia.md",
     "Zettlecasten/Замена состояния.md",
@@ -491,7 +492,6 @@
     "Zettlecasten/Состояния с Typescript Pinia.md",
     "Zettlecasten/Setup-хранилища.md",
     "Zettlecasten/Option хранилище Pinia.md",
-    "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Реактивность в Vue.md",
     "render-pipeline.CwxnH_lZ.png",
