@@ -1,6 +1,23 @@
 2025 07 0716 42
 Tags: #vue 
 ###### Links: 
-1) 
+1) [[Состояния с Typescript Pinia]]
 # Заметка
 В Pinia состояние определяется как функция, которая возвращает начальное состояние. Это позволяет Pinia работать как на серверной, так и на клиентской стороне.
+```js
+import { defineStore } from 'pinia'
+
+export const useStore = defineStore('storeId', {
+  // рекомендуется стрелочная функция для полного вывода типа
+  state: () => {
+    return {
+      // для всех этих свойств тип будет определяться автоматически
+      count: 0,
+      name: 'Eduardo',
+      isAdmin: true,
+      items: [],
+      hasChanged: true,
+    }
+  },
+})
+```

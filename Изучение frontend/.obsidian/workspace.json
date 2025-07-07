@@ -50,6 +50,34 @@
             }
           },
           {
+            "id": "587038af5eb9664d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Состояния с Typescript Pinia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Состояния с Typescript Pinia"
+            }
+          },
+          {
+            "id": "db4fc701cd50ebe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Состояния с Typescript Pinia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Состояния с Typescript Pinia"
+            }
+          },
+          {
             "id": "976af70b33ee8678",
             "type": "leaf",
             "state": {
@@ -274,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -367,12 +395,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Состояния Pinia.md",
+                "file": "Zettlecasten/Состояния с Typescript Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Состояния Pinia"
+              "title": "Outgoing links from Состояния с Typescript Pinia"
             }
           },
           {
@@ -434,9 +462,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4102e98a82ab8770",
+  "active": "587038af5eb9664d",
   "lastOpenFiles": [
     "Zettlecasten/Состояния Pinia.md",
+    "Zettlecasten/Состояния с Typescript Pinia.md",
     "Zettlecasten/Pinia.md",
     "Zettlecasten/Использование хранилища Pinia.md",
     "Zettlecasten/Деструктуризация из хранилища Pinia.md",
@@ -462,7 +491,6 @@
     "Zettlecasten/Ref и reactive.md",
     "Zettlecasten/Vue CLI.md",
     "Zettlecasten/Однофайловые компоненты.md",
-    "Zettlecasten/Пользовательские директивы.md",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
