@@ -29,3 +29,14 @@ const { getUserById } = storeToRefs(userList)
   <p>User 2: {{ getUserById(2) }}</p>
 </template>
 ```
+Обратите внимание, что при этом **геттеры больше не кэшируются**. Они являются обычными функциями, которые вы вызываете. Однако вы можете кэшировать некоторые результаты внутри самого геттера, что необычно, но может оказаться более производительным:
+```js
+export const useStore = defineStore('main', {
+  getters: {
+    getActiveUserById(state) {
+      const activeUsers = state.users.filter((user) => user.active)
+      return (userId) => activeUsers.find((user) => user.id === userId)
+    },
+  },
+})
+```
