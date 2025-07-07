@@ -20,3 +20,21 @@ export const useCounterStore = defineStore('counter', () => {
 
 **Обратите внимание, что вы должны вернуть все свойства состояния в setup-хранилищах, чтобы Pinia могла распознать их как состояние. Другими словами, в хранилищах нельзя иметь _приватные_ свойства состояния. Возвращение не всех свойств состояния может привести к поломке [SSR](https://pinia-ru.netlify.app/cookbook/composables.html), devtools и других плагинов.**
 
+Setup-хранилища также могут зависеть от глобальных _предоставленных_ свойств, таких как Router или Route. Любое свойство, [предоставленное на уровне приложения](https://vuejs.org/api/application.html#app-provide), может быть доступно из хранилища с использованием `inject()`, точно так же, как в компонентах:
+```js
+import { inject } from 'vue'
+import { useRoute } from 'vue-router'
+import { defineStore } from 'pinia'
+
+export const useSearchFilters = defineStore('search-filters', () => {
+  const route = useRoute()
+  // это предполагает, что был вызван `app.provide('appProvided', 'value')`
+  const appProvided = inject('appProvided')
+
+  // ...
+
+  return {
+    // ...
+  }
+})
+```
