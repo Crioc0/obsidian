@@ -39,5 +39,24 @@ export const useCounterStore = defineStore('counter', {
 ```
 Если вы не используете Composition API, а используете `computed`, `methods`, ..., вы можете использовать помощник `mapState()` для отображения свойств состояния как вычисляемых свойств, доступных только для чтения:
 ```js
+import { mapState } from 'pinia'
+import { useCounterStore } from '../stores/counter'
 
+export default {
+  computed: {
+    // предоставляет доступ к this.count внутри компонента
+    // то же самое, что и чтение из store.count
+    ...mapState(useCounterStore, ['count'])
+    // то же самое, что и выше, но регистрирует его как this.myOwnName
+    ...mapState(useCounterStore, {
+      myOwnName: 'count',
+      // можно также написать функцию, которая получает доступ к хранилищу
+      double: store => store.count * 2,
+      // может иметь доступ к `this`, но это не будет корректно типизировано...
+      magicValue(store) {
+        return store.someGetter + this.count + this.double
+      },
+    }),
+  },
+}
 ```
