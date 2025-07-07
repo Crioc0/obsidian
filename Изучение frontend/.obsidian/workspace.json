@@ -302,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -395,12 +395,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Изменение состояния.md",
+                "file": "Zettlecasten/Состояния Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Изменение состояния"
+              "title": "Outgoing links from Состояния Pinia"
             }
           },
           {
@@ -462,7 +462,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43a884e6fada1f81",
+  "active": "601cf4bb9bb78c62",
   "lastOpenFiles": [
     "Zettlecasten/Изменение состояния.md",
     "Zettlecasten/Состояния Pinia.md",
