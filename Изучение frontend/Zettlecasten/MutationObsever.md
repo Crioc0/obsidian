@@ -33,4 +33,4 @@ new MutationObserver(callback).observe(node,condig)
 - `attributeName/attributeNamespace` – имя/пространство имён (для XML) изменённого атрибута,
 - `oldValue` – предыдущее значение, только для изменений атрибута или текста, если включена соответствующая опция `attributeOldValue`/`characterDataOldValue`.
 ## Когда использовать
-MutationObserver можно использовать для отслеживания
+MutationObserver можно использовать для отслеживания появления элементов в DOM-дереве и возможности работы с ними, 
