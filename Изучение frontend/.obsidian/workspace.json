@@ -34,359 +34,8 @@
               "icon": "lucide-file",
               "title": "Pinia"
             }
-          },
-          {
-            "id": "dc94bf2f22268941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Геттеры Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Геттеры Pinia"
-            }
-          },
-          {
-            "id": "dd7c5acd83dee1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Доступ к геттерам других хранилищ Pinia"
-            }
-          },
-          {
-            "id": "de80fcfae22e78a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Доступ к другим геттерам Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Доступ к другим геттерам Pinia"
-            }
-          },
-          {
-            "id": "5d645ca4feba54a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Геттеры Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Геттеры Pinia"
-            }
-          },
-          {
-            "id": "601cf4bb9bb78c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Состояния Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Состояния Pinia"
-            }
-          },
-          {
-            "id": "1bcb56080246130a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Подписка на состояние.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Подписка на состояние"
-            }
-          },
-          {
-            "id": "43a884e6fada1f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Изменение состояния.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Изменение состояния"
-            }
-          },
-          {
-            "id": "4102e98a82ab8770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Состояния Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Состояния Pinia"
-            }
-          },
-          {
-            "id": "db4fc701cd50ebe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Состояния с Typescript Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Состояния с Typescript Pinia"
-            }
-          },
-          {
-            "id": "976af70b33ee8678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Использование хранилища Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Использование хранилища Pinia"
-            }
-          },
-          {
-            "id": "3788f8c5b943348c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Деструктуризация из хранилища Pinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Деструктуризация из хранилища Pinia"
-            }
-          },
-          {
-            "id": "e1ed345a110ba253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Реактивность в Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Реактивность в Vue"
-            }
-          },
-          {
-            "id": "efd97a029a3ec513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Директивы в Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Директивы в Vue"
-            }
-          },
-          {
-            "id": "4cfba31f92873927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Основы компонентов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы компонентов"
-            }
-          },
-          {
-            "id": "c5ef0ce593da5d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Соглашения и лучшие практики composables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Соглашения и лучшие практики composables"
-            }
-          },
-          {
-            "id": "062f80771974958d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Управление состоянием Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Управление состоянием Vue"
-            }
-          },
-          {
-            "id": "45c364e9d456b1f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/VueRouter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VueRouter"
-            }
-          },
-          {
-            "id": "343f02166844131f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Линтинг Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Линтинг Vue"
-            }
-          },
-          {
-            "id": "5a219b1210eac4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Тестирование Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Тестирование Vue"
-            }
-          },
-          {
-            "id": "2a8b10cdcbba7bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Typescript"
-            }
-          },
-          {
-            "id": "fdcedbec74b03a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Браузерные инструменты разработчика Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Браузерные инструменты разработчика Vue"
-            }
-          },
-          {
-            "id": "2c6d74d482c7c585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Встроенные компоненты Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Встроенные компоненты Vue"
-            }
-          },
-          {
-            "id": "4c7e4195587fcdcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Suspense.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Suspense"
-            }
-          },
-          {
-            "id": "39b987c67c16945d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Однофайловые компоненты.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Однофайловые компоненты"
-            }
-          },
-          {
-            "id": "c8e07302d69ad07b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/KeepAlive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KeepAlive"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -479,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
+                "file": "Zettlecasten/Управление состоянием Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Доступ к геттерам других хранилищ Pinia"
+              "title": "Outgoing links from Управление состоянием Vue"
             }
           },
           {
@@ -546,35 +195,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd7c5acd83dee1b3",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
-    "Zettlecasten/Геттеры Pinia.md",
-    "Zettlecasten/Передача аргументов в геттеры Pinia.md",
-    "Zettlecasten/Доступ к другим геттерам Pinia.md",
     "Zettlecasten/Pinia.md",
+    "Zettlecasten/KeepAlive.md",
+    "Zettlecasten/Однофайловые компоненты.md",
+    "Zettlecasten/Suspense.md",
+    "Zettlecasten/Встроенные компоненты Vue.md",
+    "Zettlecasten/Браузерные инструменты разработчика Vue.md",
+    "Zettlecasten/Typescript.md",
+    "Zettlecasten/Тестирование Vue.md",
+    "Zettlecasten/Линтинг Vue.md",
+    "Zettlecasten/VueRouter.md",
     "Zettlecasten/Управление состоянием Vue.md",
-    "Zettlecasten/Состояния Pinia.md",
-    "Zettlecasten/Подписка на состояние.md",
-    "Zettlecasten/Замена состояния.md",
-    "Zettlecasten/Изменение состояния.md",
-    "Zettlecasten/Сброс состояния Pinia.md",
-    "Zettlecasten/Определение хранилища Pinia.md",
-    "Zettlecasten/Использование хранилища Pinia.md",
-    "Zettlecasten/Доступ к состоянию Pinia.md",
-    "Zettlecasten/Деструктуризация из хранилища Pinia.md",
-    "Zettlecasten/Состояния с Typescript Pinia.md",
-    "Zettlecasten/Setup-хранилища.md",
-    "Zettlecasten/Option хранилище Pinia.md",
-    "Zettlecasten/Vue.md",
+    "Zettlecasten/Соглашения и лучшие практики composables.md",
+    "Zettlecasten/Основы компонентов.md",
+    "Zettlecasten/Директивы в Vue.md",
     "Zettlecasten/Реактивность в Vue.md",
+    "Zettlecasten/Деструктуризация из хранилища Pinia.md",
+    "Zettlecasten/Использование хранилища Pinia.md",
+    "Zettlecasten/Состояния с Typescript Pinia.md",
+    "Zettlecasten/Состояния Pinia.md",
+    "Zettlecasten/Изменение состояния.md",
+    "Zettlecasten/Подписка на состояние.md",
+    "Zettlecasten/Геттеры Pinia.md",
+    "Zettlecasten/Доступ к другим геттерам Pinia.md",
+    "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
+    "Zettlecasten/Передача аргументов в геттеры Pinia.md",
+    "Zettlecasten/Замена состояния.md",
     "render-pipeline.CwxnH_lZ.png",
-    "Zettlecasten/Реактивность-основное Composition API.md",
-    "Zettlecasten/Передача значений входных параметров по умолчанию.md",
-    "Zettlecasten/Передача входных параметров в компоненты.md",
-    "Zettlecasten/Отладка реактивности.md",
-    "Zettlecasten/Механизмы отрисовки Vue.md",
-    "Zettlecasten/Виртуальный DOM.md",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
