@@ -3,4 +3,4 @@ Tags: #javaScript
 ###### Links: 
 1) 
 # Заметка
-[[Работа ]]
+[[MutationObsever ]]
