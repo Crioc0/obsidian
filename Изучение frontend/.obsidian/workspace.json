@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Дополнительное.md",
+                "file": "Zettlecasten/Документ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дополнительное"
+              "title": "Документ"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Дополнительное.md",
+                "file": "Zettlecasten/Документ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Дополнительное"
+              "title": "Обратные ссылки для Документ"
             }
           },
           {
@@ -378,6 +378,7 @@
   "active": "a28a08a7271552ed",
   "lastOpenFiles": [
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
+    "Zettlecasten/Документ.md",
     "Zettlecasten/Дополнительное.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
@@ -402,7 +403,6 @@
     "Zettlecasten/Transition.md",
     "Zettlecasten/Teleport.md",
     "Zettlecasten/Suspense.md",
-    "Zettlecasten/KeepAlive.md",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
