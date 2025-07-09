@@ -91,8 +91,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Логические операторы.md",
+                "file": "Zettlecasten/Основы JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Логические операторы"
+              "title": "Outgoing links from Основы JavaScript"
             }
           },
           {
@@ -253,7 +252,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb5e0f780bbc4676",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
     "Zettlecasten/Логические операторы.md",
     "Zettlecasten/Основы JavaScript.md",
