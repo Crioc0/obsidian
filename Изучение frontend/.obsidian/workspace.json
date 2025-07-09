@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c279de53bff259bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы JavaScript"
-            }
-          },
-          {
-            "id": "e065328b0010ebec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Базовые операторы, математика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Базовые операторы, математика"
-            }
-          },
-          {
-            "id": "54183265b5418640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Преобразование типов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Преобразование типов"
-            }
-          },
-          {
-            "id": "ec3f87ce8293b4da",
+            "id": "a28a08a7271552ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,17 +22,213 @@
             }
           },
           {
-            "id": "29c29c35ad906d25",
+            "id": "3365dfb22ca031e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/MutationObsever.md",
+                "file": "Zettlecasten/Браузерное окружение, спецификации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MutationObsever"
+              "title": "Браузерное окружение, спецификации"
+            }
+          },
+          {
+            "id": "c0517a08be27f58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Передача входных параметров в компоненты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Передача входных параметров в компоненты"
+            }
+          },
+          {
+            "id": "5fdb3684a771b159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Деструктурирование реактивных свойств.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Деструктурирование реактивных свойств"
+            }
+          },
+          {
+            "id": "09caa8f0eddfc904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Передача значений входных параметров по умолчанию"
+            }
+          },
+          {
+            "id": "49df09b7b8a11d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Деструктурирование реактивных свойств.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Деструктурирование реактивных свойств"
+            }
+          },
+          {
+            "id": "0c02ff56075b89fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Использование Vue с Typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Использование Vue с Typescript"
+            }
+          },
+          {
+            "id": "475eda26ae756925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/readonly().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readonly()"
+            }
+          },
+          {
+            "id": "0214bb6729b157f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/readonly().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readonly()"
+            }
+          },
+          {
+            "id": "e7f3357c16cb19a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/ref().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ref()"
+            }
+          },
+          {
+            "id": "ac182af0850eda5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Управление состоянием Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление состоянием Vue"
+            }
+          },
+          {
+            "id": "c5ef0ce593da5d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Соглашения и лучшие практики composables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Соглашения и лучшие практики composables"
+            }
+          },
+          {
+            "id": "636a946df32dc1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Пользовательские директивы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пользовательские директивы"
+            }
+          },
+          {
+            "id": "b2e42f6edd0c4f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Встроенные компоненты Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Встроенные компоненты Vue"
+            }
+          },
+          {
+            "id": "c27d0726750d8a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Transition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transition"
+            }
+          },
+          {
+            "id": "8c87eba671a5e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Переходы на основе css.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переходы на основе css"
             }
           }
         ],
@@ -101,7 +255,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -110,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "punia",
+                "query": "defineDefaults",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +272,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -136,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -153,17 +306,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/Браузерное окружение, спецификации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Атрибуты"
+              "title": "Обратные ссылки для Браузерное окружение, спецификации"
             }
           },
           {
@@ -172,12 +325,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Базовые операторы, математика.md",
+                "file": "Zettlecasten/Атрибуты.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Базовые операторы, математика"
+              "title": "Исходящие ссылки из Атрибуты"
             }
           },
           {
@@ -192,7 +345,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -201,13 +354,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Реактивность в Vue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Реактивность в Vue"
+              "title": "Структура"
             }
           },
           {
@@ -220,8 +372,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,47 +380,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e065328b0010ebec",
+  "active": "3365dfb22ca031e5",
   "lastOpenFiles": [
-    "Zettlecasten/Базовые операторы, математика.md",
-    "Zettlecasten/Основы JavaScript.md",
-    "Zettlecasten/Преобразование типов.md",
     "Zettlecasten/Типы данных.md",
+    "Zettlecasten/Преобразование типов.md",
     "Zettlecasten/Переменные.md",
-    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Основы JavaScript.md",
+    "Zettlecasten/Базовые операторы, математика.md",
+    "Браузерное окружение, спецификации.html",
+    "Zettlecasten/Браузерное окружение, спецификации.md",
     "Zettlecasten/Документ.md",
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
-    "Zettlecasten/MutationObsever.md",
-    "Браузерное окружение, спецификации.html",
     "Zettlecasten/Дополнительное.md",
-    "Zettlecasten/Браузерное окружение, спецификации.md",
-    "Zettlecasten/Управление состоянием Vue.md",
-    "Zettlecasten/Pinia.md",
-    "Zettlecasten/KeepAlive.md",
-    "Zettlecasten/Однофайловые компоненты.md",
-    "Zettlecasten/Suspense.md",
-    "Zettlecasten/Встроенные компоненты Vue.md",
-    "Zettlecasten/Браузерные инструменты разработчика Vue.md",
-    "Zettlecasten/Typescript.md",
-    "Zettlecasten/Тестирование Vue.md",
-    "Zettlecasten/Линтинг Vue.md",
-    "Zettlecasten/VueRouter.md",
-    "Zettlecasten/Соглашения и лучшие практики composables.md",
-    "Zettlecasten/Основы компонентов.md",
-    "Zettlecasten/Директивы в Vue.md",
-    "Zettlecasten/Реактивность в Vue.md",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
+    "Zettlecasten/MutationObsever.md",
+    "Zettlecasten/Состояния с Typescript Pinia.md",
+    "Zettlecasten/Состояния Pinia.md",
+    "Zettlecasten/Сброс состояния Pinia.md",
+    "Zettlecasten/Подписка на состояние.md",
+    "Zettlecasten/Передача аргументов в геттеры Pinia.md",
+    "Zettlecasten/Определение хранилища Pinia.md",
+    "Zettlecasten/Использование хранилища Pinia.md",
+    "Zettlecasten/Изменение состояния.md",
+    "Zettlecasten/Замена состояния.md",
+    "Zettlecasten/Доступ к состоянию Pinia.md",
+    "Zettlecasten/Доступ к другим геттерам Pinia.md",
+    "Zettlecasten/Деструктуризация из хранилища Pinia.md",
+    "Zettlecasten/Геттеры Pinia.md",
+    "Zettlecasten/Setup-хранилища.md",
     "render-pipeline.CwxnH_lZ.png",
-    "Типизация Provide",
     "transition-classes.DYG5-69l.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
