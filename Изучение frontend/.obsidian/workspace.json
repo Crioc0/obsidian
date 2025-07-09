@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Логические операторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы JavaScript"
+              "title": "Логические операторы"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Циклы while и for.md",
+                "file": "Zettlecasten/Логические операторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Циклы while и for"
+              "title": "Outgoing links from Логические операторы"
             }
           },
           {
@@ -267,10 +266,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a70cdaf543dbe91",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "Zettlecasten/Циклы while и for.md",
     "Zettlecasten/Основы JavaScript.md",
+    "Zettlecasten/Циклы while и for.md",
     "Zettlecasten/Логические операторы.md",
     "Zettlecasten/Условное ветвление.md",
     "Zettlecasten/Операторы сравнения.md",
