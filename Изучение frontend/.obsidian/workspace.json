@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
+                "file": "Zettlecasten/Документ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Браузер - документ, события, интерфейсы JS"
+              "title": "Документ"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/MutationObsever.md",
+                "file": "Zettlecasten/Документ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MutationObsever"
+              "title": "Outgoing links from Документ"
             }
           },
           {
@@ -211,14 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29c29c35ad906d25",
+  "active": "ec3f87ce8293b4da",
   "lastOpenFiles": [
+    "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
+    "Zettlecasten/MutationObsever.md",
     "Браузерное окружение, спецификации.html",
     "Zettlecasten/Дополнительное.md",
     "Zettlecasten/Документ.md",
     "Zettlecasten/Браузерное окружение, спецификации.md",
-    "Zettlecasten/MutationObsever.md",
-    "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Pinia.md",
