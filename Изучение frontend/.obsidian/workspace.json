@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "09ab0a983be6bc24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Function Expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Function Expression"
+            }
+          },
+          {
             "id": "28f4aea771baa4a7",
             "type": "leaf",
             "state": {
@@ -115,7 +129,8 @@
               "title": "MutationObsever"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,12 +224,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Function Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Основы JavaScript"
+              "title": "Outgoing links from Function Expression"
             }
           },
           {
@@ -276,10 +291,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "09ab0a983be6bc24",
   "lastOpenFiles": [
-    "Zettlecasten/Функции.md",
+    "Zettlecasten/Function Expression.md",
     "Zettlecasten/Основы JavaScript.md",
+    "Zettlecasten/Функции.md",
     "Zettlecasten/Конструкция switch.md",
     "Zettlecasten/Циклы while и for.md",
     "Zettlecasten/Логические операторы.md",
@@ -304,7 +320,6 @@
     "Zettlecasten/Встроенные компоненты Vue.md",
     "Zettlecasten/Браузерные инструменты разработчика Vue.md",
     "Zettlecasten/Typescript.md",
-    "Zettlecasten/Тестирование Vue.md",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
