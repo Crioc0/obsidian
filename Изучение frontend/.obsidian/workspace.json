@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e065328b0010ebec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Базовые операторы, математика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые операторы, математика"
+            }
+          },
+          {
             "id": "54183265b5418640",
             "type": "leaf",
             "state": {
@@ -158,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Преобразование типов.md",
+                "file": "Zettlecasten/Базовые операторы, математика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Преобразование типов"
+              "title": "Outgoing links from Базовые операторы, математика"
             }
           },
           {
@@ -225,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54183265b5418640",
+  "active": "e065328b0010ebec",
   "lastOpenFiles": [
-    "Zettlecasten/Преобразование типов.md",
+    "Zettlecasten/Базовые операторы, математика.md",
     "Zettlecasten/Основы JavaScript.md",
+    "Zettlecasten/Преобразование типов.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/Переменные.md",
     "Zettlecasten/JavaScript.md",
@@ -253,7 +268,6 @@
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Директивы в Vue.md",
     "Zettlecasten/Реактивность в Vue.md",
-    "Zettlecasten/Деструктуризация из хранилища Pinia.md",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
