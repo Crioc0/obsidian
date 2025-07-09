@@ -115,8 +115,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Функции.md",
+                "file": "Zettlecasten/Основы JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Функции"
+              "title": "Outgoing links from Основы JavaScript"
             }
           },
           {
@@ -277,7 +276,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28f4aea771baa4a7",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
     "Zettlecasten/Функции.md",
     "Zettlecasten/Основы JavaScript.md",
