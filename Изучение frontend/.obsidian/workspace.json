@@ -101,8 +101,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlecasten/Циклы while и for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Циклы while и for"
             }
           },
           {
@@ -262,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a70cdaf543dbe91",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
     "Zettlecasten/Циклы while и for.md",
     "Zettlecasten/Основы JavaScript.md",
