@@ -14,4 +14,4 @@ Tags: #javaScript
 [[Конструкция switch]]
 [[Функции]]
 [[Function Expression]]
-[[]]
+[[Стрелочные функции]]
