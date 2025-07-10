@@ -129,8 +129,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Function Expression.md",
+                "file": "Zettlecasten/Основы JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Function Expression"
+              "title": "Outgoing links from Основы JavaScript"
             }
           },
           {
@@ -291,7 +290,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ab0a983be6bc24",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
     "Zettlecasten/Function Expression.md",
     "Zettlecasten/Основы JavaScript.md",
