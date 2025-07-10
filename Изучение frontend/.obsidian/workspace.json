@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdb3684a771b159",
+            "id": "c279de53bff259bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,262 +22,129 @@
             }
           },
           {
-            "id": "09caa8f0eddfc904",
+            "id": "cce4ef74276cac00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
+                "file": "Zettlecasten/Стрелочные функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Передача значений входных параметров по умолчанию"
+              "title": "Стрелочные функции"
             }
           },
           {
-            "id": "49df09b7b8a11d98",
+            "id": "09ab0a983be6bc24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Деструктурирование реактивных свойств.md",
+                "file": "Zettlecasten/Function Expression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Деструктурирование реактивных свойств"
+              "title": "Function Expression"
             }
           },
           {
-            "id": "0c02ff56075b89fe",
+            "id": "28f4aea771baa4a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Использование Vue с Typescript.md",
+                "file": "Zettlecasten/Функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Использование Vue с Typescript"
+              "title": "Функции"
             }
           },
           {
-            "id": "475eda26ae756925",
+            "id": "2a70cdaf543dbe91",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bb5e0f780bbc4676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/readonly().md",
+                "file": "Zettlecasten/Логические операторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readonly()"
+              "title": "Логические операторы"
             }
           },
           {
-            "id": "0214bb6729b157f3",
+            "id": "e065328b0010ebec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/readonly().md",
+                "file": "Zettlecasten/Базовые операторы, математика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readonly()"
+              "title": "Базовые операторы, математика"
             }
           },
           {
-            "id": "e7f3357c16cb19a8",
+            "id": "54183265b5418640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/ref().md",
+                "file": "Zettlecasten/Преобразование типов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ref()"
+              "title": "Преобразование типов"
             }
           },
           {
-            "id": "ac182af0850eda5a",
+            "id": "ec3f87ce8293b4da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Управление состоянием Vue.md",
+                "file": "Zettlecasten/Документ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление состоянием Vue"
+              "title": "Документ"
             }
           },
           {
-            "id": "c5ef0ce593da5d37",
+            "id": "29c29c35ad906d25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Соглашения и лучшие практики composables.md",
+                "file": "Zettlecasten/MutationObsever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Соглашения и лучшие практики composables"
-            }
-          },
-          {
-            "id": "636a946df32dc1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Пользовательские директивы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пользовательские директивы"
-            }
-          },
-          {
-            "id": "b2e42f6edd0c4f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Встроенные компоненты Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Встроенные компоненты Vue"
-            }
-          },
-          {
-            "id": "c27d0726750d8a9e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "79af8fa4e1ca877c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Zettlecasten/Операторы сравнения.md",
-                "bFile": "Изучение frontend/Zettlecasten/Операторы сравнения.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Операторы сравнения"
-            }
-          },
-          {
-            "id": "b398db7f27a28fdd",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Zettlecasten/Операторы сравнения.md",
-                "bFile": "Изучение frontend/Zettlecasten/Операторы сравнения.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Операторы сравнения"
-            }
-          },
-          {
-            "id": "6ea3dadfdc41cbc2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Zettlecasten/Основы JavaScript.md",
-                "bFile": "Изучение frontend/Zettlecasten/Основы JavaScript.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Основы JavaScript"
-            }
-          },
-          {
-            "id": "c580acbfca7ba5f1",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Zettlecasten/Основы JavaScript.md",
-                "bFile": "Изучение frontend/Zettlecasten/Основы JavaScript.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Основы JavaScript"
-            }
-          },
-          {
-            "id": "e2d6a7d787a76f00",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Zettlecasten/Операторы сравнения.md",
-                "bFile": "Изучение frontend/Zettlecasten/Операторы сравнения.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Операторы сравнения"
-            }
-          },
-          {
-            "id": "46e827ef96d07c63",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "02c25bdfe73bce0f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "MutationObsever"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,7 +167,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -309,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defineDefaults",
+                "query": "punia",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,7 +184,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -352,17 +219,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Атрибуты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Основы JavaScript"
+              "title": "Обратные ссылки для Атрибуты"
             }
           },
           {
@@ -371,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/Стрелочные функции.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Атрибуты"
+              "title": "Outgoing links from Стрелочные функции"
             }
           },
           {
@@ -391,7 +258,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -400,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Реактивность в Vue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Основы JavaScript"
+              "title": "Outline of Реактивность в Vue"
             }
           },
           {
@@ -420,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -428,46 +295,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Открыть случайную заметку": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fdb3684a771b159",
+  "active": "cce4ef74276cac00",
   "lastOpenFiles": [
     "Без названия.canvas",
-    "Zettlecasten/Деструктурирование реактивных свойств.md",
-    "conflict-files-obsidian-git.md",
-    "Zettlecasten/Циклы while и for.md",
-    "Zettlecasten/Функции.md",
-    "Zettlecasten/Условное ветвление.md",
     "Zettlecasten/Стрелочные функции.md",
-    "Zettlecasten/Логические операторы.md",
-    "Zettlecasten/Конструкция switch.md",
-    "Zettlecasten/Function Expression.md",
     "Zettlecasten/Основы JavaScript.md",
-    "Zettlecasten/Transition.md",
-    "Zettlecasten/Переходы на основе css.md",
-    "Zettlecasten/Передача входных параметров в компоненты.md",
-    "Zettlecasten/Браузерное окружение, спецификации.md",
+    "Zettlecasten/Function Expression.md",
+    "Zettlecasten/Функции.md",
+    "Zettlecasten/Конструкция switch.md",
+    "Zettlecasten/Циклы while и for.md",
+    "Zettlecasten/Логические операторы.md",
+    "Zettlecasten/Условное ветвление.md",
     "Zettlecasten/Операторы сравнения.md",
-    "Zettlecasten/Типы данных.md",
-    "Zettlecasten/Преобразование типов.md",
-    "Zettlecasten/Переменные.md",
     "Zettlecasten/Базовые операторы, математика.md",
-    "Браузерное окружение, спецификации.html",
+    "Zettlecasten/Преобразование типов.md",
+    "Zettlecasten/Типы данных.md",
+    "Zettlecasten/Переменные.md",
+    "Zettlecasten/JavaScript.md",
     "Zettlecasten/Документ.md",
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
-    "Zettlecasten/Дополнительное.md",
-    "Zettlecasten/JavaScript.md",
-    "Zettlecasten/Доступ к геттерам других хранилищ Pinia.md",
     "Zettlecasten/MutationObsever.md",
+    "Браузерное окружение, спецификации.html",
+    "Zettlecasten/Дополнительное.md",
+    "Zettlecasten/Браузерное окружение, спецификации.md",
+    "Zettlecasten/Управление состоянием Vue.md",
+    "Zettlecasten/Pinia.md",
+    "Zettlecasten/KeepAlive.md",
+    "Zettlecasten/Однофайловые компоненты.md",
+    "Zettlecasten/Suspense.md",
+    "Zettlecasten/Встроенные компоненты Vue.md",
     "render-pipeline.CwxnH_lZ.png",
+    "Типизация Provide",
     "transition-classes.DYG5-69l.png",
     "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
