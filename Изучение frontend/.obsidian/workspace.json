@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/JavaScript.md",
+                "file": "Zettlecasten/Объекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Объекты"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/JavaScript.md",
+                "file": "Zettlecasten/Объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для JavaScript"
+              "title": "Обратные ссылки для Объекты"
             }
           },
           {
@@ -270,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/JavaScript.md",
+                "file": "Zettlecasten/Объекты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура JavaScript"
+              "title": "Структура Объекты"
             }
           },
           {
@@ -310,6 +310,8 @@
   },
   "active": "5fdb3684a771b159",
   "lastOpenFiles": [
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Объекты.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Пользовательские директивы.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
@@ -336,8 +338,6 @@
     "Браузерное окружение, спецификации.html",
     "Zettlecasten/Документ.md",
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
-    "Zettlecasten/Дополнительное.md",
-    "Zettlecasten/JavaScript.md",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия 1.canvas",
