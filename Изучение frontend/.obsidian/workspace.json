@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "7bdd44326ca1cd8f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
+                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "09ab0a983be6bc24",
             "type": "leaf",
             "state": {
@@ -144,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,12 +252,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Стрелочные функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Стрелочные функции"
+              "title": "Outgoing links"
             }
           },
           {
@@ -267,13 +280,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Реактивность в Vue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Реактивность в Vue"
+              "title": "Outline"
             }
           },
           {
@@ -287,7 +299,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -305,10 +317,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cce4ef74276cac00",
+  "active": "7bdd44326ca1cd8f",
   "lastOpenFiles": [
-    "Без названия.canvas",
+    "conflict-files-obsidian-git.md",
     "Zettlecasten/Стрелочные функции.md",
+    "Zettlecasten/Объекты.md",
+    "Без названия.canvas",
     "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Function Expression.md",
     "Zettlecasten/Функции.md",
@@ -333,7 +347,6 @@
     "Zettlecasten/KeepAlive.md",
     "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/Suspense.md",
-    "Zettlecasten/Встроенные компоненты Vue.md",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
