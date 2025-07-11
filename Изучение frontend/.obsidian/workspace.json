@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Копирование объектов и ссылки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объекты"
+              "title": "Копирование объектов и ссылки"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Копирование объектов и ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Объекты"
+              "title": "Outgoing links from Копирование объектов и ссылки"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Копирование объектов и ссылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Объекты"
+              "title": "Outline of Копирование объектов и ссылки"
             }
           },
           {
@@ -306,10 +306,11 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Объекты.md",
+    "Zettlecasten/Копирование объектов и ссылки.md",
     "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Стрелочные функции.md",
     "conflict-files-obsidian-git.md",
-    "Zettlecasten/Объекты.md",
     "Без названия.canvas",
     "Zettlecasten/Function Expression.md",
     "Zettlecasten/Функции.md",
@@ -333,7 +334,6 @@
     "Zettlecasten/Pinia.md",
     "Zettlecasten/KeepAlive.md",
     "Zettlecasten/Однофайловые компоненты.md",
-    "Zettlecasten/Suspense.md",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
