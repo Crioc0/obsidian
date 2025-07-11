@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Объекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы JavaScript"
+              "title": "Объекты"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Основы JavaScript"
+              "title": "Outgoing links from Объекты"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Основы JavaScript.md",
+                "file": "Zettlecasten/Объекты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Основы JavaScript"
+              "title": "Outline of Объекты"
             }
           },
           {
@@ -306,11 +306,11 @@
   },
   "active": "c279de53bff259bd",
   "lastOpenFiles": [
+    "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Стрелочные функции.md",
     "conflict-files-obsidian-git.md",
     "Zettlecasten/Объекты.md",
     "Без названия.canvas",
-    "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Function Expression.md",
     "Zettlecasten/Функции.md",
     "Zettlecasten/Конструкция switch.md",
