@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "7bdd44326ca1cd8f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "09ab0a983be6bc24",
             "type": "leaf",
             "state": {
@@ -157,8 +143,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,11 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlecasten/Основы JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Основы JavaScript"
             }
           },
           {
@@ -280,12 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettlecasten/Основы JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Основы JavaScript"
             }
           },
           {
@@ -317,10 +304,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bdd44326ca1cd8f",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Zettlecasten/Стрелочные функции.md",
+    "conflict-files-obsidian-git.md",
     "Zettlecasten/Объекты.md",
     "Без названия.canvas",
     "Zettlecasten/Основы JavaScript.md",
