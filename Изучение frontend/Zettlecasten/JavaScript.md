@@ -18,6 +18,7 @@
 [[EventLoop]]
 [[fetch]]
 [[Vite]]
+[[Сборка мусора]]
 
 [[Основы JavaScript]]
 [[Объекты]]

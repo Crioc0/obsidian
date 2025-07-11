@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Сборка мусора.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объекты"
+              "title": "Сборка мусора"
             }
           },
           {
@@ -157,8 +157,7 @@
               "title": "MutationObsever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,12 +318,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c84cfe11cf05d8",
+  "active": "c279de53bff259bd",
   "lastOpenFiles": [
-    "Zettlecasten/Сборка мусора.md",
-    "Zettlecasten/Объекты.md",
-    "Zettlecasten/Копирование объектов и ссылки.md",
+    "Zettlecasten/JavaScript.md",
     "Zettlecasten/Основы JavaScript.md",
+    "Zettlecasten/Объекты.md",
+    "Zettlecasten/Сборка мусора.md",
+    "Zettlecasten/Копирование объектов и ссылки.md",
     "Zettlecasten/Стрелочные функции.md",
     "conflict-files-obsidian-git.md",
     "Без названия.canvas",
@@ -339,7 +339,6 @@
     "Zettlecasten/Преобразование типов.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/Переменные.md",
-    "Zettlecasten/JavaScript.md",
     "Zettlecasten/Документ.md",
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
     "Zettlecasten/MutationObsever.md",
