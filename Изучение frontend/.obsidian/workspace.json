@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "f4dd9ff28b32484b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Методы объекта, this.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методы объекта, this"
+            }
+          },
+          {
             "id": "09caa8f0eddfc904",
             "type": "leaf",
             "state": {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Методы объекта, this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Объекты"
+              "title": "Обратные ссылки для Методы объекта, this"
             }
           },
           {
@@ -285,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Методы объекта, this.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Объекты"
+              "title": "Структура Методы объекта, this"
             }
           },
           {
@@ -323,11 +337,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "764c217fbb5f43a6",
+  "active": "f4dd9ff28b32484b",
   "lastOpenFiles": [
+    "Zettlecasten/Методы объекта, this.md",
+    "Zettlecasten/Объекты.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Сборка мусора.md",
-    "Zettlecasten/Объекты.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Пользовательские директивы.md",
@@ -351,7 +366,6 @@
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/Преобразование типов.md",
     "Zettlecasten/Переменные.md",
-    "Zettlecasten/Базовые операторы, математика.md",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
