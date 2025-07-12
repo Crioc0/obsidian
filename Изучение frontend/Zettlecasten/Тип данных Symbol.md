@@ -22,6 +22,7 @@ let id = Symbol('id')
 ```js
 let id = Symbol("id")
 let user = {
-	name:
+	name: 'Вася',
+	[id]:123
 }
 ```
