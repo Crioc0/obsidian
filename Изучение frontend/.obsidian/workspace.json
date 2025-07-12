@@ -175,7 +175,8 @@
               "title": "Пользовательские директивы"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Function Expression и Function Declaration.md",
+                "file": "Zettlecasten/Методы объекта, this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Function Expression и Function Declaration"
+              "title": "Обратные ссылки для Методы объекта, this"
             }
           },
           {
@@ -298,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Function Expression и Function Declaration.md",
+                "file": "Zettlecasten/Методы объекта, this.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Function Expression и Function Declaration"
+              "title": "Структура Методы объекта, this"
             }
           },
           {
@@ -336,11 +337,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5fdb3684a771b159",
+  "active": "f4dd9ff28b32484b",
   "lastOpenFiles": [
+    "Zettlecasten/Объекты.md",
+    "Zettlecasten/Function Expression и Function Declaration.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Методы объекта, this.md",
-    "Zettlecasten/Объекты.md",
     "Zettlecasten/Сборка мусора.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
@@ -356,7 +358,6 @@
     "Zettlecasten/Стрелочные функции.md",
     "Zettlecasten/Логические операторы.md",
     "Zettlecasten/Конструкция switch.md",
-    "Zettlecasten/Function Expression и Function Declaration.md",
     "Zettlecasten/Transition.md",
     "Zettlecasten/Переходы на основе css.md",
     "Zettlecasten/Передача входных параметров в компоненты.md",
