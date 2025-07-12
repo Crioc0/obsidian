@@ -36,17 +36,13 @@
             }
           },
           {
-            "id": "f4dd9ff28b32484b",
+            "id": "e4a2fa76b12a84ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Методы объекта, this.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Методы объекта, this"
+              "title": "Новая вкладка"
             }
           },
           {
@@ -251,7 +247,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Методы объекта, this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +256,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Методы объекта, this"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -299,13 +294,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Методы объекта, this.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Методы объекта, this"
+              "title": "Структура"
             }
           },
           {
@@ -337,12 +331,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "f4dd9ff28b32484b",
+  "active": "e4a2fa76b12a84ad",
   "lastOpenFiles": [
     "Zettlecasten/Объекты.md",
+    "Zettlecasten/Методы объекта, this.md",
     "Zettlecasten/Function Expression и Function Declaration.md",
     "Zettlecasten/JavaScript.md",
-    "Zettlecasten/Методы объекта, this.md",
     "Zettlecasten/Сборка мусора.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
