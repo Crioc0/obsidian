@@ -36,13 +36,17 @@
             }
           },
           {
-            "id": "e4a2fa76b12a84ad",
+            "id": "2400ae0e768e11bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Конструктор, оператор new.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Конструктор, оператор new"
             }
           },
           {
@@ -247,6 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlecasten/Конструктор, оператор new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Конструктор, оператор new"
             }
           },
           {
@@ -294,12 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettlecasten/Конструктор, оператор new.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Конструктор, оператор new"
             }
           },
           {
@@ -331,8 +337,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e4a2fa76b12a84ad",
+  "active": "2400ae0e768e11bc",
   "lastOpenFiles": [
+    "Zettlecasten/Конструктор, оператор new.md",
     "Zettlecasten/Объекты.md",
     "Zettlecasten/Методы объекта, this.md",
     "Zettlecasten/Function Expression и Function Declaration.md",
@@ -359,7 +366,6 @@
     "Zettlecasten/Операторы сравнения.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/Преобразование типов.md",
-    "Zettlecasten/Переменные.md",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
