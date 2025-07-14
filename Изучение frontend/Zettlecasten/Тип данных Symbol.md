@@ -39,5 +39,6 @@ let id = Symbol.for("id")
 // читаем его снова и записываем в другую переменную (возможно, из другого места кода)
 let idAgain = Symbol.for("id")
 // проверяем -- это один и тот же символ
-alert(id === idAgain)
+alert(id === idAgain); // true
 ```
+## Symbol.keyFor
