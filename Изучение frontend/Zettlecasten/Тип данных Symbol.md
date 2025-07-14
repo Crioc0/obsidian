@@ -42,3 +42,9 @@ let idAgain = Symbol.for("id")
 alert(id === idAgain); // true
 ```
 ## Symbol.keyFor
+Для глобальных символов, кроме `Symbol.for(key)`, который ищет символ по имени, существует обратный метод: `Symbol.keyFor(sym)`, который, наоборот, принимает глобальный символ и возвращает его имя.
+```js
+// получаем символ по имени
+let sym = Symbol.for("name")
+let sym2 = Symbol.for(""")
+```
