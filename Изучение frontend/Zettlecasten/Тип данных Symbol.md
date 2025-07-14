@@ -46,5 +46,9 @@ alert(id === idAgain); // true
 ```js
 // получаем символ по имени
 let sym = Symbol.for("name")
-let sym2 = Symbol.for(""")
+let sym2 = Symbol.for("id")
+
+alert(Symbol.keyFor("sym")) // name
+alert(Symbol.keyFor("sym2")) // id
+
 ```
