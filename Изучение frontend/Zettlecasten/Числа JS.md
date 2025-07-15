@@ -27,5 +27,5 @@ Tags: #javaScript
 
 Для дробей:
 
-- Используйте округления `Math.floor`(в меньшую), `Math.ceil`, `Math.trunc`, `Math.round` или `num.toFixed(precision)`.
+- Используйте округления `Math.floor`(в меньшую), `Math.ceil`(в большую), `Math.trunc`(удаление дробной части, `Math.round`(до ближайшего целого) или `num.toFixed(precision)`.
 - Помните, что при работе с дробями происходит потеря точности.
