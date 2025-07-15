@@ -243,7 +243,7 @@
               "state": {
                 "file": "Zettlecasten/Массивы JS.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Массивы JS"
