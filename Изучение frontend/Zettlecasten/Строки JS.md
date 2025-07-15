@@ -42,12 +42,12 @@ str.includes(substr,pos)
 Методы [str.startsWith](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith) и [str.endsWith](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith) проверяют, соответственно, начинается ли и заканчивается ли строка определённой строкой:
 ## Получение подстроки
 В JavaScript есть 3 метода для получения подстроки: `substring`, `substr` и `slice`.
-### slice
+### str.slice
 ```js
 str.slice(start [, end])
 ```
 Возвращает часть строки от `start` до (не включая) `end`. Если аргумент `end` отсутствует, `slice` возвращает символы до конца строки.
-### substring
+### str.substring
 ```js
 str.substring(start [, end])
 ```
@@ -55,4 +55,8 @@ str.substring(start [, end])
 
 Это — почти то же, что и `slice`, но можно задавать `start` больше `end`.  
 Если `start` больше `end`, то метод `substring` сработает так, как если бы аргументы были поменяны местами.
-### su
+### str.substr()
+```js
+str.substr(start [, length])
+```
+Возвращает часть строки от `start` длины `length`.В противоположность предыдущим методам, этот позволяет указать длину вместо конечной позиции. Этот метод находится в [Annex B](https://tc39.es/ecma262/#sec-string.prototype.substr) спецификации языка. Это означает, что его должны поддерживать только браузерные движки JavaScript, и использовать его не рекомендуется. Но на практике он поддерживается везде.
