@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "default",
+                "query": "tag:#javaScript",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,7 +290,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -308,7 +308,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0042f80cd020efd",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "Zettlecasten/Массивы JS.md",
     "Zettlecasten/Типы данных.md",
