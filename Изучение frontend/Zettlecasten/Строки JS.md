@@ -34,3 +34,10 @@ str.indexOf(substr,pos)
 ```js
 str.lastIndexOf(substr,pos)
 ```
+### includes
+```js
+str.includes(substr,pos)
+```
+Более современный метод [str.includes(substr, pos)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/includes) возвращает `true`, если в строке `str` есть подстрока `substr`, либо `false`, если нет.
+Методы [str.startsWith](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith) и [str.endsWith](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith) проверяют, соответственно, начинается ли и заканчивается ли строка определённой строкой:
+## Получение подстроки
