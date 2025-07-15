@@ -64,21 +64,6 @@
             }
           },
           {
-            "id": "25cd7fd1f09c0eaa",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Zettlecasten/Методы объекта, this.md",
-                "bFile": "Изучение frontend/Zettlecasten/Методы объекта, this.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Методы объекта, this"
-            }
-          },
-          {
             "id": "bb5e0f780bbc4676",
             "type": "leaf",
             "state": {
@@ -149,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "punia",
+                "query": "tag:#vue",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -310,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25cd7fd1f09c0eaa",
+  "active": "11ed4ab3f761aba4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Zettlecasten/Методы примитивов.md",
