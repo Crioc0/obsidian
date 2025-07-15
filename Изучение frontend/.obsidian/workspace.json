@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#javaScript",
+                "query": "tag:#javaScript ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -308,8 +308,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "9d6b439683a65783",
   "lastOpenFiles": [
+    "Zettlecasten/Документ.md",
+    "Zettlecasten/Иммутабельные методы массивов.md",
     "Zettlecasten/Массивы JS.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/JavaScript.md",
@@ -334,8 +336,6 @@
     "Zettlecasten/Стрелочные функции.md",
     "Zettlecasten/Сборка мусора.md",
     "Zettlecasten/Основы JavaScript.md",
-    "Zettlecasten/Объекты.md",
-    "Zettlecasten/Копирование объектов и ссылки.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
