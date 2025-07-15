@@ -13,6 +13,6 @@ Tags: #javaScript
 [[Циклы while и for]]
 [[Конструкция switch]]
 [[Функции]]
-[[Function Expression]]
+[[Function Expression и Function Declaration]]
 [[Стрелочные функции]]
 

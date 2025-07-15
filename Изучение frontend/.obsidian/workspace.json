@@ -64,6 +64,21 @@
             }
           },
           {
+            "id": "25cd7fd1f09c0eaa",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/Zettlecasten/Методы объекта, this.md",
+                "bFile": "Изучение frontend/Zettlecasten/Методы объекта, this.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Методы объекта, this"
+            }
+          },
+          {
             "id": "bb5e0f780bbc4676",
             "type": "leaf",
             "state": {
@@ -134,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -295,9 +310,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11ed4ab3f761aba4",
+  "active": "25cd7fd1f09c0eaa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Zettlecasten/Методы примитивов.md",
+    "Zettlecasten/Тип данных Symbol.md",
+    "Zettlecasten/Преобразование объектов в примитивы.md",
+    "Zettlecasten/Опциональная цепочка свойств объектов.md",
+    "Zettlecasten/Методы объекта, this.md",
+    "Zettlecasten/Конструктор, оператор new.md",
+    "Zettlecasten/Function Expression и Function Declaration.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Функции.md",
@@ -307,7 +329,6 @@
     "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Объекты.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
-    "conflict-files-obsidian-git.md",
     "Без названия.canvas",
     "Zettlecasten/Конструкция switch.md",
     "Zettlecasten/Циклы while и for.md",
@@ -318,13 +339,7 @@
     "Zettlecasten/Преобразование типов.md",
     "Zettlecasten/Переменные.md",
     "Zettlecasten/Документ.md",
-    "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
-    "Zettlecasten/MutationObsever.md",
     "Браузерное окружение, спецификации.html",
-    "Zettlecasten/Дополнительное.md",
-    "Zettlecasten/Браузерное окружение, спецификации.md",
-    "Zettlecasten/Управление состоянием Vue.md",
-    "Zettlecasten/Pinia.md",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
