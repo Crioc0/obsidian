@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c279de53bff259bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Сборка мусора.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сборка мусора"
-            }
-          },
-          {
-            "id": "53c84cfe11cf05d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Сборка мусора.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сборка мусора"
-            }
-          },
-          {
-            "id": "cce4ef74276cac00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Стрелочные функции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Стрелочные функции"
-            }
-          },
-          {
-            "id": "09ab0a983be6bc24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Function Expression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function Expression"
-            }
-          },
-          {
             "id": "28f4aea771baa4a7",
             "type": "leaf",
             "state": {
@@ -81,10 +25,42 @@
             "id": "2a70cdaf543dbe91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript"
+            }
+          },
+          {
+            "id": "8298819ca93c4a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Типы данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных"
+            }
+          },
+          {
+            "id": "11ed4ab3f761aba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Методы примитивов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методы примитивов"
             }
           },
           {
@@ -157,7 +133,8 @@
               "title": "MutationObsever"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -318,18 +295,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c279de53bff259bd",
+  "active": "11ed4ab3f761aba4",
   "lastOpenFiles": [
+    "Zettlecasten/Методы примитивов.md",
+    "Zettlecasten/Типы данных.md",
     "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Функции.md",
+    "Zettlecasten/Function Expression.md",
+    "Zettlecasten/Стрелочные функции.md",
+    "Zettlecasten/Сборка мусора.md",
     "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Объекты.md",
-    "Zettlecasten/Сборка мусора.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
-    "Zettlecasten/Стрелочные функции.md",
     "conflict-files-obsidian-git.md",
     "Без названия.canvas",
-    "Zettlecasten/Function Expression.md",
-    "Zettlecasten/Функции.md",
     "Zettlecasten/Конструкция switch.md",
     "Zettlecasten/Циклы while и for.md",
     "Zettlecasten/Логические операторы.md",
@@ -337,7 +316,6 @@
     "Zettlecasten/Операторы сравнения.md",
     "Zettlecasten/Базовые операторы, математика.md",
     "Zettlecasten/Преобразование типов.md",
-    "Zettlecasten/Типы данных.md",
     "Zettlecasten/Переменные.md",
     "Zettlecasten/Документ.md",
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
@@ -347,7 +325,6 @@
     "Zettlecasten/Браузерное окружение, спецификации.md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Pinia.md",
-    "Zettlecasten/KeepAlive.md",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
     "transition-classes.DYG5-69l.png",
