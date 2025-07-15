@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Строки JS.md",
+                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Строки JS"
+              "title": "Передача значений входных параметров по умолчанию"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vue",
+                "query": "default",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,6 +296,7 @@
   },
   "active": "6e953748348aab26",
   "lastOpenFiles": [
+    "Zettlecasten/Детали передачи входных параметров.md",
     "Zettlecasten/Строки JS.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/Числа JS.md",
@@ -322,7 +323,6 @@
     "Zettlecasten/Условное ветвление.md",
     "Zettlecasten/Операторы сравнения.md",
     "Zettlecasten/Базовые операторы, математика.md",
-    "Zettlecasten/Преобразование типов.md",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
     "Типизация Provide",
