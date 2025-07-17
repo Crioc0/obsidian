@@ -319,7 +319,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -333,11 +333,11 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Открыть случайную заметку": false
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "057072d933d0597f",
+  "active": "6e318ffebdb70cbe",
   "lastOpenFiles": [
     "Zettlecasten/Числа JS.md",
     "Zettlecasten/Строки JS.md",
