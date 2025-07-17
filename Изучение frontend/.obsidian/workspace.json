@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Function Expression и Function Declaration.md",
+                "file": "Zettlecasten/Массивы JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Expression и Function Declaration"
+              "title": "Массивы JS"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Пользовательские директивы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Массивы JS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Объекты"
+              "title": "Структура Массивы JS"
             }
           },
           {
@@ -323,17 +322,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "764c217fbb5f43a6",
+  "active": "5fdb3684a771b159",
   "lastOpenFiles": [
-    "Zettlecasten/Основы JavaScript.md",
+    "Zettlecasten/Типы данных.md",
     "Zettlecasten/Function Expression и Function Declaration.md",
+    "Zettlecasten/Объекты.md",
+    "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Преобразование объектов в примитивы.md",
     "Zettlecasten/Числа JS.md",
     "Zettlecasten/Строки JS.md",
     "Zettlecasten/Методы примитивов.md",
     "Zettlecasten/Массивы JS.md",
-    "Zettlecasten/Объекты.md",
     "Zettlecasten/Тип данных Symbol.md",
     "Zettlecasten/Опциональная цепочка свойств объектов.md",
     "Zettlecasten/Конструктор, оператор new.md",
@@ -351,7 +351,6 @@
     "Zettlecasten/Условное ветвление.md",
     "Zettlecasten/Стрелочные функции.md",
     "Zettlecasten/Логические операторы.md",
-    "Zettlecasten/Конструкция switch.md",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
