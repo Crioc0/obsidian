@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -374,11 +374,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "523ca87bcfc4da2d",
+  "active": "09caa8f0eddfc904",
   "lastOpenFiles": [
-    "Zettlecasten/Сортировка.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Сортировка вставкой.md",
+    "Zettlecasten/Сортировка.md",
     "Zettlecasten/Пользовательские директивы.md",
     "Zettlecasten/Методы массивов.md",
     "Zettlecasten/Массивы JS.md",
