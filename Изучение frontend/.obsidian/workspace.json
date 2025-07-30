@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Сортировка выбором.md",
+                "file": "Zettlecasten/Поиск наименьшего элемента массива.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сортировка выбором"
+              "title": "Поиск наименьшего элемента массива"
             }
           },
           {
@@ -474,13 +474,13 @@
   },
   "active": "ab40c77e058089c8",
   "lastOpenFiles": [
+    "Zettlecasten/Сортировка выбором.md",
     "Zettlecasten/Сортировка.md",
     "Zettlecasten/Сортировка вставкой.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск.md",
-    "Zettlecasten/Сортировка выбором.md",
     "Zettlecasten/Поиск наименьшего элемента массива.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Пользовательские директивы.md",
