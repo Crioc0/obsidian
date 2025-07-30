@@ -284,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -444,7 +444,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "24c5e0e0d8a669eb",
+  "active": "d284efe495c985f4",
   "lastOpenFiles": [
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск.md",
