@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -276,15 +276,15 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8d409f1b4664fab9",
+  "active": "24c5e0e0d8a669eb",
   "lastOpenFiles": [
-    "Zettlecasten/Быстрая сортировка.md",
+    "Zettlecasten/Рекурсия.md",
     "Zettlecasten/Сортировка.md",
     "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Быстрая сортировка.md",
     "Zettlecasten/Стек.md",
     "Zettlecasten/Рекурсивный стек.md",
     "Zettlecasten/Стек вызовов.md",
-    "Zettlecasten/Рекурсия.md",
     "Чистые функции.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск наименьшего элемента массива.md",
