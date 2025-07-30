@@ -101,7 +101,8 @@
               "title": "Стек вызовов"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,12 +262,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5fdb3684a771b159",
+  "active": "d284efe495c985f4",
   "lastOpenFiles": [
+    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Стек.md",
     "Zettlecasten/Рекурсивный стек.md",
     "Zettlecasten/Стек вызовов.md",
-    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Рекурсия.md",
     "Чистые функции.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
