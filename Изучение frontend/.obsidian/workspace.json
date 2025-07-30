@@ -298,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -458,7 +458,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "f63d2300b0e22f2b",
+  "active": "d284efe495c985f4",
   "lastOpenFiles": [
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Алгоритмы.md",
