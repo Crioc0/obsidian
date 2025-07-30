@@ -312,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -472,16 +472,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "ab40c77e058089c8",
+  "active": "24c5e0e0d8a669eb",
   "lastOpenFiles": [
-    "Zettlecasten/Сортировка выбором.md",
     "Zettlecasten/Сортировка.md",
+    "Zettlecasten/Поиск наименьшего элемента массива.md",
+    "Zettlecasten/Сортировка выбором.md",
     "Zettlecasten/Сортировка вставкой.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск.md",
-    "Zettlecasten/Поиск наименьшего элемента массива.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Пользовательские директивы.md",
     "Zettlecasten/Методы массивов.md",
