@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Алгоритм бинарного поиска.md",
+                "file": "Zettlecasten/Алгоритмы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритм бинарного поиска"
+              "title": "Алгоритмы"
             }
           },
           {
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Поиск в ширину.md",
+                "file": "Zettlecasten/Алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поиск в ширину"
+              "title": "Обратные ссылки для Алгоритмы"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Поиск в ширину.md",
+                "file": "Zettlecasten/Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Поиск в ширину"
+              "title": "Исходящие ссылки из Алгоритмы"
             }
           },
           {
@@ -308,10 +308,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c0fa9e65d2cd9e99",
+  "active": "27b774006656eee9",
   "lastOpenFiles": [
-    "Zettlecasten/Поиск.md",
+    "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск в ширину.md",
+    "Zettlecasten/Поиск.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Графы.md",
     "Zettlecasten/Алгоритмы.md",
@@ -321,7 +322,6 @@
     "Zettlecasten/Коэфициент заполнения.md",
     "Zettlecasten/Быстродействие хэш-таблиц.md",
     "Zettlecasten/Коллизии хэш-функций.md",
-    "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск наименьшего элемента массива.md",
     "Zettlecasten/Стратегия решения алгоритма разделяй и властвуй.md",
     "Zettlecasten/Рекурсия.md",
