@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Хэш-таблицы.md",
+                "file": "Zettlecasten/Поиск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Хэш-таблицы"
+              "title": "Обратные ссылки для Поиск"
             }
           },
           {
@@ -293,12 +293,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Хэш-таблицы.md",
+                "file": "Zettlecasten/Поиск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Хэш-таблицы"
+              "title": "Исходящие ссылки из Поиск"
             }
           },
           {
@@ -360,13 +360,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "6fa48a4626c908f2",
+  "active": "5716fbf7a6f1b8bd",
   "lastOpenFiles": [
+    "Zettlecasten/Хэш-таблицы.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Сортировка.md",
     "Zettlecasten/Коэфициент заполнения.md",
     "Zettlecasten/Быстродействие хэш-таблиц.md",
-    "Zettlecasten/Хэш-таблицы.md",
     "Zettlecasten/Коллизии хэш-функций.md",
     "Zettlecasten/Быстрая сортировка.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
