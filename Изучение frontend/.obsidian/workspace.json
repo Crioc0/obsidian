@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Графы.md",
+                "file": "Zettlecasten/Поиск в ширину.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Графы"
+              "title": "Обратные ссылки для Поиск в ширину"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Графы.md",
+                "file": "Zettlecasten/Поиск в ширину.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Графы"
+              "title": "Исходящие ссылки из Поиск в ширину"
             }
           },
           {
@@ -308,13 +308,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "24c5e0e0d8a669eb",
+  "active": "c0fa9e65d2cd9e99",
   "lastOpenFiles": [
+    "Zettlecasten/Графы.md",
     "Zettlecasten/Поиск в ширину.md",
     "Zettlecasten/Поиск.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Быстрая сортировка.md",
-    "Zettlecasten/Графы.md",
     "Zettlecasten/Сортировка.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Хэш-таблицы.md",
