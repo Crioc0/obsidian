@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Алгоритмы.md",
+                "file": "Zettlecasten/Деревья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмы"
+              "title": "Деревья"
             }
           },
           {
@@ -147,7 +147,8 @@
               "title": "Стек вызовов"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Поиск.md",
+                "file": "Zettlecasten/Деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поиск"
+              "title": "Обратные ссылки для Деревья"
             }
           },
           {
@@ -240,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Поиск.md",
+                "file": "Zettlecasten/Деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Поиск"
+              "title": "Исходящие ссылки из Деревья"
             }
           },
           {
@@ -307,13 +308,15 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8d409f1b4664fab9",
+  "active": "27b774006656eee9",
   "lastOpenFiles": [
+    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Деревья.md",
+    "Zettlecasten/Поиск.md",
+    "Zettlecasten/Поиск в глубину.md",
     "Zettlecasten/Графы.md",
     "Zettlecasten/Поиск в ширину.md",
-    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
-    "Zettlecasten/Поиск.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Быстрая сортировка.md",
     "Zettlecasten/Сортировка.md",
@@ -333,8 +336,6 @@
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Пользовательские директивы.md",
     "Zettlecasten/Методы массивов.md",
-    "Zettlecasten/Массивы JS.md",
-    "Zettlecasten/Типы данных.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
