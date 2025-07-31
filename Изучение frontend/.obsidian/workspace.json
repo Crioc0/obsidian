@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Коэфициент заполнения.md",
+                "file": "Zettlecasten/Хэш-таблицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Коэфициент заполнения"
+              "title": "Обратные ссылки для Хэш-таблицы"
             }
           },
           {
@@ -293,12 +293,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Коэфициент заполнения.md",
+                "file": "Zettlecasten/Хэш-таблицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Коэфициент заполнения"
+              "title": "Исходящие ссылки из Хэш-таблицы"
             }
           },
           {
@@ -360,14 +360,14 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "4dc7ce37fcc92984",
+  "active": "6fa48a4626c908f2",
   "lastOpenFiles": [
+    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Сортировка.md",
     "Zettlecasten/Коэфициент заполнения.md",
     "Zettlecasten/Быстродействие хэш-таблиц.md",
     "Zettlecasten/Хэш-таблицы.md",
     "Zettlecasten/Коллизии хэш-функций.md",
-    "Zettlecasten/Алгоритмы.md",
-    "Zettlecasten/Сортировка.md",
     "Zettlecasten/Быстрая сортировка.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск наименьшего элемента массива.md",
