@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "34bd033f43268691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Бинарное дерево.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бинарное дерево"
+            }
+          },
+          {
             "id": "c9db033bcf5e2272",
             "type": "leaf",
             "state": {
@@ -148,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -222,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Деревья.md",
+                "file": "Zettlecasten/Бинарное дерево.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +246,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Деревья"
+              "title": "Обратные ссылки для Бинарное дерево"
             }
           },
           {
@@ -241,12 +255,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Деревья.md",
+                "file": "Zettlecasten/Бинарное дерево.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Деревья"
+              "title": "Исходящие ссылки из Бинарное дерево"
             }
           },
           {
@@ -308,10 +322,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "27b774006656eee9",
+  "active": "34bd033f43268691",
   "lastOpenFiles": [
-    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Бинарное дерево.md",
     "Zettlecasten/Деревья.md",
+    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Поиск.md",
     "Zettlecasten/Поиск в глубину.md",
     "Zettlecasten/Графы.md",
@@ -335,7 +350,6 @@
     "Zettlecasten/Сортировка вставкой.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Zettlecasten/Пользовательские директивы.md",
-    "Zettlecasten/Методы массивов.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
