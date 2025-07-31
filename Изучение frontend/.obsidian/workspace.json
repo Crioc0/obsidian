@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdb3684a771b159",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
             "id": "d284efe495c985f4",
             "type": "leaf",
             "state": {
@@ -79,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Алгоритмы.md",
+                "file": "Zettlecasten/Графы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмы"
+              "title": "Графы"
             }
           },
           {
@@ -186,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -260,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Алгоритмы.md",
+                "file": "Zettlecasten/Графы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Алгоритмы"
+              "title": "Обратные ссылки для Графы"
             }
           },
           {
@@ -279,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Алгоритмы.md",
+                "file": "Zettlecasten/Графы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Алгоритмы"
+              "title": "Исходящие ссылки из Графы"
             }
           },
           {
@@ -348,11 +338,12 @@
   },
   "active": "24c5e0e0d8a669eb",
   "lastOpenFiles": [
+    "Zettlecasten/Графы.md",
+    "Zettlecasten/Сортировка.md",
+    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Поиск.md",
     "Zettlecasten/Хэш-таблицы.md",
-    "Zettlecasten/Алгоритмы.md",
-    "Zettlecasten/Сортировка.md",
     "Zettlecasten/Коэфициент заполнения.md",
     "Zettlecasten/Быстродействие хэш-таблиц.md",
     "Zettlecasten/Коллизии хэш-функций.md",
@@ -373,7 +364,6 @@
     "Zettlecasten/Массивы JS.md",
     "Zettlecasten/Типы данных.md",
     "Zettlecasten/Function Expression и Function Declaration.md",
-    "Zettlecasten/Объекты.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
