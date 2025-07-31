@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Поиск в ширину.md",
+                "file": "Zettlecasten/Графы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поиск в ширину"
+              "title": "Обратные ссылки для Графы"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Поиск в ширину.md",
+                "file": "Zettlecasten/Графы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Поиск в ширину"
+              "title": "Исходящие ссылки из Графы"
             }
           },
           {
@@ -308,7 +308,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c0fa9e65d2cd9e99",
+  "active": "24c5e0e0d8a669eb",
   "lastOpenFiles": [
     "Zettlecasten/Поиск в ширину.md",
     "Zettlecasten/Поиск.md",
