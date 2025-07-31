@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Коллизии хэш-функций.md",
+                "file": "Zettlecasten/Хэш-таблицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Коллизии хэш-функций"
+              "title": "Обратные ссылки для Хэш-таблицы"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Коллизии хэш-функций.md",
+                "file": "Zettlecasten/Хэш-таблицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Коллизии хэш-функций"
+              "title": "Исходящие ссылки из Хэш-таблицы"
             }
           },
           {
@@ -332,7 +332,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e35856147242a31d",
+  "active": "6fa48a4626c908f2",
   "lastOpenFiles": [
     "Zettlecasten/Коллизии хэш-функций.md",
     "Zettlecasten/Хэш-таблицы.md",
