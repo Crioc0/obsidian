@@ -78,6 +78,34 @@
             }
           },
           {
+            "id": "0f3f3f83d097d67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разновидности сбалансированных деревьев BST"
+            }
+          },
+          {
+            "id": "523cdadfdda456a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/АВЛ-деревья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "АВЛ-деревья"
+            }
+          },
+          {
             "id": "cf7108faf5b683fb",
             "type": "leaf",
             "state": {
@@ -176,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/BST Бинарное дерево поиска.md",
+                "file": "Zettlecasten/АВЛ-деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +288,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для BST Бинарное дерево поиска"
+              "title": "Обратные ссылки для АВЛ-деревья"
             }
           },
           {
@@ -269,12 +297,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/BST Бинарное дерево поиска.md",
+                "file": "Zettlecasten/АВЛ-деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из BST Бинарное дерево поиска"
+              "title": "Исходящие ссылки из АВЛ-деревья"
             }
           },
           {
@@ -336,8 +364,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "756f3c28458c0c89",
+  "active": "523cdadfdda456a1",
   "lastOpenFiles": [
+    "Zettlecasten/АВЛ-деревья.md",
+    "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
     "Zettlecasten/BST Бинарное дерево поиска.md",
     "Zettlecasten/Бинарное дерево.md",
     "Zettlecasten/Деревья.md",
@@ -362,8 +392,6 @@
     "Zettlecasten/Стек вызовов.md",
     "Чистые функции.md",
     "Zettlecasten/Сортировка выбором.md",
-    "Zettlecasten/Сортировка вставкой.md",
-    "Zettlecasten/Передача значений входных параметров по умолчанию.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
