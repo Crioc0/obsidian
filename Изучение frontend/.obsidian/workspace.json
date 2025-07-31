@@ -147,8 +147,7 @@
               "title": "Стек вызовов"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Поиск в ширину.md",
+                "file": "Zettlecasten/Поиск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поиск в ширину"
+              "title": "Обратные ссылки для Поиск"
             }
           },
           {
@@ -241,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Поиск в ширину.md",
+                "file": "Zettlecasten/Поиск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Поиск в ширину"
+              "title": "Исходящие ссылки из Поиск"
             }
           },
           {
@@ -308,12 +307,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c0fa9e65d2cd9e99",
+  "active": "8d409f1b4664fab9",
   "lastOpenFiles": [
-    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Графы.md",
-    "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск в ширину.md",
+    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Быстрая сортировка.md",
