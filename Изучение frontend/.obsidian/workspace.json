@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Алгоритмы.md",
+                "file": "Zettlecasten/Поиск в ширину.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Алгоритмы"
+              "title": "Обратные ссылки для Поиск в ширину"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Алгоритмы.md",
+                "file": "Zettlecasten/Поиск в ширину.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Алгоритмы"
+              "title": "Исходящие ссылки из Поиск в ширину"
             }
           },
           {
@@ -308,14 +308,14 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "27b774006656eee9",
+  "active": "c0fa9e65d2cd9e99",
   "lastOpenFiles": [
+    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Графы.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Поиск в ширину.md",
     "Zettlecasten/Поиск.md",
     "Zettlecasten/Время выполнения O-большое.md",
-    "Zettlecasten/Графы.md",
-    "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Быстрая сортировка.md",
     "Zettlecasten/Сортировка.md",
     "Zettlecasten/Хэш-таблицы.md",
