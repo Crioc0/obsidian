@@ -1,5 +1,6 @@
 2025 08 2615 15
-Tags: 
+Tags: #typescript 
 ###### Links: 
 1) 
 # Заметка
+[[type]] 
