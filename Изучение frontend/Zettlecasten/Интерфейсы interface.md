@@ -3,3 +3,4 @@ Tags: #typescript
 ###### Links: 
 1) 
 # Заметка
+TypeScript осуществляет поддержку интерфейсов с помощью ключевых слов interface и implements, но сами интерфейсы в JavaScript-код не компилируются.
