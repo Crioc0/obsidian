@@ -3,4 +3,5 @@ Tags: #typescript
 ###### Links: 
 1) 
 # Заметка
-[[type]] 
+[[Типы type]] 
+[[Интерфейсы interface]]
