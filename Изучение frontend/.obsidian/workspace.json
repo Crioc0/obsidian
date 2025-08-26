@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Vue.md",
+                "file": "Zettlecasten/Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vue"
+              "title": "Typescript"
             }
           },
           {
@@ -405,8 +405,8 @@
   },
   "active": "6dd4d70f9ab4d826",
   "lastOpenFiles": [
-    "Zettlecasten/Typescript.md",
     "Zettlecasten/Vue.md",
+    "Zettlecasten/Typescript.md",
     "Zettlecasten/B-деревья.md",
     "Zettlecasten/BST Бинарное дерево поиска.md",
     "Zettlecasten/Бинарное дерево.md",
