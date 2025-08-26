@@ -8,7 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdb3684a771b159",
+            "id": "8d409f1b4664fab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Поиск.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c0fa9e65d2cd9e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Поиск в ширину.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поиск в ширину"
+            }
+          },
+          {
+            "id": "f63d2300b0e22f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Время выполнения O-большое.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Время выполнения O-большое"
+            }
+          },
+          {
+            "id": "24c5e0e0d8a669eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/BST Бинарное дерево поиска.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BST Бинарное дерево поиска"
+            }
+          },
+          {
+            "id": "791cb40b4177f50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vue"
+            }
+          },
+          {
+            "id": "6dd4d70f9ab4d826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vue"
+            }
+          },
+          {
+            "id": "18e373f4eacbf5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/B-деревья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B-деревья"
+            }
+          },
+          {
+            "id": "5d2cb7f8c44a080b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разновидности сбалансированных деревьев BST"
+            }
+          },
+          {
+            "id": "cb7020bb22f81ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Косые деревья или splay деревья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Косые деревья или splay деревья"
+            }
+          },
+          {
+            "id": "abe1f10af45ccfb0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,146 +144,105 @@
             }
           },
           {
-            "id": "764c217fbb5f43a6",
+            "id": "cf7108faf5b683fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Быстродействие хэш-таблиц.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объекты"
+              "title": "Быстродействие хэш-таблиц"
             }
           },
           {
-            "id": "09caa8f0eddfc904",
+            "id": "4dc7ce37fcc92984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Передача значений входных параметров по умолчанию.md",
+                "file": "Zettlecasten/Коэфициент заполнения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Передача значений входных параметров по умолчанию"
+              "title": "Коэфициент заполнения"
             }
           },
           {
-            "id": "49df09b7b8a11d98",
+            "id": "e35856147242a31d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Деструктурирование реактивных свойств.md",
+                "file": "Zettlecasten/Коллизии хэш-функций.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Деструктурирование реактивных свойств"
+              "title": "Коллизии хэш-функций"
             }
           },
           {
-            "id": "0c02ff56075b89fe",
+            "id": "27b774006656eee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Использование Vue с Typescript.md",
+                "file": "Zettlecasten/Деревья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Использование Vue с Typescript"
+              "title": "Деревья"
             }
           },
           {
-            "id": "475eda26ae756925",
+            "id": "34bd033f43268691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/readonly().md",
+                "file": "Zettlecasten/Бинарное дерево.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readonly()"
+              "title": "Бинарное дерево"
             }
           },
           {
-            "id": "0214bb6729b157f3",
+            "id": "c9db033bcf5e2272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/readonly().md",
+                "file": "Zettlecasten/Стек.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readonly()"
+              "title": "Стек"
             }
           },
           {
-            "id": "e7f3357c16cb19a8",
+            "id": "cc244e8d6c7ec829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/ref().md",
+                "file": "Zettlecasten/Стек вызовов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ref()"
-            }
-          },
-          {
-            "id": "ac182af0850eda5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Управление состоянием Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Управление состоянием Vue"
-            }
-          },
-          {
-            "id": "c5ef0ce593da5d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Соглашения и лучшие практики composables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Соглашения и лучшие практики composables"
-            }
-          },
-          {
-            "id": "636a946df32dc1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Пользовательские директивы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пользовательские директивы"
+              "title": "Стек вызовов"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,7 +274,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defineDefaults",
+                "query": "Typesc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/Тип данных Symbol.md",
+                "file": "Zettlecasten/B-деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Тип данных Symbol"
+              "title": "Обратные ссылки для B-деревья"
             }
           },
           {
@@ -250,12 +335,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/B-деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Атрибуты"
+              "title": "Исходящие ссылки из B-деревья"
             }
           },
           {
@@ -317,34 +402,34 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5fdb3684a771b159",
+  "active": "6dd4d70f9ab4d826",
   "lastOpenFiles": [
-    "Zettlecasten/Методы массивов.md",
-    "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
-    "Zettlecasten/Поиск в ширину.md",
-    "Zettlecasten/Поиск в глубину.md",
-    "Zettlecasten/Коэфициент заполнения.md",
-    "Zettlecasten/Косые деревья или splay деревья.md",
-    "Zettlecasten/Коллизии хэш-функций.md",
-    "Zettlecasten/Деревья.md",
-    "Zettlecasten/Графы.md",
-    "Zettlecasten/Быстродействие хэш-таблиц.md",
-    "Zettlecasten/Бинарное дерево.md",
-    "Zettlecasten/АВЛ-деревья.md",
-    "Zettlecasten/BST Бинарное дерево поиска.md",
+    "Zettlecasten/Typescript.md",
+    "Zettlecasten/Vue.md",
     "Zettlecasten/B-деревья.md",
-    "Zettlecasten/Хэш-таблицы.md",
-    "Zettlecasten/Стратегия решения алгоритма разделяй и властвуй.md",
-    "Zettlecasten/Стек.md",
-    "Zettlecasten/Стек вызовов.md",
-    "Zettlecasten/Сортировка.md",
-    "Zettlecasten/Сортировка выбором.md",
-    "Zettlecasten/Рекурсия.md",
-    "Zettlecasten/Рекурсивный стек.md",
+    "Zettlecasten/BST Бинарное дерево поиска.md",
+    "Zettlecasten/Бинарное дерево.md",
+    "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
+    "Zettlecasten/Косые деревья или splay деревья.md",
+    "Zettlecasten/АВЛ-деревья.md",
+    "Zettlecasten/Деревья.md",
+    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Графы.md",
     "Zettlecasten/Поиск.md",
-    "Zettlecasten/Поиск наименьшего элемента массива.md",
+    "Zettlecasten/Стек.md",
+    "Zettlecasten/Поиск в глубину.md",
+    "Zettlecasten/Поиск в ширину.md",
+    "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Быстрая сортировка.md",
+    "Zettlecasten/Сортировка.md",
+    "Zettlecasten/Хэш-таблицы.md",
+    "Zettlecasten/Коэфициент заполнения.md",
+    "Zettlecasten/Быстродействие хэш-таблиц.md",
+    "Zettlecasten/Коллизии хэш-функций.md",
+    "Zettlecasten/Поиск наименьшего элемента массива.md",
+    "Zettlecasten/Стратегия решения алгоритма разделяй и властвуй.md",
+    "Zettlecasten/Рекурсия.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
