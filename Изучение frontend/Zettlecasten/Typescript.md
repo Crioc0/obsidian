@@ -5,3 +5,4 @@ Tags: #typescript
 # Заметка
 [[Типы type]] 
 [[Интерфейсы interface]]
+[[Структу]]

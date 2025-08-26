@@ -256,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -417,7 +417,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "a77bd83438ecbff5",
+  "active": "6dd4d70f9ab4d826",
   "lastOpenFiles": [
     "Zettlecasten/Интерфейсы interface.md",
     "Zettlecasten/Typescript.md",
