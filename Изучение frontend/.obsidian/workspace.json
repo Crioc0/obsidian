@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "777b7879fd901d9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.10"
+            }
+          },
+          {
             "id": "a77bd83438ecbff5",
             "type": "leaf",
             "state": {
@@ -270,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -421,6 +433,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -431,7 +444,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "4c36dbda352ae91d",
+  "active": "777b7879fd901d9a",
   "lastOpenFiles": [
     "Zettlecasten/Структурная система типов против номинальной.md",
     "Zettlecasten/Typescript.md",
