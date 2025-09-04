@@ -213,8 +213,7 @@
               "title": "Стек вызовов"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,10 +374,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "445b9ac9225edcaa",
+  "active": "ba61f1153d1b4c6b",
   "lastOpenFiles": [
-    "Zettlecasten/NodeJS.md",
     "Zettlecasten/Тело запроса-потоки.md",
+    "Zettlecasten/NodeJS.md",
     "Zettlecasten/Без названия.base",
     "Zettlecasten/Структурная система типов против номинальной.md",
     "Zettlecasten/Typescript.md",
