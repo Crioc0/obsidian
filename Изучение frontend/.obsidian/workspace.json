@@ -121,12 +121,27 @@
             "id": "eb6545c5e5078851",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Zettlecasten/Без названия.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.12"
+              "icon": "lucide-table",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "ba61f1153d1b4c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/NodeJS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NodeJS"
             }
           },
           {
@@ -294,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -326,7 +341,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Typesc",
+                "query": "nodeJS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -352,8 +367,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -456,8 +470,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "eb6545c5e5078851",
+  "active": "ba61f1153d1b4c6b",
   "lastOpenFiles": [
+    "Zettlecasten/Без названия.base",
+    "Zettlecasten/NodeJS.md",
+    "Zettlecasten/Без названия.md",
     "Zettlecasten/Структурная система типов против номинальной.md",
     "Zettlecasten/Typescript.md",
     "Zettlecasten/Интерфейсы interface.md",
@@ -481,9 +498,6 @@
     "Zettlecasten/Время выполнения O-большое.md",
     "Zettlecasten/Быстрая сортировка.md",
     "Zettlecasten/Сортировка.md",
-    "Zettlecasten/Хэш-таблицы.md",
-    "Zettlecasten/Коэфициент заполнения.md",
-    "Zettlecasten/Быстродействие хэш-таблиц.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
