@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7b2cf511c5d1b974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Без названия 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 1"
+            }
+          },
+          {
             "id": "6e0c199866a8c6a2",
             "type": "leaf",
             "state": {
@@ -256,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,8 +323,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -417,12 +430,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c32b62e54bc7740a",
+  "active": "7b2cf511c5d1b974",
   "lastOpenFiles": [
+    "Zettlecasten/NodeJS.md",
+    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Основные методы для работы с fs.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Указание пути к файлу Node.js.md",
-    "Zettlecasten/NodeJS.md",
     "Zettlecasten/Процесс обработки событийного цикла.md",
     "Zettlecasten/Микро и Макрозадачи Node.js.md",
     "Zettlecasten/EventLoop в Node.js.md",
@@ -445,7 +459,6 @@
     "Zettlecasten/Бинарное дерево.md",
     "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
     "Zettlecasten/Косые деревья или splay деревья.md",
-    "Zettlecasten/АВЛ-деревья.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
