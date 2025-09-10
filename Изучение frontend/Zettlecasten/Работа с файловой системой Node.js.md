@@ -37,5 +37,4 @@ fs.readFile('data.json', (err, data) => {
     console.log('data: ', data);
   });
 ```
-
-
+## Промисы при ра
