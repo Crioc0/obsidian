@@ -26,3 +26,12 @@ fs.promises.readdir('.')
     .catch((err)=>console.log(`Произошла ошибка ${err.message}`))
     .then((files)=>console.log('data: ', files))
 ```
+## Создание папок
+С этим поможет метод `fs.mkdir`. Он принимает два параметра: имя новой папки и колбэк с единственным аргументом — ошибкой. Первым параметром можно передать имя папки вместе с путём, где нужно создать папку.
+```ts
+import fs from 'fs';
+
+fs.mkdir('incomingData/data', (err) => {
+  if (err) console.log(err);
+});
+```
