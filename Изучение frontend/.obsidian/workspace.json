@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Express.md",
+                "file": "Zettlecasten/Динамический роутинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express"
+              "title": "Динамический роутинг"
             }
           },
           {
@@ -340,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -501,10 +501,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "0f9f504beb5c8eb4",
+  "active": "ba7e490fa4c9c651",
   "lastOpenFiles": [
-    "Zettlecasten/Общение клиента и сервера. Настройка роутинга.md",
     "Zettlecasten/Express.md",
+    "Zettlecasten/Динамический роутинг.md",
+    "Zettlecasten/Общение клиента и сервера. Настройка роутинга.md",
     "Zettlecasten/Файловая структура приложения на Express.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Назначение HTTP-методов REST API.md",
@@ -529,7 +530,6 @@
     "Zettlecasten/Поиск.md",
     "Zettlecasten/Создание простейшего сервера.md",
     "Zettlecasten/Без названия.md",
-    "Zettlecasten/Интерфейсы interface.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
