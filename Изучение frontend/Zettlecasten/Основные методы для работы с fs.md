@@ -17,4 +17,12 @@ fs.readdir('.', (err, files) => {
   console.log('data: ', files);
 });
 ```
-Если работа с Promise-версией, в случае успеха результат попадет в обработчик `then`, а ошибка 
+Если работа с Promise-версией, в случае успеха результат попадет в обработчик `then`, а ошибка будет обработана в методе catch
+Это справедливо для всех методов модуля `fs`
+```ts
+import fs from 'fs';
+// а вот так можно работать с его Promise-собратом
+fs.promises.readdir('.')
+    .catch((err)=>console.log(`Произошла ошибка ${err.message}`))
+    .then((files)=>console.log('data: ', files))
+```
