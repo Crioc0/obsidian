@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "c32b62e54bc7740a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Основные методы для работы с fs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основные методы для работы с fs"
+            }
+          },
+          {
             "id": "c00450c0744746a7",
             "type": "leaf",
             "state": {
@@ -242,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -403,10 +417,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "6e0c199866a8c6a2",
+  "active": "c32b62e54bc7740a",
   "lastOpenFiles": [
-    "Zettlecasten/Указание пути к файлу Node.js.md",
+    "Zettlecasten/Основные методы для работы с fs.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
+    "Zettlecasten/Указание пути к файлу Node.js.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Процесс обработки событийного цикла.md",
     "Zettlecasten/Микро и Макрозадачи Node.js.md",
@@ -431,7 +446,6 @@
     "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
     "Zettlecasten/Косые деревья или splay деревья.md",
     "Zettlecasten/АВЛ-деревья.md",
-    "Zettlecasten/Деревья.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
