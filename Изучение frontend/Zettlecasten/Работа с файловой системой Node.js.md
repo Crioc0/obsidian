@@ -34,8 +34,8 @@ fs.readFile('data.json', (err, data) => {
       return;
     }
 
-    console.log('data: ', data); // здесь мы не вызываем метод toString, поскольку данные уже пришли в виде строки
+    console.log('data: ', data);
   });
-  
 ```
+
 
