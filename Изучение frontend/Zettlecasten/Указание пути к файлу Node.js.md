@@ -14,3 +14,4 @@ console.log(__filename); // /usr/local/project/app.js
 console.log(__dirname); // /usr/local/project
 ```
 ## Преобразование пути
+Для преобразования пути используется модуль `path` и метод `join`.
