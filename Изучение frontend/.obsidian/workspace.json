@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "0f9f504beb5c8eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Настройка роутинга.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Настройка роутинга"
+            }
+          },
+          {
             "id": "31cca5bfe0011927",
             "type": "leaf",
             "state": {
@@ -487,10 +501,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "31cca5bfe0011927",
+  "active": "0f9f504beb5c8eb4",
   "lastOpenFiles": [
-    "Zettlecasten/Файловая структура приложения на Express.md",
+    "Zettlecasten/Настройка роутинга.md",
     "Zettlecasten/Express.md",
+    "Zettlecasten/Файловая структура приложения на Express.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Назначение HTTP-методов REST API.md",
     "Zettlecasten/REST API и его принципы.md",
@@ -515,7 +530,6 @@
     "Zettlecasten/Создание простейшего сервера.md",
     "Zettlecasten/Без названия.md",
     "Zettlecasten/Интерфейсы interface.md",
-    "Zettlecasten/Типы type.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
