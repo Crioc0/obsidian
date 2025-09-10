@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 1.md",
+                "file": "Zettlecasten/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
+              "title": "API"
             }
           },
           {
@@ -432,8 +432,9 @@
   },
   "active": "7b2cf511c5d1b974",
   "lastOpenFiles": [
+    "Zettlecasten/Стек вызовов.md",
+    "Zettlecasten/API.md",
     "Zettlecasten/NodeJS.md",
-    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Основные методы для работы с fs.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Указание пути к файлу Node.js.md",
@@ -458,7 +459,6 @@
     "Zettlecasten/B-деревья.md",
     "Zettlecasten/Бинарное дерево.md",
     "Zettlecasten/Разновидности сбалансированных деревьев BST.md",
-    "Zettlecasten/Косые деревья или splay деревья.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
