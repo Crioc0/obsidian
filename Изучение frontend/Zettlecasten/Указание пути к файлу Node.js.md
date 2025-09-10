@@ -14,4 +14,21 @@ console.log(__filename); // /usr/local/project/app.js
 console.log(__dirname); // /usr/local/project
 ```
 ## Преобразование пути
-Для преобразования пути используется модуль `path` и метод `join`.
+Для преобразования пути используется модуль `path` и метод `join`.Он учитывает контекст, поэтому не возникнет проблем с разделителями
+```ts
+// read-file.ts
+
+import * as fsPromises from 'fs/promises';
+import path from 'path';
+
+export const readFile = () => {
+  const filepath = path.join(__dirname, 'file.txt'); // собрали абсолютный путь к файлу
+  fsPromises.readFile(filepath, { encoding: 'utf8' })
+    .then((data) => {
+      console.log(data);
+    })
+    .catch(err => {
+      console.log(err);
+    });
+};
+```
