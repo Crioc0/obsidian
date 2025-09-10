@@ -43,5 +43,23 @@ fs.mkdir('incomingData/data', (err) => {
 - сами данные, записанные строкой;
 - колбэк для обработки ошибки.
 ```ts
+import fs from 'fs';
 
+fs.writeFile('data.json', JSON.stringify([1, 2, 3]), (err) => {
+  if (err) console.log(err);
+});
+```
+## Удаление файлов
+Это делает метод `fs.unlink`. У него два параметра: имя файла и колбэк для обработки ошибок.
+```ts
+import fs from 'fs';
+
+fs.unlink('data.json', (err) => {
+  if (err) {
+    console.log(err);
+    return;
+  }
+
+  console.log('Файл удалён!');
+});
 ```
