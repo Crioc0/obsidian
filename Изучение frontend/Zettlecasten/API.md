@@ -5,4 +5,4 @@ Tags: #сеть
 # Заметка
 API — это Application Programming Interface (англ. «программный интерфейс приложения»).
 
-[[REST API]]
+[[REST API и его принципы]]

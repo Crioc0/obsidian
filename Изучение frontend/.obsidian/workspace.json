@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/REST API.md",
+                "file": "Zettlecasten/REST API и его принципы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST API"
+              "title": "REST API и его принципы"
+            }
+          },
+          {
+            "id": "07a944295359002d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Назначение HTTP-методов REST API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Назначение HTTP-методов REST API"
             }
           },
           {
@@ -284,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -444,9 +458,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "82c5c704290dd355",
+  "active": "07a944295359002d",
   "lastOpenFiles": [
-    "Zettlecasten/REST API.md",
+    "Zettlecasten/Назначение HTTP-методов REST API.md",
+    "Zettlecasten/REST API и его принципы.md",
     "Zettlecasten/API.md",
     "Zettlecasten/Стек вызовов.md",
     "Zettlecasten/NodeJS.md",
@@ -472,7 +487,6 @@
     "Zettlecasten/Типы type.md",
     "Zettlecasten/Использование классов в качестве пользовательских типов.md",
     "Zettlecasten/B-деревья.md",
-    "Zettlecasten/Бинарное дерево.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
