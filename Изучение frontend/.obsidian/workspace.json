@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 1.md",
+                "file": "Zettlecasten/Базы данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
+              "title": "Базы данных"
             }
           },
           {
@@ -513,7 +513,7 @@
   },
   "active": "f588a059c2582464",
   "lastOpenFiles": [
-    "Zettlecasten/Без названия 1.md",
+    "Zettlecasten/Базы данных.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "Zettlecasten/Отдача HTML и статичных файлов Express.md",
