@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Запросы MongoDB.md",
+                "file": "Zettlecasten/Логические операторы MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запросы MongoDB"
+              "title": "Логические операторы MongoDB"
             }
           },
           {
@@ -653,8 +653,9 @@
   },
   "active": "434c04162aca5fd6",
   "lastOpenFiles": [
-    "Zettlecasten/Логические операторы.md",
     "Zettlecasten/Запросы MongoDB.md",
+    "Zettlecasten/Логические операторы MongoDB.md",
+    "Zettlecasten/Логические операторы.md",
     "Zettlecasten/Фильтры Node.js.md",
     "Zettlecasten/Фильтры.md",
     "Zettlecasten/MongoDB.md",
@@ -680,7 +681,6 @@
     "Zettlecasten/API.md",
     "Zettlecasten/Стек вызовов.md",
     "Zettlecasten/Основные методы для работы с fs.md",
-    "Zettlecasten/Работа с файловой системой Node.js.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
