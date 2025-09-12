@@ -490,7 +490,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -651,10 +651,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2a27a181a4d227c7",
+  "active": "434c04162aca5fd6",
   "lastOpenFiles": [
-    "Zettlecasten/Фильтры Node.js.md",
+    "Zettlecasten/Логические операторы.md",
     "Zettlecasten/Запросы MongoDB.md",
+    "Zettlecasten/Фильтры Node.js.md",
     "Zettlecasten/Фильтры.md",
     "Zettlecasten/MongoDB.md",
     "Zettlecasten/Типы данных MongoDB.md",
@@ -680,7 +681,6 @@
     "Zettlecasten/Стек вызовов.md",
     "Zettlecasten/Основные методы для работы с fs.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
-    "Zettlecasten/Указание пути к файлу Node.js.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
