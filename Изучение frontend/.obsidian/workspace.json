@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/MongoDB.md",
+                "file": "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB"
+              "title": "Работа с массивами и поддокументами MongoDB"
             }
           },
           {
@@ -423,8 +423,8 @@
   },
   "active": "a33981a43f3dceee",
   "lastOpenFiles": [
-    "Zettlecasten/Проекции MongoDB.md",
     "Zettlecasten/MongoDB.md",
+    "Zettlecasten/Проекции MongoDB.md",
     "Zettlecasten/Документные БД.md",
     "Zettlecasten/Нереляционные БД.md",
     "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
