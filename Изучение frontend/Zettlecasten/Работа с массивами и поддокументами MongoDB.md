@@ -30,3 +30,16 @@ db.books.find({
   "subjects": [ "British", "Classic Literature" ]
 });
 ```
+Если нужно выбрать документы, которые содержат массив со значениями (вне зависимости от порядка), можно воспользоваться оператором `$all`:
+```ts
+db.books.find({
+    // вернёт все документы, в которых в массиве languages есть значение "British" или "Classic Literature" 
+  "languages": { "$all": ["British", "Classic Literature"] }
+});
+```
+Если значение только одно, можно использовать упрощённую запись:
+```ts
+db.books.find({
+  "languages": "British"
+});
+```
