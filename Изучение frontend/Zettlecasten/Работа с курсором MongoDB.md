@@ -10,3 +10,4 @@ Tags: #MongoDB
 const cursor = db.users.find({});
 const users = await cursor.toArray();
 ```
+В users лежит массив с данными пользователей в виде обычных JavaScript-объектов. toArray - асинхронный, поскольку при его вызове происходит за
