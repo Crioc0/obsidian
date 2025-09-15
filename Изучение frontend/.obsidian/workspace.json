@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -421,7 +421,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "75d67d1d7bb630b6",
+  "active": "a33981a43f3dceee",
   "lastOpenFiles": [
     "Zettlecasten/Проекции MongoDB.md",
     "Zettlecasten/MongoDB.md",
