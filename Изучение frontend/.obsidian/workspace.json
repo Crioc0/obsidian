@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Индексы в MongoDB.md",
+                "file": "Zettlecasten/Индекс по нескольким полям.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Индексы в MongoDB"
+              "title": "Индекс по нескольким полям"
             }
           },
           {
@@ -227,8 +227,9 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индексы в MongoDB.md",
+    "Zettlecasten/Индекс по нескольким полям.md",
+    "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/MongoDB.md",
     "Zettlecasten/Базы данных.md",
@@ -254,7 +255,6 @@
     "Zettlecasten/Подключение к MongoDB Node.js.md",
     "Zettlecasten/Отдача HTML и статичных файлов Express.md",
     "Zettlecasten/Мидлвары express.md",
-    "Zettlecasten/Мидлвар парсер данных body-parser.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
