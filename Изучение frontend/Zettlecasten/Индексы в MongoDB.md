@@ -18,3 +18,4 @@ interface Collection {
 ```ts
 db.users.createIndex({ "username": 1 });
 ```
+Теперь, если в запросе используется поле username, MongoDB не будет выполнять полное сканирование коллекции, а просто найде
