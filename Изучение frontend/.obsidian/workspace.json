@@ -77,8 +77,7 @@
               "title": "Работа с курсором MongoDB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "25cde59d93ea0732",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
     "Zettlecasten/Разреженные индексы (partial index).md",
     "Zettlecasten/Свойства индексов.md",
