@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Свойства индексов.md",
+                "file": "Zettlecasten/Индексы в MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Свойства индексов"
+              "title": "Индексы в MongoDB"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "Работа с курсором MongoDB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,10 +253,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "4201abc0460958f3",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "Zettlecasten/Создание индексов и управление ими MongoDB.md",
     "Zettlecasten/Свойства индексов.md",
+    "Zettlecasten/Создание индексов и управление ими MongoDB.md",
     "Zettlecasten/Разреженные индексы (partial index).md",
     "Zettlecasten/Индексы в MongoDB.md",
     "Zettlecasten/TTL-индексы MondoDB.md",
