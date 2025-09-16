@@ -10,5 +10,8 @@ Tags: #MongoDB
 ## Индекс по одному полю (single field index)
 Индекс, позволяющий искать данные по одному полю. Чтобы создать, нужно использовать метод коллекции createIndex. Это основная сигнатура метода вызова
 ```ts
-
+interface Collection {
+  createIndex(spec: {[key: string]: -1 | 1}, options?: CreateIndexesOptions)
+}
 ```
+Принимает объект, 
