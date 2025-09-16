@@ -18,3 +18,16 @@ db.users.createIndex({ "email": 1 }, { "unique": true });
 ```ts
 db.users.createIndex({ "email": 1, "username": 1 }, { "unique": true });
 ```
+Многоключевые индексы тоже можно сделать уникальными, но уникальность будет поддерживаться не во всей коллекции, а в массиве:
+```ts
+await db.posts.createIndex({ "tags": 1 }, { "unique": 1 });
+
+await db.posts.insertOne({ "title": "My cool post", "tags": [ "js" ] });
+
+// ок, так как значения "ts" ещё нет в массиве
+await db.posts.updateOne({ "title": "My cool post" }, { "$push": { "tags": "ts" } });
+
+// вернёт ошибку
+await db.posts.updateOne({ "title": "My cool post" }, { "$push": { "tags": "js" } });
+```
+Уникальность значения в массиве можно поддерживать и с применением оператора `$addToSet`. Но это не спасёт от ошибки в коде приложения или ситуации, когда другой скрипт добавит неуникальное значение.
