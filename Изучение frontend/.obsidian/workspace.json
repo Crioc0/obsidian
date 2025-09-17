@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "cc48e1931f53a745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Mongoose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mongoose"
+            }
+          },
+          {
             "id": "d2805792a125a249",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,8 +309,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b0f372117f47f4c4",
+  "active": "cc48e1931f53a745",
   "lastOpenFiles": [
+    "Zettlecasten/Mongoose.md",
     "Zettlecasten/ODM, или Object Document Mapper.md",
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/MongoDB.md",
@@ -324,7 +339,6 @@
     "Zettlecasten/Ограничение выборки skip и limit MongoDB.md",
     "Zettlecasten/Сортировка sort MongoDB.md",
     "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
-    "Zettlecasten/Проекции MongoDB.md",
     "Без названия.canvas",
     "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
