@@ -8,5 +8,6 @@ Tags: #nodejs
 [[Работа с tsconfig для Node.js]]
 [[EventLoop в Node.js]]
 [[Работа с файловой системой Node.js]]
+[[Хэширование пароля NodeJS]]
 ## Фреймворки
 [[Express]]
