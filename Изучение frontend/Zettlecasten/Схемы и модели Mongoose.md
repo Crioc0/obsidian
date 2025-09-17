@@ -29,3 +29,4 @@ const userSchema = new mongoose.Schema({
   about: String,
 });
 ```
+Для нестандартной валидации можно писать свои способы проверки данных с помощью свойства validate. Это о
