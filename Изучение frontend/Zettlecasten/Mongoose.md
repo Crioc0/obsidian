@@ -3,3 +3,8 @@ Tags: #mongoose #MongoDB
 ###### Links: 
 1) 
 # Заметка
+## Установка и подключение
+```ts
+npm i --save mongoose
+```
+Задачу подключения ввы
