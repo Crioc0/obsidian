@@ -2,7 +2,7 @@
 Tags: #mongoose #MongoDB 
 ###### Links: 
 1) [[Схемы и модели Mongoose]]
-2) [[CRUD с документами ]]
+2) [[CRUD с документами Mongoose]]
 # Заметка
 ## Установка и подключение
 ```ts
