@@ -207,13 +207,14 @@
             "id": "3c045eb9c74a57aa",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 5.base",
-                "viewName": "Таблица"
+                "file": "01 Notes/202509231654 MongoDB.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия 5"
+              "icon": "lucide-file",
+              "title": "202509231654 MongoDB"
             }
           }
         ],
@@ -249,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MongoDB",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -381,8 +382,8 @@
   },
   "active": "3c045eb9c74a57aa",
   "lastOpenFiles": [
-    "Zettlecasten/Хэширование пароля NodeJS.md",
     "Zettlecasten/Без названия 5.base",
+    "Zettlecasten/Хэширование пароля NodeJS.md",
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/ODM, или Object Document Mapper.md",
     "Zettlecasten/Mongoose.md",
@@ -414,7 +415,6 @@
     "Zettelcasten New/00 Inbox",
     "Zettelcasten New",
     "Zettlecasten/NodeJS.md",
-    "Zettlecasten/Название другой заметки.md",
     "Zettlecasten/Без названия 4.base",
     "Zettlecasten/Без названия 3.base",
     "Без названия.canvas",
