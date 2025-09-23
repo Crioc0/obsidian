@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Способы хранения JWT в браузере Express.md",
+                "file": "Zettlecasten/Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Способы хранения JWT в браузере Express"
+              "title": "Express"
             }
           },
           {
@@ -522,8 +522,8 @@
   },
   "active": "8fbae201756413ef",
   "lastOpenFiles": [
-    "Zettlecasten/Express.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
+    "Zettlecasten/Express.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Межсайтовый скриптинг (XSS).md",
     "Zettlecasten/Content Security Policy.md",
