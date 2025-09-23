@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 3.md",
+                "file": "templates/Zettelcasten Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 3"
+              "title": "Zettelcasten Note"
             }
           },
           {
@@ -447,12 +447,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zetttlecasten.md",
+                "file": "templates/Zettelcasten Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zetttlecasten"
+              "title": "Zettelcasten Note"
             }
           }
         ],
@@ -616,12 +616,14 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "98d60fc4e7ebcb3d",
   "lastOpenFiles": [
-    "Без названия",
+    "Zettlecasten/Без названия 3.md",
+    "templates/Zetttlecasten.md",
+    "03 Assets",
+    "02 Structure notes",
     "01 Notes",
     "Zettlecasten/Тест.md",
-    "Zettlecasten/Без названия 3.md",
     "00 Inbox",
     "Zettelcasten New/01 Inbox",
     "Zettelcasten New/Без названия.md",
@@ -632,7 +634,6 @@
     "Zettlecasten/Название другой заметки.md",
     "Zettlecasten/Файловая структура приложения на Express.md",
     "Zettlecasten/Express.md",
-    "templates/Zetttlecasten.md",
     "Zettlecasten/Без названия 2.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Чек-лист безопасного приложения на Express.md",
@@ -652,8 +653,6 @@
     "Zettlecasten/Централизованная обработка ошибок Express.md",
     "Zettlecasten/Защита роутов авторизацией Express.md",
     "Zettlecasten/Без названия 2.base",
-    "Zettlecasten/Без названия 1.base",
-    "Zettlecasten/Без названия.base",
     "Без названия.canvas",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",

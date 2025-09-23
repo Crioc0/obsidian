@@ -1,5 +1,0 @@
-{{date:YYYY MM DD}}{{time:HH mm}}
-Tags: 
-###### Links: 
-1) 
-# Заметка
