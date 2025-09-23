@@ -24,3 +24,12 @@ Content-Security-Policy: /* ИНСТРУКЦИИ */
 - `img-src` — изображения;
 - `media-src` — аудио- и видео-файлы;
 - `style-src` — файлы стилей.
+После имени инструкции указывают сами источники через пробел. Чтобы указать домен сайта как источник, устанавливают ключевое слово `'self'`.
+```ts
+"script-src 'self' *.site.com"; // скрипты можно загружать с самого сайта, либо с поддоменов site.com, например, с https://example.site.com
+```
+В конце каждой инструкции должна стоять точка с запятой:
+```ts
+Content-Security-Policy: default-src 'self'; img-src *; media-src media1.com media2.com; script-src userscripts.example.com
+```
+## Контроль версии браузера
