@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "79555baa0f3f2dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Файловая структура приложения на Express.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Файловая структура приложения на Express"
+            }
+          },
+          {
             "id": "ba9ded7aa86ea848",
             "type": "leaf",
             "state": {
@@ -419,16 +433,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 2.md",
+                "file": "templates/Zetttlecasten.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "Zetttlecasten"
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -588,15 +602,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "eebdf8cb29da9f94",
+  "active": "79555baa0f3f2dcf",
   "lastOpenFiles": [
+    "Zettlecasten/Express.md",
+    "Zettlecasten/NodeJS.md",
+    "templates/Zetttlecasten.md",
+    "templates/Zettelcasten Note.md",
     "Zettlecasten/Без названия 2.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
-    "templates/Zettelcasten Note.md",
     "Zettlecasten/Чек-лист безопасного приложения на Express.md",
-    "Zettlecasten/Express.md",
     "Zettlecasten/Чек-лист безопасного приложения на ts.md",
-    "Zettlecasten/NodeJS.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Создание и хранение JWT express.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
@@ -617,7 +632,6 @@
     "Zettlecasten/CRUD с документами Mongoose.md",
     "Zettlecasten/Удаление документов.md",
     "Zettlecasten/Обновление документов mongoose.md",
-    "Zettlecasten/Чтение документов mongoose.md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
