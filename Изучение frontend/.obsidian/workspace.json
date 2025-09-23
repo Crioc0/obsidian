@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "a8b40b79584992b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Создание и хранение JWT express.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Создание и хранение JWT express"
+            }
+          },
+          {
             "id": "46270c6eaf2fa2a6",
             "type": "leaf",
             "state": {
@@ -358,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -520,12 +534,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8fbae201756413ef",
+  "active": "a8b40b79584992b5",
   "lastOpenFiles": [
+    "Zettlecasten/Создание и хранение JWT express.md",
+    "Zettlecasten/Express.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
     "Zettlecasten/Межсайтовая подделка запроса(CSRF).md",
     "Zettlecasten/JavaScript.md",
-    "Zettlecasten/Express.md",
     "Zettlecasten/Межсайтовый скриптинг (XSS).md",
     "Zettlecasten/Content Security Policy.md",
     "Zettlecasten/NodeJS.md",
@@ -550,7 +565,6 @@
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Документные БД.md",
     "Zettlecasten/ODM, или Object Document Mapper.md",
-    "Zettlecasten/Базы данных.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "Без названия.canvas",
