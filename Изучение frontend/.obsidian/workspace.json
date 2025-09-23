@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "fcd0ece77765127b",
+            "id": "80d59d878e16e874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Защита роутов авторизацией Express.md",
+                "file": "Zettlecasten/Централизованная обработка ошибок Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Защита роутов авторизацией Express"
+              "title": "Централизованная обработка ошибок Express"
             }
           },
           {
@@ -463,10 +463,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "fcd0ece77765127b",
+  "active": "80d59d878e16e874",
   "lastOpenFiles": [
-    "Zettlecasten/Защита роутов авторизацией Express.md",
+    "Zettlecasten/Централизованная обработка ошибок Express.md",
     "Zettlecasten/Express.md",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Защита роутов авторизацией Express.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Создание токена NodeJs.md",
     "Zettlecasten/Mongoose.md",
@@ -478,7 +480,6 @@
     "Zettlecasten/Чтение документов mongoose.md",
     "Zettlecasten/Создание документов mongoose.md",
     "Zettlecasten/Схемы и модели Mongoose.md",
-    "Zettlecasten/JavaScript.md",
     "Zettlecasten/Хэширование пароля NodeJS.md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Документные БД.md",
@@ -491,7 +492,6 @@
     "Zettlecasten/Создание индексов и управление ими MongoDB.md",
     "Zettlecasten/Разреженные индексы (partial index).md",
     "Zettlecasten/TTL-индексы MondoDB.md",
-    "Zettlecasten/Уникальные индексы (unique).md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "Без названия.canvas",
