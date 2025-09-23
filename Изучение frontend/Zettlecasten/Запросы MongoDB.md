@@ -1,5 +1,5 @@
 2025 09 1214 47
-Tags: #MongoDB 
+Tags: #mongodb
 ###### Links: 
 1) [[Фильтры MongoDB]]
 2) [[Логические операторы MongoDB]]

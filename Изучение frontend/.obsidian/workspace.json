@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Запросы MongoDB.md",
+                "file": "Zettlecasten/Логические операторы MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запросы MongoDB"
+              "title": "Логические операторы MongoDB"
             }
           },
           {
@@ -377,8 +377,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "Zettlecasten/Когда использовать индекс.md",
+    "Zettlecasten/Индексы в MongoDB.md",
+    "Zettlecasten/Индекс по одному полю.md",
+    "Zettlecasten/Индекс по нескольким полям.md",
+    "Zettlecasten/Запросы MongoDB.md",
     "01 Notes/202509231654 MongoDB.md",
     "daily/2025-03-20.md",
     "daily/2025-06-10.md",
@@ -395,23 +400,18 @@
     "Zettlecasten/ODM, или Object Document Mapper.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/Схемы и модели Mongoose.md",
-    "Zettlecasten/Когда использовать индекс.md",
     "Zettlecasten/Создание индексов и управление ими MongoDB.md",
     "Zettlecasten/Разреженные индексы (partial index).md",
-    "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/Работа с курсором MongoDB.md",
     "Zettlecasten/fa.md",
-    "Zettlecasten/Запросы MongoDB.md",
     "Zettlecasten/Express.md",
     "Zettlecasten/АВЛ-деревья.md",
     "Zettlecasten/Без названия 4.md",
     "Zettlecasten/Без названия 3.md",
-    "templates/Zetttlecasten.md",
     "03 Assets",
     "02 Structure notes",
     "01 Notes",
-    "Zettlecasten/Тест.md",
     "00 Inbox",
     "Zettelcasten New/01 Inbox",
     "Zettelcasten New/00 Inbox",
