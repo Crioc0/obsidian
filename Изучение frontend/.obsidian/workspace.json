@@ -371,8 +371,7 @@
               "title": "Работа с курсором MongoDB"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -534,10 +533,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "a8b40b79584992b5",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "Zettlecasten/Создание и хранение JWT express.md",
     "Zettlecasten/Express.md",
+    "Zettlecasten/Создание и хранение JWT express.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
     "Zettlecasten/Межсайтовая подделка запроса(CSRF).md",
     "Zettlecasten/JavaScript.md",
