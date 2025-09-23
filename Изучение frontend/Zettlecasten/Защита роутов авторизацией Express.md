@@ -38,4 +38,4 @@ const auth = (req: JwtPayload, res: Response, next: NextFunction) => {
 
 export default auth;
 ```
-Для того, чтобы добавт 
+Для того, чтобы добавить авторизационный мидлвар в приложении 
