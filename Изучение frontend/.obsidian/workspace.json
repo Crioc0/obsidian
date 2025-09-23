@@ -271,8 +271,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -380,8 +379,9 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3c045eb9c74a57aa",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
+    "tags",
     "Zettlecasten/MongoDB.md",
     "01 Notes/202509231654 MongoDB.md",
     "Zettlecasten/Без названия 5.base",
