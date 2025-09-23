@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509231654.md",
+                "file": "01 Notes/202509231654 MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509231654"
+              "title": "202509231654 MongoDB"
             }
           },
           {
@@ -647,9 +647,9 @@
   },
   "active": "c8cf1f65f4272e66",
   "lastOpenFiles": [
-    "Zettlecasten/АВЛ-деревья.md",
     "templates/Zettelcasten Note.md",
-    "01 Notes/202509231654.md",
+    "01 Notes/202509231654 MongoDB.md",
+    "Zettlecasten/АВЛ-деревья.md",
     "Zettlecasten/Без названия 4.md",
     "Zettlecasten/fa.md",
     "Zettlecasten/Без названия 3.md",
