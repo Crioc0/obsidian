@@ -15,5 +15,13 @@
       ],
       "key": "T"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
   ]
 }

@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия 4.md",
+                "file": "01 Notes/202509231654.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 4"
+              "title": "202509231654"
             }
           },
           {
@@ -647,9 +647,10 @@
   },
   "active": "c8cf1f65f4272e66",
   "lastOpenFiles": [
-    "Zettlecasten/fa.md",
-    "Zettlecasten/Без названия 4.md",
     "templates/Zettelcasten Note.md",
+    "01 Notes/202509231654.md",
+    "Zettlecasten/Без названия 4.md",
+    "Zettlecasten/fa.md",
     "Zettlecasten/Без названия 3.md",
     "templates/Zetttlecasten.md",
     "03 Assets",
@@ -681,7 +682,6 @@
     "Zettlecasten/Валидация запросов к серверу.md",
     "Zettlecasten/Без названия 4.base",
     "Zettlecasten/Без названия 3.base",
-    "Zettlecasten/Централизованная обработка ошибок Express.md",
     "Zettlecasten/Без названия 2.base",
     "Без названия.canvas",
     "render-pipeline.CwxnH_lZ.png",
