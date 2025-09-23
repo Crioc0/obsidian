@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "50113e3eecb908f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Собственные методы моделей Mongoose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Собственные методы моделей Mongoose"
+            }
+          },
+          {
             "id": "2601a198d57d8d16",
             "type": "leaf",
             "state": {
@@ -421,10 +435,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2601a198d57d8d16",
+  "active": "50113e3eecb908f9",
   "lastOpenFiles": [
-    "Zettlecasten/Связи, метод populate.md",
+    "Zettlecasten/Собственные методы моделей Mongoose.md",
     "Zettlecasten/Mongoose.md",
+    "Zettlecasten/Связи, метод populate.md",
     "Zettlecasten/CRUD с документами Mongoose.md",
     "Zettlecasten/Удаление документов.md",
     "Zettlecasten/Обновление документов mongoose.md",
@@ -449,7 +464,6 @@
     "Zettlecasten/Многоключевой индекс (multikey index).md",
     "Zettlecasten/Индекс по нескольким полям.md",
     "Zettlecasten/Индекс по одному полю.md",
-    "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "Без названия.canvas",
