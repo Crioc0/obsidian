@@ -1,5 +1,5 @@
 2025 09 1713 49
-Tags: #mongoose #MongoDB 
+Tags: #mongoose #mongodb
 ###### Links: 
 1) [[Схемы и модели Mongoose]]
 2) [[CRUD с документами Mongoose]]

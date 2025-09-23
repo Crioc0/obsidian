@@ -1,5 +1,5 @@
 2025 09 1214 37
-Tags: #базы_данных #MongoDB
+Tags: #базы_данных #mongodb
 ###### Links: 
 1) [[Подключение к MongoDB Node.js]]
 2) [[Типы данных MongoDB]]
