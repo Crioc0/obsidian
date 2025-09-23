@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zettelcasten Note.md",
+                "file": "Zettlecasten/Запросы MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zettelcasten Note"
+              "title": "Запросы MongoDB"
             }
           },
           {
@@ -247,7 +247,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mongodb",
+                "query": "tag:#MongoDB",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,7 +268,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -376,9 +377,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "01 Notes/202509231654 MongoDB.md",
+    "daily/2025-03-20.md",
+    "daily/2025-06-10.md",
+    "templates/Zettelcasten Note.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/Без названия 6.base",
     "Zettlecasten/Без названия 7.base",
@@ -397,7 +401,6 @@
     "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/Работа с курсором MongoDB.md",
-    "templates/Zettelcasten Note.md",
     "Zettlecasten/fa.md",
     "Zettlecasten/Запросы MongoDB.md",
     "Zettlecasten/Express.md",
@@ -411,7 +414,6 @@
     "Zettlecasten/Тест.md",
     "00 Inbox",
     "Zettelcasten New/01 Inbox",
-    "Zettelcasten New/Без названия.md",
     "Zettelcasten New/00 Inbox",
     "Без названия.canvas",
     "render-pipeline.CwxnH_lZ.png",
