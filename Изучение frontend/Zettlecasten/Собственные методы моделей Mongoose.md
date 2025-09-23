@@ -45,4 +45,41 @@ userSchema.static('findUserByCredentials', function findUserByCredentials(email:
 export default mongoose.model('user', userSchema);
 ```
 Описываемая функция не должна быть стрелочной, так как иначе `this` было бы задано статически, так как стрелочные функции запоминают значение `this` при объявлении.
-Примем реализации ф
+Примем реализации функции
+```ts
+// models/user.ts
+import mongoose from 'mongoose';
+
+const userSchema = new mongoose.Schema({
+  email: {
+    type: String,
+    required: true,
+    unique: true
+  },
+  password: {
+    type: String,
+    required: true,
+    minlength: 8
+  }
+});
+
+userSchema.static('findUserByCredentials', function findUserByCredentials(email: string, password: string) {
+  return this.findOne({ email })
+    .then((user) => {
+      if (!user) {
+        return Promise.reject(new Error('Неправильные почта или пароль'));
+      }
+
+      return bcrypt.compare(password, user.password)
+        .then((matched) => {
+          if (!matched) {
+            return Promise.reject(new Error('Неправильные почта или пароль'));
+          }
+
+          return user; // теперь user доступен
+        });
+    });
+};
+
+export default mongoose.model('user', userSchema);
+```
