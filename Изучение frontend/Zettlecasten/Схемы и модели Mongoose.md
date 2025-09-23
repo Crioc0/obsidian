@@ -1,5 +1,5 @@
 2025 09 1713 54
-Tags: #MongoDB #mongoose 
+Tags: #mongodb #mongoose 
 ###### Links: 
 1) 
 # Заметка

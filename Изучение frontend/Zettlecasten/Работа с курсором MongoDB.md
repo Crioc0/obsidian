@@ -1,5 +1,5 @@
 2025 09 1511 33
-Tags: #MongoDB 
+Tags: #mongodb
 ###### Links: 
 1) [[Сортировка sort MongoDB]]
 2) [[Ограничение выборки skip и limit MongoDB]]

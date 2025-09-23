@@ -1,5 +1,5 @@
 2025 09 1511 00
-Tags: #MongoDB 
+Tags: #mongodb
 ###### Links: 
 1) [[Проекции MongoDB]]
 2) [[Работа с курсором MongoDB]]

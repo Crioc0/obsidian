@@ -1,5 +1,5 @@
 2025 09 1610 28
-Tags: #MongoDB 
+Tags: #mongodb
 ###### Links: 
 1) 
 # Заметка
