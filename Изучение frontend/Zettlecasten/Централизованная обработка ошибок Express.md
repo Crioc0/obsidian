@@ -40,4 +40,33 @@ try {
   next(err);
 }
 ```
-Для ошибок, которые часто повторяются
+Для ошибок, которые часто повторяются, удобно использовать свои конструкторы. Простейший конструктор 404 ошибки будет выглядеть так
+```ts
+// errors/not-found-err.js
+
+class NotFoundError extends Error {
+  constructor(message) {
+    super(message);
+    this.statusCode = 404;
+  }
+}
+
+module.exports = NotFoundError;
+```
+Всё, что делает этот конструктор, — наследует от стандартной ошибки и выставляет свойство `statusCode`. После создания конструктора `NotFoundError`, его можно импортировать в другие места кода и использовать вместе с инструкцией `throw`:
+```ts
+const NotFoundError = require('./errors/not-found-err');
+
+module.exports.getProfile = (req, res, next) => User
+  .findOne({ _id: req.params.userId })
+  .then((user) => {
+    if (!user) {
+      // если такого пользователя нет,
+      // сгенерируем исключение
+      throw new NotFoundError('Нет пользователя с таким id');
+    }
+
+    res.send(user);
+  })
+  // ...
+```
