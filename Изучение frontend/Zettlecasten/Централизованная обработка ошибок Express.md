@@ -70,3 +70,4 @@ module.exports.getProfile = (req, res, next) => User
   })
   // ...
 ```
+Ели ошибка была сгенерирована не нами, у нее не будет статуса
