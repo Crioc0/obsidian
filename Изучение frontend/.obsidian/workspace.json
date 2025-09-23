@@ -13,40 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/JavaScript.md",
+                "file": "01 Notes/202509231654 MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "202509231654 MongoDB"
             }
           },
           {
             "id": "3c045eb9c74a57aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "tags/Без названия.md",
-                "mode": "source",
-                "source": false
+                "file": "Zettlecasten/Без названия 6.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Без названия"
+              "icon": "lucide-table",
+              "title": "Без названия 6"
             }
           },
           {
             "id": "c8cf1f65f4272e66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Zettlecasten/MongoDB.md",
-                "mode": "source",
-                "source": false
+                "file": "Zettlecasten/Без названия 7.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "MongoDB"
+              "icon": "lucide-table",
+              "title": "Без названия 7"
             }
           },
           {
@@ -217,8 +215,7 @@
               "title": "Схемы и модели Mongoose"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +247,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mongodb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -379,12 +376,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3c045eb9c74a57aa",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202509231654 MongoDB.md",
-    "tags/Без названия.md",
-    "tags",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Без названия 6.base",
+    "Zettlecasten/Без названия 7.base",
     "Zettlecasten/MongoDB.md",
+    "tags/теги.md",
+    "01 Notes/202509231654 MongoDB.md",
+    "tags",
     "Zettlecasten/Без названия 5.base",
     "Zettlecasten/Хэширование пароля NodeJS.md",
     "Zettlecasten/Базы данных.md",
@@ -398,7 +398,6 @@
     "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/Работа с курсором MongoDB.md",
     "templates/Zettelcasten Note.md",
-    "Zettlecasten/JavaScript.md",
     "Zettlecasten/fa.md",
     "Zettlecasten/Запросы MongoDB.md",
     "Zettlecasten/Express.md",
@@ -414,9 +413,6 @@
     "Zettelcasten New/01 Inbox",
     "Zettelcasten New/Без названия.md",
     "Zettelcasten New/00 Inbox",
-    "Zettelcasten New",
-    "Zettlecasten/NodeJS.md",
-    "Zettlecasten/Без названия 4.base",
     "Без названия.canvas",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
