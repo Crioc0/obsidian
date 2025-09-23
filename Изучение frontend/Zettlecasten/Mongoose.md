@@ -3,6 +3,7 @@ Tags: #mongoose #MongoDB
 ###### Links: 
 1) [[Схемы и модели Mongoose]]
 2) [[CRUD с документами Mongoose]]
+3) [[Связи, метод populate]]
 # Заметка
 ## Установка и подключение
 ```ts
