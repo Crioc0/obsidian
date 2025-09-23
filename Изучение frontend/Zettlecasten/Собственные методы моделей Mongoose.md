@@ -44,4 +44,5 @@ userSchema.static('findUserByCredentials', function findUserByCredentials(email:
 
 export default mongoose.model('user', userSchema);
 ```
-Описываемая функция не должна быть стрелочной, так как иначе `this`  
+Описываемая функция не должна быть стрелочной, так как иначе `this` было бы задано статически, так как стрелочные функции запоминают значение `this` при объявлении.
+Примем реализации ф
