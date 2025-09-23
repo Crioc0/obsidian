@@ -421,7 +421,7 @@
               "state": {
                 "file": "Zettlecasten/Без названия 2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Без названия 2"
