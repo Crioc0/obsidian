@@ -22,129 +22,17 @@
             }
           },
           {
-            "id": "c9e4dac181ce6b1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Zettelcasten Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zettelcasten Note"
-            }
-          },
-          {
-            "id": "424abfc91d1e55fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Тест.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Тест"
-            }
-          },
-          {
-            "id": "98d60fc4e7ebcb3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Zettelcasten Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zettelcasten Note"
-            }
-          },
-          {
-            "id": "e5e7668c401551a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/fa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fa"
-            }
-          },
-          {
             "id": "c8cf1f65f4272e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509231654 MongoDB.md",
+                "file": "Zettlecasten/MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509231654 MongoDB"
-            }
-          },
-          {
-            "id": "ba9ded7aa86ea848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Express.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Express"
-            }
-          },
-          {
-            "id": "81c8eb07a216a3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Асинхронные компоненты Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Асинхронные компоненты Vue"
-            }
-          },
-          {
-            "id": "8fbae201756413ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Express.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Express"
-            }
-          },
-          {
-            "id": "a8b40b79584992b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Создание и хранение JWT express.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Создание и хранение JWT express"
+              "title": "MongoDB"
             }
           },
           {
@@ -319,172 +207,17 @@
             "id": "3c045eb9c74a57aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Zettlecasten/Хэширование пароля NodeJS.md",
-                "mode": "source",
-                "source": false
+                "file": "Zettlecasten/Без названия 5.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Хэширование пароля NodeJS"
-            }
-          },
-          {
-            "id": "cb3072234fac9cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Базы данных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Базы данных"
-            }
-          },
-          {
-            "id": "b0f372117f47f4c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/ODM, или Object Document Mapper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ODM, или Object Document Mapper"
-            }
-          },
-          {
-            "id": "cc48e1931f53a745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mongoose"
-            }
-          },
-          {
-            "id": "8d6ef7ccc04dceb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Схемы и модели Mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Схемы и модели Mongoose"
-            }
-          },
-          {
-            "id": "d2805792a125a249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Когда использовать индекс.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Когда использовать индекс"
-            }
-          },
-          {
-            "id": "4201abc0460958f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Создание индексов и управление ими MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Создание индексов и управление ими MongoDB"
-            }
-          },
-          {
-            "id": "25cde59d93ea0732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Разреженные индексы (partial index).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разреженные индексы (partial index)"
-            }
-          },
-          {
-            "id": "85e460536995f605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Индекс по одному полю.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индекс по одному полю"
-            }
-          },
-          {
-            "id": "ae4b256d049e9704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Индексы в СУБД.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индексы в СУБД"
-            }
-          },
-          {
-            "id": "6c3576099e93bda4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Работа с курсором MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа с курсором MongoDB"
-            }
-          },
-          {
-            "id": "eebdf8cb29da9f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Zettelcasten Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zettelcasten Note"
+              "icon": "lucide-table",
+              "title": "Без названия 5"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -516,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Node.js",
+                "query": "tag:#MongoDB",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -537,7 +270,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -645,13 +379,29 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "c8cf1f65f4272e66",
+  "active": "3c045eb9c74a57aa",
   "lastOpenFiles": [
+    "Zettlecasten/Хэширование пароля NodeJS.md",
+    "Zettlecasten/Без названия 5.base",
+    "Zettlecasten/Базы данных.md",
+    "Zettlecasten/ODM, или Object Document Mapper.md",
+    "Zettlecasten/Mongoose.md",
+    "Zettlecasten/Схемы и модели Mongoose.md",
+    "Zettlecasten/Когда использовать индекс.md",
+    "Zettlecasten/Создание индексов и управление ими MongoDB.md",
+    "Zettlecasten/Разреженные индексы (partial index).md",
+    "Zettlecasten/Индекс по одному полю.md",
+    "Zettlecasten/Индексы в СУБД.md",
+    "Zettlecasten/Работа с курсором MongoDB.md",
     "templates/Zettelcasten Note.md",
+    "Zettlecasten/MongoDB.md",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/fa.md",
+    "Zettlecasten/Запросы MongoDB.md",
     "01 Notes/202509231654 MongoDB.md",
+    "Zettlecasten/Express.md",
     "Zettlecasten/АВЛ-деревья.md",
     "Zettlecasten/Без названия 4.md",
-    "Zettlecasten/fa.md",
     "Zettlecasten/Без названия 3.md",
     "templates/Zetttlecasten.md",
     "03 Assets",
@@ -665,24 +415,8 @@
     "Zettelcasten New",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Название другой заметки.md",
-    "Zettlecasten/Файловая структура приложения на Express.md",
-    "Zettlecasten/Express.md",
-    "Zettlecasten/Без названия 2.md",
-    "Zettlecasten/Асинхронные компоненты Vue.md",
-    "Zettlecasten/Чек-лист безопасного приложения на Express.md",
-    "Zettlecasten/Чек-лист безопасного приложения на ts.md",
-    "Zettlecasten/JavaScript.md",
-    "Zettlecasten/Создание и хранение JWT express.md",
-    "Zettlecasten/Способы хранения JWT в браузере Express.md",
-    "Zettlecasten/Межсайтовая подделка запроса(CSRF).md",
-    "Zettlecasten/Межсайтовый скриптинг (XSS).md",
-    "Zettlecasten/Content Security Policy.md",
-    "Zettlecasten/Безопасность Express.md",
-    "Zettlecasten/Mongoose.md",
-    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 4.base",
     "Zettlecasten/Без названия 3.base",
-    "Zettlecasten/Без названия 2.base",
     "Без названия.canvas",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
