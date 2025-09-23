@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "98d60fc4e7ebcb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Без названия 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 3"
+            }
+          },
+          {
             "id": "ba9ded7aa86ea848",
             "type": "leaf",
             "state": {
@@ -442,7 +456,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -604,9 +618,16 @@
   },
   "active": "9f403a795232390e",
   "lastOpenFiles": [
+    "Без названия",
+    "01 Notes",
+    "Zettlecasten/Тест.md",
+    "Zettlecasten/Без названия 3.md",
+    "00 Inbox",
+    "Zettelcasten New/01 Inbox",
+    "Zettelcasten New/Без названия.md",
+    "Zettelcasten New/00 Inbox",
     "Zettelcasten New",
     "templates/Zettelcasten Note.md",
-    "Zettlecasten/Тест.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Название другой заметки.md",
     "Zettlecasten/Файловая структура приложения на Express.md",
@@ -630,20 +651,13 @@
     "Zettlecasten/Без названия 3.base",
     "Zettlecasten/Централизованная обработка ошибок Express.md",
     "Zettlecasten/Защита роутов авторизацией Express.md",
-    "Zettlecasten/Создание токена NodeJs.md",
-    "Zettlecasten/Собственные методы моделей Mongoose.md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "Без названия.canvas",
-    "Браузерное окружение, спецификации.html",
     "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
     "Без названия 1.canvas",
-    "lifecycle.BMeFqD-W.png",
-    "Zettlecasten/react/Без названия",
-    "Zettlecasten/Реализации",
-    "Zettlecasten/Релизации",
-    "Zettlecasten/сеть"
+    "lifecycle.BMeFqD-W.png"
   ]
 }
