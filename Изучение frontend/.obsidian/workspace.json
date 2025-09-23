@@ -602,8 +602,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "424abfc91d1e55fe",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
+    "Zettelcasten New",
     "templates/Zettelcasten Note.md",
     "Zettlecasten/Тест.md",
     "Zettlecasten/NodeJS.md",
@@ -631,7 +632,6 @@
     "Zettlecasten/Защита роутов авторизацией Express.md",
     "Zettlecasten/Создание токена NodeJs.md",
     "Zettlecasten/Собственные методы моделей Mongoose.md",
-    "Zettlecasten/Связи, метод populate.md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
