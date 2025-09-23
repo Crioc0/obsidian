@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/АВЛ-деревья.md",
+                "file": "01 Notes/202509231654.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "АВЛ-деревья"
+              "title": "202509231654"
             }
           },
           {
@@ -647,6 +647,7 @@
   },
   "active": "c8cf1f65f4272e66",
   "lastOpenFiles": [
+    "Zettlecasten/АВЛ-деревья.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202509231654.md",
     "Zettlecasten/Без названия 4.md",
@@ -679,7 +680,6 @@
     "Zettlecasten/Безопасность Express.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/Без названия 1.md",
-    "Zettlecasten/Валидация запросов к серверу.md",
     "Zettlecasten/Без названия 4.base",
     "Zettlecasten/Без названия 3.base",
     "Zettlecasten/Без названия 2.base",
