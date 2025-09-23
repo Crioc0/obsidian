@@ -44,3 +44,4 @@ userSchema.static('findUserByCredentials', function findUserByCredentials(email:
 
 export default mongoose.model('user', userSchema);
 ```
+Описываемая функция не должна быть стрелочной, так как иначе `this`  
