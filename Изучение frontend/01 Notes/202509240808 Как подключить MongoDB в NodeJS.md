@@ -4,8 +4,6 @@ tags:
   - backend
   - mongodb
   - nodejs
-База данных:
-  - "[[02 Structure notes/MongoDB|MongoDB]]"
 ---
 # 202509240808
 

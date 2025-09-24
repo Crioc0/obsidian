@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509231654 Что такое MongoDB.md",
+                "file": "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202509231654 Что такое MongoDB"
+              "title": "202509241020 Что такое ObjectId в MongoDB"
             }
           },
           {
@@ -243,10 +243,10 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "02 Structure notes/MongoDB.md",
-    "01 Notes/202509231654 Что такое MongoDB.md",
-    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
+    "02 Structure notes/MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
