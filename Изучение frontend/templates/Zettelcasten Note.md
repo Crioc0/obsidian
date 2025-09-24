@@ -2,8 +2,6 @@
 created: {{date}} {{time}}
 tags:
   -
-related:
-  - 
 ---
 # {{title}}
 *Ссылка на StructureNote:*
