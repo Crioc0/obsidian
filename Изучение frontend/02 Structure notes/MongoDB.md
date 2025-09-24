@@ -11,5 +11,5 @@ SORT file.ctime DESC
 ## Связанные концепции
 ```dataview
 LIST FROM #concept
-WHERE contains(tech, "react")
+WHERE contains(tech, "mongodb")
 ```
