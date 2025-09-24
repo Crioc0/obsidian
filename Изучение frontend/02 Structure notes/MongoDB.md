@@ -1,4 +1,4 @@
-#mongodb
+#section
 
 ## Последние заметки за неделю
 ```dataview
