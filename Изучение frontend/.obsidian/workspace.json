@@ -13,122 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509231654 MongoDB.md",
+                "file": "Zettlecasten/Подключение к MongoDB Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509231654 MongoDB"
-            }
-          },
-          {
-            "id": "3c045eb9c74a57aa",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Zettlecasten/Без названия 6.base",
-                "viewName": "Таблица"
-              },
-              "icon": "lucide-table",
-              "title": "Без названия 6"
-            }
-          },
-          {
-            "id": "c8cf1f65f4272e66",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Zettlecasten/Без названия 7.base",
-                "viewName": "Таблица"
-              },
-              "icon": "lucide-table",
-              "title": "Без названия 7"
-            }
-          },
-          {
-            "id": "46270c6eaf2fa2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Межсайтовый скриптинг (XSS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Межсайтовый скриптинг (XSS)"
-            }
-          },
-          {
-            "id": "02b8c9306fbb07f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Без названия 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 1"
-            }
-          },
-          {
-            "id": "7c96dd5486938a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Валидация запросов к серверу.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Валидация запросов к серверу"
-            }
-          },
-          {
-            "id": "db5428bf20d2f576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Валидация запросов к серверу.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Валидация запросов к серверу"
-            }
-          },
-          {
-            "id": "80d59d878e16e874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Централизованная обработка ошибок Express.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Централизованная обработка ошибок Express"
-            }
-          },
-          {
-            "id": "b2ad1e11a1634fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Создание токена NodeJs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Создание токена NodeJs"
+              "title": "Подключение к MongoDB Node.js"
             }
           },
           {
@@ -137,82 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Mongoose.md",
+                "file": "01 Notes/202509231654 MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongoose"
-            }
-          },
-          {
-            "id": "50113e3eecb908f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Собственные методы моделей Mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Собственные методы моделей Mongoose"
-            }
-          },
-          {
-            "id": "2601a198d57d8d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Связи, метод populate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Связи, метод populate"
-            }
-          },
-          {
-            "id": "845f0ea274ccbe89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/CRUD с документами Mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CRUD с документами Mongoose"
-            }
-          },
-          {
-            "id": "1927ec9cb2eb1fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Обновление документов mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обновление документов mongoose"
-            }
-          },
-          {
-            "id": "2c8be3dd7bac7202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Схемы и модели Mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Схемы и модели Mongoose"
+              "title": "202509231654 MongoDB"
             }
           }
         ]
@@ -378,9 +198,12 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "Zettlecasten/TTL-индексы MondoDB.md",
-    "Zettlecasten/Mongoose.md",
     "Zettlecasten/MongoDB.md",
+    "01 Notes/202509231654 MongoDB.md",
+    "Zettlecasten/Mongoose.md",
+    "Zettlecasten/Собственные методы моделей Mongoose.md",
+    "Zettlecasten/Без названия 6.base",
+    "Zettlecasten/TTL-индексы MondoDB.md",
     "Zettlecasten/Фильтры MongoDB.md",
     "Zettlecasten/Типы данных MongoDB.md",
     "Zettlecasten/Схемы и модели Mongoose.md",
@@ -398,14 +221,11 @@
     "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индекс по нескольким полям.md",
     "Zettlecasten/Запросы MongoDB.md",
-    "01 Notes/202509231654 MongoDB.md",
     "daily/2025-03-20.md",
     "daily/2025-06-10.md",
     "templates/Zettelcasten Note.md",
     "Zettlecasten/JavaScript.md",
-    "Zettlecasten/Без названия 6.base",
     "Zettlecasten/Без названия 7.base",
-    "tags/теги.md",
     "tags",
     "Zettlecasten/Без названия 5.base",
     "03 Assets",
