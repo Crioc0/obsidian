@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/MongoDB.md",
+                "file": "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB"
+              "title": "Работа с массивами и поддокументами MongoDB"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
+    "Zettlecasten/MongoDB.md",
     "Zettlecasten/Проекции MongoDB.md",
     "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "Zettlecasten/Индекс по нескольким полям.md",
@@ -214,7 +215,6 @@
     "Zettlecasten/Фильтры.md",
     "Zettlecasten/Фильтры MongoDB.md",
     "Zettlecasten/Логические операторы MongoDB.md",
-    "Zettlecasten/MongoDB.md",
     "Zettlecasten/Типы данных MongoDB.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
