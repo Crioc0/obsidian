@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241603 Мультиключевой индекс.md",
+                "file": "01 Notes/202509241122 Типы индексов в MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241603 Мультиключевой индекс"
+              "title": "202509241122 Типы индексов в MongoDB"
             }
           },
           {
@@ -225,16 +225,16 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509241554 Индекс по нескольким полям.md",
     "01 Notes/202509241122 Типы индексов в MongoDB.md",
     "01 Notes/202509241603 Мультиключевой индекс.md",
+    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "Zettlecasten/MongoDB.md",
     "Zettlecasten/Индексы в MongoDB.md",
     "Zettlecasten/Индексы в СУБД.md",
     "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "Zettlecasten/Индекс по одному полю (single field index).md",
     "Zettlecasten/Понятие индекса в СУБД.md",
-    "01 Notes/202509241554 Индекс по нескольким полям.md",
-    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "templates/Zettelcasten Note.md",
