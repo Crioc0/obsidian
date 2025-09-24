@@ -20,3 +20,9 @@ FROM #mongodb
 SORT file.ctime DESC
 ```
 
+###### Ссылки
+```dataview
+LIST file.link
+FROM #mongodb
+SORT file.ctime DESC
+```
