@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241205 Что такое проекции в MongoDB.md",
+                "file": "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "202509241205 Что такое проекции в MongoDB"
+              "title": "202509240808 Как подключить MongoDB в NodeJS"
             }
           },
           {
@@ -243,33 +243,33 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
+    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
+    "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
+    "01 Notes/202509241122 Что такое индекс в MongoDB и зачем он нужен.md",
+    "01 Notes/202509241153 Как происходит работа с массивами и поддокументами в MongoDB.md",
+    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "02 Structure notes/MongoDB.md",
     "templates/Zettelcasten Note.md",
     "02 Structure notes/Без названия.md",
     "01 Notes/202509241259.md",
     "tags/теги.md",
-    "01 Notes/202509241153 Как происходит работа с массивами и поддокументами в MongoDB.md",
-    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "Zettlecasten/MongoDB.md",
     "Zettlecasten/Без названия.base",
     "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "Zettlecasten/Проекции MongoDB.md",
-    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
-    "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
-    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
-    "01 Notes/202509241122 Что такое индекс в MongoDB и зачем он нужен.md",
     "Zettlecasten/Документные БД.md",
     "Zettlecasten/Работа с курсором MongoDB.md",
     "Zettlecasten/Сортировка sort MongoDB.md",
     "Zettlecasten/Индекс по нескольким полям.md",
     "Zettlecasten/Запросы MongoDB.md",
-    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "Zettlecasten/Функции.md",
     "Zettlecasten/Фильтры.md",
     "Zettlecasten/Фильтры MongoDB.md",
     "Zettlecasten/Логические операторы MongoDB.md",
-    "Zettlecasten/Типы данных MongoDB.md",
     "Zettlecasten/Без названия 7.base",
     "Zettlecasten/Без названия 5.base",
     "Zettlecasten/Без названия 4.base",

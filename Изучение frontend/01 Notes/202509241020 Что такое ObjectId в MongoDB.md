@@ -5,6 +5,8 @@ tags:
   - basic
   - mongodb
   - database
+База данных:
+  - "[[02 Structure notes/MongoDB|MongoDB]]"
 aliases:
   - objectId
 ---
