@@ -7,7 +7,7 @@ tags:
 
 *Ссылка на исходник или контекст (если есть):* [[https://practicum.yandex.ru/profile/backend-nodejs/ | Курс Яндекс практикум по NodeJS]]
 
-Для работы в NodeJS требуется модуль `mongo`
+Для работы в NodeJS требуется модуль `mongodb`
 ### Связанные идеи:
 *   
 ---
