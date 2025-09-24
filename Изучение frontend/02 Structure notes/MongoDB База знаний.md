@@ -20,6 +20,16 @@ FROM #mongodb
 SORT file.ctime DESC
 ```
 
+```dataviewjs
+const notes = dv.pages('#mongodb').sort(p => p.file.ctime, 'desc');
+
+// Создаем реальные ссылки в содержании заметки
+dv.paragraph("**Все заметки MongoDB:**");
+for (let note of notes) {
+    dv.paragraph(`- [[${note.file.name}]]`);
+}
+```
+
 ###### Ссылки
 ```dataview
 LIST "[[" + file.name + "]]"
