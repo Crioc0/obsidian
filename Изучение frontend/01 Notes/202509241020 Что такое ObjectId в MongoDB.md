@@ -5,12 +5,11 @@ tags:
   - basic
   - mongodb
   - database
-База данных:
-  - "[[02 Structure notes/MongoDB|MongoDB]]"
 aliases:
   - objectId
 ---
 # 202509241020
+*Ссылка на StructureNote:* [[02 Structure notes/MongoDB|MongoDB]]
 
 *Ссылка на исходник или контекст (если есть):* https://www.mongodb.com/docs/manual/core/document/#the-_id-field
 
