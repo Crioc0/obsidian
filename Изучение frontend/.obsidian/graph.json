@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "#mongodb",
-  "showTags": true,
+  "search": "tag: #mongodb  ",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,

@@ -7,7 +7,7 @@ tags:
 ---
 # 202509240808
 
-*Ссылка на исходник или контекст (если есть):* [[https://practicum.yandex.ru/profile/backend-nodejs/ | Курс Яндекс практикум по NodeJS]]
+*Ссылка на исходник или контекст (если есть):* [[ | Курс Яндекс практикум по NodeJS]][Курс Яндекс практикум по NodeJS](https://practicum.yandex.ru/profile/backend-nodejs/)
 
 Для работы в NodeJS требуется модуль `mongodb`
 ```ts
