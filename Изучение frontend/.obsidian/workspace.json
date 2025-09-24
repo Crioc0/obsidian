@@ -11,10 +11,14 @@
             "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02 Structure notes/MongoDB База знаний.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB База знаний"
             }
           },
           {
@@ -239,6 +243,7 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509241153 Как происходит работа с массивами и поддокументами в MongoDB.md",
     "02 Structure notes/MongoDB База знаний.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
@@ -252,7 +257,6 @@
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509241122 Что такое индекс в MongoDB и зачем он нужен.md",
     "Zettlecasten/Документные БД.md",
-    "01 Notes/202509241153 Как происходит работа с массивами и поддокументами в MongoDB.md",
     "Zettlecasten/Работа с курсором MongoDB.md",
     "Zettlecasten/Сортировка sort MongoDB.md",
     "Zettlecasten/Индекс по нескольким полям.md",
