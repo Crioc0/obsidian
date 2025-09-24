@@ -11,13 +11,14 @@
             "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Без названия.base",
-                "viewName": "Таблица"
+                "file": "02 Structure notes/MongoDB.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "MongoDB"
             }
           },
           {
@@ -240,10 +241,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202509231654 Что такое MongoDB.md",
+    "02 Structure notes/Без названия.md",
+    "02 Structure notes/MongoDB.md",
     "Zettlecasten/Без названия.base",
+    "01 Notes/202509231654 Что такое MongoDB.md",
     "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "Zettlecasten/Проекции MongoDB.md",
@@ -269,7 +272,6 @@
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/Без названия 7.base",
     "Zettlecasten/Без названия 5.base",
-    "Zettlecasten/Без названия 4.md",
     "Zettlecasten/Без названия 4.base",
     "Zettlecasten/Без названия 3.base",
     "Zettlecasten/Без названия 2.base",
