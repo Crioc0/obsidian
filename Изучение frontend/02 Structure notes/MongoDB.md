@@ -1,4 +1,4 @@
-#mongodb 
+#mongodb
 
 ## Последние заметки за неделю
 ```dataview
