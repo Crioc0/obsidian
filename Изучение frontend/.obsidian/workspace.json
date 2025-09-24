@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zettelcasten Note.md",
+                "file": "01 Notes/202509241516 Понятие индекса в СУБД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zettelcasten Note"
+              "title": "202509241516 Понятие индекса в СУБД"
             }
           },
           {
@@ -257,6 +257,7 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "templates/Zettelcasten Note.md",
     "tags/теги.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "Zettlecasten/Понятие индекса в СУБД.md",
@@ -274,7 +275,6 @@
     "Zettlecasten/Сортировка sort MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "daily/2025-06-10.md",
-    "templates/Zettelcasten Note.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "lifecycle.BMeFqD-W.png",
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
