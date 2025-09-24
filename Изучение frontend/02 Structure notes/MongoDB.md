@@ -3,8 +3,8 @@
 ## Последние заметки за неделю
 ```dataview
 LIST
-WHERE file.ctime >= date(now) - dur(7 days)
 FROM #mongodb 
+WHERE file.ctime >= date(now) - dur(7 days)
 SORT file.ctime DESC
 ```
 
