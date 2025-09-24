@@ -22,7 +22,7 @@ SORT file.ctime DESC
 
 ###### Ссылки
 ```dataview
-LIST file.link
+LIST "[[" + file.name + "]]"
 FROM #mongodb
 SORT file.ctime DESC
 ```
