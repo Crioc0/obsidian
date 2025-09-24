@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509240808 Как работать с MongoDB в NodeJS.md",
+                "file": "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509240808 Как работать с MongoDB в NodeJS"
+              "title": "202509240808 Как подключить MongoDB в NodeJS"
             }
           }
         ],
@@ -200,8 +200,8 @@
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
     "Zettlecasten/Подключение к MongoDB Node.js.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "Zettlecasten/MongoDB.md",
-    "01 Notes/202509240808 Как работать с MongoDB в NodeJS.md",
     "01 Notes/202509231654 MongoDB.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/Собственные методы моделей Mongoose.md",
