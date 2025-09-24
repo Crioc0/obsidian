@@ -11,14 +11,13 @@
             "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "01 Notes/202509231654 Что такое MongoDB.md",
-                "mode": "source",
-                "source": false
+                "file": "Zettlecasten/Без названия.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "202509231654 Что такое MongoDB"
+              "icon": "lucide-table",
+              "title": "Без названия"
             }
           },
           {
@@ -116,8 +115,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,10 +240,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ce46dbfbea31dfde",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
+    "Zettlecasten/Без названия.base",
+    "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "Zettlecasten/Проекции MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
@@ -272,11 +271,9 @@
     "Zettlecasten/Без названия 5.base",
     "Zettlecasten/Без названия 4.md",
     "Zettlecasten/Без названия 4.base",
-    "Zettlecasten/Без названия 3.md",
     "Zettlecasten/Без названия 3.base",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
-    "Zettlecasten/Без названия.base",
     "Zettlecasten/Без названия 6.base",
     "tags",
     "03 Assets",
