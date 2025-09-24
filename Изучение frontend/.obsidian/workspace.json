@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Работа с массивами и поддокументами MongoDB"
             }
+          },
+          {
+            "id": "5837f00258c131eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Работа с курсором MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с курсором MongoDB"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +211,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d9aca79b5365c5da",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "Zettlecasten/Работа с курсором MongoDB.md",
+    "Zettlecasten/Сортировка sort MongoDB.md",
+    "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "Zettlecasten/MongoDB.md",
     "Zettlecasten/Проекции MongoDB.md",
-    "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "Zettlecasten/Индекс по нескольким полям.md",
     "01 Notes/202509241122 Что такое индекс в MongoDB и зачем он нужен.md",
     "Zettlecasten/Запросы MongoDB.md",
@@ -228,11 +243,9 @@
     "Zettlecasten/Без названия 3.base",
     "Zettlecasten/Без названия 2.md",
     "Zettlecasten/Без названия.md",
-    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "Zettlecasten/Mongoose.md",
     "Zettlecasten/Без названия 6.base",
     "tags",
     "03 Assets",
