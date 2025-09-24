@@ -1,4 +1,4 @@
 ```dataview
 LIST
-WHERE file.name != "mongodb"
+WHERE file.tag === "mongodb"
 ```
