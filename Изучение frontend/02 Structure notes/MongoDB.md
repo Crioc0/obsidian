@@ -8,8 +8,3 @@ FROM #mongodb
 SORT file.ctime DESC
 ```
 
-## Связанные концепции
-```dataview
-LIST FROM #concept
-WHERE contains(tech, "mongodb")
-```
