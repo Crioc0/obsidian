@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag: #mongod",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907493,
-  "close": false
+  "scale": 0.885498954315042,
+  "close": true
 }
