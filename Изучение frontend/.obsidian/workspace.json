@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MongoDB",
+                "query": "tag:#mongodb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "01 Notes/202509231654 MongoDB.md",
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
