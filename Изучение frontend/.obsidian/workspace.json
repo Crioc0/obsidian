@@ -206,6 +206,22 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "5032e0bd9d67ac86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce46dbfbea31dfde",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,10 +238,11 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "random-note:Открыть случайную заметку": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "ce46dbfbea31dfde",
   "lastOpenFiles": [
     "Zettlecasten/Работа с массивами и поддокументами MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
