@@ -35,8 +35,7 @@
               "title": "202509240819 Какие типы данных есть в MongoDB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d9aca79b5365c5da",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202509231654 MongoDB.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+    "01 Notes/202509231654 MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "Zettlecasten/Типы данных MongoDB.md",
     "Zettlecasten/MongoDB.md",
