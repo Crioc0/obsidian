@@ -35,7 +35,8 @@
               "title": "202509241020 Что такое ObjectId в MongoDB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +197,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
+    "Zettlecasten/Типы данных MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
-    "Zettlecasten/Типы данных MongoDB.md",
     "01 Notes/202509231654 MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "Zettlecasten/MongoDB.md",
