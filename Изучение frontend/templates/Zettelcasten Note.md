@@ -1,7 +1,9 @@
 ---
 created: {{date}} {{time}}
 tags:
-  - 
+  -
+related:
+  -
 ---
 # {{title}}
 
