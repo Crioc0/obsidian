@@ -49,8 +49,7 @@
               "title": "202509241034 Как фильтровать данные в MongoDB"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +210,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d9aca79b5365c5da",
+  "active": "0fbd0cd8648ad940",
   "lastOpenFiles": [
-    "Zettlecasten/Запросы MongoDB.md",
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
     "Zettlecasten/Фильтры MongoDB.md",
+    "Zettlecasten/Запросы MongoDB.md",
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509231654 MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
