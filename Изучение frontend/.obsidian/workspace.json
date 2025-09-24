@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241122 Типы индексов в MongoDB.md",
+                "file": "01 Notes/202509241548 Индекс по одному полю (single field index).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241122 Типы индексов в MongoDB"
+              "title": "202509241548 Индекс по одному полю (single field index)"
             }
           },
           {
@@ -257,8 +257,10 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "01 Notes/202509241122 Типы индексов в MongoDB.md",
+    "01 Notes/202509241548 Индекс по одному полю (single field index).md",
+    "Zettlecasten/Индекс по одному полю (single field index).md",
+    "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "Zettlecasten/Индексы в СУБД.md",
     "templates/Zettelcasten Note.md",
     "tags/теги.md",
@@ -282,9 +284,7 @@
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "02 Structure notes/Без названия.md",
-    "01 Notes/202509241259.md",
     "Zettlecasten/Без названия.base",
-    "Zettlecasten/Проекции MongoDB.md",
     "Zettlecasten/Без названия 7.base",
     "Zettlecasten/Без названия 5.base",
     "Zettlecasten/Без названия 4.base",
