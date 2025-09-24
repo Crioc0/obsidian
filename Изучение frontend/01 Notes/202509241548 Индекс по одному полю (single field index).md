@@ -5,6 +5,7 @@ tags:
   - mongodb
   - basic
   - backend
+  - nosql
 ---
 # 202509241548
 *Ссылка на StructureNote:* [[Zettlecasten/MongoDB|MongoDB]]
