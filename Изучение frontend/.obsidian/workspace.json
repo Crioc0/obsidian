@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Без названия.md",
+                "file": "templates/Шаблон Structure Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Шаблон Structure Notes"
             }
           },
           {
@@ -200,10 +200,10 @@
   },
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
-    "02 Structure notes/Express.md",
-    "templates/Без названия.md",
-    "02 Structure notes/MongoDB.md",
     "templates/Zettelcasten Note.md",
+    "02 Structure notes/Express.md",
+    "templates/Шаблон Structure Notes.md",
+    "02 Structure notes/MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
