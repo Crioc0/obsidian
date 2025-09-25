@@ -14,4 +14,5 @@ SORT file.ctime DESC
 ```dataview
 TABLE file.ctime as "Создана"
 FROM #express 
-SORT 
+SORT file.ctime DESC
+```
