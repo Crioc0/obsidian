@@ -35,7 +35,8 @@
               "title": "Zettelcasten Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,12 +199,12 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "d9aca79b5365c5da",
+  "active": "587df88eed1be202",
   "lastOpenFiles": [
+    "02 Structure notes/Express.md",
     "02 Structure notes/MongoDB.md",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
-    "02 Structure notes/Express.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
