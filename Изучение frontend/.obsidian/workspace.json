@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509251336 Файловая структура проекта.md",
+                "file": "Zettlecasten/Способы хранения JWT в браузере Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509251336 Файловая структура проекта"
+              "title": "Способы хранения JWT в браузере Express"
             }
           },
           {
@@ -213,10 +213,10 @@
   },
   "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "01 Notes/202509251331 Файловая структура приложения.md",
-    "01 Notes/202509251336 Файловая структура проекта.md",
     "Zettlecasten/Express.md",
     "Zettlecasten/Файловая структура приложения на Express.md",
+    "01 Notes/202509251336 Файловая структура проекта.md",
+    "01 Notes/202509251331 Файловая структура приложения.md",
     "Zettlecasten/Базы данных.md",
     "02 Structure notes/Express.md",
     "02 Structure notes/MongoDB.md",
