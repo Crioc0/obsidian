@@ -46,6 +46,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "be163e4127acc955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c89361e71637ce",
+            "type": "leaf",
+            "state": {
+              "type": "tags-routes",
+              "state": {},
+              "icon": "waypoints",
+              "title": "Tags routes"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +221,11 @@
       "obsidian-git:Open Git source control": false,
       "random-note:Открыть случайную заметку": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "17c89361e71637ce",
   "lastOpenFiles": [
     "Zettlecasten/Документные БД.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
