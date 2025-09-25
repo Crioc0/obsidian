@@ -2,7 +2,6 @@
 created: 2025-09-24 15:48
 tags:
   - database
-  - mongodb
   - basic
   - backend
 ---
