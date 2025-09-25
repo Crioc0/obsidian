@@ -63,8 +63,7 @@
               "title": "202509251132 Создание и управление индексами в MongoDB"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,11 +242,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "587df88eed1be202",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "Zettlecasten/Когда использовать индекс.md",
     "01 Notes/202509251305 Когда стоит использовать индексы в MongoDB.md",
     "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
-    "Zettlecasten/Когда использовать индекс.md",
     "Zettlecasten/Индексы в MongoDB.md",
     "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/Создание индексов и управление ими MongoDB.md",
