@@ -1,4 +1,8 @@
-#section
+---
+tags:
+  - structure-notes
+---
+
 ### Связи с другими Structure Notes
 
 ## Последние заметки за неделю
