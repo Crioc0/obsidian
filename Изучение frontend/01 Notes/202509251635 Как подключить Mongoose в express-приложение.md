@@ -6,8 +6,9 @@ tags:
 ---
 # 202509251635
 *Ссылка на StructureNote:* [[02 Structure notes/Mongoose|Mongoose]] [[02 Structure notes/Express|Express]]
-*Ссылка на исходник или контекст (если есть):* 
+*Ссылка на исходник или контекст (если есть):* [ЯПрактикум](https://practicum.yandex.ru/learn/backend-nodejs/courses/16b47298-e20d-4fde-9619-1ab305039a00/sprints/564238/topics/a4928f0d-5f69-4053-bea3-fa90d3a2a89f/lessons/0bdd4558-b1fe-490c-a364-99a7f2328816/)
 
+Mongoose - это ODM 
 ### Связанные идеи:
 * 
 ---
