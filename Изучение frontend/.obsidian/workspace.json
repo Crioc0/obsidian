@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509251331 Файловая структура приложения.md",
+                "file": "01 Notes/202509251336.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509251331 Файловая структура приложения"
+              "title": "202509251336"
             }
           },
           {
@@ -214,10 +214,11 @@
   },
   "active": "341f926bae24d62b",
   "lastOpenFiles": [
+    "01 Notes/202509251331 Файловая структура приложения.md",
+    "01 Notes/202509251336.md",
     "Zettlecasten/Express.md",
     "Zettlecasten/Файловая структура приложения на Express.md",
     "Zettlecasten/Базы данных.md",
-    "01 Notes/202509251331 Файловая структура приложения.md",
     "02 Structure notes/Express.md",
     "02 Structure notes/MongoDB.md",
     "Zettlecasten/АВЛ-деревья.md",
@@ -242,7 +243,6 @@
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509241500 Что такое курсор в СУБД.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
-    "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
