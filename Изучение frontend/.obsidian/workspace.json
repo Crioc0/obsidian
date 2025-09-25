@@ -11,12 +11,14 @@
             "id": "341f926bae24d62b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "lifecycle.BMeFqD-W.png"
+                "file": "Zettlecasten/Express.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "lifecycle.BMeFqD-W"
+              "icon": "lucide-file",
+              "title": "Express"
             }
           },
           {
@@ -79,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mongodb",
+                "query": "tag:#express",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +102,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +159,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "mo"
+                "searchQuery": "ex"
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -211,13 +214,19 @@
   },
   "active": "341f926bae24d62b",
   "lastOpenFiles": [
+    "02 Structure notes/Express.md",
+    "02 Structure notes/MongoDB.md",
+    "Zettlecasten/АВЛ-деревья.md",
+    "Zettlecasten/Стратегия решения алгоритма разделяй и властвуй.md",
     "Чистые функции.md",
+    "transition-classes.DYG5-69l.png",
+    "lifecycle.BMeFqD-W.png",
+    "render-pipeline.CwxnH_lZ.png",
     "Zettlecasten/Web workers.md",
     "templates/Zettelcasten Note.md",
     "tags/теги.md",
     "daily/2025-06-10.md",
     "daily/2025-03-20.md",
-    "02 Structure notes/MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
@@ -234,14 +243,10 @@
     "01 Notes/202509241603 Мультиключевой индекс.md",
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
-    "01 Notes/202509251126 Разреженные индексы (partial index).md",
-    "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
-    "01 Notes/202509251305 Когда стоит использовать индексы в MongoDB.md",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "Без названия.canvas",
-    "lifecycle.BMeFqD-W.png",
     "Zettlecasten/Без названия 7.base",
     "Zettlecasten/Без названия 5.base",
     "Zettlecasten/Без названия 4.base",
@@ -249,8 +254,6 @@
     "Zettlecasten/Без названия 6.base",
     "tags",
     "03 Assets",
-    "render-pipeline.CwxnH_lZ.png",
-    "transition-classes.DYG5-69l.png",
     "Без названия 1.canvas"
   ]
 }
