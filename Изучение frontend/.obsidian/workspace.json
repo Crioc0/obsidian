@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241122 Индексы в MongoDB.md",
+                "file": "01 Notes/202509251114 TTL индексы в MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241122 Индексы в MongoDB"
+              "title": "202509251114 TTL индексы в MongoDB"
             }
           },
           {
@@ -230,10 +230,10 @@
   },
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
-    "01 Notes/202509251114 TTL индексы в MongoDB.md",
     "01 Notes/202509241122 Индексы в MongoDB.md",
-    "Zettlecasten/Индексы в MongoDB.md",
     "01 Notes/202509251034 Уникальные индексы (unique).md",
+    "01 Notes/202509251114 TTL индексы в MongoDB.md",
+    "Zettlecasten/Индексы в MongoDB.md",
     "Zettlecasten/TTL-индексы MondoDB.md",
     "Zettlecasten/Свойства индексов.md",
     "Zettlecasten/Многоключевой индекс (multikey index).md",
