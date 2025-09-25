@@ -49,8 +49,7 @@
               "title": "TTL-индексы MondoDB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,14 +227,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d9aca79b5365c5da",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202509241122 Индексы в MongoDB.md",
     "01 Notes/202509251126.md",
+    "Zettlecasten/TTL-индексы MondoDB.md",
+    "01 Notes/202509241122 Индексы в MongoDB.md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "Zettlecasten/Индексы в MongoDB.md",
-    "Zettlecasten/TTL-индексы MondoDB.md",
     "Zettlecasten/Свойства индексов.md",
     "Zettlecasten/Многоключевой индекс (multikey index).md",
     "Zettlecasten/Уникальные индексы (unique).md",
