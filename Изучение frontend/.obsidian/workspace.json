@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "587df88eed1be202",
+  "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
+    "Zettlecasten/TTL-индексы MondoDB.md",
     "Zettlecasten/Свойства индексов.md",
     "Zettlecasten/Уникальные индексы (unique).md",
     "01 Notes/202509241122 Индесы в MongoDB.md",
@@ -249,7 +250,6 @@
     "tags/теги.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/MongoDB.md",
-    "Zettlecasten/TTL-индексы MondoDB.md",
     "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индекс по нескольким полям.md",
     "Zettlecasten/Индекс по одному полю (single field index).md",
