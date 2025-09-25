@@ -18,4 +18,4 @@ Tags: #nodejs
 
 
 ## БД
-[[Mongoose]]
+[[Zettlecasten/Mongoose]]
