@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag: #mongodb",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.2414543899483104,
-  "close": true
+  "close": false
 }
