@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241516 Понятие индекса в СУБД.md",
+                "file": "01 Notes/202509251034 Уникальные индексы (unique).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241516 Понятие индекса в СУБД"
+              "title": "202509251034 Уникальные индексы (unique)"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Свойства индексов.md",
+                "file": "Zettlecasten/Уникальные индексы (unique).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Свойства индексов"
+              "title": "Уникальные индексы (unique)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,11 +227,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "587df88eed1be202",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "Zettlecasten/Индексы в MongoDB.md",
-    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
+    "01 Notes/202509251034 Уникальные индексы (unique).md",
+    "Zettlecasten/Индексы в MongoDB.md",
+    "Zettlecasten/Уникальные индексы (unique).md",
+    "Zettlecasten/Свойства индексов.md",
+    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241554 Индекс по нескольким полям.md",
     "01 Notes/202509241603 Мультиключевой индекс.md",
@@ -241,13 +243,11 @@
     "Zettlecasten/Когда использовать индекс.md",
     "Zettlecasten/Многоключевой индекс (multikey index).md",
     "Zettlecasten/Разреженные индексы (partial index).md",
-    "Zettlecasten/Свойства индексов.md",
     "Zettlecasten/Схемы и модели Mongoose.md",
     "tags/теги.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/MongoDB.md",
     "Zettlecasten/TTL-индексы MondoDB.md",
-    "Zettlecasten/Уникальные индексы (unique).md",
     "Zettlecasten/Индекс по одному полю.md",
     "Zettlecasten/Индекс по нескольким полям.md",
     "01 Notes/202509241122 Типы индексов в MongoDB.md",
@@ -255,7 +255,6 @@
     "Zettlecasten/Понятие индекса в СУБД.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "templates/Zettelcasten Note.md",
-    "01 Notes/202509241153 Как происходит поиск с массивами и поддокументами в MongoDB.md",
     "lifecycle.BMeFqD-W.png",
     "Zettlecasten/Без названия.base",
     "Zettlecasten/Без названия 7.base",
