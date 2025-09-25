@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#express",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "341f926bae24d62b",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "Zettlecasten/Документные БД.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
