@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509251447 Объект ответа в express.md",
+                "file": "01 Notes/202509251537 Мидлвары в express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509251447 Объект ответа в express"
+              "title": "202509251537 Мидлвары в express"
             }
           },
           {
@@ -200,14 +200,15 @@
   },
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
+    "01 Notes/202509251537 Мидлвары в express.md",
     "01 Notes/202509251438 Настройка роутинга в express.md",
+    "01 Notes/202509251447 Объект ответа в express.md",
     "01 Notes/202509251331 Файловая структура приложения.md",
     "01 Notes/202509251336 Файловая структура Express-приложения.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202509251534 Получение параметров с помощью req.param.md",
     "01 Notes/202509251531 Динамический роутинг express.md",
     "01 Notes/202509251450 Объект запроса.md",
-    "01 Notes/202509251447 Объект ответа в express.md",
     "01 Notes/202509251424.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "01 Notes/202509251305 Когда стоит использовать индексы в MongoDB.md",
@@ -225,7 +226,6 @@
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
     "render-pipeline.CwxnH_lZ.png",
