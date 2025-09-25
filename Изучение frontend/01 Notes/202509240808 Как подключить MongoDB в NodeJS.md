@@ -4,6 +4,7 @@ tags:
   - backend
   - mongodb
   - nodejs
+  - basic
 ---
 # 202509240808
 *Ссылка на StructureNote:* [[02 Structure notes/MongoDB|MongoDB]]
