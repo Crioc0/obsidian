@@ -1,4 +1,6 @@
 #section 
+
+### Связи с другими Structure Notes
 ## Последние заметки за неделю
 ```dataview
 LIST
