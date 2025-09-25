@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509251126.md",
+                "file": "01 Notes/202509251126 Разреженные индексы (partial index).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509251126"
+              "title": "202509251126 Разреженные индексы (partial index)"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "TTL-индексы MondoDB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,11 +228,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
-    "01 Notes/202509251126.md",
-    "Zettlecasten/TTL-индексы MondoDB.md",
     "01 Notes/202509241122 Индексы в MongoDB.md",
+    "01 Notes/202509251126 Разреженные индексы (partial index).md",
+    "Zettlecasten/TTL-индексы MondoDB.md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "Zettlecasten/Индексы в MongoDB.md",
