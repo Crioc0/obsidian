@@ -35,8 +35,7 @@
               "title": "202509251450 Объект запроса"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "587df88eed1be202",
+  "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
-    "01 Notes/202509251438 Настройка роутинга в express.md",
     "01 Notes/202509251450 Объект запроса.md",
+    "01 Notes/202509251438 Настройка роутинга в express.md",
     "01 Notes/202509251447 Объект ответа в express.md",
     "01 Notes/202509251424.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
