@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Индексы в MongoDB.md",
+                "file": "01 Notes/202509251034 Уникальные индексы (unique).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Индексы в MongoDB"
+              "title": "202509251034 Уникальные индексы (unique)"
             }
           },
           {
@@ -232,11 +232,12 @@
   "lastOpenFiles": [
     "Zettlecasten/TTL-индексы MondoDB.md",
     "Zettlecasten/Свойства индексов.md",
+    "Zettlecasten/Индексы в MongoDB.md",
+    "Zettlecasten/Многоключевой индекс (multikey index).md",
     "Zettlecasten/Уникальные индексы (unique).md",
     "01 Notes/202509241122 Индесы в MongoDB.md",
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
-    "Zettlecasten/Индексы в MongoDB.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241554 Индекс по нескольким полям.md",
@@ -244,7 +245,6 @@
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
     "Zettlecasten/Индексы в СУБД.md",
     "Zettlecasten/Когда использовать индекс.md",
-    "Zettlecasten/Многоключевой индекс (multikey index).md",
     "Zettlecasten/Разреженные индексы (partial index).md",
     "Zettlecasten/Схемы и модели Mongoose.md",
     "tags/теги.md",
