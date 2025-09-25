@@ -11,14 +11,12 @@
             "id": "341f926bae24d62b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
-                "mode": "source",
-                "source": false
+                "file": "lifecycle.BMeFqD-W.png"
               },
-              "icon": "lucide-file",
-              "title": "202509240808 Как подключить MongoDB в NodeJS"
+              "icon": "lucide-image",
+              "title": "lifecycle.BMeFqD-W"
             }
           },
           {
@@ -213,6 +211,15 @@
   },
   "active": "341f926bae24d62b",
   "lastOpenFiles": [
+    "Чистые функции.md",
+    "Zettlecasten/Web workers.md",
+    "templates/Zettelcasten Note.md",
+    "tags/теги.md",
+    "daily/2025-06-10.md",
+    "daily/2025-03-20.md",
+    "02 Structure notes/MongoDB.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
@@ -230,18 +237,9 @@
     "01 Notes/202509251126 Разреженные индексы (partial index).md",
     "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
     "01 Notes/202509251305 Когда стоит использовать индексы в MongoDB.md",
-    "02 Structure notes/Express.md",
-    "02 Structure notes/MongoDB.md",
-    "Zettlecasten/Базы данных.md",
     "Zettlecasten/Без названия 2.base",
-    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия 1.base",
-    "Zettlecasten/Схемы и модели Mongoose.md",
     "Zettlecasten/Без названия.base",
-    "01 Notes/202509231654 Что такое MongoDB.md",
-    "Zettlecasten/Когда использовать индекс.md",
-    "Zettlecasten/Central Note.md",
-    "Zettlecasten/Индексы в MongoDB.md",
     "Без названия.canvas",
     "lifecycle.BMeFqD-W.png",
     "Zettlecasten/Без названия 7.base",
