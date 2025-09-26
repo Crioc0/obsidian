@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509260834.md",
+                "file": "01 Notes/202509260834 Хеширование пароля.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509260834"
+              "title": "202509260834 Хеширование пароля"
             }
           }
         ],
@@ -197,7 +197,7 @@
   "active": "587df88eed1be202",
   "lastOpenFiles": [
     "01 Notes/202509260828 Модели mongoose.md",
-    "01 Notes/202509260834.md",
+    "01 Notes/202509260834 Хеширование пароля.md",
     "Zettlecasten/Без названия.md",
     "01 Notes/202509260815 Схемы mongoose.md",
     "02 Structure notes/Mongoose.md",
