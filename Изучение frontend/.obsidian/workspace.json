@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509261232.md",
+                "file": "01 Notes/202509261232 Создание JWT-токенов в NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509261232"
+              "title": "202509261232 Создание JWT-токенов в NodeJS"
             }
           }
         ],
@@ -202,7 +202,7 @@
   "active": "274871b0046492dd",
   "lastOpenFiles": [
     "01 Notes/202509261228 Собственные методы модели.md",
-    "01 Notes/202509261232.md",
+    "01 Notes/202509261232 Создание JWT-токенов в NodeJS.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "Zettlecasten/Собственные методы моделей Mongoose.md",
     "01 Notes/202509261053 Аутентификация с помощью Express и Mongoose.md",
