@@ -12,8 +12,40 @@ tags:
 
 Для того, чтобы авторизовать пользователя, нужно получить данные из req и сравнить из с данными из БД. Чтобы проверить захешированный пароль, нужно взять  пароль, полученный от пользователя, захешировать его и сравнить его с паролем, хранящимся в БД.
 Для этого можно использовать метод `bcrypt.compare`
+
+Метод `bcrypt.compare` работает асинхронно, поэтому результат нужно вернуть и обработать в следующем `then`. Если хеши совпали, в следующий `then` придёт `true`, иначе — `false`
+```ts
+// controllers/users.ts
+
+export const login = (req: Request, res: Response) => {
+  const { email, password } = req.body;
+
+  return User.findOne({ email })
+    .then((user) => {
+      if (!user) {
+        return Promise.reject(new Error('Неправильные почта или пароль'));
+      }
+
+      return bcrypt.compare(password, user.password);
+    })
+    .then((matched) => {
+      if (!matched) {
+        // хеши не совпали — отклоняем промис
+        return Promise.reject(new Error('Неправильные почта или пароль'));
+      }
+
+      // аутентификация успешна
+      res.send({ message: 'Всё верно!' });
+    })
+    .catch((err) => {
+      res
+        .status(401)
+        .send({ message: err.message });
+    });
+};
+```
 ### Связанные идеи:
-* 
+* [[]]
 ---
 
 *Что стоит развить? Какие вопросы возникли?*
