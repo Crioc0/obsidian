@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509260850 Создание документов mongoose.md",
+                "file": "01 Notes/202509260828 Модели mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509260850 Создание документов mongoose"
+              "title": "202509260828 Модели mongoose"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
-    "01 Notes/202509260828 Модели mongoose.md",
     "01 Notes/202509260850 Создание документов mongoose.md",
+    "01 Notes/202509260828 Модели mongoose.md",
     "02 Structure notes/Express.md",
     "01 Notes/202509260849 Действия с моделями.md",
     "Zettlecasten/MutationObsever.md",
