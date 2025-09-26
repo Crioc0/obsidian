@@ -3,6 +3,7 @@ tags:
   - structure-notes
 ---
 ### Связи с другими Structure Notes
+[[mo]]
 ## Последние заметки за неделю
 ```dataview
 LIST
