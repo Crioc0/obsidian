@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Обновление документов mongoose.md",
+                "file": "Zettlecasten/Mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обновление документов mongoose"
+              "title": "Mongoose"
             }
           }
         ],
@@ -201,6 +201,13 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "Zettlecasten/Централизованная обработка ошибок Express.md",
+    "Zettlecasten/CRUD с документами Mongoose.md",
+    "Zettlecasten/Чтение документов mongoose.md",
+    "Zettlecasten/Удаление документов.md",
+    "Zettlecasten/Создание документов mongoose.md",
+    "Zettlecasten/Схемы и модели Mongoose.md",
+    "Zettlecasten/Обновление документов mongoose.md",
     "Zettlecasten/Собственные методы моделей Mongoose.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509260828 Модели mongoose.md",
@@ -221,14 +228,7 @@
     "02 Structure notes/Mongoose.md",
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/Без названия 1.base",
-    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия.base",
-    "01 Notes/202509251635 Как подключить Mongoose в express-приложение.md",
-    "Zettlecasten/PWA.md",
-    "Zettlecasten/Мидлвары express.md",
-    "01 Notes/202509251336 Файловая структура Express-приложения.md",
-    "01 Notes/202509251531 Динамический роутинг express.md",
-    "01 Notes/202509251544 Мидлвар для парсинга данных.md",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
     "render-pipeline.CwxnH_lZ.png",
