@@ -11,10 +11,14 @@
             "id": "d9aca79b5365c5da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202509251132 Создание и управление индексами в MongoDB"
             }
           },
           {
@@ -195,6 +199,7 @@
   },
   "active": "d9aca79b5365c5da",
   "lastOpenFiles": [
+    "Zettlecasten/Express.md",
     "Zettlecasten/Отдача HTML и статичных файлов Express.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
@@ -211,7 +216,6 @@
     "Zettlecasten/PWA.md",
     "Zettlecasten/Мидлвары express.md",
     "02 Structure notes/Express.md",
-    "Zettlecasten/Express.md",
     "01 Notes/202509251336 Файловая структура Express-приложения.md",
     "01 Notes/202509251531 Динамический роутинг express.md",
     "01 Notes/202509251544 Мидлвар для парсинга данных.md",
