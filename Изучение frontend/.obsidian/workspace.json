@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Express.md",
+                "file": "Zettlecasten/Способы хранения JWT в браузере Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express"
+              "title": "Способы хранения JWT в браузере Express"
             }
           }
         ],
@@ -200,7 +200,14 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "Zettlecasten/Слоты.md",
+    "Zettlecasten/Отрисовка списков.md",
+    "Zettlecasten/Доступ к состоянию Pinia.md",
+    "Zettlecasten/Динамические переходы и компоненты.md",
+    "Zettlecasten/Алгоритмы.md",
     "02 Structure notes/NodeJS.md",
+    "02 Structure notes/Express.md",
+    "02 Structure notes/MongoDB.md",
     "Zettlecasten/Валидация запросов к серверу.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/Централизованная обработка ошибок Express.md",
@@ -217,15 +224,8 @@
     "01 Notes/202509260919 Обновление документов mongoose.md",
     "01 Notes/202509260915 Чтение документов mongoose.md",
     "01 Notes/202509260850 Создание документов mongoose.md",
-    "02 Structure notes/Express.md",
     "01 Notes/202509260849 Действия с моделями.md",
     "Zettlecasten/MutationObsever.md",
-    "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
-    "Zettlecasten/Express.md",
-    "Zettlecasten/Отдача HTML и статичных файлов Express.md",
-    "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
-    "Zettlecasten/Без названия.md",
-    "01 Notes/202509260815 Схемы mongoose.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
