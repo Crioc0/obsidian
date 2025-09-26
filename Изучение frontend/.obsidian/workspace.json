@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/NodeJS.md",
+                "file": "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS"
+              "title": "202509260844 Хэширование паролей в NodeJS"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
-    "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
     "02 Structure notes/NodeJS.md",
+    "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509260828 Модели mongoose.md",
     "Zettlecasten/Без названия.md",
