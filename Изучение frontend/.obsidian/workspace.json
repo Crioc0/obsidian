@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9aca79b5365c5da",
-            "type": "leaf",
-            "state": {
-              "type": "tags-routes",
-              "state": {},
-              "icon": "waypoints",
-              "title": "Tags routes"
-            }
-          },
-          {
             "id": "587df88eed1be202",
             "type": "leaf",
             "state": {
@@ -35,14 +25,18 @@
             "id": "274871b0046492dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Обновление документов mongoose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обновление документов mongoose"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "express",
+                "query": "tag:#mongoose",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +89,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,9 +144,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "что"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -206,6 +201,7 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "Zettlecasten/Собственные методы моделей Mongoose.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509260828 Модели mongoose.md",
     "01 Notes/202509260925 Удаление документов mongoose.md",
@@ -233,7 +229,6 @@
     "01 Notes/202509251336 Файловая структура Express-приложения.md",
     "01 Notes/202509251531 Динамический роутинг express.md",
     "01 Notes/202509251544 Мидлвар для парсинга данных.md",
-    "Zettlecasten/Mongoose.md",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
     "render-pipeline.CwxnH_lZ.png",
