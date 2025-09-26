@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Способы хранения JWT в браузере Express.md",
+                "file": "01 Notes/202509261042 Cоздание связей двух схем Mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Способы хранения JWT в браузере Express"
+              "title": "202509261042 Cоздание связей двух схем Mongoose"
             }
           }
         ],
@@ -200,6 +200,8 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "Zettlecasten/Способы хранения JWT в браузере Express.md",
+    "01 Notes/202509261042 Cоздание связей двух схем Mongoose.md",
     "Zettlecasten/Слоты.md",
     "Zettlecasten/Отрисовка списков.md",
     "Zettlecasten/Доступ к состоянию Pinia.md",
@@ -224,8 +226,6 @@
     "01 Notes/202509260919 Обновление документов mongoose.md",
     "01 Notes/202509260915 Чтение документов mongoose.md",
     "01 Notes/202509260850 Создание документов mongoose.md",
-    "01 Notes/202509260849 Действия с моделями.md",
-    "Zettlecasten/MutationObsever.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
