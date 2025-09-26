@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509261053.md",
+                "file": "01 Notes/202509261053 Аутентификация с помощью Express и Mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509261053"
+              "title": "202509261053 Аутентификация с помощью Express и Mongoose"
             }
           }
         ],
@@ -202,7 +202,7 @@
   "active": "274871b0046492dd",
   "lastOpenFiles": [
     "Zettlecasten/Собственные методы моделей Mongoose.md",
-    "01 Notes/202509261053.md",
+    "01 Notes/202509261053 Аутентификация с помощью Express и Mongoose.md",
     "01 Notes/202509261042 Cоздание связей для схем Mongoose.md",
     "Zettlecasten/Связи, метод populate.md",
     "01 Notes/202509260815 Схемы mongoose.md",
