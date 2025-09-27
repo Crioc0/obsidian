@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509271828.md",
+                "file": "01 Notes/202509271828 Централизованная обработка ошибок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509271828"
+              "title": "202509271828 Централизованная обработка ошибок"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Notes/202509271828.md",
+                "file": "01 Notes/202509271828 Централизованная обработка ошибок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202509271828"
+              "title": "Outgoing links from 202509271828 Централизованная обработка ошибок"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509271828.md",
+                "file": "01 Notes/202509271828 Централизованная обработка ошибок.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202509271828"
+              "title": "Outline of 202509271828 Централизованная обработка ошибок"
             }
           },
           {
@@ -185,7 +185,7 @@
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
     "02 Structure notes/Express.md",
-    "01 Notes/202509271828.md",
+    "01 Notes/202509271828 Централизованная обработка ошибок.md",
     "Zettlecasten/Mongoose.md",
     "01 Notes/202509271816 Защита роутов авторизацией.md",
     "02 Structure notes/MongoDB.md",
