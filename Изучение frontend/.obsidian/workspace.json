@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Express.md",
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express"
+              "title": "202509271816 Защита роутов авторизацией"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Structure notes/Express.md",
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Express"
+              "title": "Outgoing links from 202509271816 Защита роутов авторизацией"
             }
           },
           {
@@ -178,11 +178,14 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "02 Structure notes/Express.md",
+    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "02 Structure notes/MongoDB.md",
     "02 Structure notes/Mongoose.md",
     "Zettlecasten/JavaScript.md",
@@ -194,7 +197,6 @@
     "Zettlecasten/Express.md",
     "Zettlecasten/Отдача HTML и статичных файлов Express.md",
     "02 Structure notes/NodeJS.md",
-    "02 Structure notes/Express.md",
     "02 Structure notes",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
@@ -210,7 +212,6 @@
     "Zettlecasten/Защита роутов авторизацией Express.md",
     "Zettlecasten/Валидация запросов к серверу.md",
     "Zettlecasten/Безопасность Express.md",
-    "01 Notes/202509261232 Создание JWT-токенов в NodeJS.md",
     "01 Notes",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
