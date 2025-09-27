@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Mongoose.md",
+                "file": "01 Notes/202509271828.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongoose"
+              "title": "202509271828"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/Mongoose.md",
+                "file": "01 Notes/202509271828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mongoose"
+              "title": "Outgoing links from 202509271828"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlecasten/Mongoose.md",
+                "file": "01 Notes/202509271828.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mongoose"
+              "title": "Outline of 202509271828"
             }
           },
           {
@@ -185,13 +184,14 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "02 Structure notes/Express.md",
+    "01 Notes/202509271828.md",
+    "Zettlecasten/Mongoose.md",
+    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "02 Structure notes/MongoDB.md",
     "02 Structure notes/Mongoose.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/NodeJS.md",
-    "Zettlecasten/Mongoose.md",
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/Хэширование пароля NodeJS.md",
     "conflict-files-obsidian-git.md",
@@ -212,7 +212,6 @@
     "Zettlecasten/Межсайтовая подделка запроса(CSRF).md",
     "Zettlecasten/Защита роутов авторизацией Express.md",
     "Zettlecasten/Валидация запросов к серверу.md",
-    "Zettlecasten/Безопасность Express.md",
     "01 Notes",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
