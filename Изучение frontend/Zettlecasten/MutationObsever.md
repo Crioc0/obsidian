@@ -1,7 +1,7 @@
 2025 07 0817 33
 Tags: #vue 
 ###### Links: 
-1) [[https://learn.javascript.ru/mutation-observer]]
+1) 
 # Заметка
 `MutationObserver` – это встроенный объект, наблюдающий за DOM-элементом и запускающий колбэк в случае изменений.
 

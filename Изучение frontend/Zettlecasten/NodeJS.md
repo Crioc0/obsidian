@@ -9,9 +9,13 @@ Tags: #nodejs
 [[EventLoop в Node.js]]
 [[Работа с файловой системой Node.js]]
 [[Хэширование пароля NodeJS]]
+[[Создание токена NodeJs]]
+[[Межсайтовый скриптинг (XSS)]]
+
 
 ## Фреймворки
-[[Express]]
+[[Zettlecasten/Express]]
+
 
 ## БД
-[[Mongoose]]
+[[Zettlecasten/Mongoose]]
