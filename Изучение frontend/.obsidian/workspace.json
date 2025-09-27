@@ -179,6 +179,8 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "Zettlecasten/Service Worker.md",
+    "Zettlecasten/ODM, или Object Document Mapper.md",
     "Zettlecasten/Без названия.md",
     "Zettlecasten/Express.md",
     "Zettlecasten/Валидация запросов к серверу.md",
@@ -205,8 +207,6 @@
     "tags/теги.md",
     "tags",
     "Zettlecasten/Чек-лист безопасного приложения на Express.md",
-    "Zettlecasten/Способы хранения JWT в браузере Express.md",
-    "Zettlecasten/Создание токена NodeJs.md",
     "01 Notes",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
