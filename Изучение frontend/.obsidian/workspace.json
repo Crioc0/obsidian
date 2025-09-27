@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/MongoDB.md",
+                "file": "02 Structure notes/Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB"
+              "title": "Express"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Structure notes/MongoDB.md",
+                "file": "02 Structure notes/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MongoDB"
+              "title": "Outgoing links from Express"
             }
           },
           {
@@ -183,17 +183,17 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "02 Structure notes/MongoDB.md",
+    "02 Structure notes/Mongoose.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Mongoose.md",
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/Хэширование пароля NodeJS.md",
-    "02 Structure notes/Mongoose.md",
     "conflict-files-obsidian-git.md",
     "Zettlecasten/Express.md",
     "Zettlecasten/Отдача HTML и статичных файлов Express.md",
     "02 Structure notes/NodeJS.md",
-    "02 Structure notes/MongoDB.md",
     "02 Structure notes/Express.md",
     "02 Structure notes",
     "templates/Шаблон Structure Notes.md",

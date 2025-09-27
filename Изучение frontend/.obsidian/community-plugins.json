@@ -1,6 +1,4 @@
 [
   "obsidian-git",
-  "dataview",
-  "tags-routes",
-  "neo4j-graph-view"
+  "dataview"
 ]
