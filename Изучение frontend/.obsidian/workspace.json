@@ -70,7 +70,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,13 +179,17 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "Zettlecasten/Без названия.md",
+    "Zettlecasten/Express.md",
+    "Zettlecasten/Валидация запросов к серверу.md",
+    "Zettlecasten/Mongoose.md",
+    "01 Notes/202509271816 Защита роутов авторизацией.md",
+    "Zettlecasten/Централизованная обработка ошибок Express.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "Zettlecasten/Остановка наблюдателя.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "02 Structure notes/Express.md",
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
-    "Zettlecasten/Mongoose.md",
-    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "02 Structure notes/MongoDB.md",
     "02 Structure notes/Mongoose.md",
     "Zettlecasten/JavaScript.md",
@@ -192,7 +197,6 @@
     "Zettlecasten/Базы данных.md",
     "Zettlecasten/Хэширование пароля NodeJS.md",
     "conflict-files-obsidian-git.md",
-    "Zettlecasten/Express.md",
     "Zettlecasten/Отдача HTML и статичных файлов Express.md",
     "02 Structure notes/NodeJS.md",
     "02 Structure notes",
@@ -201,11 +205,8 @@
     "tags/теги.md",
     "tags",
     "Zettlecasten/Чек-лист безопасного приложения на Express.md",
-    "Zettlecasten/Централизованная обработка ошибок Express.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
     "Zettlecasten/Создание токена NodeJs.md",
-    "Zettlecasten/Создание и хранение JWT express.md",
-    "Zettlecasten/Межсайтовый скриптинг (XSS).md",
     "01 Notes",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
