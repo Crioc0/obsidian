@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509291206 Приведение типов в запросах.md",
+                "file": "01 Notes/202509291212 Типы данных в PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509291206 Приведение типов в запросах"
+              "title": "202509291212 Типы данных в PostgreSQL"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509291206 Приведение типов в запросах.md",
+                "file": "01 Notes/202509291212 Типы данных в PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509291206 Приведение типов в запросах"
+              "title": "Структура 202509291212 Типы данных в PostgreSQL"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
-    "01 Notes/202509291151 Агрегирующие функции MIN и MAX.md",
     "01 Notes/202509291206 Приведение типов в запросах.md",
+    "01 Notes/202509291212 Типы данных в PostgreSQL.md",
+    "01 Notes/202509291151 Агрегирующие функции MIN и MAX.md",
     "01 Notes/202509291138 Агрегирующие функции.md",
     "01 Notes/202509291142 Агрегирующая функция Count.md",
     "01 Notes/202509291150 Агрегирующая функция AVG.md",
@@ -211,7 +212,6 @@
     "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/NodeJS.md",
     "02 Structure notes/Mongoose.md",
-    "02 Structure notes/Database.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
