@@ -3,7 +3,7 @@ tags:
   - structure-notes
 ---
 ### Связи с другими Structure Notes
-[[02 Structure notes/Mongoose|Mongoose]] [[MongoDB]]
+
 ## Последние заметки за неделю
 ```dataview
 LIST

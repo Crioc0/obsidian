@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Базы данных.md",
+                "file": "01 Notes/202509290926 Реляционные БД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Базы данных"
+              "title": "202509290926 Реляционные БД"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Structure notes/Базы данных.md",
+                "file": "01 Notes/202509290926 Реляционные БД.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Базы данных"
+              "title": "Структура 202509290926 Реляционные БД"
             }
           },
           {
@@ -198,11 +198,12 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "02 Structure notes/Database.md",
+    "02 Structure notes/Express.md",
     "01 Notes/202509290926 Реляционные БД.md",
     "01 Notes/202509260834 Хеширование пароля.md",
-    "02 Structure notes/Базы данных.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
@@ -225,7 +226,6 @@
     "01 Notes/202509260828 Модели mongoose.md",
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
     "01 Notes/202509271816 Защита роутов авторизацией.md",
-    "01 Notes/202509251635 Как подключить Mongoose в express-приложение.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
