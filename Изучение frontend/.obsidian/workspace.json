@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509290955 Язык запросов SQL.md",
+                "file": "01 Notes/202509290956 Оператор SELECT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509290955 Язык запросов SQL"
+              "title": "202509290956 Оператор SELECT"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509290955 Язык запросов SQL.md",
+                "file": "01 Notes/202509290956 Оператор SELECT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509290955 Язык запросов SQL"
+              "title": "Структура 202509290956 Оператор SELECT"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
-    "01 Notes/202509290950 Структура данных в реляционных БД.md",
     "01 Notes/202509290955 Язык запросов SQL.md",
+    "01 Notes/202509290956 Оператор SELECT.md",
+    "01 Notes/202509290950 Структура данных в реляционных БД.md",
     "02 Structure notes/SQL.md",
     "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/NodeJS.md",
@@ -225,7 +226,6 @@
     "01 Notes/202509241603 Мультиключевой индекс.md",
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
-    "01 Notes/202509251126 Разреженные индексы (partial index).md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
