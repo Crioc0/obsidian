@@ -185,9 +185,9 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
-    "02 Structure notes/PostgreSQL.md",
-    "01 Notes/202509291212 Типы данных в PostgreSQL.md",
     "01 Notes/202509291206 Приведение типов в запросах.md",
+    "01 Notes/202509291212 Типы данных в PostgreSQL.md",
+    "02 Structure notes/PostgreSQL.md",
     "01 Notes/202509291151 Агрегирующие функции MIN и MAX.md",
     "01 Notes/202509291138 Агрегирующие функции.md",
     "01 Notes/202509291142 Агрегирующая функция Count.md",
