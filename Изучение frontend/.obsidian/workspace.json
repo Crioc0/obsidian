@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "224ef981f35d3753",
+            "id": "587df88eed1be202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202509260834 Хеширование пароля.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202509260834 Хеширование пароля"
+            }
+          },
+          {
+            "id": "274871b0046492dd",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -57,7 +72,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -70,8 +85,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlecasten/B-деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из B-деревья"
             }
           },
           {
@@ -126,10 +141,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "mongoose"
+                "searchQuery": "mongoo"
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -143,7 +158,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Структура"
             }
           },
           {
@@ -157,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,60 +180,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "bases:Create new base": false,
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "random-note:Открыть случайную заметку": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "274871b0046492dd",
   "lastOpenFiles": [
-    "Zettlecasten/Service Worker.md",
-    "Zettlecasten/ODM, или Object Document Mapper.md",
-    "Zettlecasten/Без названия.md",
-    "Zettlecasten/Express.md",
-    "Zettlecasten/Валидация запросов к серверу.md",
-    "Zettlecasten/Mongoose.md",
-    "01 Notes/202509271816 Защита роутов авторизацией.md",
-    "Zettlecasten/Централизованная обработка ошибок Express.md",
-    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
-    "Zettlecasten/Остановка наблюдателя.md",
-    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "02 Structure notes/Express.md",
+    "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
-    "02 Structure notes/MongoDB.md",
+    "01 Notes/202509271816 Защита роутов авторизацией.md",
+    "01 Notes/202509251635 Как подключить Mongoose в express-приложение.md",
     "02 Structure notes/Mongoose.md",
-    "Zettlecasten/JavaScript.md",
-    "Zettlecasten/NodeJS.md",
-    "Zettlecasten/Базы данных.md",
-    "Zettlecasten/Хэширование пароля NodeJS.md",
-    "conflict-files-obsidian-git.md",
-    "Zettlecasten/Отдача HTML и статичных файлов Express.md",
+    "01 Notes/202509261228 Собственные методы модели.md",
+    "01 Notes/202509261232 Создание JWT-токенов в NodeJS.md",
+    "Zettlecasten/Собственные методы моделей Mongoose.md",
+    "01 Notes/202509261053 Аутентификация с помощью Express и Mongoose.md",
+    "Zettlecasten/Mongoose.md",
+    "01 Notes/202509261042 Cоздание связей для схем Mongoose.md",
+    "Zettlecasten/Связи, метод populate.md",
+    "01 Notes/202509260815 Схемы mongoose.md",
+    "Zettlecasten/Способы хранения JWT в браузере Express.md",
+    "Zettlecasten/Слоты.md",
+    "Zettlecasten/Отрисовка списков.md",
+    "Zettlecasten/Доступ к состоянию Pinia.md",
+    "Zettlecasten/Динамические переходы и компоненты.md",
+    "Zettlecasten/Алгоритмы.md",
     "02 Structure notes/NodeJS.md",
-    "02 Structure notes",
-    "templates/Шаблон Structure Notes.md",
-    "templates/Zettelcasten Note.md",
-    "tags/теги.md",
-    "tags",
-    "Zettlecasten/Чек-лист безопасного приложения на Express.md",
-    "01 Notes",
-    "Zettlecasten/Без названия 2.base",
+    "02 Structure notes/Express.md",
+    "02 Structure notes/MongoDB.md",
+    "Zettlecasten/Валидация запросов к серверу.md",
+    "Zettlecasten/Централизованная обработка ошибок Express.md",
+    "Zettlecasten/CRUD с документами Mongoose.md",
+    "Zettlecasten/Чтение документов mongoose.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "Без названия.canvas",
-    "Браузерное окружение, спецификации.html",
-    "render-pipeline.CwxnH_lZ.png",
     "transition-classes.DYG5-69l.png",
-    "Без названия 1.canvas",
     "lifecycle.BMeFqD-W.png",
-    "Zettlecasten/react/Без названия",
-    "Zettlecasten/Реализации",
-    "Zettlecasten/Релизации"
+    "render-pipeline.CwxnH_lZ.png",
+    "Zettlecasten/Без названия 2.base",
+    "Без названия.canvas",
+    "Zettlecasten/Без названия 7.base",
+    "Zettlecasten/Без названия 5.base",
+    "Zettlecasten/Без названия 4.base",
+    "Zettlecasten/Без названия 3.base",
+    "Zettlecasten/Без названия 6.base",
+    "tags",
+    "03 Assets",
+    "Без названия 1.canvas"
   ]
 }
