@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Базы данных.md",
+                "file": "01 Notes/202509241500 Что такое курсор в СУБД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Базы данных"
+              "title": "202509241500 Что такое курсор в СУБД"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Structure notes/Базы данных.md",
+                "file": "01 Notes/202509241500 Что такое курсор в СУБД.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Базы данных"
+              "title": "Структура 202509241500 Что такое курсор в СУБД"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
-    "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "02 Structure notes/Базы данных.md",
+    "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241554 Индекс по нескольким полям.md",
     "01 Notes/202509241603 Мультиключевой индекс.md",
