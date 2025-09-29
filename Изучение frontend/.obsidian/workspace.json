@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509291004 Стиль запроса SQL.md",
+                "file": "01 Notes/202509291138 Агрегирующие функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509291004 Стиль запроса SQL"
+              "title": "202509291138 Агрегирующие функции"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509291004 Стиль запроса SQL.md",
+                "file": "01 Notes/202509291138 Агрегирующие функции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509291004 Стиль запроса SQL"
+              "title": "Структура 202509291138 Агрегирующие функции"
             }
           },
           {
@@ -185,9 +185,11 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
-    "01 Notes/202509291113 Срезы данны.md",
     "01 Notes/202509290956 Оператор SELECT.md",
+    "01 Notes/202509291138 Агрегирующие функции.md",
     "01 Notes/202509291107 DML SQL.md",
+    "01 Notes/202509291004 Стиль запроса SQL.md",
+    "01 Notes/202509291113 Срезы данны.md",
     "01 Notes/202509291109 Вставка строки в таблицу INSERT INTO.md",
     "01 Notes/202509291019 Виды запросов в SQL.md",
     "01 Notes/202509291031 DDL SQL.md",
@@ -195,7 +197,6 @@
     "01 Notes/202509291046 Изменение структуры таблиц ALTER.md",
     "01 Notes/202509291038 Создание таблиц CREATE.md",
     "Zettlecasten/[202509291038 Создание таблиц.md",
-    "01 Notes/202509291004 Стиль запроса SQL.md",
     "01 Notes/202509290958 Общая схема SQL запроса.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "03 Assets/sql-scheme.png",
@@ -211,7 +212,6 @@
     "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
