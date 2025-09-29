@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509290926 Реляционные БД.md",
+                "file": "01 Notes/202509290955 Язык запросов SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509290926 Реляционные БД"
+              "title": "202509290955 Язык запросов SQL"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509290926 Реляционные БД.md",
+                "file": "01 Notes/202509290955 Язык запросов SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509290926 Реляционные БД"
+              "title": "Структура 202509290955 Язык запросов SQL"
             }
           },
           {
@@ -200,13 +200,14 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "01 Notes/202509290950 Структура данных в реляционных БД.md",
+    "01 Notes/202509290955 Язык запросов SQL.md",
     "02 Structure notes/SQL.md",
+    "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/NodeJS.md",
     "02 Structure notes/Mongoose.md",
     "02 Structure notes/Database.md",
     "01 Notes/202509290953.md",
-    "01 Notes/202509290950 Структура данных в реляционных БД.md",
-    "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/Express.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
@@ -225,7 +226,6 @@
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
     "01 Notes/202509251126 Разреженные индексы (partial index).md",
-    "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
