@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Без названия.md",
+                "file": "02 Structure notes/Базы данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Базы данных"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Structure notes/Без названия.md",
+                "file": "02 Structure notes/Базы данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Базы данных"
             }
           },
           {
@@ -200,7 +200,11 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
-    "02 Structure notes/Без названия.md",
+    "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
+    "02 Structure notes/Базы данных.md",
+    "01 Notes/202509251305 Когда стоит использовать индексы в MongoDB.md",
+    "01 Notes/202509260815 Схемы mongoose.md",
+    "01 Notes/202509260828 Модели mongoose.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
     "01 Notes/202509271816 Защита роутов авторизацией.md",
@@ -213,7 +217,6 @@
     "Zettlecasten/Mongoose.md",
     "01 Notes/202509261042 Cоздание связей для схем Mongoose.md",
     "Zettlecasten/Связи, метод populate.md",
-    "01 Notes/202509260815 Схемы mongoose.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
     "Zettlecasten/Слоты.md",
     "Zettlecasten/Отрисовка списков.md",
@@ -223,9 +226,6 @@
     "02 Structure notes/NodeJS.md",
     "02 Structure notes/Express.md",
     "02 Structure notes/MongoDB.md",
-    "Zettlecasten/Валидация запросов к серверу.md",
-    "Zettlecasten/Централизованная обработка ошибок Express.md",
-    "Zettlecasten/CRUD с документами Mongoose.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
