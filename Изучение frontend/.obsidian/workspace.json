@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241500 Что такое курсор в СУБД.md",
+                "file": "02 Structure notes/Базы данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241500 Что такое курсор в СУБД"
+              "title": "Базы данных"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509241500 Что такое курсор в СУБД.md",
+                "file": "02 Structure notes/Базы данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509241500 Что такое курсор в СУБД"
+              "title": "Структура Базы данных"
             }
           },
           {
@@ -200,7 +200,16 @@
   },
   "active": "274871b0046492dd",
   "lastOpenFiles": [
+    "01 Notes/202509231654 Что такое MongoDB.md",
     "02 Structure notes/Базы данных.md",
+    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
+    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
+    "01 Notes/202509241122 Индексы в MongoDB.md",
+    "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
+    "01 Notes/202509241153 Как происходит поиск с массивами и поддокументами в MongoDB.md",
+    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
+    "01 Notes/202509241500 Что такое курсор в MongoDB.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241554 Индекс по нескольким полям.md",
@@ -217,15 +226,6 @@
     "01 Notes/202509271816 Защита роутов авторизацией.md",
     "01 Notes/202509251635 Как подключить Mongoose в express-приложение.md",
     "02 Structure notes/Mongoose.md",
-    "01 Notes/202509261228 Собственные методы модели.md",
-    "01 Notes/202509261232 Создание JWT-токенов в NodeJS.md",
-    "Zettlecasten/Собственные методы моделей Mongoose.md",
-    "01 Notes/202509261053 Аутентификация с помощью Express и Mongoose.md",
-    "Zettlecasten/Mongoose.md",
-    "01 Notes/202509261042 Cоздание связей для схем Mongoose.md",
-    "Zettlecasten/Связи, метод populate.md",
-    "Zettlecasten/Способы хранения JWT в браузере Express.md",
-    "Zettlecasten/Слоты.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
