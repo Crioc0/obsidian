@@ -185,8 +185,9 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
-    "01 Notes/202509291206 Приведение типов в запросах.md",
+    "02 Structure notes/PostgreSQL.md",
     "01 Notes/202509291212 Типы данных в PostgreSQL.md",
+    "01 Notes/202509291206 Приведение типов в запросах.md",
     "01 Notes/202509291151 Агрегирующие функции MIN и MAX.md",
     "01 Notes/202509291138 Агрегирующие функции.md",
     "01 Notes/202509291142 Агрегирующая функция Count.md",
@@ -211,7 +212,6 @@
     "02 Structure notes/SQL.md",
     "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/NodeJS.md",
-    "02 Structure notes/Mongoose.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "transition-classes.DYG5-69l.png",
