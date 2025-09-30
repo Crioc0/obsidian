@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "770229cef01e5fd8",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "02 Structure notes/Nest.js.md",
     "01 Notes/202509301325 Что такое NestJS.md",
