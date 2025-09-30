@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,6 +181,8 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
+    "Zettlecasten/Создание и хранение JWT express.md",
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
     "01 Notes/202509301634 Как разобрать куки на сервере.md",
     "01 Notes/202509271816 Защита роутов авторизацией.md",
@@ -205,8 +207,6 @@
     "Zettlecasten/Безопасность Express.md",
     "Zettlecasten/Без названия.md",
     "01 Notes/202509301452 Ротация логов winston.md",
-    "01 Notes/202509301412 Библиотека для логирования winston.md",
-    "01 Notes/202509301455 Оперативные логи в winston.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
