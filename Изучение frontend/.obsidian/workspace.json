@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301303 Объединение запросов UNIOIN ALL.md",
+                "file": "01 Notes/202509301303 Объединение запросов UNION и UNIOIN ALL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301303 Объединение запросов UNIOIN ALL"
+              "title": "202509301303 Объединение запросов UNION и UNIOIN ALL"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
     "01 Notes/202509291142 Агрегирующая функция Count.md",
-    "01 Notes/202509301303 Объединение запросов UNIOIN ALL.md",
+    "01 Notes/202509301303 Объединение запросов UNION и UNIOIN ALL.md",
     "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
     "01 Notes/202509301148 Объединение нескольких таблиц.md",
     "01 Notes/202509301011 Внешнее объединение таблиц. RIGHT JOIN.md",
