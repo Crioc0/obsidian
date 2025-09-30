@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509300811 Усечение даты, DATE_TRUNC.md",
+                "file": "01 Notes/202509300815 Типы связей в таблице.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509300811 Усечение даты, DATE_TRUNC"
+              "title": "202509300815 Типы связей в таблице"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
-    "01 Notes/202509290956 Оператор SELECT.md",
     "01 Notes/202509300811 Усечение даты, DATE_TRUNC.md",
+    "01 Notes/202509300815 Типы связей в таблице.md",
+    "Zettlecasten/[202509291038 Создание таблиц.md",
+    "01 Notes/202509290956 Оператор SELECT.md",
     "01 Notes/202509300807 Работа с датами EXTRACT.md",
     "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
     "01 Notes/202509291544 Сортировка данных ORDER BY.md",
@@ -207,9 +209,7 @@
     "01 Notes/202509291102 Удаление таблицы DROP.md",
     "01 Notes/202509291046 Изменение структуры таблиц ALTER.md",
     "01 Notes/202509291038 Создание таблиц CREATE.md",
-    "Zettlecasten/[202509291038 Создание таблиц.md",
     "01 Notes/202509290958 Общая схема SQL запроса.md",
-    "01 Notes/202509260834 Хеширование пароля.md",
     "03 Assets/sql-scheme.png",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
