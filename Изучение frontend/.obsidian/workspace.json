@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301511 XSS.md",
+                "file": "01 Notes/202509301608 Экранирование в Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301511 XSS"
+              "title": "202509301608 Экранирование в Node.js"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202509301511 XSS.md",
+    "01 Notes/202509301608 Экранирование в Node.js.md",
     "Zettlecasten/Межсайтовый скриптинг (XSS).md",
     "Zettlecasten/Безопасность Express.md",
-    "01 Notes/202509301511 XSS.md",
     "Zettlecasten/Без названия.md",
     "01 Notes/202509301452 Ротация логов winston.md",
     "01 Notes/202509301412 Библиотека для логирования winston.md",
@@ -210,7 +211,6 @@
     "Zettlecasten/Документ.md",
     "Zettlecasten/Документные БД.md",
     "01 Notes/202509301011 Внешнее объединение таблиц. RIGHT JOIN.md",
-    "01 Notes/202509300823 Типы объединений в таблице.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
