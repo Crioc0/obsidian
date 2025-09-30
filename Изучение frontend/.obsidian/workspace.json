@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301011 Внешнее объединение таблиц. RIGHT JOIN.md",
+                "file": "01 Notes/202509301148 Объединение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301011 Внешнее объединение таблиц. RIGHT JOIN"
+              "title": "202509301148 Объединение"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
-    "01 Notes/202509300823 Типы объединений в таблице.md",
     "01 Notes/202509301011 Внешнее объединение таблиц. RIGHT JOIN.md",
+    "01 Notes/202509301148 Объединение.md",
+    "01 Notes/202509300823 Типы объединений в таблице.md",
     "01 Notes/202509300912 Внешнее объединение таблиц. LEFT JOIN.md",
     "01 Notes/202509300826 Как работает INNER JOIN.md",
     "01 Notes/202509291544 Сортировка данных ORDER BY.md",
@@ -213,7 +214,6 @@
     "01 Notes/202509291107 DML SQL.md",
     "01 Notes/202509291004 Стиль запроса SQL.md",
     "01 Notes/202509291109 Вставка строки в таблицу INSERT INTO.md",
-    "01 Notes/202509291019 Виды запросов в SQL.md",
     "03 Assets/sql-scheme.png",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
