@@ -184,6 +184,8 @@
   },
   "active": "587df88eed1be202",
   "lastOpenFiles": [
+    "03 Assets/inner_join.png",
+    "03 Assets/outer_join.png",
     "01 Notes/202509300815 Типы связей в таблице.md",
     "01 Notes/202509300823 Типы объединений в таблице.md",
     "01 Notes/202509300811 Усечение даты, DATE_TRUNC.md",
@@ -209,7 +211,6 @@
     "01 Notes/202509291031 DDL SQL.md",
     "01 Notes/202509291102 Удаление таблицы DROP.md",
     "01 Notes/202509291046 Изменение структуры таблиц ALTER.md",
-    "01 Notes/202509291038 Создание таблиц CREATE.md",
     "03 Assets/sql-scheme.png",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
