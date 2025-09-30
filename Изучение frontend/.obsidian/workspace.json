@@ -185,6 +185,8 @@
   },
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
+    "03 Assets/UNION.jpg",
+    "03 Assets/UNION ALL.jpg",
     "01 Notes/202509291142 Агрегирующая функция Count.md",
     "01 Notes/202509301303 Объединение запросов UNION и UNIOIN ALL.md",
     "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
@@ -214,7 +216,6 @@
     "01 Notes/202509291151 Агрегирующие функции MIN и MAX.md",
     "01 Notes/202509291138 Агрегирующие функции.md",
     "01 Notes/202509291107 DML SQL.md",
-    "01 Notes/202509291004 Стиль запроса SQL.md",
     "03 Assets/sql-scheme.png",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
