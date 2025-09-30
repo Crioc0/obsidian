@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301611 Content Security Policy.md",
+                "file": "01 Notes/202509301620 Контроль версии браузера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301611 Content Security Policy"
+              "title": "202509301620 Контроль версии браузера"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202509301511 XSS.md",
     "01 Notes/202509301611 Content Security Policy.md",
+    "01 Notes/202509301620 Контроль версии браузера.md",
+    "02 Structure notes/Security.md",
+    "01 Notes/202509301511 XSS.md",
     "01 Notes/202509301608 Экранирование символов в Node.js.md",
     "Zettlecasten/Межсайтовый скриптинг (XSS).md",
     "Zettlecasten/Безопасность Express.md",
@@ -197,7 +199,6 @@
     "Zettlecasten/Central Note.md",
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
-    "02 Structure notes/Security.md",
     "02 Structure notes/SQL.md",
     "01 Notes/202509301456 Уровни логирования.md",
     "02 Structure notes/Express.md",
@@ -210,7 +211,6 @@
     "Zettlecasten/Алгоритм бинарного поиска.md",
     "Zettlecasten/Директивы в Vue.md",
     "Zettlecasten/Документ.md",
-    "Zettlecasten/Документные БД.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",

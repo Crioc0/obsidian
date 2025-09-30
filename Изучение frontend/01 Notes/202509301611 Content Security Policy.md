@@ -29,7 +29,10 @@ Content-Security-Policy: /* ИНСТРУКЦИИ */
 ```ts
 "script-src 'self' *.site.com"; // скрипты можно загружать с самого сайта, либо с поддоменов site.com, например, с https://example.site.com
 ```
-
+В конце каждой инструкции должна стоять точка с запятой
+```ts
+Content-Security-Policy: default-src 'self'; img-src *; media-src media1.com media2.com; script-src userscripts.example.com
+```
 ### Связанные идеи:
 * [[202509301511 XSS]]
 ---
