@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301455 Оперативные логи в winston.md",
+                "file": "01 Notes/202509301456.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301455 Оперативные логи в winston"
+              "title": "202509301456"
             }
           }
         ]
@@ -184,10 +184,11 @@
   },
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
+    "01 Notes/202509301412 Библиотека для логирования winston.md",
+    "01 Notes/202509301456.md",
+    "01 Notes/202509301354 Сбор логов в Express.md",
     "01 Notes/202509301452 Ротация логов.md",
     "01 Notes/202509301455 Оперативные логи в winston.md",
-    "01 Notes/202509301354 Сбор логов в Express.md",
-    "01 Notes/202509301412 Библиотека для логирования winston.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Алгоритмы.md",
@@ -209,7 +210,6 @@
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
     "01 Notes/202509301325 Что такое NestJS.md",
     "02 Structure notes/Nest.js.md",
-    "Zettlecasten/Без названия 1.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
