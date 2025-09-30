@@ -13,7 +13,3 @@ Tags: #nodejs
 
 ## Фреймворки
 [[Zettlecasten/Express]]
-
-
-## БД
-[[Zettlecasten/Mongoose]]
