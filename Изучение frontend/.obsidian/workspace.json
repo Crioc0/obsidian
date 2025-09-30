@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Межсайтовый скриптинг (XSS).md",
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Межсайтовый скриптинг (XSS)"
+              "title": "202509271816 Защита роутов авторизацией"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "XSS",
+                "query": "JWT",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,9 +185,11 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "Zettlecasten/Content Security Policy.md",
-    "Zettlecasten/Межсайтовый скриптинг (XSS).md",
+    "Zettlecasten/Способы хранения JWT в браузере Express.md",
+    "Zettlecasten/Сырой HTML.md",
     "Zettlecasten/NodeJS.md",
+    "Zettlecasten/Межсайтовый скриптинг (XSS).md",
+    "Zettlecasten/Content Security Policy.md",
     "01 Notes/202509301620 Контроль версии браузера.md",
     "01 Notes/202509301611 Content Security Policy.md",
     "02 Structure notes/Security.md",
@@ -209,8 +211,6 @@
     "01 Notes/202509301354 Сбор логов в Express.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
-    "Zettlecasten/Алгоритмы.md",
-    "Zettlecasten/Алгоритм бинарного поиска.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
