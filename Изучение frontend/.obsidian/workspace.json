@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509251447 Объект ответа в express.md",
+                "file": "01 Notes/202509301624 Использование Cookie в Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509251447 Объект ответа в express"
+              "title": "202509301624 Использование Cookie в Express"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "res",
+                "query": "Coo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,9 +186,9 @@
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
     "01 Notes/202509251438 Настройка роутинга в express.md",
-    "01 Notes/202509251450 Объект запроса req.md",
+    "01 Notes/202509251450 Объект запроса req в express.md",
+    "01 Notes/202509251447 Объект ответа res в express.md",
     "01 Notes/202509301624 Использование Cookie в Express.md",
-    "01 Notes/202509251447 Объект ответа в express.md",
     "01 Notes/202509251331 Файловая структура приложения.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202509271816 Защита роутов авторизацией.md",
