@@ -185,8 +185,9 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202509301624 Запись cookie в Express.md",
+    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "01 Notes/202509301634 Как разобрать куки на сервере.md",
+    "01 Notes/202509301624 Запись cookie в Express.md",
     "01 Notes/202509301632 Способы хранения JWT в браузере.md",
     "01 Notes/202509251450 Объект запроса req в express.md",
     "01 Notes/202509251438 Настройка роутинга в express.md",
@@ -194,7 +195,6 @@
     "Zettlecasten/202509251450 Объект запроса req в expres.md",
     "01 Notes/202509251331 Файловая структура приложения.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
-    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "Zettlecasten/Способы хранения JWT в браузере Express.md",
     "Zettlecasten/Сырой HTML.md",
     "Zettlecasten/NodeJS.md",
