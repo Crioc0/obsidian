@@ -14,6 +14,6 @@ SORT file.ctime DESC
 ## Все заметки о MongoDB
 ```dataview
 TABLE file.ctime as "Создана"
-FROM # 
+FROM #nestjs  
 SORT file.ctime DESC
 ```

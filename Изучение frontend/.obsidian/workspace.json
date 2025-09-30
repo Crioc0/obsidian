@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Nest.js.md",
+                "file": "01 Notes/202509301325 Что такое NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nest.js"
+              "title": "202509301325 Что такое NestJS"
             }
           }
         ]
@@ -185,6 +185,8 @@
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
     "02 Structure notes/Nest.js.md",
+    "01 Notes/202509301325 Что такое NestJS.md",
+    "Zettlecasten/Без названия 1.md",
     "Zettlecasten/Без названия.md",
     "01 Notes/202509301303 Объединение запросов UNION и UNIOIN ALL.md",
     "03 Assets/UNION.jpg",
@@ -214,8 +216,6 @@
     "01 Notes/202509291212 Типы данных в PostgreSQL.md",
     "01 Notes/202509291206 Приведение типов в запросах.md",
     "02 Structure notes/PostgreSQL.md",
-    "01 Notes/202509291151 Агрегирующие функции MIN и MAX.md",
-    "01 Notes/202509291138 Агрегирующие функции.md",
     "03 Assets/sql-scheme.png",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
