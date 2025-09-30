@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301456.md",
+                "file": "01 Notes/202509301456 Уровни логирования.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301456"
+              "title": "202509301456 Уровни логирования"
             }
           }
         ]
@@ -185,7 +185,7 @@
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
     "01 Notes/202509301412 Библиотека для логирования winston.md",
-    "01 Notes/202509301456.md",
+    "01 Notes/202509301456 Уровни логирования.md",
     "01 Notes/202509301354 Сбор логов в Express.md",
     "01 Notes/202509301452 Ротация логов.md",
     "01 Notes/202509301455 Оперативные логи в winston.md",
