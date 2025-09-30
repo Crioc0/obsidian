@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301354 Сбор логов в Express.md",
+                "file": "01 Notes/202509301412 Библиотека для логирования winston.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301354 Сбор логов в Express"
+              "title": "202509301412 Библиотека для логирования winston"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
-    "Zettlecasten/Атрибуты.md",
     "01 Notes/202509301354 Сбор логов в Express.md",
+    "01 Notes/202509301412 Библиотека для логирования winston.md",
+    "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
@@ -211,7 +212,6 @@
     "01 Notes/202509301303 Объединение запросов UNION и UNIOIN ALL.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
-    "01 Notes/202509291142 Агрегирующая функция Count.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
     "03 Assets/inner_join.png",
