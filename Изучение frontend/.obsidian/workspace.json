@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301011 Внешнее объединение таблиц. RIGHT JOIN.md",
+                "file": "01 Notes/202509301354.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301011 Внешнее объединение таблиц. RIGHT JOIN"
+              "title": "202509301354"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,9 +184,17 @@
   },
   "active": "770229cef01e5fd8",
   "lastOpenFiles": [
-    "01 Notes/202509301148 Объединение нескольких таблиц.md",
-    "01 Notes/202509300823 Типы объединений в таблице.md",
+    "Zettlecasten/Атрибуты.md",
+    "01 Notes/202509301354.md",
+    "Zettlecasten/Асинхронные компоненты Vue.md",
+    "Zettlecasten/Алгоритмы.md",
+    "Zettlecasten/Алгоритм бинарного поиска.md",
+    "Zettlecasten/Директивы в Vue.md",
+    "Zettlecasten/Документ.md",
+    "Zettlecasten/Документные БД.md",
     "01 Notes/202509301011 Внешнее объединение таблиц. RIGHT JOIN.md",
+    "01 Notes/202509300823 Типы объединений в таблице.md",
+    "01 Notes/202509301148 Объединение нескольких таблиц.md",
     "Zettlecasten/Express.md",
     "Zettlecasten/Защита роутов авторизацией Express.md",
     "Zettlecasten/NodeJS.md",
@@ -205,18 +212,10 @@
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "01 Notes/202509291142 Агрегирующая функция Count.md",
-    "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
-    "01 Notes/202509300912 Внешнее объединение таблиц. LEFT JOIN.md",
-    "01 Notes/202509300826 Как работает INNER JOIN.md",
-    "01 Notes/202509291544 Сортировка данных ORDER BY.md",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "01 Notes/202509300815 Типы связей в таблице.md",
-    "01 Notes/202509251034 Уникальные индексы (unique).md",
     "03 Assets/inner_join.png",
     "03 Assets/outer_join.png",
-    "01 Notes/202509300811 Усечение даты, DATE_TRUNC.md",
-    "Zettlecasten/[202509291038 Создание таблиц.md",
     "03 Assets/sql-scheme.png",
     "transition-classes.DYG5-69l.png",
     "lifecycle.BMeFqD-W.png",
