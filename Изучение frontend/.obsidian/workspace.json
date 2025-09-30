@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CREATE",
+                "query": "DISTRICT",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "587df88eed1be202",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "01 Notes/202509300823 Типы объединений в таблице.md",
     "01 Notes/202509300826 Как работает INNER JOIN.md",
