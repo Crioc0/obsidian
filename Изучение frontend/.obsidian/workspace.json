@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509301620 Контроль версии браузера.md",
+                "file": "Zettlecasten/Межсайтовый скриптинг (XSS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509301620 Контроль версии браузера"
+              "title": "Межсайтовый скриптинг (XSS)"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202509301611 Content Security Policy.md",
+    "Zettlecasten/Content Security Policy.md",
+    "Zettlecasten/Межсайтовый скриптинг (XSS).md",
+    "Zettlecasten/NodeJS.md",
     "01 Notes/202509301620 Контроль версии браузера.md",
+    "01 Notes/202509301611 Content Security Policy.md",
     "02 Structure notes/Security.md",
     "01 Notes/202509301511 XSS.md",
     "01 Notes/202509301608 Экранирование символов в Node.js.md",
-    "Zettlecasten/Межсайтовый скриптинг (XSS).md",
     "Zettlecasten/Безопасность Express.md",
     "Zettlecasten/Без названия.md",
     "01 Notes/202509301452 Ротация логов winston.md",
@@ -209,8 +211,6 @@
     "Zettlecasten/Асинхронные компоненты Vue.md",
     "Zettlecasten/Алгоритмы.md",
     "Zettlecasten/Алгоритм бинарного поиска.md",
-    "Zettlecasten/Директивы в Vue.md",
-    "Zettlecasten/Документ.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
