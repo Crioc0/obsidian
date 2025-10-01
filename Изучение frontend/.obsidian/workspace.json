@@ -11,10 +11,14 @@
             "id": "e2f4c055c34e3f8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510011321 Основные методы работы с fs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510011321 Основные методы работы с fs"
             }
           }
         ]
@@ -180,12 +184,12 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "Zettlecasten/NodeJS.md",
+    "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Основные методы для работы с fs.md",
     "01 Notes/202510011321 Основные методы работы с fs.md",
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
-    "Zettlecasten/Работа с файловой системой Node.js.md",
     "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
-    "Zettlecasten/NodeJS.md",
     "Zettlecasten/EventLoop в Node.js.md",
     "01 Notes/202510011301 Работа с tsconfig для nodeJS.md",
     "Zettlecasten/Работа с tsconfig для Node.js.md",
