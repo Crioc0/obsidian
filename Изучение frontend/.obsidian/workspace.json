@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011259 Микро и макрозадачи в NodeJS.md",
+                "file": "Zettlecasten/Работа с tsconfig для Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011259 Микро и макрозадачи в NodeJS"
+              "title": "Работа с tsconfig для Node.js"
             }
           }
         ]
@@ -184,8 +184,15 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202510011256 Основные фазы обработки событийного цикла.md",
+    "Zettlecasten/NodeJS.md",
+    "Zettlecasten/Работа с файловой системой Node.js.md",
+    "Zettlecasten/Тело запроса-потоки.md",
+    "Zettlecasten/Создание простейшего сервера.md",
+    "Zettlecasten/Процесс обработки событийного цикла.md",
+    "Zettlecasten/Основные методы для работы с fs.md",
+    "Zettlecasten/Микро и Макрозадачи Node.js.md",
     "01 Notes/202510011259 Микро и макрозадачи в NodeJS.md",
+    "01 Notes/202510011256 Основные фазы обработки событийного цикла.md",
     "Zettlecasten/proce.md",
     "03 Assets/processing-event-loop.png",
     "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
@@ -207,13 +214,6 @@
     "01 Notes/202509301651 Использование внешних компонентов.md",
     "01 Notes/202510011158 Подключение внешних компонентов тегом script.md",
     "01 Notes/202509301645 Создание и хранение секретных ключей JWT.md",
-    "Zettlecasten/Express.md",
-    "Zettlecasten/Межсайтовая подделка запроса(CSRF).md",
-    "Zettlecasten/Способы хранения JWT в браузере Express.md",
-    "Zettlecasten/NodeJS.md",
-    "01 Notes/202509241516 Понятие индекса в СУБД.md",
-    "01 Notes/202509261042 Cоздание связей для схем Mongoose.md",
-    "Zettlecasten/Безопасность Express.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
