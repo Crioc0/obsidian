@@ -4,10 +4,5 @@ Tags: #nodejs
 1) 
 # Заметка
 
-[[EventLoop в Node.js]]
 [[Работа с файловой системой Node.js]]
 
-
-
-## Фреймворки
-[[Zettlecasten/Express]]

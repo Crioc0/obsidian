@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/EventLoop в Node.js.md",
+                "file": "01 Notes/202510011303.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EventLoop в Node.js"
+              "title": "202510011303"
             }
           }
         ]
@@ -184,10 +184,12 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "Zettlecasten/Работа с файловой системой Node.js.md",
+    "01 Notes/202510011303.md",
     "Zettlecasten/NodeJS.md",
+    "Zettlecasten/EventLoop в Node.js.md",
     "01 Notes/202510011301 Работа с tsconfig для nodeJS.md",
     "Zettlecasten/Работа с tsconfig для Node.js.md",
-    "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Тело запроса-потоки.md",
     "Zettlecasten/Создание простейшего сервера.md",
     "Zettlecasten/Процесс обработки событийного цикла.md",
@@ -212,8 +214,6 @@
     "Без названия.canvas",
     "Zettlecasten/Создание и хранение JWT express.md",
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
-    "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
-    "01 Notes/202509301651 Использование внешних компонентов.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
