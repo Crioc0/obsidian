@@ -179,6 +179,7 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202510011321 Основные методы работы с fs.md",
     "01 Notes/202510011336 Назначение методов RestAPI.md",
     "02 Structure notes/NodeJS.md",
     "Zettlecasten/API.md",
@@ -190,7 +191,6 @@
     "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
     "01 Notes/202510011234 Как обработать потоки в NodeJs.md",
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
-    "01 Notes/202510011321 Основные методы работы с fs.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Основные методы для работы с fs.md",
