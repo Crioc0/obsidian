@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:express",
+                "query": "tag:#nodejs  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "e2f4c055c34e3f8d",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "Zettlecasten/Создание и хранение JWT express.md",
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
