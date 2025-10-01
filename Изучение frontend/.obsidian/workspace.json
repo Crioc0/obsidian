@@ -180,6 +180,7 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202510011202 Блокировка npm-зависимостей.md",
     "01 Notes/202510011243 Событийный цикл в NodeJS.md",
     "03 Assets/event-cicle.png",
     "01 Notes/202510011239 EventLoop в NodeJS.md",
@@ -193,7 +194,6 @@
     "Zettlecasten/Создание и хранение JWT express.md",
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
     "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
-    "01 Notes/202510011202 Блокировка npm-зависимостей.md",
     "01 Notes/202509301651 Использование внешних компонентов.md",
     "01 Notes/202510011158 Подключение внешних компонентов тегом script.md",
     "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
