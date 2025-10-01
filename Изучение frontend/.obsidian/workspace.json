@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011202 Блокировка npm-зависимостей.md",
+                "file": "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011202 Блокировка npm-зависимостей"
+              "title": "202510011204 Проверка безопасности зависимостей, Github Security Alert"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202509301651 Использование внешних компонентов.md",
     "01 Notes/202510011202 Блокировка npm-зависимостей.md",
+    "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
+    "01 Notes/202509301651 Использование внешних компонентов.md",
     "01 Notes/202510011158 Подключение внешних компонентов тегом script.md",
     "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
     "01 Notes/202509301645 Создание и хранение секретных ключей JWT.md",
@@ -208,7 +209,6 @@
     "01 Notes/202509301632 Способы хранения JWT в браузере.md",
     "01 Notes/202509251450 Объект запроса req в express.md",
     "01 Notes/202509251438 Настройка роутинга в express.md",
-    "01 Notes/202509251447 Объект ответа res в express.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
