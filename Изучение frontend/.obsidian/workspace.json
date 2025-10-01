@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
+                "file": "01 Notes/202510011328 Потоки для чтения и записи файлов в NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011303 Работа с файловой системой, модуль fs"
+              "title": "202510011328 Потоки для чтения и записи файлов в NodeJS"
             }
           }
         ]
@@ -184,11 +184,14 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
+    "01 Notes/202510011328 Потоки для чтения и записи файлов в NodeJS.md",
+    "01 Notes/202510011234 Как обработать потоки в NodeJs.md",
+    "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
     "01 Notes/202510011321 Основные методы работы с fs.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Основные методы для работы с fs.md",
-    "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
     "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
     "Zettlecasten/EventLoop в Node.js.md",
     "01 Notes/202510011301 Работа с tsconfig для nodeJS.md",
@@ -207,11 +210,8 @@
     "01 Notes/202510011243 Событийный цикл в NodeJS.md",
     "03 Assets/event-cicle.png",
     "01 Notes/202510011239 EventLoop в NodeJS.md",
-    "01 Notes/202510011234 Как обработать потоки в NodeJs.md",
-    "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
     "02 Structure notes/NodeJS.md",
     "Zettlecasten/Без названия.md",
-    "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "03 Assets/UNION.jpg",
