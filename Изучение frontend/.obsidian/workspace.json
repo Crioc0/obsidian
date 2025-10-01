@@ -178,8 +178,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "02 Structure notes/NodeJS.md",
     "Zettlecasten/Создание и хранение JWT express.md",
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
     "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
@@ -204,8 +206,6 @@
     "01 Notes/202509271828 Централизованная обработка ошибок в Express.md",
     "01 Notes/202509301634 Как разобрать куки на сервере.md",
     "01 Notes/202509271816 Защита роутов авторизацией.md",
-    "01 Notes/202509301632 Способы хранения JWT в браузере.md",
-    "01 Notes/202509251450 Объект запроса req в express.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
@@ -217,7 +217,6 @@
     "lifecycle.BMeFqD-W.png",
     "render-pipeline.CwxnH_lZ.png",
     "Zettlecasten/Без названия 2.base",
-    "Без названия.canvas",
     "Zettlecasten/Без названия 7.base",
     "Zettlecasten/Без названия 5.base",
     "Zettlecasten/Без названия 4.base",
