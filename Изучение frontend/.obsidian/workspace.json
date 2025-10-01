@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011321 Основные методы работы с fs.md",
+                "file": "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011321 Основные методы работы с fs"
+              "title": "202510011303 Работа с файловой системой, модуль fs"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fs",
+                "query": "потоки",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,10 +184,10 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202510011321 Основные методы работы с fs.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/Основные методы для работы с fs.md",
-    "01 Notes/202510011321 Основные методы работы с fs.md",
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
     "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
     "Zettlecasten/EventLoop в Node.js.md",
