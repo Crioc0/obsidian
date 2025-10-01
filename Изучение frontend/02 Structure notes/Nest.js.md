@@ -3,7 +3,7 @@ tags:
   - structure-notes
 ---
 ### Связи с другими Structure Notes
-[[Zettlecasten/Express|Express]] [[02 Structure notes/NodeJS|NodeJS]]
+ [[02 Structure notes/NodeJS|NodeJS]] [[Express]]
 ## Последние заметки за неделю
 ```dataview
 LIST
