@@ -4,7 +4,6 @@ Tags: #nodejs
 1) 
 # Заметка
 
-[[Работа с tsconfig для Node.js]]
 [[EventLoop в Node.js]]
 [[Работа с файловой системой Node.js]]
 
