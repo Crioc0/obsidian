@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011335.md",
+                "file": "01 Notes/202510011336.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011335"
+              "title": "202510011336"
             }
           }
         ]
@@ -185,8 +185,9 @@
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
     "Zettlecasten/REST API и его принципы.md",
-    "01 Notes/202510011335.md",
     "Zettlecasten/Назначение HTTP-методов REST API.md",
+    "01 Notes/202510011336.md",
+    "01 Notes/202510011335.md",
     "01 Notes/202510011329 Как работать с потоками в модуле fs.md",
     "01 Notes/202510011328 Потоки для чтения и записи файлов в NodeJS.md",
     "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
@@ -210,7 +211,6 @@
     "03 Assets/processing-event-loop.png",
     "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
     "02 Structure notes/Nest.js.md",
-    "01 Notes/202510011202 Блокировка npm-зависимостей.md",
     "03 Assets/event-cicle.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
