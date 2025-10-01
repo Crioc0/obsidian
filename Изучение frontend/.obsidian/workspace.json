@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
+                "file": "01 Notes/202510011313.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011303 Работа с файловой системой, модуль fs"
+              "title": "202510011313"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "Zettlecasten/Работа с файловой системой Node.js.md",
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
+    "01 Notes/202510011313.md",
+    "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/EventLoop в Node.js.md",
     "01 Notes/202510011301 Работа с tsconfig для nodeJS.md",
@@ -213,7 +214,6 @@
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Создание и хранение JWT express.md",
-    "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
