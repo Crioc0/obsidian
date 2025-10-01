@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011313.md",
+                "file": "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011313"
+              "title": "202510011313 Как указать путь к файлу, метод path"
             }
           }
         ]
@@ -185,7 +185,7 @@
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
-    "01 Notes/202510011313.md",
+    "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/EventLoop в Node.js.md",
