@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Основные методы для работы с fs.md",
+                "file": "01 Notes/202510011321 Основные методы работы с fs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные методы для работы с fs"
+              "title": "202510011321 Основные методы работы с fs"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nodejs  ",
+                "query": "fs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,9 +184,11 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
+    "01 Notes/202510011321 Основные методы работы с fs.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
+    "Zettlecasten/Основные методы для работы с fs.md",
+    "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/EventLoop в Node.js.md",
     "01 Notes/202510011301 Работа с tsconfig для nodeJS.md",
@@ -194,7 +196,6 @@
     "Zettlecasten/Тело запроса-потоки.md",
     "Zettlecasten/Создание простейшего сервера.md",
     "Zettlecasten/Процесс обработки событийного цикла.md",
-    "Zettlecasten/Основные методы для работы с fs.md",
     "Zettlecasten/Микро и Макрозадачи Node.js.md",
     "01 Notes/202510011259 Микро и макрозадачи в NodeJS.md",
     "01 Notes/202510011256 Основные фазы обработки событийного цикла.md",
@@ -213,7 +214,6 @@
     "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "Zettlecasten/Создание и хранение JWT express.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
