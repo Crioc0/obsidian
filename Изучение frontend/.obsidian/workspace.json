@@ -184,7 +184,9 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "Zettlecasten/proce.md",
     "01 Notes/202510011256 Основные фазы обработки событийного цикла.md",
+    "03 Assets/processing-event-loop.png",
     "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
     "02 Structure notes/Nest.js.md",
     "01 Notes/202510011202 Блокировка npm-зависимостей.md",
@@ -212,7 +214,6 @@
     "01 Notes/202509261042 Cоздание связей для схем Mongoose.md",
     "Zettlecasten/Безопасность Express.md",
     "Zettlecasten/Реляционные БД.md",
-    "Zettlecasten/ODM, или Object Document Mapper.md",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
