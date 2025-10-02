@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-tag:#алгоритмы  ",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,33 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#structure-notes  ",
+      "query": "tag: ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-<<<<<<< HEAD
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930120963,
-  "close": true
-=======
-  "collapse-forces": false,
-  "centerStrength": 0.239583333333333,
-  "repelStrength": 11.875,
-  "linkStrength": 0.614583333333333,
-  "linkDistance": 343,
-  "scale": 0.18462326225858658,
+  "scale": 0.7132754626224415,
   "close": false
->>>>>>> origin/main
 }
