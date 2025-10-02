@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
+                "file": "02 Structure notes/Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011230 Потоки в теле запроса NodeJS"
+              "title": "Express"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
+                "file": "02 Structure notes/Express.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202510011230 Потоки в теле запроса NodeJS"
+              "title": "Outline of Express"
             }
           },
           {
@@ -183,6 +183,8 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202510011239 EventLoop в NodeJS.md",
+    "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
     "02 Structure notes/NodeJS.md",
     "conflict-files-obsidian-git.md",
     "Zettlecasten/proce.md",
@@ -194,9 +196,7 @@
     "03 Assets/inner_join.png",
     "03 Assets/event-cicle.png",
     "03 Assets",
-    "01 Notes/202510011239 EventLoop в NodeJS.md",
     "01 Notes/202510011234 Как обработать потоки в NodeJs.md",
-    "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
     "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
     "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
