@@ -25,14 +25,32 @@
             "id": "d273c42e844a6e37",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510022045 Защитник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510022045 Защитник"
+            }
+          },
+          {
+            "id": "a530b440c956be55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510022045 Защитник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510022045 Защитник"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,15 +209,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d273c42e844a6e37",
+  "active": "a530b440c956be55",
   "lastOpenFiles": [
+    "01 Notes/202510022041 Мидлвары Nest.md",
+    "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
+    "01 Notes/202510022045 Защитник.md",
     "01 Notes/202510011256 Основные фазы обработки событийного цикла.md",
     "Zettlecasten/Указание пути к файлу Node.js.md",
     "Zettlecasten/proce.md",
     "02 Structure notes/Database.md",
-    "01 Notes/202510022041 Мидлвара Nest.md",
     "01 Notes/202510022039 Провайдеры, или сервисы.md",
-    "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
     "03 Assets/provider-nest.png",
     "01 Notes/202510022035 Контроллеры в Nest.js.md",
     "03 Assets/controllers-nest.png",
@@ -229,7 +248,6 @@
     "01 Notes/202509301645 Создание и хранение секретных ключей JWT.md",
     "01 Notes/202509301639.md",
     "01 Notes/202509301634 Как разобрать куки на сервере.md",
-    "01 Notes/202509301632 Способы хранения JWT в браузере.md",
     "02 Structure notes",
     "tags",
     "01 Notes",
