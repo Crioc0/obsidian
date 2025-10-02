@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-tag:#алгоритмы  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,11 +15,12 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
+<<<<<<< HEAD
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
@@ -27,4 +28,13 @@
   "linkDistance": 250,
   "scale": 0.36288736930120963,
   "close": true
+=======
+  "collapse-forces": false,
+  "centerStrength": 0.239583333333333,
+  "repelStrength": 11.875,
+  "linkStrength": 0.614583333333333,
+  "linkDistance": 343,
+  "scale": 0.18462326225858658,
+  "close": false
+>>>>>>> origin/main
 }

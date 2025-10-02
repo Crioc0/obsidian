@@ -4,7 +4,6 @@ tags:
   - backend
   - basic
   - mongodb
-  - database
 aliases:
   - objectId
 ---
