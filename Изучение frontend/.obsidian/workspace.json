@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510022041 Мидлвары Nest.md",
+                "file": "01 Notes/202510022050 Фильтры исключений (exception filters) Nest.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510022041 Мидлвары Nest"
+              "title": "202510022050 Фильтры исключений (exception filters) Nest.js"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "a530b440c956be55",
   "lastOpenFiles": [
-    "01 Notes/202510022046 Пайпы NestJS.md",
     "01 Notes/202510022041 Мидлвары Nest.md",
+    "01 Notes/202510022050 Фильтры исключений (exception filters) Nest.js.md",
+    "01 Notes/202510022046 Пайпы NestJS.md",
     "01 Notes/202510022045 Защитник.md",
     "03 Assets/guards-nest.png",
     "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
@@ -247,7 +248,6 @@
     "01 Notes/202509301651 Использование внешних компонентов.md",
     "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
     "01 Notes/202509301645 Создание и хранение секретных ключей JWT.md",
-    "01 Notes/202509301639.md",
     "02 Structure notes",
     "tags",
     "01 Notes",
