@@ -11,10 +11,14 @@
             "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/.obsidian/graph.json",
+                "bFile": "Изучение frontend/.obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -157,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
