@@ -70,8 +70,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Zettlecasten/proce.md",
