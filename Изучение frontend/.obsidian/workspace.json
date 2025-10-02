@@ -197,6 +197,7 @@
   },
   "active": "d273c42e844a6e37",
   "lastOpenFiles": [
+    "03 Assets/controllers-nest.png",
     "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
     "01 Notes/202510022035 Контроллеры в Nest.js.md",
     "01 Notes/202510022033 Модули в Nest.js.md",
@@ -231,7 +232,6 @@
     "01 Notes/202509301624 Запись cookie в Express.md",
     "01 Notes/202509301620 Контроль версии браузера.md",
     "01 Notes/202509301611 Content Security Policy.md",
-    "01 Notes/202509301608 Экранирование символов в Node.js.md",
     "02 Structure notes",
     "tags",
     "01 Notes",
