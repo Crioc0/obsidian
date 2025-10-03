@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510031224 Работа с телом запроса NestJS.md",
+                "file": "01 Notes/202510031225 Работа с ответом Nest.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510031224 Работа с телом запроса NestJS"
+              "title": "202510031225 Работа с ответом Nest.js"
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
     "01 Notes/202510022035 Контроллеры в Nest.js.md",
+    "01 Notes/202510031225 Работа с ответом Nest.js.md",
     "01 Notes/202510031224 Работа с телом запроса NestJS.md",
     "01 Notes/202510031206 Роутинг NestJS.md",
     "03 Assets/provider-nest.png",
@@ -212,7 +213,6 @@
     "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
     "Zettlecasten/NodeJS.md",
     "Zettlecasten/Работа с файловой системой Node.js.md",
-    "Zettlecasten/Основные методы для работы с fs.md",
     "03 Assets/processing-event-loop.png",
     "03 Assets/event-cicle.png",
     "Без названия 1.canvas",
