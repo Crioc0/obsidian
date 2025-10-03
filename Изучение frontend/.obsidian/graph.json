@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-tag:#алгоритмы  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: #structure-notes  ",
+      "query": "tag:#structure-notes  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -17,14 +17,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.06699744995282397,
+  "centerStrength": 0.239583333333333,
+  "repelStrength": 11.875,
+  "linkStrength": 0.614583333333333,
+  "linkDistance": 343,
+  "scale": 0.03408574896700185,
   "close": false
 }

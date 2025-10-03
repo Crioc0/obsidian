@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "00cf473a2fd43d24",
+        "id": "4495bc3e05b41310",
         "type": "tabs",
         "children": [
           {
-            "id": "224ef981f35d3753",
+            "id": "e2f4c055c34e3f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Express.md",
+                "file": "01 Notes/202510031206 Роутинг NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express"
-            }
-          },
-          {
-            "id": "d273c42e844a6e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510022045 Защитник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510022045 Защитник"
-            }
-          },
-          {
-            "id": "a530b440c956be55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510022106 Как объявить контроллер в NestJS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510022106 Как объявить контроллер в NestJS"
+              "title": "202510031206 Роутинг NestJS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "REST",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -142,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlecasten/B-деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из B-деревья"
             }
           },
           {
@@ -158,10 +130,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "mongoose"
+                "searchQuery": "mongoo"
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -170,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Structure notes/Express.md",
+                "file": "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Express"
+              "title": "Структура 202509291547 Ограничение размера выборки LIMIT"
             }
           },
           {
@@ -198,66 +170,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "random-note:Открыть случайную заметку": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "a530b440c956be55",
+  "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202510022035 Контроллеры в Nest.js.md",
+    "01 Notes/202510031206 Роутинг NestJS.md",
+    "03 Assets/provider-nest.png",
+    "03 Assets/modules-nest.png",
+    "03 Assets/guards-nest.png",
+    "03 Assets/controllers-nest.png",
     "01 Notes/202510022106 Как объявить контроллер в NestJS.md",
-    "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
-    "01 Notes/202510022041 Мидлвары Nest.md",
     "01 Notes/202510022050 Фильтры исключений (exception filters) Nest.js.md",
     "01 Notes/202510022046 Пайпы NestJS.md",
     "01 Notes/202510022045 Защитник.md",
-    "03 Assets/guards-nest.png",
-    "01 Notes/202510011256 Основные фазы обработки событийного цикла.md",
-    "Zettlecasten/Указание пути к файлу Node.js.md",
-    "Zettlecasten/proce.md",
-    "02 Structure notes/Database.md",
+    "01 Notes/202510022041 Мидлвары Nest.md",
     "01 Notes/202510022039 Провайдеры, или сервисы.md",
-    "03 Assets/provider-nest.png",
-    "03 Assets/controllers-nest.png",
+    "01 Notes/202510022035 Контроллеры в Nest.js.md",
     "01 Notes/202510022033 Модули в Nest.js.md",
-    "03 Assets/modules-nest.png",
-    "01 Notes/202510011336 Назначение методов RestAPI.md",
-    "01 Notes/202510011239 EventLoop в NodeJS.md",
+    "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
     "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
     "02 Structure notes/NodeJS.md",
-    "conflict-files-obsidian-git.md",
+    "01 Notes/202510011321 Основные методы работы с fs.md",
+    "01 Notes/202510011336 Назначение методов RestAPI.md",
+    "Zettlecasten/API.md",
+    "Zettlecasten/REST API и его принципы.md",
+    "Zettlecasten/Назначение HTTP-методов REST API.md",
+    "01 Notes/202510011335 REST API.md",
+    "01 Notes/202510011329 Как работать с потоками в модуле fs.md",
+    "01 Notes/202510011328 Потоки для чтения и записи файлов в NodeJS.md",
+    "01 Notes/202510011234 Как обработать потоки в NodeJs.md",
+    "01 Notes/202510011303 Работа с файловой системой, модуль fs.md",
+    "Zettlecasten/NodeJS.md",
+    "Zettlecasten/Работа с файловой системой Node.js.md",
+    "Zettlecasten/Основные методы для работы с fs.md",
+    "01 Notes/202510011313 Как указать путь к файлу, метод path.md",
+    "03 Assets/processing-event-loop.png",
+    "03 Assets/event-cicle.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
     "03 Assets/UNION.jpg",
     "03 Assets/UNION ALL.jpg",
-    "03 Assets/sql-scheme.png",
-    "03 Assets/processing-event-loop.png",
-    "03 Assets/outer_join.png",
-    "03 Assets/inner_join.png",
-    "03 Assets",
-    "01 Notes/202510011234 Как обработать потоки в NodeJs.md",
-    "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
-    "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
-    "01 Notes/202510011204 Проверка безопасности зависимостей, Github Security Alert.md",
-    "01 Notes/202510011202 Блокировка npm-зависимостей.md",
-    "01 Notes/202510011158 Подключение внешних компонентов тегом script.md",
-    "01 Notes/202509301651 Использование внешних компонентов.md",
-    "01 Notes/202509301648 Работа с .env файлом NodeJs dotenv.md",
-    "02 Structure notes",
-    "tags",
-    "01 Notes",
-    "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "Без названия.canvas",
-    "Браузерное окружение, спецификации.html",
-    "Без названия 1.canvas",
-    "Zettlecasten/react/Без названия",
-    "Zettlecasten/Реализации"
+    "03 Assets/inner_join.png",
+    "03 Assets/outer_join.png",
+    "Zettlecasten/Без названия 2.base",
+    "Zettlecasten/Без названия 7.base",
+    "Zettlecasten/Без названия 5.base",
+    "Zettlecasten/Без названия 4.base",
+    "Zettlecasten/Без названия 3.base",
+    "Zettlecasten/Без названия 6.base",
+    "tags",
+    "03 Assets"
   ]
 }
