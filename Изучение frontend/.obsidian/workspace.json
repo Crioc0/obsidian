@@ -15,7 +15,7 @@
               "state": {
                 "file": "Zettlecasten/Преобразование типов.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Преобразование типов"
@@ -35,8 +35,7 @@
               "title": "202510031440 Преобразование типов в JS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "dd01681a9b8759b5",
+  "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "Zettlecasten/Преобразование типов.md",
     "01 Notes/202510031440 Преобразование типов в JS.md",
+    "Zettlecasten/Преобразование типов.md",
     "01 Notes/202510031430 Типы данных в Javascript.md",
     "01 Notes/202510031437 Массивы в JS.md",
     "01 Notes/202510031439 Иммутабельные методы для работы с массивами.md",
