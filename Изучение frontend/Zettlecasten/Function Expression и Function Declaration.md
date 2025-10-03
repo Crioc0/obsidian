@@ -1,4 +1,3 @@
-2025 07 0916 26
 Tags: #javaScript 
 ###### Links: 
 1) 
