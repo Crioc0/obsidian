@@ -35,7 +35,8 @@
               "title": "202510031430 Типы данных в Javascript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +196,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "e2f4c055c34e3f8d",
+  "active": "dd01681a9b8759b5",
   "lastOpenFiles": [
-    "01 Notes/202510031430 Типы данных в Javascript.md",
     "Zettlecasten/Типы данных.md",
+    "01 Notes/202510031430 Типы данных в Javascript.md",
     "Zettlecasten/Основы JavaScript.md",
     "Zettlecasten/Переменные.md",
     "Zettlecasten/JavaScript.md",
