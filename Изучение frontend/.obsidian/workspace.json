@@ -183,6 +183,7 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "03 Assets/IoC.png",
     "01 Notes/202510031317 Связанность модулей и внедрение зависимостей NestJs.md",
     "01 Notes/202510031330 Инверсия управления, IoC.md",
     "01 Notes/202510022035 Контроллеры в Nest.js.md",
@@ -212,7 +213,6 @@
     "Zettlecasten/REST API и его принципы.md",
     "Zettlecasten/Назначение HTTP-методов REST API.md",
     "01 Notes/202510011335 REST API.md",
-    "01 Notes/202510011329 Как работать с потоками в модуле fs.md",
     "03 Assets/processing-event-loop.png",
     "03 Assets/event-cicle.png",
     "Без названия 1.canvas",
