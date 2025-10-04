@@ -210,6 +210,7 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "03 Assets/module-stucture.png",
     "02 Structure notes/Express.md",
     "01 Notes/202510041333 DTO в NestJS.md",
     "01 Notes/202510041341 Трансформация DTO в объект класса.md",
@@ -236,7 +237,6 @@
     "01 Notes/202510031206 Роутинг NestJS.md",
     "01 Notes/202510022035 Контроллеры в Nest.js.md",
     "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
-    "01 Notes/202510022041 Мидлвары Nest.md",
     "03 Assets/guards-nest.png",
     "03 Assets/provider-nest.png",
     "03 Assets/controllers-nest.png",
