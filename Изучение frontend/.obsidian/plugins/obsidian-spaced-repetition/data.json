@@ -4,7 +4,7 @@
       "#flashcards",
       "#nestjs"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
@@ -43,7 +43,7 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
-    "openViewInNewTab": false,
+    "openViewInNewTab": true,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
