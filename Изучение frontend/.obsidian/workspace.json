@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510041444 Динамический импорт модулей в NestJS.md",
+                "file": "01 Notes/202509231654 Что такое MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510041444 Динамический импорт модулей в NestJS"
+              "title": "202509231654 Что такое MongoDB"
             }
           },
           {
@@ -219,10 +219,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9958ccecb69fa016",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "01 Notes/202510022033 Модули в Nest.js.md",
     "01 Notes/202510041444 Динамический импорт модулей в NestJS.md",
+    "01 Notes/202510022033 Модули в Nest.js.md",
     "01 Notes/202510041355 Общие и глобальные модули.md",
     "03 Assets/module-stucture.png",
     "02 Structure notes/Express.md",
