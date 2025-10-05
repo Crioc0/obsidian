@@ -67,6 +67,18 @@ export class UserAlreadyExistsExceptionFilter implements ExceptionFilter {
   }
 }
 ```
+Для подключения нужно использовать декоратор `@useFilter`
+```ts
+import { Controller, UseFilters } from '@nestjs/common';
+import { UserAlreadyExistsExceptionFilter } from '../filters/user-exists.filter';
+
+@Controller('users')
+@UseFilters(UserAlreadyExistsExceptionFilter)
+export class UsersController {}
+```
+Или можно подключить фильтр для всех запросов сразу в файле `main.ts`:
+```ts
+```
 ### Связанные идеи:
 * 
 ---
