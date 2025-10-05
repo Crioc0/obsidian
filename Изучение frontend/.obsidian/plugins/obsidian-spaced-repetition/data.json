@@ -3,7 +3,7 @@
     "flashcardTags": [
       "#nestjs"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",

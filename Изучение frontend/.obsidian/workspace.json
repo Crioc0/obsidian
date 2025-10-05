@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509231654 Что такое MongoDB.md",
+                "file": "01 Notes/202509301325 Что такое NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509231654 Что такое MongoDB"
+              "title": "202509301325 Что такое NestJS"
             }
           },
           {
@@ -221,6 +221,8 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509291031 DDL SQL.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202510041444 Динамический импорт модулей в NestJS.md",
     "01 Notes/202510022033 Модули в Nest.js.md",
     "01 Notes/202510041355 Общие и глобальные модули.md",
@@ -247,8 +249,6 @@
     "01 Notes/202510031330 Инверсия управления, IoC.md",
     "01 Notes/202510031317 Связанность модулей и внедрение зависимостей NestJs.md",
     "01 Notes/202510031225 Работа с ответом Nest.js.md",
-    "01 Notes/202510031224 Работа с телом запроса NestJS.md",
-    "01 Notes/202510031206 Роутинг NestJS.md",
     "03 Assets/guards-nest.png",
     "03 Assets/provider-nest.png",
     "03 Assets/controllers-nest.png",
