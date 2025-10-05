@@ -78,6 +78,13 @@ export class UsersController {}
 ```
 Или можно подключить фильтр для всех запросов сразу в файле `main.ts`:
 ```ts
+async function bootstrap() {
+  const app = await NestFactory.create(AppModule);
+
+  app.useGlobalFilters(new UserAlreadyExistsExceptionFilter());
+
+  await app.listen(3000);
+}
 ```
 ### Связанные идеи:
 * 
