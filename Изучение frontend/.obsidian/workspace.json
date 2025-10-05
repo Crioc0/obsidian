@@ -187,29 +187,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5dbf6b15e529b8a2",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
-            }
-          },
-          {
-            "id": "17d60074b6193f9b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -225,11 +205,10 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "17d60074b6193f9b",
+  "active": "8931235a5ec4568e",
   "lastOpenFiles": [
     "02 Structure notes/NodeJS.md",
     "01 Notes/202510031450 Копирование объектов.md",
