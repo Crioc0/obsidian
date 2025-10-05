@@ -187,9 +187,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9958ccecb69fa016",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,10 +215,11 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "9958ccecb69fa016",
   "lastOpenFiles": [
     "01 Notes/202510022033 Модули в Nest.js.md",
     "01 Notes/202510041444 Динамический импорт модулей в NestJS.md",
