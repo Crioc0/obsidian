@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "a38b8465e7841acb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/.obsidian/workspace.json",
+                "bFile": "Изучение frontend/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
             "id": "9b711687c4dac607",
             "type": "leaf",
             "state": {
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,8 +236,22 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1ac405839974a514",
+  "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "03 Assets/module-stucture.png",
+    "01 Notes/202510051812 Перехватчики.md",
+    "01 Notes/202510051801 Exeption Filter.md",
+    "01 Notes/202510051719 Roles Guard.md",
+    "01 Notes/202510051709 Guards NestJS.md",
+    "01 Notes/202510041444 Динамический импорт модулей в NestJS.md",
+    "01 Notes/202510041355 Общие и глобальные модули.md",
+    "01 Notes/202510041341 Трансформация DTO в объект класса.md",
+    "01 Notes/202510041337 Валидация с помощью DTO.md",
+    "01 Notes/202510041333 DTO в NestJS.md",
+    "01 Notes/202510041330 DTO (Data Transfer Object).md",
+    "01 Notes/202510041322 Цикличные зависимости в провайдерах.md",
+    "01 Notes/202510041304 Кастомные провайдеры. Внедрение через объект.md",
     "01 Notes/202510031450 Копирование объектов.md",
     "01 Notes/202510031449 Объекты в JS.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
@@ -237,19 +265,6 @@
     "01 Notes/202510031444 Function Expression и Function Declaration.md",
     "02 Structure notes/JavaScript.md",
     "Zettlecasten/Функции.md",
-    "Zettlecasten/Конструкция switch.md",
-    "Zettlecasten/Циклы while и for.md",
-    "Zettlecasten/Логические операторы.md",
-    "Zettlecasten/Условное ветвление.md",
-    "Zettlecasten/Операторы сравнения.md",
-    "Zettlecasten/Базовые операторы, математика.md",
-    "Zettlecasten/Преобразование типов.md",
-    "01 Notes/202510031437 Массивы в JS.md",
-    "01 Notes/202510031439 Иммутабельные методы для работы с массивами.md",
-    "Zettlecasten/Типы данных.md",
-    "Zettlecasten/Массивы JS.md",
-    "Zettlecasten/Методы массивов.md",
-    "Zettlecasten/Иммутабельные методы массивов.md",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
     "03 Assets/modules-nest.png",
@@ -263,7 +278,6 @@
     "03 Assets/UNION ALL.jpg",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "03 Assets/inner_join.png",
     "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 7.base",
     "Zettlecasten/Без названия 5.base",
