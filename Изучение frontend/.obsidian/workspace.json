@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "1ac405839974a514",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
+          },
+          {
             "id": "9b711687c4dac607",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "Объекты"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "e2f4c055c34e3f8d",
+  "active": "1ac405839974a514",
   "lastOpenFiles": [
     "01 Notes/202510031450 Копирование объектов.md",
     "01 Notes/202510031449 Объекты в JS.md",
