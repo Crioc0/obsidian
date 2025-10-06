@@ -8,6 +8,21 @@ tags:
 *Ссылка на исходник или контекст (если есть):* 
 
 QueryBuilder — библиотека, которая помогает описать SQL запрос кодом на вашем языке программирования. Она ничего не знает о структуре вашей базы и оперирует теми данными, которые вы передаёте в её функции.
+
+Например, вот так может выглядеть запрос, составленный при помощи Knex (одного из популярных Query Builder для Node.JS):
+```ts
+knex('tableName')
+  .insert({
+    email: "ignore@example.com",
+    name: "John Doe"
+  })
+  .onConflict('email')
+  .merge()
+```
+На выходе он будет преобразован в примерно такой запрос (в случае использования MySQL):
+```sql
+insert into `tableName` (`email`, `name`) values ('ignore@example.com', 'John Doe') on duplicate key update `email` = values(`email`), `name` = values(`name`)
+```
 ### Связанные идеи:
 * [[202509290926 Реляционные БД]]
 ---
