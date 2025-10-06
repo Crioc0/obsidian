@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Без названия.md",
+                "file": "01 Notes/202510061052 Что такое TypeORM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "202510061052 Что такое TypeORM"
             }
           },
           {
@@ -238,9 +238,9 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "02 Structure notes/TypeORM.md",
     "01 Notes/202510061117 Описание модели данных TypeORM.md",
-    "02 Structure notes/Без названия.md",
-    "01 Notes/202510061052 TypeORM.md",
+    "01 Notes/202510061052 Что такое TypeORM.md",
     "01 Notes/202510061114 Подключение TypeORM к Nest.js.md",
     "01 Notes/202510061043 ORM.md",
     "01 Notes/202510061039 QuerryBuilder.md",
