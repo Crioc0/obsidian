@@ -23,7 +23,16 @@ knex('tableName')
 ```sql
 insert into `tableName` (`email`, `name`) values ('ignore@example.com', 'John Doe') on duplicate key update `email` = values(`email`), `name` = values(`name`)
 ```
-
+QueryBuilder позволяет интегрировать SQL-запросы более органично, разделяя запрос на части, которые проще понимать и обрабатывать. Например, так:
+```ts
+knex
+  .select('year', knex.raw('SUM(profit)')).from('sales')
+  .groupByRaw('year WITH ROLLUP')
+```
+При выполнении этого кода на выходе мы получим запрос
+```ts
+select `year`, SUM(profit) from `sales` group by year WITH ROLLUP
+```
 ### Связанные идеи:
 * [[202509290926 Реляционные БД]]
 ---
