@@ -37,14 +37,14 @@
             "id": "a38b8465e7841acb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "01 Notes/202510051812 Перехватчики.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "202510051812 Перехватчики"
             }
           },
           {
