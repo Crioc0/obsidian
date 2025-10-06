@@ -23,6 +23,7 @@ knex('tableName')
 ```sql
 insert into `tableName` (`email`, `name`) values ('ignore@example.com', 'John Doe') on duplicate key update `email` = values(`email`), `name` = values(`name`)
 ```
+
 ### Связанные идеи:
 * [[202509290926 Реляционные БД]]
 ---
