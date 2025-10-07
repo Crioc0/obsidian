@@ -111,6 +111,49 @@ let clone = Object.assign({}, user);
 
 alert(clone[id]); // 123
 ```
+## Глобальные символы
+
+**Глобальный реестр символов** обеспечивает доступ к одному и тому же символу из разных частей приложения:
+```js
+// Читаем символ из глобального реестра
+let id = Symbol.for('id');
+
+// Читаем его снова (возвращается тот же символ)
+let idAgain = Symbol.for('id');
+
+alert(id === idAgain); // true
+```
+## Symbol.keyFor()
+
+Для глобальных символов существует обратный метод:
+```js
+// Получаем символ по имени
+let sym = Symbol.for('name');
+let sym2 = Symbol.for('id');
+
+// Получаем имя по символу
+alert(Symbol.keyFor(sym));  // "name"
+alert(Symbol.keyFor(sym2)); // "id"
+
+// Для неглобальных символов вернет undefined
+let localSym = Symbol('local');
+alert(Symbol.keyFor(localSym)); // undefined
+```
+## Итог
+
+- **Символы** — уникальные идентификаторы
+    
+- **Создание**: `Symbol(description)`
+    
+- **Использование**: скрытые свойства объектов
+    
+- **Игнорируются**: `for...in`, `Object.keys()`
+    
+- **Копируются**: `Object.assign()`
+    
+- **Глобальные символы**: `Symbol.for(key)`, `Symbol.keyFor(sym)`
+    
+- **Преимущество**: избежание конфликтов имен свойств
 # Связанные идеи:
 * [[202510031430 Типы данных в Javascript]]
 ---
