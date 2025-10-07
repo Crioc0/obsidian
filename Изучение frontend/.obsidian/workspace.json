@@ -27,16 +27,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071530 Как работает реактивность во Vue.md",
+                "file": "02 Structure notes/Mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071530 Как работает реактивность во Vue"
-            }
+              "title": "Mongoose"
+            },
+            "group": "8667ea4decdb0bb9"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "242d6ee2363991ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03611797e042451e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02 Structure notes/Mongoose.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000004,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф Mongoose"
+            },
+            "group": "8667ea4decdb0bb9"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +134,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,9 +243,13 @@
   },
   "active": "d858e6f47a2096a6",
   "lastOpenFiles": [
+    "02 Structure notes/MongoDB.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "Zettlecasten/Встроенные компоненты Vue.md",
+    "01 Notes/202510071529 Реактивность в JavaScript.md",
     "Zettlecasten/Реактивность в Vue.md",
     "01 Notes/202510071530 Как работает реактивность во Vue.md",
-    "01 Notes/202510071529 Реактивность в JavaScript.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
@@ -221,10 +269,6 @@
     "02 Structure notes/Vue.md",
     "Zettlecasten/сеть/Виды маршрутов.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
-    "Zettlecasten/JavaScript.md",
-    "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
-    "Zettlecasten/Сборка мусора.md",
-    "01 Notes/202510071403 Объект history.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
