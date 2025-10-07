@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Объекты.md",
+                "file": "Zettlecasten/Методы объекта, this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объекты"
+              "title": "Методы объекта, this"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "JavaScript"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +223,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9b711687c4dac607",
+  "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "templates/Zettelcasten Note.md",
     "Zettlecasten/Объекты.md",
     "02 Structure notes/JavaScript.md",
     "01 Notes/202510071344 Объекты в JS.md",
+    "templates/Zettelcasten Note.md",
     "01 Notes/202510071330 Функции-конструкторы.md",
     "Zettlecasten/Методы объекта, this.md",
     "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
