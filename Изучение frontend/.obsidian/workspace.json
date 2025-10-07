@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
+                "file": "01 Notes/202510071530 Как работает реактивность во Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071523 Синтаксис шаблонов в Vue"
+              "title": "202510071530 Как работает реактивность во Vue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,12 +197,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "a38b8465e7841acb",
+  "active": "d858e6f47a2096a6",
   "lastOpenFiles": [
+    "Zettlecasten/Реактивность в Vue.md",
+    "01 Notes/202510071530 Как работает реактивность во Vue.md",
+    "01 Notes/202510071529 Реактивность в JavaScript.md",
+    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Директивы в Vue.md",
-    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "01 Notes/202510071527 Директивы во vue.md",
     "01 Notes/202510071526 Использование JS-выражений в Vue.md",
     "Zettlecasten/Использование JS-выражений.md",
@@ -221,9 +225,6 @@
     "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
     "Zettlecasten/Сборка мусора.md",
     "01 Notes/202510071403 Объект history.md",
-    "Zettlecasten/EventLoop.md",
-    "Zettlecasten/fetch.md",
-    "01 Notes/202510071511 Eventloop в JavaScript.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
