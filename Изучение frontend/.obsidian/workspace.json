@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Методы объекта, this.md",
+                "file": "Zettlecasten/Тип данных Symbol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методы объекта, this"
+              "title": "Тип данных Symbol"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "JavaScript"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +223,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9b711687c4dac607",
+  "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202510071344 Объекты в JS.md",
-    "01 Notes/202510071350 Методы объекта, this.md",
-    "Zettlecasten/Методы объекта, this.md",
     "Zettlecasten/Объекты.md",
+    "Zettlecasten/Опциональная цепочка свойств объектов.md",
+    "Zettlecasten/Методы объекта, this.md",
+    "01 Notes/202510071350 Методы объекта, this.md",
+    "01 Notes/202510071344 Объекты в JS.md",
     "02 Structure notes/JavaScript.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202510071330 Функции-конструкторы.md",
@@ -251,7 +251,6 @@
     "01 Notes/202510071219 Логирование в NestJs.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
     "01 Notes/202510071137 Валидация конфигурации ConfigModule.md",
-    "01 Notes/202510071134 Конфигурация отдельного модуля в ConfigModule.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
