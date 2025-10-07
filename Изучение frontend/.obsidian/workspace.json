@@ -11,10 +11,14 @@
             "id": "e2f4c055c34e3f8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510071128 Кастомные файлы конфигурации.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510071128 Кастомные файлы конфигурации"
             }
           },
           {
@@ -221,8 +225,9 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202510061052 Что такое TypeORM.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
+    "01 Notes/202510071128 Кастомные файлы конфигурации.md",
+    "01 Notes/202510061052 Что такое TypeORM.md",
     "01 Notes/202510071114 Конфигурация .env с помощью ConfigModule в NestJS.md",
     "01 Notes/202510041304 Кастомные провайдеры. Внедрение через объект.md",
     "02 Structure notes/Nest.js.md",
@@ -246,7 +251,6 @@
     "01 Notes/202510061200 Нормализация.md",
     "01 Notes/202510061145 Виды связей в TypeORM.md",
     "01 Notes/202510061154 Один ко многим TypeORM.md",
-    "01 Notes/202510061117 Описание модели данных TypeORM.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
