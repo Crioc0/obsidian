@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071338.md",
+                "file": "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071338"
+              "title": "202510071338 Вложенное (глубокое) копирование"
             }
           },
           {
@@ -226,8 +226,9 @@
   },
   "active": "9b711687c4dac607",
   "lastOpenFiles": [
+    "templates/Zettelcasten Note.md",
+    "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
     "01 Notes/202510031450 Копирование объектов.md",
-    "01 Notes/202510071338.md",
     "Zettlecasten/Объекты.md",
     "Zettlecasten/Копирование объектов и ссылки.md",
     "01 Notes/202510071250 Кэширование с учетом параметров.md",
@@ -251,7 +252,6 @@
     "01 Notes/202510071128 Кастомные файлы конфигурации в Nest.js.md",
     "01 Notes/202510061052 Что такое TypeORM.md",
     "01 Notes/202510071114 Конфигурация .env с помощью ConfigModule в NestJS.md",
-    "01 Notes/202510041304 Кастомные провайдеры. Внедрение через объект.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
