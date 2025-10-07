@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071134 Конфигурация отдельного модуля в Nest.js.md",
+                "file": "01 Notes/202510071134 Конфигурация отдельного модуля в ConfigModule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071134 Конфигурация отдельного модуля в Nest.js"
+              "title": "202510071134 Конфигурация отдельного модуля в ConfigModule"
             }
           },
           {
@@ -228,7 +228,7 @@
     "01 Notes/202510071137 Валидация конфигурации.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
     "01 Notes/202510071138.md",
-    "01 Notes/202510071134 Конфигурация отдельного модуля в Nest.js.md",
+    "01 Notes/202510071134 Конфигурация отдельного модуля в ConfigModule.md",
     "01 Notes/202510071128 Кастомные файлы конфигурации в Nest.js.md",
     "01 Notes/202510061052 Что такое TypeORM.md",
     "01 Notes/202510071114 Конфигурация .env с помощью ConfigModule в NestJS.md",
