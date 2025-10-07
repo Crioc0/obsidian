@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/TS с CompositionAPI.md",
+                "file": "Zettlecasten/Отрисовка списков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TS с CompositionAPI"
+              "title": "Отрисовка списков"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "реактивности",
+                "query": "v-if",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,6 +198,8 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/TS с CompositionAPI.md",
+    "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/События.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Работа со стилями в Vue.md",
@@ -221,8 +224,6 @@
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
     "01 Notes/202510071529 Реактивность в JavaScript.md",
-    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
-    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
