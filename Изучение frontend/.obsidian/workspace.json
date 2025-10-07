@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Тип данных Symbol.md",
+                "file": "Zettlecasten/Объекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тип данных Symbol"
+              "title": "Объекты"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071350 Методы объекта, this.md",
+                "file": "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071350 Методы объекта, this"
+              "title": "202510071353 Символы (Symbols) в JavaScript"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "JavaScript"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,12 +224,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "e2f4c055c34e3f8d",
+  "active": "9b711687c4dac607",
   "lastOpenFiles": [
+    "01 Notes/202510071350 Методы объекта, this.md",
+    "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
     "Zettlecasten/Объекты.md",
+    "Zettlecasten/Тип данных Symbol.md",
     "Zettlecasten/Опциональная цепочка свойств объектов.md",
     "Zettlecasten/Методы объекта, this.md",
-    "01 Notes/202510071350 Методы объекта, this.md",
     "01 Notes/202510071344 Объекты в JS.md",
     "02 Structure notes/JavaScript.md",
     "templates/Zettelcasten Note.md",
@@ -249,8 +252,6 @@
     "01 Notes/202510071224 Внедрение логера через DI.md",
     "01 Notes/202510071221 Собственный логер в NestJs.md",
     "01 Notes/202510071219 Логирование в NestJs.md",
-    "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
-    "01 Notes/202510071137 Валидация конфигурации ConfigModule.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
