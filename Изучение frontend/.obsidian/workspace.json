@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Отладка реактивности.md",
+                "file": "Zettlecasten/Работа со стилями в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отладка реактивности"
+              "title": "Работа со стилями в Vue"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071538 Отладка реактивности.md",
+                "file": "01 Notes/202510071530 Реактивность в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071538 Отладка реактивности"
+              "title": "202510071530 Реактивность в Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +195,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/Vue.md",
+    "Zettlecasten/Реактивность в Vue.md",
+    "Zettlecasten/Отладка реактивности.md",
     "01 Notes/202510071530 Реактивность в Vue.md",
     "01 Notes/202510071538 Отладка реактивности.md",
-    "Zettlecasten/Отладка реактивности.md",
-    "Zettlecasten/Реактивность в Vue.md",
     "Zettlecasten/Типизация реактивности.md",
     "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
     "Zettlecasten/Ref и reactive.md",
@@ -216,7 +216,6 @@
     "Zettlecasten/Встроенные компоненты Vue.md",
     "01 Notes/202510071529 Реактивность в JavaScript.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Директивы в Vue.md",
     "01 Notes/202510071527 Директивы во vue.md",
