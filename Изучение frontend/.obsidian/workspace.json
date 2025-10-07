@@ -11,10 +11,14 @@
             "id": "8c1ce34a6a27fa44",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Механизмы отрисовки Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Механизмы отрисовки Vue"
             }
           }
         ]
@@ -179,6 +183,16 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "Zettlecasten/Vue.md",
+    "Zettlecasten/Option API.md",
+    "Zettlecasten/Composition API.md",
+    "Zettlecasten/Реактивность-основное Composition API.md",
+    "Zettlecasten/watchEffect().md",
+    "Zettlecasten/readonly().md",
+    "Zettlecasten/reactive().md",
+    "Zettlecasten/computed().md",
+    "Zettlecasten/ref().md",
+    "Zettlecasten/Vue CLI.md",
     "01 Notes/202510071548 Условный рендеринг в Vue.md",
     "Zettlecasten/Обработка событий.md",
     "01 Notes/202510071550 Обработка событий в Vue.md",
@@ -191,20 +205,10 @@
     "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/События.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Работа со стилями в Vue.md",
     "01 Notes/202510071540 Работа со стилями Vue.md",
     "01 Notes/202510071542 Синтаксис указания стилей с помощью массивов.md",
     "01 Notes/202510071541 Объектный синтаксис указания стилей Vue.md",
-    "01 Notes/202510071530 Реактивность в Vue.md",
-    "Zettlecasten/Реактивность в Vue.md",
-    "Zettlecasten/Отладка реактивности.md",
-    "01 Notes/202510071538 Отладка реактивности.md",
-    "Zettlecasten/Типизация реактивности.md",
-    "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
-    "Zettlecasten/Ref и reactive.md",
-    "Zettlecasten/computed().md",
-    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
