@@ -63,7 +63,8 @@
               "title": "Объекты"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +224,9 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "e2f4c055c34e3f8d",
+  "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/Конструктор, оператор new.md",
     "01 Notes/202510071301 Автоматическое кэширование всех запросов в Nest.js.md",
     "01 Notes/202510071238 Кэширование на сервере.md",
     "01 Notes/202510071255 Кэширование на сервере в NestJs.md",
@@ -250,7 +252,6 @@
     "01 Notes/202510071022 Миграции.md",
     "01 Notes/202510071017 Использование отношений к запросам TypeORM.md",
     "01 Notes/202510071016 Пагинация TypeORM.md",
-    "01 Notes/202510070957 Поиск по БД TypeORM.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
