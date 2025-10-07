@@ -71,6 +71,46 @@ alert(user[id]); // 123
 ## Символы в литеральных объектах
 
 При литеральном объявлении объекта символ нужно заключить в квадратные скобки:
+```js
+let id = Symbol('id');
+
+let user = {
+    name: 'Вася',
+    [id]: 123 // символ как ключ
+};
+```
+## Перебор свойств и символы
+
+### Цикл for...in игнорирует символы:
+```js
+let id = Symbol('id');
+let user = {
+    name: "Вася",
+    [id]: 123
+};
+
+for (let key in user) {
+    alert(key); // только "name", символа нет
+}
+```
+### Object.keys() также игнорирует символы:
+```ts
+let id = Symbol('id');
+let user = {
+    name: "Вася",
+    [id]: 123
+};
+
+alert(Object.keys(user)); // только ["name"]
+```
+### Object.assign() копирует и строковые, и символьные свойства:
+```js
+let id = Symbol('id');
+let user = { [id]: 123 };
+let clone = Object.assign({}, user);
+
+alert(clone[id]); // 123
+```
 # Связанные идеи:
 * [[202510031430 Типы данных в Javascript]]
 ---
