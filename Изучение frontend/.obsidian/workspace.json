@@ -35,7 +35,8 @@
               "title": "202510071534 Вычисляемые(computed) свойства"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,12 +196,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "a38b8465e7841acb",
+  "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
     "01 Notes/202510071530 Как работает реактивность во Vue.md",
     "01 Notes/202510071533 Reactive.md",
-    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
     "Zettlecasten/Ref и reactive.md",
     "01 Notes/202510071532 Ref.md",
     "02 Structure notes/MongoDB.md",
