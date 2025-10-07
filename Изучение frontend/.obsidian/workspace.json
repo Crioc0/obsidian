@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Vue.md",
+                "file": "Zettlecasten/TS с CompositionAPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vue"
+              "title": "TS с CompositionAPI"
             }
           },
           {
@@ -197,13 +197,14 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/События.md",
+    "Zettlecasten/Vue.md",
     "Zettlecasten/Работа со стилями в Vue.md",
     "01 Notes/202510071544 Привязка inline-стилей в Vue.md",
     "01 Notes/202510071540 Работа со стилями Vue.md",
     "01 Notes/202510071542 Синтаксис указания стилей с помощью массивов.md",
     "01 Notes/202510071541 Объектный синтаксис указания стилей Vue.md",
     "01 Notes/202510071530 Реактивность в Vue.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Реактивность в Vue.md",
     "Zettlecasten/Отладка реактивности.md",
     "01 Notes/202510071538 Отладка реактивности.md",
@@ -222,7 +223,6 @@
     "01 Notes/202510071529 Реактивность в JavaScript.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
-    "Zettlecasten/Директивы в Vue.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
