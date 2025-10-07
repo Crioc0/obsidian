@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Создание vue приложения.md",
+                "file": "01 Notes/202510071521 Создание vue приложения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Создание vue приложения"
-            }
-          },
-          {
-            "id": "dd01681a9b8759b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510071404 Объект window.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510071404 Объект window"
-            }
-          },
-          {
-            "id": "35a1f216c1c8f48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510071513 Сборка мусора JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510071513 Сборка мусора JavaScript"
+              "title": "202510071521 Создание vue приложения"
             }
           }
         ]
@@ -212,11 +184,13 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/Создание vue приложения.md",
+    "01 Notes/202510071521 Создание vue приложения.md",
+    "01 Notes/202510071404 Объект window.md",
+    "01 Notes/202510071513 Сборка мусора JavaScript.md",
     "Zettlecasten/Vue.md",
     "templates/Шаблон Structure Notes.md",
     "02 Structure notes/Vue.md",
-    "01 Notes/202510071513 Сборка мусора JavaScript.md",
-    "01 Notes/202510071404 Объект window.md",
     "Zettlecasten/сеть/Виды маршрутов.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
     "Zettlecasten/JavaScript.md",
@@ -236,8 +210,6 @@
     "Zettlecasten/Кэширование на сервере.md",
     "01 Notes/202510071330 Функции-конструкторы.md",
     "Zettlecasten/javaScript/Объект location.md",
-    "Zettlecasten/javaScript/Объект window.md",
-    "01 Notes/202510071405 Объект location.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
