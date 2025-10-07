@@ -226,8 +226,8 @@
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
     "01 Notes/202510071221 Собственный логер в NestJs.md",
-    "01 Notes/202510071219 Логирование в NestJs.md",
     "01 Notes/202510071224 Внедрение логера через DI.md",
+    "01 Notes/202510071219 Логирование в NestJs.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
     "01 Notes/202510071137 Валидация конфигурации ConfigModule.md",
     "01 Notes/202510071134 Конфигурация отдельного модуля в ConfigModule.md",
