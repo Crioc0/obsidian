@@ -40,6 +40,29 @@ export class AppModule {}
 В параметрах `forRoot` можно передать [конфигурацию для Winston](https://github.com/winstonjs/winston#usage)
 
 Чтобы использовать `winston` внутри провайдеров или контроллеров, нужно внедрить логер с помощью константы `WINSTON_MODULE_PROVIDER`:
+```ts
+import { Injectable, Inject } from '@nestjs/common';
+import { WINSTON_MODULE_PROVIDER } from 'nest-winston';
+import { Logger } from 'winston';
+
+@Injectable()
+export class UsersService {
+  constructor(@Inject(WINSTON_MODULE_PROVIDER) private logger: Logger) {}
+
+  create() {
+    this.logger.log('Creating a user');
+  }
+}
+```
+
+Чтобы подключить логер на корневом уровне, нужно использовать другую константу — `WINSTON_MODULE_NEST_PROVIDER` в `main.ts`:
+```ts
+const app = await NestFactory.create(AppModule);
+
+app.useLogger(app.get(WINSTON_MODULE_NEST_PROVIDER));
+
+await app.listen(3000);
+```
 ### Связанные идеи:
 * [[202509301412 Библиотека для логирования winston]]
 * [[202510071219 Логирование в NestJs]]
