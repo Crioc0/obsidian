@@ -11,14 +11,10 @@
             "id": "8c1ce34a6a27fa44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Браузерные инструменты разработчика Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Браузерные инструменты разработчика Vue"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -197,7 +193,10 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "01 Notes/202509301639 CRSF-атака.md",
     "Zettlecasten/Vue.md",
+    "Zettlecasten/Поддержка IDE Vue.md",
+    "Zettlecasten/Браузерные инструменты разработчика Vue.md",
     "Zettlecasten/Тестирование Vue.md",
     "01 Notes/202510071556 Тестирование в Vue.md",
     "01 Notes/202510071555 Линтинг во Vue.md",
@@ -220,9 +219,6 @@
     "01 Notes/202510071527 Директивы во vue.md",
     "01 Notes/202510071549 Отрисовка списков в Vue.md",
     "Zettlecasten/Условный рендеринг.md",
-    "Zettlecasten/Отрисовка списков.md",
-    "01 Notes/202510071544 Привязка inline-стилей в Vue.md",
-    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
