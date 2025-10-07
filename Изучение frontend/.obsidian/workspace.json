@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Атрибуты.md",
+                "file": "Zettlecasten/Использование JS-выражений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Атрибуты"
+              "title": "Использование JS-выражений"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071524 Атрибуты в Vue.md",
+                "file": "01 Notes/202510071526 Использование JS-выражений в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071524 Атрибуты в Vue"
+              "title": "202510071526 Использование JS-выражений в Vue"
             }
           }
         ],
@@ -199,10 +199,12 @@
   },
   "active": "d858e6f47a2096a6",
   "lastOpenFiles": [
-    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "01 Notes/202510071524 Атрибуты в Vue.md",
-    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
+    "01 Notes/202510071526 Использование JS-выражений в Vue.md",
+    "Zettlecasten/Использование JS-выражений.md",
+    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Атрибуты.md",
+    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Сырой HTML.md",
     "Zettlecasten/Текстовые интерполяции.md",
     "Zettlecasten/Vue.md",
@@ -223,8 +225,6 @@
     "01 Notes/202510071511 Eventloop в JavaScript.md",
     "Zettlecasten/События.md",
     "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
-    "01 Notes/202510031430 Типы данных в Javascript.md",
-    "Zettlecasten/202510031449 Объекты в JS.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
