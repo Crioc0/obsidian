@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/EventLoop.md",
+                "file": "Zettlecasten/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EventLoop"
+              "title": "JavaScript"
             }
           },
           {
@@ -211,6 +211,9 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/EventLoop.md",
+    "Zettlecasten/fetch.md",
+    "01 Notes/202510071511 Eventloop в JavaScript.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/События.md",
     "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
@@ -234,9 +237,6 @@
     "01 Notes/202510071400 Событие popstate.md",
     "Zettlecasten/Service Worker.md",
     "Zettlecasten/Web Sockets.md",
-    "Zettlecasten/SSE.md",
-    "Zettlecasten/Web workers.md",
-    "Zettlecasten/Работа браузера.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
