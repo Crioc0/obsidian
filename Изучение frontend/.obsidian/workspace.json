@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Условный рендеринг.md",
+                "file": "Zettlecasten/Отрисовка списков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Условный рендеринг"
+              "title": "Отрисовка списков"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071548 Условный рендеринг в Vue.md",
+                "file": "01 Notes/202510071549 Отрисовка списков в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071548 Условный рендеринг в Vue"
+              "title": "202510071549 Отрисовка списков в Vue"
             }
           }
         ],
@@ -199,10 +199,11 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
-    "Zettlecasten/Условный рендеринг.md",
-    "01 Notes/202510071548 Условный рендеринг в Vue.md",
-    "01 Notes/202510071544 Привязка inline-стилей в Vue.md",
     "Zettlecasten/Отрисовка списков.md",
+    "01 Notes/202510071549 Отрисовка списков в Vue.md",
+    "01 Notes/202510071548 Условный рендеринг в Vue.md",
+    "Zettlecasten/Условный рендеринг.md",
+    "01 Notes/202510071544 Привязка inline-стилей в Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Типизация входных параметров.md",
@@ -224,7 +225,6 @@
     "01 Notes/202510071533 Reactive.md",
     "01 Notes/202510071532 Ref.md",
     "02 Structure notes/MongoDB.md",
-    "02 Structure notes/Mongoose.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
