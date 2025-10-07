@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/javaScript/Объект history.md",
+                "file": "Zettlecasten/javaScript/Объект window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объект history"
+              "title": "Объект window"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071403.md",
+                "file": "01 Notes/202510071404.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071403"
+              "title": "202510071404"
             }
           },
           {
@@ -226,10 +226,12 @@
   },
   "active": "9b711687c4dac607",
   "lastOpenFiles": [
-    "01 Notes/202510071344 Объекты в JS.md",
-    "01 Notes/202510071403.md",
-    "Zettlecasten/javaScript/Объект history.md",
+    "01 Notes/202510071403 Объект history.md",
+    "01 Notes/202510071404.md",
+    "Zettlecasten/javaScript/Объект window.md",
     "Zettlecasten/JavaScript.md",
+    "Zettlecasten/javaScript/Объект history.md",
+    "01 Notes/202510071344 Объекты в JS.md",
     "Zettlecasten/JavaScript движок.md",
     "Zettlecasten/spread и rest в Javascript.md",
     "01 Notes/202510071402 Spread и rest операторы в JS.md",
@@ -250,8 +252,6 @@
     "01 Notes/202510071350 Методы объекта, this.md",
     "Zettlecasten/Тип данных Symbol.md",
     "Zettlecasten/Опциональная цепочка свойств объектов.md",
-    "Zettlecasten/Методы объекта, this.md",
-    "templates/Zettelcasten Note.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",

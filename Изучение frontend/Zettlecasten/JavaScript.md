@@ -1,6 +1,5 @@
 [[Vue]]
 
-[[Объект history]]
 [[Объект window]]
 [[Объект location]]
 [[Конструктор URLSearchParam]]
