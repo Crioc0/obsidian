@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Сборка мусора.md",
+                "file": "Zettlecasten/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сборка мусора"
+              "title": "JavaScript"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "202510071404 Объект window"
+            }
+          },
+          {
+            "id": "35a1f216c1c8f48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510071513 Сборка мусора JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510071513 Сборка мусора JavaScript"
             }
           }
         ]
@@ -197,10 +211,12 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
-    "01 Notes/202510071403 Объект history.md",
-    "01 Notes/202510071404 Объект window.md",
-    "Zettlecasten/Сборка мусора.md",
+    "Zettlecasten/Браузер - документ, события, интерфейсы JS.md",
     "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Сборка мусора.md",
+    "01 Notes/202510071513 Сборка мусора JavaScript.md",
+    "01 Notes/202510071404 Объект window.md",
+    "01 Notes/202510071403 Объект history.md",
     "Zettlecasten/EventLoop.md",
     "Zettlecasten/fetch.md",
     "01 Notes/202510071511 Eventloop в JavaScript.md",
@@ -221,8 +237,6 @@
     "Zettlecasten/javaScript/Объект history.md",
     "Zettlecasten/JavaScript движок.md",
     "Zettlecasten/spread и rest в Javascript.md",
-    "01 Notes/202510071400 Событие popstate.md",
-    "Zettlecasten/Service Worker.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
