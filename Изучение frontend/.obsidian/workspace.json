@@ -11,10 +11,14 @@
             "id": "a38b8465e7841acb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02 Structure notes/Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vue"
             }
           },
           {
@@ -207,6 +211,7 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "02 Structure notes/Vue.md",
     "Zettlecasten/сеть/Виды маршрутов.md",
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
     "Zettlecasten/JavaScript.md",
@@ -232,7 +237,6 @@
     "01 Notes/202510071405 Объект location.md",
     "01 Notes/202510071402 Spread и rest операторы в JS.md",
     "Zettlecasten/javaScript/Объект history.md",
-    "Zettlecasten/JavaScript движок.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
