@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Управление состоянием Vue.md",
+                "file": "Zettlecasten/Линтинг Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление состоянием Vue"
+              "title": "Линтинг Vue"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +192,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "d00e9884495a1c5b",
   "lastOpenFiles": [
-    "01 Notes/202510071552 Управление состоянием в Vue.md",
-    "Zettlecasten/Управление состоянием Vue.md",
+    "Zettlecasten/Линтинг Vue.md",
     "Zettlecasten/Vue.md",
+    "Zettlecasten/Управление состоянием Vue.md",
+    "01 Notes/202510071552 Управление состоянием в Vue.md",
     "Zettlecasten/Механизмы отрисовки Vue.md",
     "Zettlecasten/Option API.md",
     "Zettlecasten/Composition API.md",
@@ -218,7 +220,6 @@
     "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Типизация входных параметров.md",
     "Zettlecasten/События.md",
-    "Zettlecasten/Работа со стилями в Vue.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
