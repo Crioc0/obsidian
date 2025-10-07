@@ -11,14 +11,10 @@
             "id": "e2f4c055c34e3f8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510071114 Конфигурация .env ConfigModule NestJS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510071114 Конфигурация .env ConfigModule NestJS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -226,7 +222,7 @@
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
     "01 Notes/202510071058 Конфигурация сервера. ENV. ConfigModule Nest.js.md",
-    "01 Notes/202510071114 Конфигурация .env ConfigModule NestJS.md",
+    "01 Notes/202510071114 Конфигурация .env с помощью ConfigModule в NestJS.md",
     "01 Notes/202510041304 Кастомные провайдеры. Внедрение через объект.md",
     "02 Structure notes/Nest.js.md",
     "01 Notes/202510071030 Использование транзакций в Nest.js.md",
