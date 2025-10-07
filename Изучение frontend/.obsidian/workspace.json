@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510031430 Типы данных в Javascript.md",
+                "file": "Zettlecasten/EventLoop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510031430 Типы данных в Javascript"
+              "title": "EventLoop"
             }
           },
           {
@@ -211,8 +211,11 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
-    "Zettlecasten/202510031449 Объекты в JS.md",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/События.md",
+    "Zettlecasten/javaScript/Конструктор URLSearchParam.md",
     "01 Notes/202510031430 Типы данных в Javascript.md",
+    "Zettlecasten/202510031449 Объекты в JS.md",
     "01 Notes/202510071344 Объекты в JS.md",
     "01 Notes/202510071350 Методы объекта, this.md",
     "01 Notes/202510031449 Объекты в JS.md",
@@ -225,7 +228,6 @@
     "01 Notes/202510071403 Объект history.md",
     "01 Notes/202510071405 Объект location.md",
     "01 Notes/202510071402 Spread и rest операторы в JS.md",
-    "Zettlecasten/JavaScript.md",
     "Zettlecasten/javaScript/Объект history.md",
     "Zettlecasten/JavaScript движок.md",
     "Zettlecasten/spread и rest в Javascript.md",
@@ -235,8 +237,6 @@
     "Zettlecasten/SSE.md",
     "Zettlecasten/Web workers.md",
     "Zettlecasten/Работа браузера.md",
-    "Zettlecasten/javaScript/Событие popstate.md",
-    "02 Structure notes/JavaScript.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
