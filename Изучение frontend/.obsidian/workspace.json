@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Директивы в Vue.md",
+                "file": "Zettlecasten/Синтаксис шаблонов в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Директивы в Vue"
+              "title": "Синтаксис шаблонов в Vue"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071527 Директивы во vue.md",
+                "file": "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071527 Директивы во vue"
+              "title": "202510071523 Синтаксис шаблонов в Vue"
             }
           }
         ]
@@ -198,9 +198,9 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
-    "01 Notes/202510071527 Директивы во vue.md",
-    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Директивы в Vue.md",
+    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
+    "01 Notes/202510071527 Директивы во vue.md",
     "01 Notes/202510071526 Использование JS-выражений в Vue.md",
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Использование JS-выражений.md",
