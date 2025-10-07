@@ -25,14 +25,17 @@
             "id": "d00e9884495a1c5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510071555 Линтинг во Vue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "202510071555 Линтинг во Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +195,9 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d00e9884495a1c5b",
+  "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "01 Notes/202510071555 Линтинг во Vue.md",
     "Zettlecasten/Линтинг Vue.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Управление состоянием Vue.md",
@@ -219,7 +223,6 @@
     "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/TS с CompositionAPI.md",
     "Zettlecasten/Типизация входных параметров.md",
-    "Zettlecasten/События.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
