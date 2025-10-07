@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/javaScript/Объект window.md",
+                "file": "Zettlecasten/javaScript/Объект location.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объект window"
+              "title": "Объект location"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071403 Объект history.md",
+                "file": "01 Notes/202510071405 Объект location.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071403 Объект history"
+              "title": "202510071405 Объект location"
             }
           }
         ],
@@ -227,10 +227,11 @@
   "active": "dd01681a9b8759b5",
   "lastOpenFiles": [
     "01 Notes/202510071404 Объект window.md",
-    "01 Notes/202510071402 Spread и rest операторы в JS.md",
-    "01 Notes/202510071403 Объект history.md",
-    "Zettlecasten/javaScript/Объект window.md",
+    "01 Notes/202510071405 Объект location.md",
     "Zettlecasten/javaScript/Объект location.md",
+    "Zettlecasten/javaScript/Объект window.md",
+    "01 Notes/202510071403 Объект history.md",
+    "01 Notes/202510071402 Spread и rest операторы в JS.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/javaScript/Объект history.md",
     "01 Notes/202510071344 Объекты в JS.md",
@@ -251,7 +252,6 @@
     "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
     "01 Notes/202510071330 Функции-конструкторы.md",
     "01 Notes/202510071350 Методы объекта, this.md",
-    "Zettlecasten/Тип данных Symbol.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
