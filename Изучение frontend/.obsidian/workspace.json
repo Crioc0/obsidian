@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510070959 Выбор нужных полей.md",
+                "file": "01 Notes/202510070957 Поиск по БД TypeORM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510070959 Выбор нужных полей"
+              "title": "202510070957 Поиск по БД TypeORM"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
+    "01 Notes/202510070959 Выбор нужных полей TypeROM.md",
     "01 Notes/202510070957 Поиск по БД TypeORM.md",
-    "01 Notes/202510070959 Выбор нужных полей.md",
     "01 Notes/202510070843 Конфликты при создании записи.md",
     "01 Notes/202510070836 Генерация значений в записях средствами СУБД TypeORM.md",
     "01 Notes/202510061304 Создание записи TypeORM.md",
