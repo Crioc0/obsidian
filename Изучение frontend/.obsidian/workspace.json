@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2f4c055c34e3f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/javaScript/Объект location.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Объект location"
-            }
-          },
-          {
             "id": "a38b8465e7841acb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510071330 Функции-конструкторы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510071330 Функции-конструкторы"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -55,16 +37,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071405 Объект location.md",
+                "file": "01 Notes/202510071404 Объект window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071405 Объект location"
+              "title": "202510071404 Объект window"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,13 +205,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "dd01681a9b8759b5",
+  "active": "a38b8465e7841acb",
   "lastOpenFiles": [
-    "01 Notes/202510071404 Объект window.md",
-    "01 Notes/202510071405 Объект location.md",
+    "Zettlecasten/сеть/Виды маршрутов.md",
+    "01 Notes/202510071330 Функции-конструкторы.md",
     "Zettlecasten/javaScript/Объект location.md",
     "Zettlecasten/javaScript/Объект window.md",
+    "01 Notes/202510071404 Объект window.md",
     "01 Notes/202510071403 Объект history.md",
+    "01 Notes/202510071405 Объект location.md",
     "01 Notes/202510071402 Spread и rest операторы в JS.md",
     "Zettlecasten/JavaScript.md",
     "Zettlecasten/javaScript/Объект history.md",
@@ -250,8 +233,6 @@
     "01 Notes/202510071357 Преобразование объектов в примитивы.md",
     "01 Notes/202510031430 Типы данных в Javascript.md",
     "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
-    "01 Notes/202510071330 Функции-конструкторы.md",
-    "01 Notes/202510071350 Методы объекта, this.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
