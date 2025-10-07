@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
+                "file": "Zettlecasten/Ref и reactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вычисляемые свойства в VUE(computed)"
+              "title": "Ref и reactive"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
+                "file": "01 Notes/202510071530 Как работает реактивность во Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071534 Вычисляемые(computed) свойства"
+              "title": "202510071530 Как работает реактивность во Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +195,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "a38b8465e7841acb",
   "lastOpenFiles": [
-    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
-    "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
     "01 Notes/202510071530 Как работает реактивность во Vue.md",
-    "01 Notes/202510071533 Reactive.md",
+    "Zettlecasten/computed().md",
+    "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
     "Zettlecasten/Ref и reactive.md",
+    "Zettlecasten/Вычисляемые свойства в VUE(computed).md",
+    "01 Notes/202510071533 Reactive.md",
     "01 Notes/202510071532 Ref.md",
     "02 Structure notes/MongoDB.md",
     "Zettlecasten/Реактивность в Vue.md",
@@ -223,7 +223,6 @@
     "Zettlecasten/Сырой HTML.md",
     "Zettlecasten/Текстовые интерполяции.md",
     "Zettlecasten/Создание vue приложения.md",
-    "01 Notes/202510071521 Создание vue приложения.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
