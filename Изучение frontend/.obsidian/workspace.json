@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Преобразование объектов в примитивы.md",
+                "file": "Zettlecasten/javaScript/Событие popstate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Преобразование объектов в примитивы"
+              "title": "Событие popstate"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071357 Преобразование объектов в примитивы.md",
+                "file": "01 Notes/202510071344 Объекты в JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071357 Преобразование объектов в примитивы"
+              "title": "202510071344 Объекты в JS"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/JavaScript.md",
+                "file": "01 Notes/202510071400 Событие popstate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "202510071400 Событие popstate"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,20 +224,23 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9b711687c4dac607",
+  "active": "dd01681a9b8759b5",
   "lastOpenFiles": [
+    "Zettlecasten/javaScript/Событие popstate.md",
+    "01 Notes/202510071400 Событие popstate.md",
+    "02 Structure notes/JavaScript.md",
+    "Zettlecasten/JavaScript.md",
+    "Zettlecasten/Объекты.md",
+    "Zettlecasten/Преобразование объектов в примитивы.md",
     "01 Notes/202510071344 Объекты в JS.md",
     "01 Notes/202510071357 Преобразование объектов в примитивы.md",
     "01 Notes/202510031430 Типы данных в Javascript.md",
     "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
     "01 Notes/202510071330 Функции-конструкторы.md",
-    "Zettlecasten/Преобразование объектов в примитивы.md",
-    "Zettlecasten/Объекты.md",
     "01 Notes/202510071350 Методы объекта, this.md",
     "Zettlecasten/Тип данных Symbol.md",
     "Zettlecasten/Опциональная цепочка свойств объектов.md",
     "Zettlecasten/Методы объекта, this.md",
-    "02 Structure notes/JavaScript.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
     "01 Notes/202510031450 Копирование объектов.md",
@@ -249,9 +252,6 @@
     "01 Notes/202510071301 Автоматическое кэширование всех запросов в Nest.js.md",
     "01 Notes/202510071238 Кэширование на сервере.md",
     "01 Notes/202510071255 Кэширование на сервере в NestJs.md",
-    "01 Notes/202510071235 Кэширование.md",
-    "01 Notes/202510071245 Инвалидация кэша.md",
-    "01 Notes/202510071229 Логирование NestJs приложения с помощью Windows.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
