@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Синтаксис шаблонов в Vue.md",
+                "file": "Zettlecasten/Реактивность в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Синтаксис шаблонов в Vue"
+              "title": "Реактивность в Vue"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "объект",
+                "query": "реактивности",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -198,17 +198,17 @@
   },
   "active": "a38b8465e7841acb",
   "lastOpenFiles": [
+    "Zettlecasten/Vue.md",
+    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Директивы в Vue.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "01 Notes/202510071527 Директивы во vue.md",
     "01 Notes/202510071526 Использование JS-выражений в Vue.md",
-    "Zettlecasten/Синтаксис шаблонов в Vue.md",
     "Zettlecasten/Использование JS-выражений.md",
     "01 Notes/202510071524 Атрибуты в Vue.md",
     "Zettlecasten/Атрибуты.md",
     "Zettlecasten/Сырой HTML.md",
     "Zettlecasten/Текстовые интерполяции.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Создание vue приложения.md",
     "01 Notes/202510071521 Создание vue приложения.md",
     "01 Notes/202510071404 Объект window.md",
