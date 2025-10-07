@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510070957 Поиск по БД TypeORM.md",
+                "file": "01 Notes/202510070959 Выбор новых полей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510070957 Поиск по БД TypeORM"
+              "title": "202510070959 Выбор новых полей"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "e2f4c055c34e3f8d",
   "lastOpenFiles": [
-    "01 Notes/202510070843 Конфликты при создании записи.md",
     "01 Notes/202510070957 Поиск по БД TypeORM.md",
+    "01 Notes/202510070959 Выбор новых полей.md",
+    "01 Notes/202510070843 Конфликты при создании записи.md",
     "01 Notes/202510070836 Генерация значений в записях средствами СУБД TypeORM.md",
     "01 Notes/202510061304 Создание записи TypeORM.md",
     "01 Notes/202510061305 Создание большого количества записей.md",
@@ -251,7 +252,6 @@
     "01 Notes/202510051719 Roles Guard.md",
     "01 Notes/202510051709 Guards NestJS.md",
     "01 Notes/202510041444 Динамический импорт модулей в NestJS.md",
-    "01 Notes/202510041355 Общие и глобальные модули.md",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
     "03 Assets/modules-nest.png",
