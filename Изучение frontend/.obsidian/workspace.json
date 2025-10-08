@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Transition group.md",
+                "file": "Zettlecasten/KeepAlive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transition group"
+              "title": "KeepAlive"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081426.md",
+                "file": "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081426"
+              "title": "202510081419 Встроенные компоненты в  Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +195,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "678494da68a86198",
+  "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
-    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
-    "01 Notes/202510081426.md",
-    "Zettlecasten/Transition group.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
+    "Zettlecasten/Transition group.md",
+    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
+    "01 Notes/202510081426 Transition group.md",
     "Zettlecasten/Transition.md",
     "Zettlecasten/Динамические переходы и компоненты.md",
     "01 Notes/202510081420 Transition.md",
