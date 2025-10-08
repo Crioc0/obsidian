@@ -2,7 +2,6 @@
 
 
 
-[[Использование Vue с Typescript]]
 [[Typescript]]
 [[Механизмы отрисовки Vue]]
 [[Composables]]
