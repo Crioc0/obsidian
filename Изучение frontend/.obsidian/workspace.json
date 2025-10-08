@@ -11,10 +11,14 @@
             "id": "8c1ce34a6a27fa44",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Zettlecasten/Работа с формами Vue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с формами Vue"
             }
           },
           {
@@ -23,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081440 Composable функция.md",
+                "file": "01 Notes/202510081442 Работа с формами Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081440 Composable функция"
+              "title": "202510081442 Работа с формами Vue"
             }
           }
         ]
@@ -193,6 +197,11 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "01 Notes/202510081442 Работа с формами Vue.md",
+    "01 Notes/202510081440 Composable функция.md",
+    "Zettlecasten/Работа с формами Vue.md",
+    "Zettlecasten/Основы компонентов.md",
+    "Zettlecasten/сеть/get-параметры.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Typescript.md",
     "Zettlecasten/Структурная система типов против номинальной.md",
@@ -204,7 +213,6 @@
     "Zettlecasten/Управление состоянием Vue.md",
     "Zettlecasten/Composables.md",
     "Zettlecasten/Соглашения и лучшие практики composables.md",
-    "01 Notes/202510081440 Composable функция.md",
     "01 Notes/202510081437 Асинхронные компоненты Vue.md",
     "Zettlecasten/Использование Vue с Typescript.md",
     "Zettlecasten/TS с CompositionAPI.md",
@@ -215,10 +223,6 @@
     "Zettlecasten/Асинхронные компоненты Vue.md",
     "01 Notes/202510081406 Компоненты Vue.md",
     "01 Notes/202510081435 Слоты Vue.md",
-    "Zettlecasten/Слоты.md",
-    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
-    "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
-    "Zettlecasten/Однофайловые компоненты.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
