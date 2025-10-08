@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Отслеживание изменений в массивах.md",
+                "file": "01 Notes/202510081444 Пользовательские директивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отслеживание изменений в массивах"
+              "title": "202510081444 Пользовательские директивы"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081442 Работа с формами, v-model Vue.md",
+                "file": "01 Notes/202510081444 Пользовательские директивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081442 Работа с формами, v-model Vue"
+              "title": "202510081444 Пользовательские директивы"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
-    "Zettlecasten/Работа с формами Vue.md",
+    "Zettlecasten/Пользовательские директивы.md",
+    "01 Notes/202510081444 Пользовательские директивы.md",
     "01 Notes/202510081442 Работа с формами, v-model Vue.md",
+    "Zettlecasten/Отслеживание изменений в массивах.md",
+    "Zettlecasten/Работа с формами Vue.md",
     "01 Notes/202510081440 Composable функция.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/сеть/get-параметры.md",
@@ -220,9 +223,6 @@
     "Zettlecasten/Типизация обработчиков событий.md",
     "Zettlecasten/Типизация испускаемых событий компонента.md",
     "Zettlecasten/Типизация входных параметров.md",
-    "Zettlecasten/Асинхронные компоненты Vue.md",
-    "01 Notes/202510081406 Компоненты Vue.md",
-    "01 Notes/202510081435 Слоты Vue.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
