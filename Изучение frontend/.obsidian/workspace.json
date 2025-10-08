@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081310 Наблюдатели Vue.md",
+                "file": "01 Notes/202510081406.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081310 Наблюдатели Vue"
+              "title": "202510081406"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,15 +196,20 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "3fdc86c099a11373",
   "lastOpenFiles": [
+    "01 Notes/202510081310 Наблюдатели Vue.md",
+    "01 Notes/202510081406.md",
+    "Zettlecasten/Основы компонентов.md",
+    "Zettlecasten/Передача входных параметров в компоненты.md",
+    "Zettlecasten/Регистрация компонентов.md",
+    "Zettlecasten/События в Vue.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Чистые функции.md",
     "Zettlecasten/[202510081313 Глубокие наблюдатели.md",
     "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/Остановка наблюдателя.md",
-    "01 Notes/202510081310 Наблюдатели Vue.md",
     "01 Notes/202510081321 Остановка обратного вызова.md",
     "01 Notes/202510081320 Время обратного вызова в наблюдателях.md",
     "Zettlecasten/Время обратного вызова в наблюдателях.md",
@@ -218,13 +224,8 @@
     "01 Notes/202510071556 Тестирование в Vue.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "01 Notes/202509260815 Схемы mongoose.md",
-    "01 Notes/202510081249 Способ аутентификации OAuth.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
-    "01 Notes/202510081242 Cookies NestJs.md",
-    "01 Notes/202510081233 Stateless и statefull.md",
-    "01 Notes/202510081238 Stateless сессии Next.js.md",
-    "01 Notes/202510081234 Stateful сессии NestJs.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
