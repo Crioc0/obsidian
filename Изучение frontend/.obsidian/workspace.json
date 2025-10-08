@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Глубокие наблюдатели.md",
+                "file": "Zettlecasten/Нетерпеливые и единичные наблюдатели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глубокие наблюдатели"
+              "title": "Нетерпеливые и единичные наблюдатели"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "202510081313 Глубокие наблюдатели"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,12 +196,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "3fdc86c099a11373",
   "lastOpenFiles": [
+    "Zettlecasten/Нетерпеливые и единичные наблюдатели.md",
+    "Zettlecasten/Наблюдатели.md",
+    "Zettlecasten/Глубокие наблюдатели.md",
     "01 Notes/202510081313 Глубокие наблюдатели.md",
     "01 Notes/202510081310 Наблюдатели Vue.md",
-    "Zettlecasten/Глубокие наблюдатели.md",
-    "Zettlecasten/Наблюдатели.md",
     "01 Notes/202510071556 Тестирование в Vue.md",
     "Zettlecasten/Vue.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
@@ -224,7 +226,6 @@
     "01 Notes/202510071235 Кэширование.md",
     "Zettlecasten/Состояния с Typescript Pinia.md",
     "Zettlecasten/Typescript.md",
-    "01 Notes/202509301639 CRSF-атака.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
