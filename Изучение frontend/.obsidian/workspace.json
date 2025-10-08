@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
+                "file": "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081419 Встроенные компоненты в  Vue"
+              "title": "202510081433 Ссылки на элемент шаблона с помощью ref"
             }
           }
         ]
@@ -197,11 +197,13 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
+    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
+    "Zettlecasten/Ссылки на элементы шаблона.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
     "Zettlecasten/Suspense.md",
-    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
     "01 Notes/202510081431 Suspense.md",
     "Zettlecasten/Teleport.md",
     "01 Notes/202510081430 Teleport.md",
@@ -221,8 +223,6 @@
     "01 Notes/202510081421 Переходы на основе CSS в transition.md",
     "01 Notes/202510081406 Компоненты Vue.md",
     "01 Notes/202510081407 Передача входных параметров.md",
-    "Zettlecasten/События в Vue.md",
-    "Zettlecasten/Передача входных параметров в компоненты.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
