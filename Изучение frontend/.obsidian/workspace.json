@@ -13,29 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081310.md",
+                "file": "Zettlecasten/Наблюдатели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081310"
+              "title": "Наблюдатели"
             }
           },
           {
-            "id": "d00e9884495a1c5b",
+            "id": "3fdc86c099a11373",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510071556 Тестирование в Vue.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202510071556 Тестирование в Vue"
+              "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "парсит",
+                "query": "наблюдатели",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,10 +193,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
     "Zettlecasten/Наблюдатели.md",
-    "01 Notes/202510081310.md",
+    "01 Notes/202510071556 Тестирование в Vue.md",
+    "01 Notes/202510081310 Наблюдатели Vue.md",
     "Zettlecasten/Vue.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "01 Notes/202509260815 Схемы mongoose.md",
@@ -217,7 +215,6 @@
     "01 Notes/202510081040 Управление кэшэм на стороне клиента в Nest.js.md",
     "01 Notes/202510081038 Кэширование статики.md",
     "01 Notes/202510080958 Валидация кэша.md",
-    "01 Notes/202510071556 Тестирование в Vue.md",
     "01 Notes/202510081003 Заголовок If-None-Match.md",
     "01 Notes/202510080951 Заголовок Cache-Control и Expires.md",
     "01 Notes/202510071235 Кэширование.md",
