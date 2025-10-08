@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Наблюдатели.md",
+                "file": "Zettlecasten/watchEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Наблюдатели"
+              "title": "watchEffect"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081310 Наблюдатели Vue.md",
+                "file": "01 Notes/202510081317 WatchEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081310 Наблюдатели Vue"
+              "title": "202510081317 WatchEffect"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,14 +196,16 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "3fdc86c099a11373",
   "lastOpenFiles": [
-    "Zettlecasten/Нетерпеливые и единичные наблюдатели.md",
+    "Zettlecasten/watchEffect.md",
+    "01 Notes/202510081317 WatchEffect.md",
     "01 Notes/202510081310 Наблюдатели Vue.md",
+    "Zettlecasten/Наблюдатели.md",
+    "Zettlecasten/Нетерпеливые и единичные наблюдатели.md",
     "01 Notes/202510081315 Нетерпеливые и единичные наблюдатели.md",
     "01 Notes/202510081313 Глубокие наблюдатели.md",
     "Zettlecasten/[202510081313 Глубокие наблюдатели.md",
-    "Zettlecasten/Наблюдатели.md",
     "Zettlecasten/Глубокие наблюдатели.md",
     "01 Notes/202510071556 Тестирование в Vue.md",
     "Zettlecasten/Vue.md",
@@ -223,8 +226,6 @@
     "01 Notes/202510081038 Кэширование статики.md",
     "01 Notes/202510080958 Валидация кэша.md",
     "01 Notes/202510081003 Заголовок If-None-Match.md",
-    "01 Notes/202510080951 Заголовок Cache-Control и Expires.md",
-    "01 Notes/202510071235 Кэширование.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
