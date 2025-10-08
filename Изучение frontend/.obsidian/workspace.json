@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509260815 Схемы mongoose.md",
+                "file": "01 Notes/202510081310.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509260815 Схемы mongoose"
+              "title": "202510081310"
             }
           },
           {
@@ -198,6 +198,11 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "Zettlecasten/Наблюдатели.md",
+    "01 Notes/202510081310.md",
+    "Zettlecasten/Vue.md",
+    "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
+    "01 Notes/202509260815 Схемы mongoose.md",
     "01 Notes/202510081249 Способ аутентификации OAuth.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
@@ -219,12 +224,8 @@
     "Zettlecasten/Состояния с Typescript Pinia.md",
     "Zettlecasten/Typescript.md",
     "01 Notes/202509301639 CRSF-атака.md",
-    "Zettlecasten/Vue.md",
     "Zettlecasten/Поддержка IDE Vue.md",
     "Zettlecasten/Браузерные инструменты разработчика Vue.md",
-    "Zettlecasten/Тестирование Vue.md",
-    "01 Notes/202510071555 Линтинг во Vue.md",
-    "Zettlecasten/Линтинг Vue.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
