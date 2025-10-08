@@ -11,14 +11,10 @@
             "id": "8c1ce34a6a27fa44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlecasten/Остановка наблюдателя.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Остановка наблюдателя"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -27,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081321.md",
+                "file": "01 Notes/202510081310 Наблюдатели Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081321"
+              "title": "202510081310 Наблюдатели Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,14 +191,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3fdc86c099a11373",
+  "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
-    "01 Notes/202510081320 Время обратного вызова в наблюдателях.md",
-    "01 Notes/202510081321.md",
-    "Zettlecasten/Остановка наблюдателя.md",
+    "Zettlecasten/Vue.md",
     "Zettlecasten/Наблюдатели.md",
-    "Zettlecasten/Время обратного вызова в наблюдателях.md",
+    "Zettlecasten/Остановка наблюдателя.md",
     "01 Notes/202510081310 Наблюдатели Vue.md",
+    "01 Notes/202510081321 Остановка обратного вызова.md",
+    "01 Notes/202510081320 Время обратного вызова в наблюдателях.md",
+    "Zettlecasten/Время обратного вызова в наблюдателях.md",
     "01 Notes/202510081318 Очистка от побочных эффектов в наблюдателях.md",
     "Zettlecasten/Очистка от побочных эффектов.md",
     "01 Notes/202510081317 WatchEffect.md",
@@ -214,7 +210,6 @@
     "Zettlecasten/[202510081313 Глубокие наблюдатели.md",
     "Zettlecasten/Глубокие наблюдатели.md",
     "01 Notes/202510071556 Тестирование в Vue.md",
-    "Zettlecasten/Vue.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "01 Notes/202509260815 Схемы mongoose.md",
     "01 Notes/202510081249 Способ аутентификации OAuth.md",
