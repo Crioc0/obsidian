@@ -3,6 +3,5 @@ Tags: #vue
 ###### Links: 
 1) 
 # Заметка
-[[KeepAlive]]
 [[Teleport]]
 [[Suspense]]
