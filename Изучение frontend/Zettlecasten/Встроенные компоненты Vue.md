@@ -3,7 +3,6 @@ Tags: #vue
 ###### Links: 
 1) 
 # Заметка
-[[Transition]]
 [[Transition group]]
 [[KeepAlive]]
 [[Teleport]]
