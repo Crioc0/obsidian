@@ -74,7 +74,7 @@ export class UsersController {
   }
 }
 ```
-**Если не указать опцию `passthtrough : true`,**
+**Если не указать опцию `passthtrough : true`, Nest.js будет ждать ответа Response** 
 # Связанные идеи:
 * [[202510081233 Stateless и statefull]]
 ---
