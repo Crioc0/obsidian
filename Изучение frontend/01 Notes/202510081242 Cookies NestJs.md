@@ -7,8 +7,14 @@ tags:
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):* 
 
+Одним из способов передачи сесcионных данных или `id` сессии являются Cookies. 
+Чтобы получить доступ кукам, понадобится пакет для Express.js, а именно `cookie-parser` и типы для него:
+```ts
+npm install --save cookie-parser
+npm install --save-dev @types/cookie-parser
+```
 # Связанные идеи:
-* 
+* [[202510081233 Stateless и statefull]]
 ---
 
 *Что стоит развить? Какие вопросы возникли?*
