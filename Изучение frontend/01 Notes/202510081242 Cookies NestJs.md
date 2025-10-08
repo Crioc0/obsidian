@@ -13,6 +13,22 @@ tags:
 npm install --save cookie-parser
 npm install --save-dev @types/cookie-parser
 ```
+Регистрируем парсер в приложении:
+```ts
+import * as cookieParser from 'cookie-parser';
+import { NestFactory } from '@nestjs/core';
+import { AppModule } from './app.module';
+
+async function bootstrap() {
+  const app = await NestFactory.create(AppModule);
+
+  app.use(cookieParser);
+
+  await app.listen(3000);
+}
+
+bootstrap();
+```
 # Связанные идеи:
 * [[202510081233 Stateless и statefull]]
 ---
