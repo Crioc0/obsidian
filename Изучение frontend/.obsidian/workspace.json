@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "кэширование",
+                "query": "парсит",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
