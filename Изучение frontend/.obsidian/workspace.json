@@ -35,7 +35,8 @@
               "title": "202510081420 Transition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +196,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8c1ce34a6a27fa44",
+  "active": "3fdc86c099a11373",
   "lastOpenFiles": [
+    "01 Notes/202510081422 JavaScript хуки в Transition.md",
+    "Zettlecasten/java-script хуки.md",
+    "01 Notes/202510081420 Transition.md",
     "Zettlecasten/Transition.md",
     "Zettlecasten/Переходы на основе css.md",
-    "01 Notes/202510081420 Transition.md",
     "01 Notes/202510081421 Переходы на основе CSS в transition.md",
     "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
@@ -221,8 +224,6 @@
     "Zettlecasten/Vue.md",
     "Zettlecasten/Управление состоянием Vue.md",
     "Чистые функции.md",
-    "Zettlecasten/[202510081313 Глубокие наблюдатели.md",
-    "Zettlecasten/Наблюдатели.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
