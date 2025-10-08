@@ -15,6 +15,7 @@ tags:
 npm install --save express-session
 npm install --save-dev @types/express-session
 ```
+`express-session` предоставляет мидлвару, которую необходимо зарегистрировать в приложении:
 # Связанные идеи:
 * 
 ---
