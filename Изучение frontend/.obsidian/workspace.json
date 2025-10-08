@@ -194,6 +194,8 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "01 Notes/202510071330 Функции-конструкторы.md",
+    "Zettlecasten/Отслеживание изменений в массивах.md",
     "01 Notes/202510051709 Guards NestJS.md",
     "01 Notes/202510080950 Кэширование на клиенте.md",
     "01 Notes/202510081040 Управление кэшэм на стороне клиента в Nest.js.md",
@@ -218,8 +220,6 @@
     "Zettlecasten/Option API.md",
     "Zettlecasten/Composition API.md",
     "Zettlecasten/Реактивность-основное Composition API.md",
-    "Zettlecasten/watchEffect().md",
-    "Zettlecasten/readonly().md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
