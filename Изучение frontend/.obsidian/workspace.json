@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Слоты.md",
+                "file": "Zettlecasten/Асинхронные компоненты Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Слоты"
+              "title": "Асинхронные компоненты Vue"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
+                "file": "01 Notes/202510081435 Слоты Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081433 Ссылки на элемент шаблона с помощью ref"
+              "title": "202510081435 Слоты Vue"
             }
           }
         ]
@@ -198,11 +198,14 @@
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
     "Zettlecasten/Vue.md",
+    "Zettlecasten/Слоты.md",
+    "01 Notes/202510081435 Слоты Vue.md",
+    "01 Notes/202510081406 Компоненты Vue.md",
+    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
+    "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
     "Zettlecasten/Однофайловые компоненты.md",
     "Zettlecasten/Хуки жизненного цикла.md",
     "Zettlecasten/Ссылки на элементы шаблона.md",
-    "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
-    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
     "Zettlecasten/Основы компонентов.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
     "Zettlecasten/Suspense.md",
@@ -220,9 +223,6 @@
     "Zettlecasten/Переиспользуемые переходы.md",
     "01 Notes/202510081423 Переиспользуемые переходы с помощью Transition.md",
     "Zettlecasten/java-script хуки.md",
-    "01 Notes/202510081422 JavaScript хуки в Transition.md",
-    "Zettlecasten/Переходы на основе css.md",
-    "01 Notes/202510081421 Переходы на основе CSS в transition.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
