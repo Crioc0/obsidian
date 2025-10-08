@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/Teleport.md",
+                "file": "Zettlecasten/Основы компонентов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teleport"
+              "title": "Основы компонентов"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "202510081419 Встроенные компоненты в  Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +195,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "678494da68a86198",
+  "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
-    "01 Notes/202510081430 Teleport.md",
-    "Zettlecasten/Teleport.md",
-    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
-    "01 Notes/202510081429 KeepAlive.md",
     "Zettlecasten/Встроенные компоненты Vue.md",
+    "Zettlecasten/Suspense.md",
+    "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
+    "01 Notes/202510081431 Suspense.md",
+    "Zettlecasten/Teleport.md",
+    "01 Notes/202510081430 Teleport.md",
+    "01 Notes/202510081429 KeepAlive.md",
     "Zettlecasten/KeepAlive.md",
     "Zettlecasten/Transition group.md",
     "01 Notes/202510081426 Transition group.md",
@@ -222,8 +223,6 @@
     "Zettlecasten/События в Vue.md",
     "Zettlecasten/Передача входных параметров в компоненты.md",
     "Zettlecasten/Передача значений входных параметров по умолчанию.md",
-    "01 Notes/202510081417 Передача входных значений по умолчанию.md",
-    "Zettlecasten/Детали передачи входных параметров.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
