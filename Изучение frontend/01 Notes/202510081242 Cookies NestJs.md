@@ -74,6 +74,7 @@ export class UsersController {
   }
 }
 ```
+**Если не указать опцию `passthtrough : true`,**
 # Связанные идеи:
 * [[202510081233 Stateless и statefull]]
 ---
