@@ -38,7 +38,7 @@ export class AuthGuard implements CanActivate {
 } 
 ```
 # Связанные идеи:
-* 
+*
 ---
 
 *Что стоит развить? Какие вопросы возникли?*
