@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlecasten/java-script хуки.md",
+                "file": "Zettlecasten/Переиспользуемые переходы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java-script хуки"
+              "title": "Переиспользуемые переходы"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510081420 Transition.md",
+                "file": "01 Notes/202510081423.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510081420 Transition"
+              "title": "202510081423"
             }
           }
         ],
@@ -198,10 +198,12 @@
   },
   "active": "3fdc86c099a11373",
   "lastOpenFiles": [
-    "01 Notes/202510081422 JavaScript хуки в Transition.md",
-    "Zettlecasten/java-script хуки.md",
     "01 Notes/202510081420 Transition.md",
+    "01 Notes/202510081423.md",
+    "Zettlecasten/Переиспользуемые переходы.md",
     "Zettlecasten/Transition.md",
+    "Zettlecasten/java-script хуки.md",
+    "01 Notes/202510081422 JavaScript хуки в Transition.md",
     "Zettlecasten/Переходы на основе css.md",
     "01 Notes/202510081421 Переходы на основе CSS в transition.md",
     "01 Notes/202510081419 Встроенные компоненты в  Vue.md",
@@ -222,8 +224,6 @@
     "01 Notes/202510081310 Наблюдатели Vue.md",
     "Zettlecasten/Регистрация компонентов.md",
     "Zettlecasten/Vue.md",
-    "Zettlecasten/Управление состоянием Vue.md",
-    "Чистые функции.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
