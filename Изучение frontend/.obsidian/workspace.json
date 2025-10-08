@@ -193,6 +193,8 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "Zettlecasten/Управление состоянием Vue.md",
+    "Чистые функции.md",
     "Zettlecasten/[202510081313 Глубокие наблюдатели.md",
     "Zettlecasten/Vue.md",
     "Zettlecasten/Наблюдатели.md",
@@ -219,8 +221,6 @@
     "01 Notes/202510081233 Stateless и statefull.md",
     "01 Notes/202510081238 Stateless сессии Next.js.md",
     "01 Notes/202510081234 Stateful сессии NestJs.md",
-    "01 Notes/202510071330 Функции-конструкторы.md",
-    "Zettlecasten/Отслеживание изменений в массивах.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
