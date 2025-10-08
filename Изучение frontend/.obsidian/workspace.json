@@ -198,6 +198,7 @@
   },
   "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "03 Assets/OAuth.png",
     "01 Notes/202510081242 Cookies NestJs.md",
     "01 Notes/202510081249 Способ аутентификации OAuth.md",
     "01 Notes/202510081233 Stateless и statefull.md",
@@ -223,7 +224,6 @@
     "Zettlecasten/Тестирование Vue.md",
     "01 Notes/202510071555 Линтинг во Vue.md",
     "Zettlecasten/Линтинг Vue.md",
-    "Zettlecasten/Управление состоянием Vue.md",
     "03 Assets/module-stucture.png",
     "03 Assets/IoC.png",
     "03 Assets/provider-nest.png",
