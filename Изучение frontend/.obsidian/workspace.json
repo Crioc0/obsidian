@@ -25,14 +25,17 @@
             "id": "3fdc86c099a11373",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510081310 Наблюдатели Vue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "202510081310 Наблюдатели Vue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +88,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,11 +195,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "8c1ce34a6a27fa44",
   "lastOpenFiles": [
+    "01 Notes/202510081310 Наблюдатели Vue.md",
     "Zettlecasten/Наблюдатели.md",
     "01 Notes/202510071556 Тестирование в Vue.md",
-    "01 Notes/202510081310 Наблюдатели Vue.md",
     "Zettlecasten/Vue.md",
     "01 Notes/202510071523 Синтаксис шаблонов в Vue.md",
     "01 Notes/202509260815 Схемы mongoose.md",
