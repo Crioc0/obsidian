@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Шаблон Structure Notes.md",
+                "file": "templates/Zettelcasten Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Шаблон Structure Notes"
+              "title": "Zettelcasten Note"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "678494da68a86198",
   "lastOpenFiles": [
+    "templates/Шаблон Structure Notes.md",
     "01 Notes/202510071235 Кэширование.md",
     "01 Notes/202510081453 Роутинг Vue.md",
     "Zettlecasten/Option хранилище Pinia.md",
@@ -208,7 +209,6 @@
     "01 Notes/202510081444 Пользовательские директивы.md",
     "Zettlecasten/Сортировка выбором.md",
     "Zettlecasten/Поиск наименьшего элемента массива.md",
-    "Zettlecasten/Сортировка.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
