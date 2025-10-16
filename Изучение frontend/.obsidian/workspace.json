@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proto и Prototype.md",
+                "file": "templates/Zettelcasten Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proto и Prototype"
+              "title": "Zettelcasten Note"
             }
           }
         ],
@@ -193,13 +193,14 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "random-note:Открыть случайную заметку": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "735aa872eb2c6abf",
   "lastOpenFiles": [
-    "templates/Zettelcasten Note.md",
     "Proto и Prototype.md",
+    "templates/Zettelcasten Note.md",
     "templates/Шаблон Structure Notes.md",
     "01 Notes/202510071235 Кэширование.md",
     "01 Notes/202510081453 Роутинг Vue.md",
