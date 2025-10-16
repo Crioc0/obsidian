@@ -7,14 +7,14 @@ tags:
 ## Последние заметки за неделю
 ```dataview
 LIST
-FROM #  
+FROM #computerScience  
 WHERE file.ctime >= date(now) - dur(7 days)
 SORT file.ctime DESC
 ```
-## Все заметки о MongoDB
+## Все заметки о ComputerScience
 ```dataview
-TABLE file.ctime as "Создана"
-FROM # 
+TABLE file.ctime as "Computer Science"
+FROM #ComputerScience 
 SORT file.ctime DESC
 ```
 
