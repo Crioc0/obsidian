@@ -25,14 +25,12 @@
             "id": "b42b3918c6b036ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 Notes/202510161204 Блок-схемы.md",
-                "mode": "source",
-                "source": false
+                "file": "Пример блок-схемы.png"
               },
-              "icon": "lucide-file",
-              "title": "202510161204 Блок-схемы"
+              "icon": "lucide-image",
+              "title": "Пример блок-схемы"
             }
           }
         ],
@@ -93,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 304.5
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -197,10 +195,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b42b3918c6b036ef",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "01 Notes/202510161158 Как представить идею кода.md",
     "01 Notes/202510161204 Блок-схемы.md",
+    "Пример блок-схемы.png",
+    "01 Notes/202510161158 Как представить идею кода.md",
     "02 Structure notes/Computer Science.md",
     "templates/Zettelcasten Note.md",
     "Proto и Prototype.md",
@@ -224,7 +223,6 @@
     "Zettlecasten/Setup-хранилища.md",
     "Zettlecasten/Геттеры Pinia.md",
     "Zettlecasten/Деструктуризация из хранилища Pinia.md",
-    "01 Notes/202510081450 Provide и Inject.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
@@ -234,7 +232,6 @@
     "03 Assets/guards-nest.png",
     "03 Assets/controllers-nest.png",
     "03 Assets/processing-event-loop.png",
-    "03 Assets/event-cicle.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
