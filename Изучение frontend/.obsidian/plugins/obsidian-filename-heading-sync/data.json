@@ -8,5 +8,5 @@
   "replaceStyle": false,
   "underlineString": "===",
   "renameDebounceTimeout": 1000,
-  "insertHeadingIfMissing": true
+  "insertHeadingIfMissing": false
 }
