@@ -13,7 +13,7 @@ SORT file.ctime DESC
 ```
 ## Все заметки о ComputerScience
 ```dataview
-TABLE file.ctime as "Computer Science"
+TABLE file.ctime as "Заметки"
 FROM #ComputerScience 
 SORT file.ctime DESC
 ```
