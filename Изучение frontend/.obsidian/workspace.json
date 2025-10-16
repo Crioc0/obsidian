@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510161234 Псевдокод.md",
+                "file": "01 Notes/202510161238 Математические модели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510161234 Псевдокод"
+              "title": "202510161238 Математические модели"
             }
           },
           {
@@ -199,6 +199,7 @@
   "active": "de9975d538f4c6b5",
   "lastOpenFiles": [
     "01 Notes/202510161158 Как представить идею кода.md",
+    "01 Notes/202510161238 Математические модели.md",
     "01 Notes/202510161234 Псевдокод.md",
     "01 Notes/202510161204 Блок-схемы.md",
     "03 Assets/Пример блок-схемы.png",
@@ -225,7 +226,6 @@
     "Zettlecasten/Pinia.md",
     "Zettlecasten/Setup-хранилища.md",
     "Zettlecasten/Геттеры Pinia.md",
-    "Zettlecasten/Деструктуризация из хранилища Pinia.md",
     "03 Assets/OAuth full.png",
     "03 Assets/OAuth.png",
     "03 Assets/module-stucture.png",
