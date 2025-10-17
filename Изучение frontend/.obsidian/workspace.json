@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,16 +249,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baf4b26b2b628c79",
+  "active": "a9df17eba1f130a0",
   "lastOpenFiles": [
-    "01 Notes/202510171224 Перестановки.md",
     "01 Notes/202510171527 Оценка затрат времени.md",
+    "01 Notes/202510171330 Правило суммирования.md",
+    "01 Notes/202510171019 Логика.md",
+    "01 Notes/202510171224 Перестановки.md",
     "Pasted image 20251017155328.png",
     "03 Assets/Подсчет количества операций в сортировке выбором.png",
     "Pasted image 20251017153443.png",
     "02 Structure notes/Computer Science.md",
-    "01 Notes/202510171019 Логика.md",
-    "01 Notes/202510171330 Правило суммирования.md",
     "01 Notes/202510171220 Комбинаторика.md",
     "01 Notes/202510171448 Временная сложность T(n).md",
     "01 Notes/202510171514 Виды случаев.md",
