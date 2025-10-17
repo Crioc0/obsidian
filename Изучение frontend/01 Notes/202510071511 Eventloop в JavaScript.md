@@ -3,7 +3,8 @@ created: 2025-10-07 15:11
 tags:
   - javaScript
 ---
-# 202510071511
+# 202510071511 Eventloop в JavaScript
+
 *Ссылка на StructureNote:* [[02 Structure notes/JavaScript|JavaScript]]
 *Ссылка на исходник или контекст (если есть):* 
 
@@ -15,7 +16,9 @@ tags:
 6) И все заново
 - **Микротаски** — это задачи, такие как промисы, `queueMicrotask()`, `MutationObserver`.
 - **Макротаски** — это задачи, такие как `setTimeout`, события, таймеры, запросы `fetch`.
+
 # Связанные идеи:
+
 * 
 ---
 
