@@ -25,12 +25,14 @@
             "id": "b50d3ae76e154123",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted 20251017102223.png"
+                "file": "01 Notes/202510171021 Таблицы истинности.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted 20251017102223"
+              "icon": "lucide-file",
+              "title": "202510171021 Таблицы истинности"
             }
           },
           {
@@ -211,8 +213,8 @@
   },
   "active": "b50d3ae76e154123",
   "lastOpenFiles": [
+    "03 Assets/Таблица со всеми возможными сочетаниями от одной до 5 логических переменных.png",
     "01 Notes/202510171021 Таблицы истинности.md",
-    "Pasted 20251017102223.png",
     "01 Notes/202510171019 Логика.md",
     "01 Notes/202510170845 Логические операторы.md",
     "01 Notes/202510170944 Булева алгебра.md",
