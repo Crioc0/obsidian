@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,10 +261,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "baf4b26b2b628c79",
   "lastOpenFiles": [
-    "Pasted image 20251017155328.png",
     "03 Assets/Увеличение масштаба с увеличением n.png",
+    "Pasted image 20251017155328.png",
     "01 Notes/202510171634 Понимание роста зарплат.md",
     "01 Notes/202510171527 Оценка затрат времени.md",
     "01 Notes/202510171330 Правило суммирования.md",
