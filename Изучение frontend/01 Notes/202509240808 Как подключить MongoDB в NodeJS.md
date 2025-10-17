@@ -6,12 +6,14 @@ tags:
   - nodejs
   - basic
 ---
-# 202509240808
+# 202509240808 Как подключить MongoDB в NodeJS
+
 *Ссылка на StructureNote:* [[02 Structure notes/MongoDB|MongoDB]]
 
 *Ссылка на исходник или контекст (если есть):* [Курс Яндекс практикум по NodeJS](https://practicum.yandex.ru/profile/backend-nodejs/)
 
 Для работы в NodeJS требуется модуль `mongodb`
+
 ```ts
 import { MongoClient } from 'mongodb';
 
@@ -28,7 +30,9 @@ const db = client.db('myDatabase');
 db.users
 db.books
 ```
+
 ### Связанные идеи:
+
 ---
 
 *Что стоит развить? Какие вопросы возникли?*
