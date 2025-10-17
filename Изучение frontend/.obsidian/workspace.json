@@ -11,12 +11,14 @@
             "id": "de9975d538f4c6b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251017165304.png"
+                "file": "01 Notes/202510171652 Экспоненциальное время.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251017165304"
+              "icon": "lucide-file",
+              "title": "202510171652 Экспоненциальное время"
             }
           },
           {
@@ -256,10 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "de9975d538f4c6b5",
   "lastOpenFiles": [
+    "03 Assets/Порядки роста O() в уменьшеном масштабе.png",
     "01 Notes/202510171652 Экспоненциальное время.md",
-    "Pasted image 20251017165304.png",
     "01 Notes/202510171648 Нотация О большое.md",
     "03 Assets/Частые обозначения роста сложности.png",
     "01 Notes/202510171444 Вычислительная сложность.md",
