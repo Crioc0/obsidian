@@ -53,12 +53,14 @@
             "id": "baf4b26b2b628c79",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Подсчет количевства операций в сортировке выбором.png"
+                "file": "01 Notes/202510171527 Оценка затрат времени.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Подсчет количевства операций в сортировке выбором"
+              "icon": "lucide-file",
+              "title": "202510171527 Оценка затрат времени"
             }
           },
           {
@@ -249,8 +251,8 @@
   },
   "active": "baf4b26b2b628c79",
   "lastOpenFiles": [
+    "03 Assets/Подсчет количества операций в сортировке выбором.png",
     "Pasted image 20251017153443.png",
-    "Подсчет количевства операций в сортировке выбором.png",
     "01 Notes/202510171527 Оценка затрат времени.md",
     "02 Structure notes/Computer Science.md",
     "01 Notes/202510171224 Перестановки.md",
