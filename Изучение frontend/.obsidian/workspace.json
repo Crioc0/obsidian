@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "6495ea7fe69c44dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03 Assets/Увеличение масштаба с увеличением n.png"
+              },
+              "icon": "lucide-image",
+              "title": "Увеличение масштаба с увеличением n"
+            }
+          },
+          {
             "id": "af95348733c53015",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,14 +261,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baf4b26b2b628c79",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "01 Notes/202510171527 Оценка затрат времени.md",
+    "Pasted image 20251017155328.png",
+    "03 Assets/Увеличение масштаба с увеличением n.png",
     "01 Notes/202510171634 Понимание роста зарплат.md",
+    "01 Notes/202510171527 Оценка затрат времени.md",
     "01 Notes/202510171330 Правило суммирования.md",
     "01 Notes/202510171019 Логика.md",
     "01 Notes/202510171224 Перестановки.md",
-    "Pasted image 20251017155328.png",
     "03 Assets/Подсчет количества операций в сортировке выбором.png",
     "Pasted image 20251017153443.png",
     "02 Structure notes/Computer Science.md",
@@ -281,12 +294,10 @@
     "01 Notes/202510170944 Булева алгебра.md",
     "01 Notes/202510161158 Как представить идею кода.md",
     "01 Notes/202510081453 Роутинг Vue.md",
-    "01 Notes/202510081450 Provide и Inject.md",
     "03 Assets/Логические операции для четырех возможных комбинаций A и B.png",
     "03 Assets/Пример блок-схемы.png",
     "03 Assets/Пример блок-схемы.png",
     "03 Assets/OAuth full.png",
-    "03 Assets/OAuth.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
