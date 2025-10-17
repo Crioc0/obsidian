@@ -3,11 +3,13 @@ created: 2025-10-08 14:26
 tags:
   - vue
 ---
-# 202510081426
+# 202510081426 Transition group
+
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):* 
 
 `<TransitionGroup>` это встроенный компонент, предназначенный для создания анимации при добавлении, удалении и изменении порядка элементов или компонентов, которые отображаются в списке.
+
 ## Отличия от `<Transition>`[​](https://ru.vuejs.org/guide/built-ins/transition-group.html#differences-from-transition)
 
 `<TransitionGroup>` поддерживает те же параметры, классы CSS-переходов, и JavaScript-хуки слушателей, что и `<Transition>`, со следующими отличиями:
@@ -21,7 +23,9 @@ tags:
 - Классы CSS-перехода будут применяться к отдельным элементам в списке, а не к самой группе / контейнеру.
 
 ## Анимация добавления / удаления элементов списка
+
 Вот пример анимации перехода добавления / удаления элементов `v-for` списка используя `<TransitionGroup>`:
+
 ```js
 <TransitionGroup name="list" tag="ul">
   <li v-for="item in items" :key="item">
@@ -41,7 +45,9 @@ tags:
   transform: translateX(30px);
 }
 ```
+
 Чтобы при удалении или добавлении элементы не прыгали, нужно добавить несколько дополнительных правил CSS
+
 ```js
 .list-move, /* применять переход к движущимся элементам */
 .list-enter-active,
@@ -61,9 +67,11 @@ tags:
   position: absolute;
 }
 ```
+
 ## Задержка переходов списка[​](https://ru.vuejs.org/guide/built-ins/transition-group.html#staggering-list-transitions)
 
 Настраивая JavaScript-переходы через data-атрибуты, также можно настроить задержку для переходов в списке. Сначала мы отображаем индекс элемента как data-атрибут в DOM:
+
 ```js
 <TransitionGroup
   tag="ul"
@@ -81,7 +89,9 @@ tags:
   </li>
 </TransitionGroup>
 ```
+
 Затем, в JavaScript-хуках, мы анимируем элемент с задержкой, отталкиваясь от этого data-атрибута.
+
 ```js
 function onEnter(el, done) {
   gsap.to(el, {
@@ -92,7 +102,9 @@ function onEnter(el, done) {
   })
 }
 ```
+
 # Связанные идеи:
+
 * [[202510081419 Встроенные компоненты в  Vue]]
 ---
 
