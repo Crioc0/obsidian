@@ -3,7 +3,7 @@
   "ignoredFiles": {},
   "ignoreRegex": "",
   "useFileOpenHook": false,
-  "useFileSaveHook": true,
+  "useFileSaveHook": false,
   "newHeadingStyle": "Prefix",
   "replaceStyle": false,
   "underlineString": "===",
