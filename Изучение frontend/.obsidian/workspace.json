@@ -49,7 +49,8 @@
               "title": "202510161204 Блок-схемы"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de9975d538f4c6b5",
+  "active": "b50d3ae76e154123",
   "lastOpenFiles": [
-    "01 Notes/202510161158 Как представить идею кода.md",
     "02 Structure notes/Computer Science.md",
+    "01 Notes/202510161158 Как представить идею кода.md",
     "01 Notes/202510170944 Булева алгебра.md",
     "01 Notes/202510170845 Логические операторы.md",
     "01 Notes/202510081453 Роутинг Vue.md",
