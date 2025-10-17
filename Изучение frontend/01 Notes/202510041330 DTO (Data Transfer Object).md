@@ -3,7 +3,8 @@ created: 2025-10-04 13:30
 tags:
   - nodejs
 ---
-# 202510041330
+# 202510041330 DTO (Data Transfer Object)
+
 *Ссылка на StructureNote:* 
 *Ссылка на исходник или контекст (если есть):* [ЯПрактикум](https://practicum.yandex.ru/learn/backend-nodejs/courses/a4214ab0-2146-4152-b90e-651bf4c7ca5e/sprints/564244/topics/1df920a3-5c6a-4fcd-884c-0f66136c2b56/lessons/d77622ea-f32d-42fa-999d-bfba555dae7d/)
 
@@ -11,9 +12,8 @@ tags:
 
 DTO используют не только для данных от клиента, но и в целом для передачи данных между частями системы, например, для данных из базы данных.
 
-
-
 ### Связанные идеи:
+
 * 
 ---
 
