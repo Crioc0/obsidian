@@ -1,7 +1,5 @@
 [
   "obsidian-git",
   "dataview",
-  "obsidian-linter",
-  "templater-obsidian",
-  "obsidian-filename-heading-sync"
+  "obsidian-linter"
 ]

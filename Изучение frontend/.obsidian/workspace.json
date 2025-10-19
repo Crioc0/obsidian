@@ -4,97 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "56fbc446741525b9",
+        "id": "00cf473a2fd43d24",
         "type": "tabs",
         "children": [
           {
-            "id": "de9975d538f4c6b5",
+            "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510171652 Экспоненциальное время.md",
+                "file": "01 Notes/202510051812 Перехватчики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510171652 Экспоненциальное время"
+              "title": "202510051812 Перехватчики"
             }
           },
           {
-            "id": "c535439fdc4914eb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "03 Assets/Частые обозначения роста сложности.png"
-              },
-              "icon": "lucide-image",
-              "title": "Частые обозначения роста сложности"
-            }
-          },
-          {
-            "id": "b50d3ae76e154123",
+            "id": "d273c42e844a6e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510171019 Логика.md",
+                "file": "01 Notes/202510022045 Защитник.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510171019 Логика"
+              "title": "202510022045 Защитник"
             }
           },
           {
-            "id": "a9df17eba1f130a0",
+            "id": "a530b440c956be55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510171330 Правило суммирования.md",
+                "file": "01 Notes/202510041333 DTO в NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510171330 Правило суммирования"
-            }
-          },
-          {
-            "id": "6495ea7fe69c44dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "03 Assets/Увеличение масштаба с увеличением n.png"
-              },
-              "icon": "lucide-image",
-              "title": "Увеличение масштаба с увеличением n"
-            }
-          },
-          {
-            "id": "af95348733c53015",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "0c712d69f3e3c09d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510171224 Перестановки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510171224 Перестановки"
+              "title": "202510041333 DTO в NestJS"
             }
           }
         ]
@@ -120,7 +72,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -137,7 +89,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -154,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -189,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlecasten/B-деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из B-деревья"
+              "title": "Outgoing links"
             }
           },
           {
@@ -206,10 +157,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "mongoo"
+                "searchQuery": "mongoose"
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -218,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509291547 Ограничение размера выборки LIMIT.md",
+                "file": "02 Structure notes/Express.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509291547 Ограничение размера выборки LIMIT"
+              "title": "Outline of Express"
             }
           },
           {
@@ -246,66 +197,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
-      "random-note:Открыть случайную заметку": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "templater-obsidian:Templater": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "de9975d538f4c6b5",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
-    "03 Assets/Порядки роста O() в уменьшеном масштабе.png",
-    "01 Notes/202510171652 Экспоненциальное время.md",
-    "01 Notes/202510171648 Нотация О большое.md",
+    "Proto и Prototype.md",
     "03 Assets/Частые обозначения роста сложности.png",
-    "01 Notes/202510171444 Вычислительная сложность.md",
-    "01 Notes/202510171527 Оценка затрат времени.md",
-    "01 Notes/202510171634 Понимание роста затрат.md",
-    "01 Notes/202510171647 202510171634 Понимание роста затрат.md",
-    "01 Notes/202510171330 Правило суммирования.md",
     "03 Assets/Увеличение масштаба с увеличением n.png",
-    "Pasted image 20251017155328.png",
-    "01 Notes/202510171019 Логика.md",
-    "01 Notes/202510171224 Перестановки.md",
-    "03 Assets/Подсчет количества операций в сортировке выбором.png",
-    "Pasted image 20251017153443.png",
-    "02 Structure notes/Computer Science.md",
-    "01 Notes/202510171220 Комбинаторика.md",
-    "01 Notes/202510171448 Временная сложность T(n).md",
-    "01 Notes/202510171514 Виды случаев.md",
-    "01 Notes/202510171306 Комбинации.md",
-    "01 Notes/202509291206 Приведение типов в запросах.md",
-    "01 Notes/202510171337 Вероятность.md",
-    "01 Notes/202510171440 Заблуждения игрока.md",
-    "01 Notes/202510171426 Взаимодополняющие события.md",
-    "01 Notes/202510171422 Независимые (совместимые) события.md",
-    "01 Notes/202510171421 Подсчет количества возможных вариантов.md",
-    "01 Notes/202510171222 Правило умножения.md",
-    "01 Notes/202510171251 Перестановки без повторений.md",
-    "03 Assets/Схемы суммирования двухразрядных чисел.png",
-    "01 Notes/202510171124 Логика в вычислениях.md",
-    "01 Notes/202510171021 Таблицы истинности.md",
     "03 Assets/Таблица со всеми возможными сочетаниями от одной до 5 логических переменных.png",
-    "01 Notes/202510170845 Логические операторы.md",
-    "03 Assets/Логические операции для четырех возможных комбинаций A и B.png",
+    "03 Assets/Схемы суммирования двухразрядных чисел.png",
     "03 Assets/Пример блок-схемы.png",
-    "Без названия 1.canvas",
-    "Без названия.canvas",
+    "03 Assets/Порядки роста O() в уменьшеном масштабе.png",
+    "03 Assets/Подсчет количества операций в сортировке выбором.png",
+    "03 Assets/Логические операции для четырех возможных комбинаций A и B.png",
+    "03 Assets/OAuth.png",
+    "01 Notes/202510170845 Логические операторы.md",
+    "01 Notes/202510161238 Математические модели.md",
+    "01 Notes/202510161234 Псевдокод.md",
+    "01 Notes/202510161204 Блок-схемы.md",
+    "01 Notes/202510161158 Как представить идею кода.md",
+    "01 Notes/202510081453 Роутинг Vue.md",
+    "01 Notes/202510081450 Provide и Inject.md",
+    "01 Notes/202510081444 Пользовательские директивы.md",
+    "01 Notes/202510081442 Работа с формами, v-model Vue.md",
+    "01 Notes/202510081440 Composable функция.md",
+    "01 Notes/202510081437 Асинхронные компоненты Vue.md",
+    "01 Notes/202510081435 Слоты Vue.md",
+    "01 Notes/202510081433 Ссылки на элемент шаблона с помощью ref.md",
+    "01 Notes/202510081431 Suspense.md",
+    "01 Notes/202510081430 Teleport.md",
+    "01 Notes/202510081429 KeepAlive.md",
+    "01 Notes/202510081426 Transition group.md",
+    "01 Notes/202510081424 Динамические переходы через компоненты.md",
+    "01 Notes/202510071541 Объектный синтаксис указания стилей Vue.md",
+    "01 Notes/202510071540 Работа со стилями Vue.md",
+    "01 Notes/202510071538 Отладка реактивности.md",
+    "01 Notes/202510071534 Вычисляемые(computed) свойства.md",
+    "01 Notes/202510071533 Reactive.md",
+    "01 Notes/202510071532 Ref.md",
+    "01 Notes/202510071530 Реактивность в Vue.md",
+    "03 Assets/module-stucture.png",
+    "03 Assets",
+    "02 Structure notes",
+    "tags",
+    "01 Notes",
+    "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "Zettlecasten/Без названия 2.base",
-    "Zettlecasten/Без названия 7.base",
-    "Zettlecasten/Без названия 5.base",
-    "Zettlecasten/Без названия 4.base",
-    "Zettlecasten/Без названия 3.base",
-    "Zettlecasten/Без названия 6.base",
-    "tags",
-    "03 Assets"
+    "Без названия.canvas",
+    "Браузерное окружение, спецификации.html",
+    "Без названия 1.canvas",
+    "Zettlecasten/react/Без названия",
+    "Zettlecasten/Реализации"
   ]
 }
