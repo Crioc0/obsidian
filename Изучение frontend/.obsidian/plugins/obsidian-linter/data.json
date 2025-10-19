@@ -199,7 +199,7 @@
       "enabled": true
     },
     "empty-line-around-tables": {
-      "enabled": false
+      "enabled": true
     },
     "heading-blank-lines": {
       "enabled": true,
