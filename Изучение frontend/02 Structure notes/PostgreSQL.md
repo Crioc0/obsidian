@@ -3,7 +3,8 @@ tags:
   - structure-notes
 ---
 ### Связи с другими Structure Notes
-[[]]
+
+[[Database]]
 
 ## Последние заметки за неделю
 
