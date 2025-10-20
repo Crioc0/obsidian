@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "392571af729605be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251020134715.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020134715"
+            }
+          },
+          {
             "id": "2b5aba6dc08d12bc",
             "type": "leaf",
             "state": {
@@ -168,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -329,10 +341,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1ef3ef1086cf7ce",
+  "active": "392571af729605be",
   "lastOpenFiles": [
-    "01 Notes/202510201317 Структуры.md",
     "01 Notes/202510201345 Дерево.md",
+    "Pasted image 20251020134715.png",
+    "Дерево.png",
+    "01 Notes/202510201317 Структуры.md",
     "01 Notes/202510201333 Связный список.md",
     "01 Notes/202510201341 Массивы против связных списков.md",
     "01 Notes/202510201329 Массив.md",
@@ -360,13 +374,10 @@
     "01 Notes/202510200931 Эвристические алгоритмы.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510201036 Динамическое программирование.md",
-    "01 Notes/202510201037 Мемоизация Фибоначи.md",
     "03 Assets/Дерево рекурсивных вызовов fib.png",
     "03 Assets/Решение задачи о рюкзаке разделяй и властвуй.png",
     "03 Assets/Демонстрация выполнения функции trade.png",
     "03 Assets/Сортировка слиянием.png",
-    "03 Assets/Поиск с возвратом.png",
-    "03 Assets/Рекурсивное вычисление числа фибоначи.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
