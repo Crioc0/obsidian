@@ -61,10 +61,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251020135400.png"
+                "file": "Балансировка деревьев.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251020135400"
+              "title": "Балансировка деревьев"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,10 +267,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03909bb1b4dee5b9",
+  "active": "a1ef3ef1086cf7ce",
   "lastOpenFiles": [
+    "Балансировка деревьев.png",
     "01 Notes/202510201353 Балансировка дерева.md",
-    "Pasted image 20251020135400.png",
     "01 Notes/202510201349 Двоичное дерево поиска.md",
     "Двоичное дерево поиска.png",
     "03 Assets/Дерево.png",
