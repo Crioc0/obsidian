@@ -4,8 +4,6 @@ tags:
 ---
 ### Связи с другими Structure Notes
 
-[[Database]] 
-
 ## Последние заметки за неделю
 
 ```dataview

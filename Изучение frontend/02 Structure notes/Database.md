@@ -1,7 +1,6 @@
 ---
 tags:
   - structure-notes
-  - computerScience
 ---
 ### Связи с другими Structure Notes
 
