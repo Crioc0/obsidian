@@ -23,24 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
+                "file": "01 Notes/202510200838 Стратегии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510200844 Вложенные циклы и степенные множества"
-            }
-          },
-          {
-            "id": "e8942972f9f59830",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Итеративное перечисление всех ароматов.png"
-              },
-              "icon": "lucide-image",
-              "title": "Итеративное перечисление всех ароматов"
+              "title": "202510200838 Стратегии"
             }
           },
           {
@@ -108,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,11 +257,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8942972f9f59830",
+  "active": "40b332cc1bc6aaba",
   "lastOpenFiles": [
+    "01 Notes/202510200838 Итерации.md",
     "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
     "Итеративное перечисление всех ароматов.png",
-    "01 Notes/202510200838 Итерации.md",
     "03 Assets/Объединение двух отсортированных списков в третий.png",
     "01 Notes/202510200838 Стратегии.md",
     "02 Structure notes/Computer Science.md",
