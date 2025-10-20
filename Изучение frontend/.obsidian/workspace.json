@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510201532 Распределенная модель.md",
+                "file": "01 Notes/202510201535 Репликация с одним ведущим.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510201532 Распределенная модель"
+              "title": "202510201535 Репликация с одним ведущим"
+            }
+          },
+          {
+            "id": "af164d7d58cd2691",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251020153619.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020153619"
             }
           },
           {
@@ -166,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,10 +340,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b83ab452d2ec0cd",
+  "active": "af164d7d58cd2691",
   "lastOpenFiles": [
-    "02 Structure notes/Database.md",
+    "01 Notes/202510201535 Репликация с одним ведущим.md",
+    "Pasted image 20251020153619.png",
     "01 Notes/202510201532 Распределенная модель.md",
+    "02 Structure notes/Database.md",
     "01 Notes/202510201530 Графовые базы данных.md",
     "Графовая база данных.png",
     "01 Notes/202510201526 Транзакции.md",
@@ -357,15 +371,12 @@
     "03 Assets/Узлы двоичная куча.png",
     "01 Notes/202510201402 B-дерево.md",
     "01 Notes/202510201401 AVL-дерево(AVL  tree).md",
-    "01 Notes/202510201353 Балансировка дерева.md",
-    "01 Notes/202510201358 Сбалансированное двоичное дерево (self balancing binary tree).md",
     "03 Assets/Балансировка деревьев.png",
     "03 Assets/Двоичное дерево поиска.png",
     "03 Assets/Дерево.png",
     "03 Assets/Добавление в связном списке.png",
     "03 Assets/Дерево рекурсивных вызовов fib.png",
     "03 Assets/Массив в памяти компьютера.png",
-    "03 Assets/Двусвязный список.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
