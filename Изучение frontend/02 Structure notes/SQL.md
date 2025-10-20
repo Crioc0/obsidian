@@ -8,7 +8,7 @@ tags:
 
 ```dataview
 LIST
-FROM #  
+FROM #sql   
 WHERE file.ctime >= date(now) - dur(7 days)
 SORT file.ctime DESC
 ```
