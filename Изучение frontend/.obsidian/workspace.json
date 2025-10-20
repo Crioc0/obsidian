@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "4586c300fab17a34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251020151817.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020151817"
+            }
+          },
+          {
             "id": "40b332cc1bc6aaba",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,10 +274,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cd9caff72c24431",
+  "active": "4586c300fab17a34",
   "lastOpenFiles": [
-    "02 Structure notes/Database.md",
     "01 Notes/202510201517 Индексация.md",
+    "Pasted image 20251020151817.png",
+    "02 Structure notes/Database.md",
     "01 Notes/202509241516 Понятие индекса в СУБД.md",
     "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/Computer Science.md",
@@ -296,10 +309,8 @@
     "01 Notes/202510171019 Логика.md",
     "01 Notes/202510171330 Правило суммирования.md",
     "01 Notes/202510201333 Связный список.md",
-    "01 Notes/202510201341 Массивы против связных списков.md",
     "03 Assets/Двусвязный список.png",
     "Pasted image 20251020132956.png",
-    "03 Assets/Решение задачи о рюкзаке разделяй и властвуй.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
