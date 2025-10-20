@@ -37,10 +37,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251020090512.png"
+                "file": "03 Assets/Рекурсивное вычисление числа фибоначи.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251020090512"
+              "title": "Рекурсивное вычисление числа фибоначи"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Рекурсивное вычисление числа фибоначи.png"
+                "file": "03 Assets/Рекурсивное вычисление числа фибоначи.png"
               },
               "icon": "lucide-image",
               "title": "Рекурсивное вычисление числа фибоначи"
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,16 +281,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7893513b49ed27a2",
+  "active": "40b332cc1bc6aaba",
   "lastOpenFiles": [
-    "01 Notes/202510200858 Рекурсия.md",
-    "Pasted image 20251020090512.png",
+    "03 Assets/Рекурсивное вычисление числа фибоначи.png",
     "Pasted image 20251020090340.png",
-    "Рекурсивное вычисление числа фибоначи.png",
+    "03 Assets/Рекурсивная проверка на палиндром.png",
+    "01 Notes/202510200858 Рекурсия.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510200838 Итерации.md",
     "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
-    "Итеративное перечисление всех ароматов.png",
+    "03 Assets/Итеративное перечисление всех ароматов.png",
     "03 Assets/Объединение двух отсортированных списков в третий.png",
     "02 Structure notes/Computer Science.md",
     "02 Structure notes/TypeORM.md",
