@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "42189dbab70cc5c1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Сообщение от ОЗУ выполгить.png"
+              },
+              "icon": "lucide-image",
+              "title": "Сообщение от ОЗУ выполгить"
+            }
+          },
+          {
             "id": "cbfc63ad4861b3cf",
             "type": "leaf",
             "state": {
@@ -218,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -380,11 +392,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "813bea9f731b360a",
+  "active": "42189dbab70cc5c1",
   "lastOpenFiles": [
-    "Pasted image 20251020160828.png",
-    "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510201607 Память.md",
+    "Сообщение от ОЗУ выполгить.png",
+    "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510201605 Компьютеры.md",
     "02 Structure notes/Computer Science.md",
     "01 Notes/202509241122 Индексы в MongoDB.md",
@@ -417,7 +429,6 @@
     "03 Assets/Балансировка деревьев.png",
     "03 Assets/Двоичное дерево поиска.png",
     "03 Assets/Дерево.png",
-    "03 Assets/Добавление в связном списке.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
