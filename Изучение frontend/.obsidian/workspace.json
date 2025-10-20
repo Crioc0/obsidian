@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,10 +293,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "77fa9fdc5cbc3028",
   "lastOpenFiles": [
-    "01 Notes/202510201008 Разделить и заключить сделку.md",
     "03 Assets/Демонстрация выполнения функции trade.png",
+    "01 Notes/202510201008 Разделить и заключить сделку.md",
     "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510201004 Разделить и отсортировать.md",
     "03 Assets/Сортировка слиянием.png",
