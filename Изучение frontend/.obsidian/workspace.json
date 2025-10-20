@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7893513b49ed27a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251020090512.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020090512"
+            }
+          },
+          {
             "id": "0b82f6b792aeafdb",
             "type": "leaf",
             "state": {
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,11 +281,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40b332cc1bc6aaba",
+  "active": "7893513b49ed27a2",
   "lastOpenFiles": [
+    "01 Notes/202510200858 Рекурсия.md",
+    "Pasted image 20251020090512.png",
     "Pasted image 20251020090340.png",
     "Рекурсивное вычисление числа фибоначи.png",
-    "01 Notes/202510200858 Рекурсия.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510200838 Итерации.md",
     "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
@@ -305,8 +318,6 @@
     "03 Assets/Увеличение масштаба с увеличением n.png",
     "Pasted image 20251017155328.png",
     "03 Assets/Подсчет количества операций в сортировке выбором.png",
-    "Pasted image 20251017153443.png",
-    "03 Assets/Схемы суммирования двухразрядных чисел.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
