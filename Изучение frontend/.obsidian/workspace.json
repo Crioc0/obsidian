@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "1b19102f8b525c42",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03 Assets/Дерево рекурсивных вызовов fib.png"
+              },
+              "icon": "lucide-image",
+              "title": "Дерево рекурсивных вызовов fib"
+            }
+          },
+          {
             "id": "32549d18db3be8f5",
             "type": "leaf",
             "state": {
@@ -295,8 +307,9 @@
   },
   "active": "77fa9fdc5cbc3028",
   "lastOpenFiles": [
-    "01 Notes/202510201036 Динамическое программирование.md",
+    "03 Assets/Дерево рекурсивных вызовов fib.png",
     "01 Notes/202510201037 Мемоизация Фибоначи.md",
+    "01 Notes/202510201036 Динамическое программирование.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510201027 Разделить и упаковать.md",
@@ -329,8 +342,6 @@
     "02 Structure notes/NodeJS.md",
     "02 Structure notes/Nest.js.md",
     "02 Structure notes/Mongoose.md",
-    "02 Structure notes/MongoDB.md",
-    "03 Assets/Частые обозначения роста сложности.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
