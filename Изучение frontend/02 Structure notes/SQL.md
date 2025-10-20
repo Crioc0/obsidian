@@ -17,6 +17,6 @@ SORT file.ctime DESC
 
 ```dataview
 TABLE file.ctime as "Создана"
-FROM # 
+FROM #sql 
 SORT file.ctime DESC
 ```
