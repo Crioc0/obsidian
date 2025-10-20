@@ -47,12 +47,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/Балансировка дерева.md",
+                "file": "01 Notes/202510201353 Балансировка дерева.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Балансировка дерева"
+              "title": "202510201353 Балансировка дерева"
+            }
+          },
+          {
+            "id": "03909bb1b4dee5b9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251020135400.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020135400"
             }
           },
           {
@@ -94,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,10 +267,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1ef3ef1086cf7ce",
+  "active": "03909bb1b4dee5b9",
   "lastOpenFiles": [
+    "01 Notes/202510201353 Балансировка дерева.md",
+    "Pasted image 20251020135400.png",
     "01 Notes/202510201349 Двоичное дерево поиска.md",
-    "01 Notes/Балансировка дерева.md",
     "Двоичное дерево поиска.png",
     "03 Assets/Дерево.png",
     "03 Assets/Добавление в связном списке.png",
@@ -289,10 +302,8 @@
     "01 Notes/202510201052 Типы данных.md",
     "01 Notes/202510201049 Данные.md",
     "01 Notes/202510201050 Абстракции.md",
-    "01 Notes/202510201043 Верхние и нижние границы.md",
     "03 Assets/Решение задачи о рюкзаке разделяй и властвуй.png",
     "03 Assets/Демонстрация выполнения функции trade.png",
-    "03 Assets/Сортировка слиянием.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
