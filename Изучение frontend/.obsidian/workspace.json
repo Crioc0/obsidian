@@ -61,10 +61,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251020134715.png"
+                "file": "03 Assets/Дерево.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251020134715"
+              "title": "Дерево"
             }
           },
           {
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -341,11 +341,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "392571af729605be",
+  "active": "a1ef3ef1086cf7ce",
   "lastOpenFiles": [
+    "03 Assets/Дерево.png",
     "01 Notes/202510201345 Дерево.md",
-    "Pasted image 20251020134715.png",
-    "Дерево.png",
     "01 Notes/202510201317 Структуры.md",
     "01 Notes/202510201333 Связный список.md",
     "01 Notes/202510201341 Массивы против связных списков.md",
