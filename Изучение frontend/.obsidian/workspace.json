@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "71eff3954518e4fe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251020100605.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251020100605"
-            }
-          },
-          {
             "id": "b50d3ae76e154123",
             "type": "leaf",
             "state": {
@@ -132,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,10 +281,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71eff3954518e4fe",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "01 Notes/202510201004 Разделить и отсортировать.md",
-    "Pasted image 20251020100605.png",
+    "03 Assets/Сортировка слиянием.png",
     "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510200931 Эвристические алгоритмы.md",
