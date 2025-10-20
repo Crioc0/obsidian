@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "42189dbab70cc5c1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Сообщение от ОЗУ выполгить.png"
-              },
-              "icon": "lucide-image",
-              "title": "Сообщение от ОЗУ выполгить"
-            }
-          },
-          {
             "id": "cbfc63ad4861b3cf",
             "type": "leaf",
             "state": {
@@ -230,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -392,10 +380,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42189dbab70cc5c1",
+  "active": "813bea9f731b360a",
   "lastOpenFiles": [
-    "01 Notes/202510201607 Память.md",
     "Сообщение от ОЗУ выполгить.png",
+    "01 Notes/202510201607 Память.md",
     "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510201605 Компьютеры.md",
     "02 Structure notes/Computer Science.md",
