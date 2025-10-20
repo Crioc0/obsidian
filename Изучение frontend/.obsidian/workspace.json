@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "32549d18db3be8f5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03 Assets/Демонстрация выполнения функции trade.png"
+              },
+              "icon": "lucide-image",
+              "title": "Демонстрация выполнения функции trade"
+            }
+          },
+          {
             "id": "b50d3ae76e154123",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,10 +293,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77fa9fdc5cbc3028",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510201008 Разделить и заключить сделку.md",
+    "03 Assets/Демонстрация выполнения функции trade.png",
+    "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510201004 Разделить и отсортировать.md",
     "03 Assets/Сортировка слиянием.png",
     "01 Notes/202510200838 Стратегии.md",
@@ -315,10 +328,8 @@
     "02 Structure notes/MongoDB.md",
     "02 Structure notes/JavaScript.md",
     "02 Structure notes/Express.md",
-    "02 Structure notes/Database.md",
     "03 Assets/Частые обозначения роста сложности.png",
     "03 Assets/Порядки роста O() в уменьшеном масштабе.png",
-    "03 Assets/Увеличение масштаба с увеличением n.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
