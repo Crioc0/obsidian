@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "71eff3954518e4fe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251020100605.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020100605"
+            }
+          },
+          {
             "id": "b50d3ae76e154123",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,10 +293,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77fa9fdc5cbc3028",
+  "active": "71eff3954518e4fe",
   "lastOpenFiles": [
-    "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510201004 Разделить и отсортировать.md",
+    "Pasted image 20251020100605.png",
+    "01 Notes/202510200953 Разделяй и властвуй.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510200931 Эвристические алгоритмы.md",
     "01 Notes/202510200943 Жадные алгоритмы.md",
@@ -314,11 +327,9 @@
     "02 Structure notes/JavaScript.md",
     "02 Structure notes/Express.md",
     "02 Structure notes/Database.md",
-    "01 Notes/202509271816 Защита роутов авторизацией.md",
     "03 Assets/Частые обозначения роста сложности.png",
     "03 Assets/Порядки роста O() в уменьшеном масштабе.png",
     "03 Assets/Увеличение масштаба с увеличением n.png",
-    "Pasted image 20251017155328.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
