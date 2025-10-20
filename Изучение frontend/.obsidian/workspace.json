@@ -11,14 +11,24 @@
             "id": "de9975d538f4c6b5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "aa86aa4ad81ba14a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Database.md",
+                "file": "01 Notes/202510201550 Форматы сериали.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database"
+              "title": "202510201550 Форматы сериали"
             }
           },
           {
@@ -366,8 +376,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbfc63ad4861b3cf",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
+    "01 Notes/202510201550 Форматы сериали.md",
     "02 Structure notes/Database.md",
     "01 Notes/202510201547 Географическая модель.md",
     "01 Notes/202510201532 Распределенная модель баз данных.md",
@@ -398,7 +409,6 @@
     "01 Notes/202510201317 Структуры.md",
     "01 Notes/202510201405 Граф.md",
     "01 Notes/202510201345 Дерево.md",
-    "01 Notes/202510201349 Двоичное дерево поиска.md",
     "03 Assets/Узлы двоичная куча.png",
     "03 Assets/Балансировка деревьев.png",
     "03 Assets/Двоичное дерево поиска.png",
