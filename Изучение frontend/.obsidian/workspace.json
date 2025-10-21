@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510211143 Компиляторы.md",
+                "file": "01 Notes/202510211142 Эмуляторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510211143 Компиляторы"
+              "title": "202510211142 Эмуляторы"
             }
           },
           {
@@ -361,8 +361,8 @@
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
     "01 Notes/202510201605 Компьютеры.md",
-    "02 Structure notes/Computer Science.md",
     "01 Notes/202510211143 Компиляторы.md",
+    "02 Structure notes/Computer Science.md",
     "00 Inbox/Без названия.md",
     "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510211142 Эмуляторы.md",
