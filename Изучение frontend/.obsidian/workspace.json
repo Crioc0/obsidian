@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e5cbf015270208ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251021160746.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021160746"
+            }
+          },
+          {
             "id": "e8712edf981c310a",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,10 +275,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e5d34472375b9b",
+  "active": "e5cbf015270208ca",
   "lastOpenFiles": [
-    "01 Notes/202510211536 Межсетевой уровень.md",
     "01 Notes/202510211606 Адресация местоположения.md",
+    "Pasted image 20251021160746.png",
+    "01 Notes/202510211536 Межсетевой уровень.md",
     "01 Notes/202510211603 Маршрутизация.md",
     "03 Assets/Система маршрутизации.png",
     "01 Notes/202510211549 Межсетевое взаимодействие.md",
@@ -299,8 +312,6 @@
     "01 Notes/202510211323 Область видимости переменных.md",
     "01 Notes/202510211321 Типизация переменных.md",
     "01 Notes/202510211257 Лингвистика в программировании.md",
-    "01 Notes/202510211258 Значения.md",
-    "03 Assets/Диаграмма иерархии памяти.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
