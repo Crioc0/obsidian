@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "d91ca4839aa6b5f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251021151702.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021151702"
+            }
+          },
+          {
             "id": "c274ae37295cb105",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,10 +249,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8712edf981c310a",
+  "active": "d91ca4839aa6b5f0",
   "lastOpenFiles": [
-    "01 Notes/202510211357 Общие связи.md",
     "01 Notes/202510211501 Кадры.md",
+    "Pasted image 20251021151702.png",
+    "01 Notes/202510211357 Общие связи.md",
     "01 Notes/202510211403 MAC-адрес.md",
     "01 Notes/202510211359 Коллизии.md",
     "Коллизии.png",
@@ -269,12 +282,10 @@
     "01 Notes/202510211259 Выражения.md",
     "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510211244 Внешняя и третичная память.md",
-    "01 Notes/202510211237 Первичная память против вторичной.md",
     "03 Assets/Диаграмма иерархии памяти.png",
     "03 Assets/Микрофотография процессора.png",
     "03 Assets/Разрыв в быстродействии между памятью и процессором.png",
     "03 Assets/Запись числа 33 в ячейку с адресом 212.png",
-    "03 Assets/Часть технического описания Intel.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
