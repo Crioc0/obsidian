@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510211351 Канальный уровень.md",
+                "file": "01 Notes/202510211357 Общие связи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510211351 Канальный уровень"
+              "title": "202510211357 Общие связи"
             }
           },
           {
@@ -237,10 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "e8712edf981c310a",
   "lastOpenFiles": [
-    "03 Assets/Подключение.png",
     "01 Notes/202510211351 Канальный уровень.md",
+    "01 Notes/202510211357 Общие связи.md",
+    "03 Assets/Подключение.png",
     "01 Notes/202510211341 Связи.md",
     "02 Structure notes/Computer Science.md",
     "01 Notes/202510211325 Парадигмы программирования.md",
