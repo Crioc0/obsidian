@@ -109,8 +109,7 @@
               "title": "202510211334 Логическое программирование"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +271,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e5d34472375b9b",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
     "01 Notes/202510211341 Связи.md",
     "01 Notes/202510211536 Межсетевой уровень.md",
