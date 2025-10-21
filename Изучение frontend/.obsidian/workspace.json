@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510211536 Межсетевой уровень.md",
+                "file": "01 Notes/202510211549 Межсетевое взаимодействие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510211536 Межсетевой уровень"
+              "title": "202510211549 Межсетевое взаимодействие"
             }
           },
           {
@@ -263,10 +263,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "f7e5d34472375b9b",
   "lastOpenFiles": [
-    "03 Assets/Пример глобальной сети.png",
     "01 Notes/202510211536 Межсетевой уровень.md",
+    "01 Notes/202510211549 Межсетевое взаимодействие.md",
+    "03 Assets/Пример глобальной сети.png",
     "03 Assets/Пример локальной сети.png",
     "02 Structure notes/Computer Science.md",
     "03 Assets/Кадр Ethernet.png",
