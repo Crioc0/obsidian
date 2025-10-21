@@ -197,8 +197,7 @@
               "title": "202510171224 Перестановки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -359,7 +358,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "813bea9f731b360a",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
     "01 Notes/202509290926 Реляционные БД.md",
     "02 Structure notes/Computer Science.md",
