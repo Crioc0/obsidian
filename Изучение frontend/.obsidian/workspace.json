@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "d91ca4839aa6b5f0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251021151702.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251021151702"
-            }
-          },
-          {
             "id": "c274ae37295cb105",
             "type": "leaf",
             "state": {
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,10 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d91ca4839aa6b5f0",
+  "active": "e8712edf981c310a",
   "lastOpenFiles": [
+    "Кадр Ethernet.png",
     "01 Notes/202510211501 Кадры.md",
-    "Pasted image 20251021151702.png",
     "01 Notes/202510211357 Общие связи.md",
     "01 Notes/202510211403 MAC-адрес.md",
     "01 Notes/202510211359 Коллизии.md",
