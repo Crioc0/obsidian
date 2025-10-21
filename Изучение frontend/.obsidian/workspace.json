@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "31a9642ceecc18b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251021122041.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021122041"
+            }
+          },
+          {
             "id": "813bea9f731b360a",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -374,10 +386,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e7613aa6d625239",
+  "active": "31a9642ceecc18b8",
   "lastOpenFiles": [
-    "01 Notes/202510211202 Иерархия памяти.md",
     "01 Notes/202510211218 Разрыв между памятью и процессором.md",
+    "Pasted image 20251021122041.png",
+    "01 Notes/202510211202 Иерархия памяти.md",
     "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510201605 Компьютеры.md",
     "01 Notes/202510211143 Компиляторы.md",
@@ -407,11 +420,9 @@
     "01 Notes/202510071030 Использование транзакций в Nest.js.md",
     "01 Notes/202510201550 Форматы сериализации.md",
     "02 Structure notes/Database.md",
-    "02 Structure notes/SQL.md",
     "03 Assets/Фрагментация данных.png",
     "03 Assets/Распределенная база данных с многочисленными ведущими машинами.png",
     "03 Assets/распределенная бд с одним комьютером.png",
-    "03 Assets/Графовая база данных.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
