@@ -55,7 +55,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Коллизии.png"
+                "file": "03 Assets/Коллизии.png"
               },
               "icon": "lucide-image",
               "title": "Коллизии"
@@ -237,15 +237,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8712edf981c310a",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "01 Notes/202510211501 Кадры.md",
     "01 Notes/202510211519 Последняя часть кадра, FCS.md",
-    "Кадр Ethernet.png",
+    "03 Assets/Кадр Ethernet.png",
     "01 Notes/202510211357 Общие связи.md",
     "01 Notes/202510211403 MAC-адрес.md",
     "01 Notes/202510211359 Коллизии.md",
-    "Коллизии.png",
+    "03 Assets/Коллизии.png",
     "03 Assets/Организация совместного доступа к сети.png",
     "03 Assets/Подключение.png",
     "02 Structure notes/Computer Science.md",
