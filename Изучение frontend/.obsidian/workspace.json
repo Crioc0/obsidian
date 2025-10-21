@@ -263,10 +263,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e5d34472375b9b",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "03 Assets/Пример локальной сети.png",
+    "03 Assets/Пример глобальной сети.png",
     "01 Notes/202510211536 Межсетевой уровень.md",
+    "03 Assets/Пример локальной сети.png",
     "02 Structure notes/Computer Science.md",
     "03 Assets/Кадр Ethernet.png",
     "01 Notes/202510211545 Локальные сети.md",
@@ -299,7 +300,6 @@
     "01 Notes/202510211304 Инструкции.md",
     "03 Assets/Диаграмма иерархии памяти.png",
     "03 Assets/Микрофотография процессора.png",
-    "03 Assets/Разрыв в быстродействии между памятью и процессором.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
