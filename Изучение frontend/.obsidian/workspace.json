@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "d5bdbf57fd343204",
+            "id": "6b99d3feacd50390",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251021164800.png"
+                "file": "Цепочка распределения IP-адресов.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251021164800"
+              "title": "Цепочка распределения IP-адресов"
             }
           },
           {
@@ -296,10 +296,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5bdbf57fd343204",
+  "active": "6b99d3feacd50390",
   "lastOpenFiles": [
     "01 Notes/202510211647 IANA.md",
-    "Pasted image 20251021164800.png",
+    "Цепочка распределения IP-адресов.png",
+    "IANA.png",
     "01 Notes/202510211624 IP-адресация.md",
     "Идентификаторы сети и интерфейса.png",
     "Подсеть.png",
@@ -316,7 +317,6 @@
     "01 Notes/202510211549 Межсетевое взаимодействие.md",
     "03 Assets/Пример глобальной сети.png",
     "03 Assets/Пример локальной сети.png",
-    "03 Assets/Кадр Ethernet.png",
     "01 Notes/202510211545 Локальные сети.md",
     "01 Notes/202510211351 Канальный уровень.md",
     "01 Notes/202510211357 Общие связи.md",
