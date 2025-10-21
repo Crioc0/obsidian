@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "8266b3ade8893d50",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251021161134.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021161134"
+            }
+          },
+          {
             "id": "e8712edf981c310a",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,10 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "8266b3ade8893d50",
   "lastOpenFiles": [
-    "01 Notes/202510211536 Межсетевой уровень.md",
     "01 Notes/202510211609 Интернет-протокол.md",
+    "Pasted image 20251021161134.png",
+    "01 Notes/202510211536 Межсетевой уровень.md",
     "01 Notes/202510211606 Адресация местоположения.md",
     "03 Assets/Адресация местоположения.png",
     "01 Notes/202510211603 Маршрутизация.md",
@@ -297,11 +310,9 @@
     "03 Assets/Балансировка деревьев.png",
     "01 Notes/202510201517 Индексация.md",
     "01 Notes/202510201526 Транзакции.md",
-    "03 Assets/Пример работы оператора.png",
     "01 Notes/202510211317 Переменные.md",
     "01 Notes/202510211323 Область видимости переменных.md",
     "01 Notes/202510211321 Типизация переменных.md",
-    "01 Notes/202510211257 Лингвистика в программировании.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
