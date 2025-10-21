@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "a1a75a286b5ef8f2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251021130234.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021130234"
+            }
+          },
+          {
             "id": "2bb9099082b51d94",
             "type": "leaf",
             "state": {
@@ -236,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -398,10 +410,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e5d34472375b9b",
+  "active": "a1a75a286b5ef8f2",
   "lastOpenFiles": [
-    "01 Notes/202510211257 Лингвистика.md",
     "01 Notes/202510211259 Выражения.md",
+    "Pasted image 20251021130234.png",
+    "01 Notes/202510211257 Лингвистика.md",
     "01 Notes/202510211258 Значения.md",
     "01 Notes/202510211254 Программирование.md",
     "02 Structure notes/Computer Science.md",
@@ -428,14 +441,12 @@
     "01 Notes/202510201629 Процессор.md",
     "01 Notes/202510201648 Архитектура ЦП.md",
     "01 Notes/202510211140 Прямой порядок байтов против обратного.md",
-    "01 Notes/202510201653 32-разрядная архитектура против 64-разрядной.md",
     "03 Assets/Запись числа 33 в ячейку с адресом 212.png",
     "03 Assets/Часть технического описания Intel.png",
     "03 Assets/ЦП подключен проводами к ОЗУ.png",
     "03 Assets/Чтение числа 32 из ячейки с адресом 211.png",
     "03 Assets/Память может работать только вы режиме записи или чтения.png",
     "03 Assets/Сообщение от ОЗУ выполнить операацию.png",
-    "03 Assets/Фрагментация данных.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
