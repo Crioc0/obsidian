@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Без названия.md",
+                "file": "01 Notes/202510211143 Компиляторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "202510211143 Компиляторы"
             }
           },
           {
@@ -360,8 +360,8 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "01 Notes/202510211143 Компиляторы.md",
     "00 Inbox/Без названия.md",
+    "01 Notes/202510211143 Компиляторы.md",
     "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510211142 Эмуляторы.md",
     "01 Notes/202510201629 Процессор.md",
