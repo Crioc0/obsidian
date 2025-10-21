@@ -244,7 +244,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ие",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,7 +265,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -373,7 +374,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "6e7613aa6d625239",
   "lastOpenFiles": [
     "01 Notes/202510201607 Архитектура компьютера.md",
     "01 Notes/202510211202 Иерархия памяти.md",
