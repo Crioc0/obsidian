@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "e5cbf015270208ca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251021160746.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251021160746"
-            }
-          },
-          {
             "id": "e8712edf981c310a",
             "type": "leaf",
             "state": {
@@ -114,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +263,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5cbf015270208ca",
+  "active": "f7e5d34472375b9b",
   "lastOpenFiles": [
+    "Адресация местоположения.png",
     "01 Notes/202510211606 Адресация местоположения.md",
-    "Pasted image 20251021160746.png",
     "01 Notes/202510211536 Межсетевой уровень.md",
     "01 Notes/202510211603 Маршрутизация.md",
     "03 Assets/Система маршрутизации.png",
