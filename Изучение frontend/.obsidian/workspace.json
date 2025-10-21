@@ -55,7 +55,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Подключение.png"
+                "file": "03 Assets/Подключение.png"
               },
               "icon": "lucide-image",
               "title": "Подключение"
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ed8a439bf6cf13",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
+    "03 Assets/Подключение.png",
     "01 Notes/202510211351 Канальный уровень.md",
-    "Подключение.png",
     "01 Notes/202510211341 Связи.md",
     "02 Structure notes/Computer Science.md",
     "01 Notes/202510211325 Парадигмы программирования.md",
