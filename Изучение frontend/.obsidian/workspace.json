@@ -133,8 +133,7 @@
               "title": "202510211334 Логическое программирование"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,10 +295,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b99d3feacd50390",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "01 Notes/202510211647 IANA.md",
     "Цепочка распределения IP-адресов.png",
+    "01 Notes/202510211647 IANA.md",
     "IANA.png",
     "01 Notes/202510211624 IP-адресация.md",
     "Идентификаторы сети и интерфейса.png",
