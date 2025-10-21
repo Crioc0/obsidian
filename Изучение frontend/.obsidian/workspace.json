@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510211501 Кадры.md",
+                "file": "01 Notes/202510211519 Последняя часть кадра, FCS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510211501 Кадры"
+              "title": "202510211519 Последняя часть кадра, FCS"
             }
           },
           {
@@ -239,8 +239,9 @@
   },
   "active": "e8712edf981c310a",
   "lastOpenFiles": [
-    "Кадр Ethernet.png",
     "01 Notes/202510211501 Кадры.md",
+    "01 Notes/202510211519 Последняя часть кадра, FCS.md",
+    "Кадр Ethernet.png",
     "01 Notes/202510211357 Общие связи.md",
     "01 Notes/202510211403 MAC-адрес.md",
     "01 Notes/202510211359 Коллизии.md",
