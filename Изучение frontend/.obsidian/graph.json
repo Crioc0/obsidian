@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#алгоритмы  ",
+  "search": "tag:#structure-notes  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 0.614583333333333,
   "linkDistance": 343,
-  "scale": 0.04231590268975942,
+  "scale": 0.3213363860503609,
   "close": false
 }
