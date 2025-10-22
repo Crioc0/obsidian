@@ -11,7 +11,7 @@ aliases:
 
 *Ссылка на StructureNote:* [[02 Structure notes/MongoDB|MongoDB]]
 
-*Ссылка на исходник или контекст (если есть):* https://www.mongodb.com/docs/manual/core/document/#the-_id-field
+*Ссылка на исходник или контекст (если есть):* [[202509240819 Какие типы данных есть в MongoDB]]
 
 В MongoDB есть уникальный идентификатор, который создается автоматически. Также его можно задать самостоятельно. ObjectId состоит из трех значений : текущей временной метки (timestamp), случайного числа и счётчика.
 
@@ -32,7 +32,8 @@ db.collection.find({ _id: new ObjectId(_id) });
 
 ### Связанные идеи:
 
-* [[202509240819 Какие типы данных есть в MongoDB]]
+* https://www.mongodb.com/docs/manual/core/document/#the-_id-field
+
 ---
 
 *Что стоит развить? Какие вопросы возникли?*
