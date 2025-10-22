@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510221602 Время.md",
+                "file": "02 Structure notes/Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510221602 Время"
+              "title": "Network"
             }
           },
           {
@@ -283,6 +283,7 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
+    "02 Structure notes/Computer Science.md",
     "01 Notes/202510221459 Обмен данными.md",
     "01 Notes/202510221602 Время.md",
     "01 Notes/202510221502 Имена.md",
@@ -311,7 +312,6 @@
     "01 Notes/202510221505 Домены.md",
     "01 Notes/202510221306 TCP-сокеты.md",
     "01 Notes/202510221253 TCP-соединение.md",
-    "01 Notes/202510221252 Контрольная сумма TCP.md",
     "Pasted image 20251022130346.png",
     "03 Assets/UDP-пакет.png",
     "03 Assets/Передача с помощью протокола IP.png",
