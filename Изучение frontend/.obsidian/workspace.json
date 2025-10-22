@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510221202 Сегменты TCP.md",
+                "file": "01 Notes/202510221204 Номер порта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510221202 Сегменты TCP"
+              "title": "202510221204 Номер порта"
             }
           },
           {
@@ -97,8 +97,7 @@
               "title": "Граф"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +259,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e763c83b1b8123a",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "01 Notes/202510211351 Канальный уровень.md",
     "01 Notes/202510221202 Сегменты TCP.md",
+    "01 Notes/202510221204 Номер порта.md",
+    "01 Notes/202510211341 Связи.md",
+    "01 Notes/202510211351 Канальный уровень.md",
     "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
     "Сегменты TCP.png",
     "01 Notes/202510221153 Ограничения UDP.md",
@@ -274,7 +275,6 @@
     "01 Notes/202510221129 Транспортный уровень.md",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
-    "01 Notes/202510211341 Связи.md",
     "02 Structure notes/Network.md",
     "01 Notes/202510071530 Реактивность в Vue.md",
     "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
@@ -289,7 +289,6 @@
     "01 Notes/202510061117 Описание модели данных TypeORM.md",
     "01 Notes/202510081310 Наблюдатели Vue.md",
     "02 Structure notes/Computer Science.md",
-    "01 Notes/202510171220 Комбинаторика.md",
     "03 Assets/Передача с помощью протокола IP.png",
     "03 Assets/Подсеть.png",
     "03 Assets/Таблица маршрутизации для маршрутизатора.png",
