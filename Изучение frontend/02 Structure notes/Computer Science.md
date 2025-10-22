@@ -4,7 +4,7 @@ tags:
 ---
 ### Связи с другими Structure Notes
 
-[[SQL]] [[Database]]
+[[SQL]] [[Database]] [[Network]]
 
 ## Последние заметки за неделю
 
