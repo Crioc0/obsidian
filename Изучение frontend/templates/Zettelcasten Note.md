@@ -2,8 +2,8 @@
 created: <% tp.file.creation_date() %>
 tags:
   - 
-level:
-  -
+aliases:
+  - 
 ---
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):*

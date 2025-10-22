@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510221459 Обмен данными.md",
+                "file": "templates/Zettelcasten Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510221459 Обмен данными"
+              "title": "Zettelcasten Note"
             }
           },
           {
@@ -111,7 +111,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -272,7 +273,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "0533731f35baf7d8",
   "lastOpenFiles": [
     "01 Notes/202510221459 Обмен данными.md",
     "02 Structure notes/Network.md",
