@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "305152afdff3460b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251022114129.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251022114129"
+            }
+          },
+          {
             "id": "3a8d68339eb59421",
             "type": "leaf",
             "state": {
@@ -71,7 +83,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +245,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "305152afdff3460b",
   "lastOpenFiles": [
-    "01 Notes/202510221129 Транспортный уровень.md",
     "01 Notes/202510221136 Протокол пользовательских дейтаграмм.md",
+    "Pasted image 20251022114129.png",
+    "01 Notes/202510221129 Транспортный уровень.md",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202510211341 Связи.md",
@@ -259,7 +273,6 @@
     "01 Notes/202510201505 Алгоритмы.md",
     "01 Notes/202510171444 Вычислительная сложность.md",
     "01 Notes/202510171019 Логика.md",
-    "01 Notes/202510201049 Данные.md",
     "03 Assets/Передача с помощью протокола IP.png",
     "03 Assets/Подсеть.png",
     "03 Assets/Таблица маршрутизации для маршрутизатора.png",
@@ -269,7 +282,6 @@
     "03 Assets/IANA.png",
     "03 Assets/Идентификаторы сети и интерфейса.png",
     "03 Assets/Префикс маршрутизации.png",
-    "03 Assets/Адресация местоположения.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
