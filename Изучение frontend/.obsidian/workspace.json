@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Network.md",
+                "file": "01 Notes/202510221602 Время.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "202510221602 Время"
             }
           },
           {
@@ -283,9 +283,10 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "02 Structure notes/Computer Science.md",
     "01 Notes/202510221459 Обмен данными.md",
     "01 Notes/202510221602 Время.md",
+    "02 Structure notes/Network.md",
+    "02 Structure notes/Computer Science.md",
     "01 Notes/202510221502 Имена.md",
     "01 Notes/202510221559 Регистрация домена.md",
     "01 Notes/202510221510 Серверы имен.md",
@@ -294,7 +295,6 @@
     "01 Notes/202510221535 Типы записей в сервере имен.md",
     "01 Notes/202510221516 Запрос к серверу имен.md",
     "01 Notes/202510221529 Рекурсивный запрос.md",
-    "02 Structure notes/Network.md",
     "01 Notes/202510211341 Связи.md",
     "01 Notes/202510221129 Транспортный уровень.md",
     "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
