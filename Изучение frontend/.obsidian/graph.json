@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#substucture",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
   "collapse-display": false,
@@ -26,5 +33,5 @@
   "linkStrength": 0.614583333333333,
   "linkDistance": 343,
   "scale": 0.11660891579457366,
-  "close": true
+  "close": false
 }

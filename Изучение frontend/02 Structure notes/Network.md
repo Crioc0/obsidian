@@ -6,7 +6,15 @@ tags:
 
 [[Computer Science]]
 
-## Под
+## Подразделы
+
+```dataview
+LIST
+FROM #network AND #substructure  
+WHERE file.ctime >= date(now) - dur(7 days)
+SORT file.ctime DESC
+```
+
 ## Последние заметки за неделю
 
 ```dataview
