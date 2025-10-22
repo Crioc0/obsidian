@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510221516 Запрос к серверу имен.md",
+                "file": "01 Notes/202510221510 Серверы имен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510221516 Запрос к серверу имен"
+              "title": "202510221510 Серверы имен"
             }
           },
           {
@@ -271,8 +271,9 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "01 Notes/202510221510 Серверы имен.md",
     "01 Notes/202510221502 Имена.md",
+    "01 Notes/202510221510 Серверы имен.md",
+    "01 Notes/202510221516 Запрос к серверу имен.md",
     "01 Notes/202510221459 Обмен данными.md",
     "02 Structure notes/Network.md",
     "01 Notes/202510211341 Связи.md",
@@ -284,7 +285,6 @@
     "01 Notes/202509291038 Создание таблиц CREATE.md",
     "01 Notes/202509290956 Оператор SELECT.md",
     "01 Notes/202509301639 CRSF-атака.md",
-    "01 Notes/202510221516 Запрос к серверу имен.md",
     "02 Structure notes/Vue.md",
     "templates/Zettelcasten Note.md",
     "Пример tcp-соединения.png",
