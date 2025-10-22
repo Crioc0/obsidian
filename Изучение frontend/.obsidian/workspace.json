@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "305152afdff3460b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "03 Assets/UDP-пакет.png"
-              },
-              "icon": "lucide-image",
-              "title": "UDP-пакет"
-            }
-          },
-          {
             "id": "3a8d68339eb59421",
             "type": "leaf",
             "state": {
@@ -83,8 +71,7 @@
               "title": "Граф"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,10 +232,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "01 Notes/202510221136 Протокол пользовательских дейтаграмм.md",
     "03 Assets/UDP-пакет.png",
+    "01 Notes/202510221136 Протокол пользовательских дейтаграмм.md",
     "01 Notes/202510221129 Транспортный уровень.md",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
