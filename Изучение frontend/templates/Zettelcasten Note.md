@@ -11,6 +11,8 @@ aliases:
 
 # <% tp.date.now("YYYYMMDDHHmm") %> <% tp.file.title %>
 
+
+
 # Связанные идеи
 
 - 
