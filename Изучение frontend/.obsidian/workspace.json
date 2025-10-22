@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251022114129.png"
+                "file": "03 Assets/UDP-пакет.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251022114129"
+              "title": "UDP-пакет"
             }
           },
           {
@@ -245,10 +245,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "305152afdff3460b",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "01 Notes/202510221136 Протокол пользовательских дейтаграмм.md",
-    "Pasted image 20251022114129.png",
+    "03 Assets/UDP-пакет.png",
     "01 Notes/202510221129 Транспортный уровень.md",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
