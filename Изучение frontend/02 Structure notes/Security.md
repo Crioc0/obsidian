@@ -4,7 +4,7 @@ tags:
 ---
 ### Связи с другими Structure Notes
 
-[[]]
+[[Computer Science]]
 
 ## Последние заметки за неделю
 
