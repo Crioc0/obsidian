@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Zettelcasten Note.md",
+                "file": "01 Notes/202510221306 TCP-сокеты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zettelcasten Note"
+              "title": "202510221306 TCP-сокеты"
             }
           },
           {
@@ -256,9 +256,9 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
+    "templates/Zettelcasten Note.md",
     "Пример tcp-соединения.png",
     "01 Notes/202510221306 TCP-сокеты.md",
-    "templates/Zettelcasten Note.md",
     "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
     "01 Notes/202510221253 TCP-соединение.md",
     "templates/Шаблон Structure Notes.md",
