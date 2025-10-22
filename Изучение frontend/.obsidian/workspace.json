@@ -11,10 +11,14 @@
             "id": "aa86aa4ad81ba14a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510211254 Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510211254 Программирование"
             }
           },
           {
@@ -99,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " Medium Access Control",
+                "query": "tag:#substructure",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +124,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +181,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "mongoo"
+                "searchQuery": "substructure"
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -208,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,9 +235,9 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
+    "02 Structure notes/Computer Science.md",
     "02 Structure notes/Network.md",
     "01 Notes/202510211341 Связи.md",
-    "02 Structure notes/Computer Science.md",
     "01 Notes/202510221057 Информационные сообщения.md",
     "03 Assets/Передача с помощью протокола IP.png",
     "01 Notes/202510211334 Логическое программирование.md",
