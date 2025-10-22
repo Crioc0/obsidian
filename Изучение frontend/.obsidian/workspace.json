@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251022084150.png"
+                "file": "Выделение IP-адресов.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251022084150"
+              "title": "Выделение IP-адресов"
             }
           },
           {
@@ -145,8 +145,7 @@
               "title": "202510211334 Логическое программирование"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,10 +307,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8c5aa9221a7d315",
+  "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
+    "Выделение IP-адресов.png",
     "01 Notes/202510220834 Провайдеры интернет-услуг.md",
-    "Pasted image 20251022084150.png",
     "01 Notes/202510211624 IP-адресация.md",
     "01 Notes/202510211647 IANA.md",
     "Цепочка распределения IP-адресов.png",
