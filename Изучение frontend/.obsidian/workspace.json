@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,10 +298,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e0596aaf211f16f",
+  "active": "dd142834dd365ea3",
   "lastOpenFiles": [
-    "01 Notes/202510221608 Протокол сетевого времени.md",
     "Обмен времени.png",
+    "01 Notes/202510221608 Протокол сетевого времени.md",
     "01 Notes/202510221602 Время.md",
     "01 Notes/202510221606 Координированное универсальное время.md",
     "01 Notes/202510011202 Блокировка npm-зависимостей.md",
