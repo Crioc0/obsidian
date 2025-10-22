@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -259,7 +259,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "8931235a5ec4568e",
   "lastOpenFiles": [
     "01 Notes/202510221202 Сегменты TCP.md",
     "01 Notes/202510221204 Номер порта.md",
