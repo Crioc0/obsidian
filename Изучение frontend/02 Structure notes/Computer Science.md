@@ -6,6 +6,14 @@ tags:
 
 [[SQL]] [[Database]] [[Network]]
 
+## Подразделы
+
+```dataview
+LIST
+FROM #computerScience  AND #substructure  
+SORT file.ctime DESC
+```
+
 ## Последние заметки за неделю
 
 ```dataview

@@ -11,7 +11,6 @@ tags:
 ```dataview
 LIST
 FROM #network AND #substructure  
-WHERE file.ctime >= date(now) - dur(7 days)
 SORT file.ctime DESC
 ```
 
