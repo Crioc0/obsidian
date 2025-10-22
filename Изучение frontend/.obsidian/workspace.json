@@ -84,8 +84,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "01 Notes/202510221002 Диагностика.md",
     "01 Notes/202510221057 Информационные сообщения.md",
