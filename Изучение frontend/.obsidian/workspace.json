@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "dd142834dd365ea3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
             "id": "f65a55b50077c679",
             "type": "leaf",
             "state": {
@@ -45,16 +55,6 @@
               },
               "icon": "lucide-file",
               "title": "202510011202 Блокировка npm-зависимостей"
-            }
-          },
-          {
-            "id": "0533731f35baf7d8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,10 +282,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "dd142834dd365ea3",
   "lastOpenFiles": [
-    "01 Notes/202510221602 Время.md",
     "01 Notes/202510221606 Координированное универсальное время.md",
+    "01 Notes/202510011202 Блокировка npm-зависимостей.md",
+    "01 Notes/202510221602 Время.md",
     "01 Notes/202510221459 Обмен данными.md",
     "02 Structure notes/Network.md",
     "02 Structure notes/Computer Science.md",
@@ -299,7 +301,6 @@
     "01 Notes/202510211341 Связи.md",
     "01 Notes/202510221129 Транспортный уровень.md",
     "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
-    "01 Notes/202510011202 Блокировка npm-зависимостей.md",
     "01 Notes/202510061305 Создание большого количества записей.md",
     "01 Notes/202509291449 Группировка данных GROUP BY.md",
     "01 Notes/202509291038 Создание таблиц CREATE.md",
