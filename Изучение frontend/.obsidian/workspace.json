@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "57b09cf7844337b2",
+            "id": "9e763c83b1b8123a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,10 +260,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c6dbd8096326ad8",
+  "active": "9e763c83b1b8123a",
   "lastOpenFiles": [
-    "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
+    "01 Notes/202510211351 Канальный уровень.md",
     "01 Notes/202510221202 Сегменты TCP.md",
+    "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
     "Сегменты TCP.png",
     "01 Notes/202510221153 Ограничения UDP.md",
     "01 Notes/202510221136 Протокол пользовательских дейтаграмм(UDP).md",
