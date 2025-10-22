@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "1e0596aaf211f16f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Обмен времени.png"
+              },
+              "icon": "lucide-image",
+              "title": "Обмен времени"
+            }
+          },
+          {
             "id": "f65a55b50077c679",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,10 +298,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd142834dd365ea3",
+  "active": "1e0596aaf211f16f",
   "lastOpenFiles": [
-    "01 Notes/202510221602 Время.md",
     "01 Notes/202510221608 Протокол сетевого времени.md",
+    "Обмен времени.png",
+    "01 Notes/202510221602 Время.md",
     "01 Notes/202510221606 Координированное универсальное время.md",
     "01 Notes/202510011202 Блокировка npm-зависимостей.md",
     "01 Notes/202510221459 Обмен данными.md",
@@ -316,14 +329,12 @@
     "Пример tcp-соединения.png",
     "templates/Шаблон Structure Notes.md",
     "Сегменты TCP.png",
-    "01 Notes/202510221505 Домены.md",
     "Pasted image 20251022130346.png",
     "03 Assets/UDP-пакет.png",
     "03 Assets/Передача с помощью протокола IP.png",
     "03 Assets/Подсеть.png",
     "03 Assets/Таблица маршрутизации для маршрутизатора.png",
     "03 Assets/Таблица маршрутизации.png",
-    "03 Assets/Выделение IP-адресов.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
