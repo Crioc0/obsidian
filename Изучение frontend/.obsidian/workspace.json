@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "b8c5aa9221a7d315",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251022084150.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251022084150"
+            }
+          },
+          {
             "id": "6b99d3feacd50390",
             "type": "leaf",
             "state": {
@@ -133,7 +145,8 @@
               "title": "202510211334 Логическое программирование"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,10 +308,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "b8c5aa9221a7d315",
   "lastOpenFiles": [
-    "01 Notes/202510211624 IP-адресация.md",
     "01 Notes/202510220834 Провайдеры интернет-услуг.md",
+    "Pasted image 20251022084150.png",
+    "01 Notes/202510211624 IP-адресация.md",
     "01 Notes/202510211647 IANA.md",
     "Цепочка распределения IP-адресов.png",
     "IANA.png",
@@ -316,7 +330,6 @@
     "03 Assets/Система маршрутизации.png",
     "01 Notes/202510211549 Межсетевое взаимодействие.md",
     "03 Assets/Пример глобальной сети.png",
-    "03 Assets/Пример локальной сети.png",
     "01 Notes/202510211545 Локальные сети.md",
     "01 Notes/202510211351 Канальный уровень.md",
     "01 Notes/202510211357 Общие связи.md",
@@ -332,7 +345,6 @@
     "01 Notes/202510171019 Логика.md",
     "01 Notes/202510201517 Индексация.md",
     "01 Notes/202510201526 Транзакции.md",
-    "01 Notes/202510211317 Переменные.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
