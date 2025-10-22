@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "202510220846 IP-маршрутизация"
             }
+          },
+          {
+            "id": "57b09cf7844337b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "57b09cf7844337b2",
   "lastOpenFiles": [
-    "01 Notes/202510220959 Петля маршрутизации.md",
     "01 Notes/202510220846 IP-маршрутизация.md",
+    "01 Notes/202510220959 Петля маршрутизации.md",
     "01 Notes/202510220935 Динамическая маршрутизация.md",
     "01 Notes/202510220934 Интернет-магистраль.md",
     "01 Notes/202510220912 Точки обмена интернет-трафика.md",
