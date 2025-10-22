@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510221136 Протокол пользовательских дейтаграмм(UDP).md",
+                "file": "01 Notes/202510221151 Контрольная сумма UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510221136 Протокол пользовательских дейтаграмм(UDP)"
+              "title": "202510221151 Контрольная сумма UDP"
             }
           },
           {
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#substructure",
+                "query": "FCS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,10 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "9116d8caeded1486",
   "lastOpenFiles": [
-    "01 Notes/202510221147 Клиент и сервер.md",
     "01 Notes/202510221136 Протокол пользовательских дейтаграмм(UDP).md",
+    "01 Notes/202510221151 Контрольная сумма UDP.md",
+    "01 Notes/202510221147 Клиент и сервер.md",
     "03 Assets/UDP-пакет.png",
     "01 Notes/202510221129 Транспортный уровень.md",
     "templates/Шаблон Structure Notes.md",
@@ -260,7 +262,6 @@
     "01 Notes/202509290955 Язык запросов SQL.md",
     "01 Notes/202510201505 Алгоритмы.md",
     "01 Notes/202510171444 Вычислительная сложность.md",
-    "01 Notes/202510171019 Логика.md",
     "03 Assets/Передача с помощью протокола IP.png",
     "03 Assets/Подсеть.png",
     "03 Assets/Таблица маршрутизации для маршрутизатора.png",
