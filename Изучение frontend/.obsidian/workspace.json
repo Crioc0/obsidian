@@ -107,7 +107,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,16 +269,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa86aa4ad81ba14a",
+  "active": "3c6dbd8096326ad8",
   "lastOpenFiles": [
+    "Сегменты TCP.png",
     "01 Notes/202510221510 Серверы имен.md",
+    "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
     "01 Notes/202510221502 Имена.md",
     "01 Notes/202510221505 Домены.md",
     "templates/Шаблон Structure Notes.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202510221459 Обмен данными.md",
     "02 Structure notes/Network.md",
-    "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
     "01 Notes/202510221306 TCP-сокеты.md",
     "Пример tcp-соединения.png",
     "01 Notes/202510221253 TCP-соединение.md",
@@ -297,8 +299,6 @@
     "01 Notes/202509231654 Что такое MongoDB.md",
     "02 Structure notes/Computer Science.md",
     "02 Structure notes/Security.md",
-    "01 Notes/202510211341 Связи.md",
-    "Сегменты TCP.png",
     "03 Assets/UDP-пакет.png",
     "03 Assets/Передача с помощью протокола IP.png",
     "03 Assets/Подсеть.png",
