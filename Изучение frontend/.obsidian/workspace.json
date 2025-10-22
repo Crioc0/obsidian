@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510221129 Транспортный уровень.md",
+                "file": "templates/Zettelcasten Note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "202510221129 Транспортный уровень"
+              "title": "Zettelcasten Note"
             }
           },
           {
@@ -124,8 +124,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,8 +234,9 @@
   },
   "active": "aa86aa4ad81ba14a",
   "lastOpenFiles": [
-    "01 Notes/202510211341 Связи.md",
+    "templates/Шаблон Structure Notes.md",
     "01 Notes/202510221129 Транспортный уровень.md",
+    "01 Notes/202510211341 Связи.md",
     "02 Structure notes/Network.md",
     "01 Notes/202510071530 Реактивность в Vue.md",
     "01 Notes/202510022031 Основные компоненты сервиса в Nest.md",
@@ -260,7 +260,6 @@
     "01 Notes/202510201049 Данные.md",
     "01 Notes/202510200838 Стратегии.md",
     "01 Notes/202510161158 Как представить идею кода.md",
-    "01 Notes/202510171337 Вероятность.md",
     "03 Assets/Передача с помощью протокола IP.png",
     "03 Assets/Подсеть.png",
     "03 Assets/Таблица маршрутизации для маршрутизатора.png",
