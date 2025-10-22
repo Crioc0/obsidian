@@ -5,12 +5,12 @@ tags:
 level:
   -
 ---
-# <% tp.date.now("YYYYMMDDHHmm") %> <% tp.file.title %>
-
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):*
+-
+# <% tp.date.now("YYYYMMDDHHmm") %> <% tp.file.title %>
 
-- 
+
 
 # Связанные идеи
 
