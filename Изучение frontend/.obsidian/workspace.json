@@ -119,8 +119,7 @@
               "title": "Граф"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,7 +281,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3b9a5b7488609f7",
+  "active": "dd142834dd365ea3",
   "lastOpenFiles": [
     "01 Notes/202510230839 TELNET.md",
     "01 Notes/202510230817 Доступ.md",
