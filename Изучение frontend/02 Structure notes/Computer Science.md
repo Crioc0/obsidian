@@ -4,7 +4,7 @@ tags:
 ---
 ### Связи с другими Structure Notes
 
-[[SQL]] [[Database]] [[Network]] [[Security]]
+[[SQL]] [[Database]] [[Network]] [[Security]] 
 
 ## Подразделы
 
