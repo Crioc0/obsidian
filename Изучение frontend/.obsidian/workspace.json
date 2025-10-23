@@ -281,7 +281,8 @@
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "ObsidianAnkiSync:Start Obsidian Anki Sync": false
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
+      "repeat-plugin:Repeat due notes": false
     }
   },
   "active": "dd142834dd365ea3",
