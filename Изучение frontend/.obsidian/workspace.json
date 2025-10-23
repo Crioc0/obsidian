@@ -15,7 +15,7 @@
               "state": {
                 "file": "01 Notes/202510230839 TELNET.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "202510230839 TELNET"
@@ -292,7 +292,7 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "314a93366fbd9f04",
+  "active": "dd142834dd365ea3",
   "lastOpenFiles": [
     "01 Notes/202510230839 TELNET.md",
     "01 Notes/202510230817 Доступ.md",
