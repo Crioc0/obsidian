@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "1e0596aaf211f16f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Обмен времени.png"
-              },
-              "icon": "lucide-image",
-              "title": "Обмен времени"
-            }
-          },
-          {
             "id": "f65a55b50077c679",
             "type": "leaf",
             "state": {
@@ -285,13 +273,13 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
-    "01 Notes/202510221606 Координированное универсальное время.md",
-    "01 Notes/202510230818 Терминалы.md",
     "01 Notes/202510230817 Доступ.md",
+    "Обмен времени.png",
+    "01 Notes/202510230818 Терминалы.md",
+    "01 Notes/202510221606 Координированное универсальное время.md",
     "01 Notes/202510221459 Обмен данными.md",
     "01 Notes/202510221602 Время.md",
     "01 Notes/202510221608 Протокол сетевого времени.md",
-    "Обмен времени.png",
     "01 Notes/202510011202 Блокировка npm-зависимостей.md",
     "02 Structure notes/Network.md",
     "02 Structure notes/Computer Science.md",
@@ -312,7 +300,6 @@
     "01 Notes/202509290956 Оператор SELECT.md",
     "01 Notes/202509301639 CRSF-атака.md",
     "02 Structure notes/Vue.md",
-    "templates/Zettelcasten Note.md",
     "Пример tcp-соединения.png",
     "Сегменты TCP.png",
     "Pasted image 20251022130346.png",
