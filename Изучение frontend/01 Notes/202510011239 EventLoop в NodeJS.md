@@ -3,6 +3,8 @@ created: 2025-10-01 12:39
 tags:
   - nodejs
   - substructure
+repeat: spaced every day
+due_at: 2025-10-24T06:00:00.000+03:00
 ---
 # 202510011239 EventLoop в NodeJS
 
