@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509291004 Стиль запроса SQL.md",
+                "file": "01 Notes/202509291109 Вставка строки в таблицу INSERT INTO.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202509291004 Стиль запроса SQL"
+              "title": "202509291109 Вставка строки в таблицу INSERT INTO"
             }
           }
         ],
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509291004 Стиль запроса SQL.md",
+                "file": "01 Notes/202509291109 Вставка строки в таблицу INSERT INTO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509291004 Стиль запроса SQL"
+              "title": "Структура 202509291109 Вставка строки в таблицу INSERT INTO"
             }
           },
           {
@@ -312,6 +312,13 @@
   },
   "active": "84ca9bb573cb0fcf",
   "lastOpenFiles": [
+    "01 Notes/202509291107 DML SQL.md",
+    "01 Notes/202509291102 Удаление таблицы DROP.md",
+    "01 Notes/202509291046 Изменение структуры таблиц ALTER.md",
+    "01 Notes/202509291038 Создание таблиц CREATE.md",
+    "01 Notes/202509291031 DDL SQL.md",
+    "01 Notes/202509291019 Виды запросов в SQL.md",
+    "01 Notes/202509291004 Стиль запроса SQL.md",
     "01 Notes/202509290958 Общая схема SQL запроса.md",
     "01 Notes/202509290956 Оператор SELECT.md",
     "01 Notes/202509290955 Язык запросов SQL.md",
@@ -331,13 +338,6 @@
     "01 Notes/202509260834 Хеширование пароля.md",
     "01 Notes/202509260828 Модели mongoose.md",
     "01 Notes/202509260815 Схемы mongoose.md",
-    "01 Notes/202509251635 Как подключить Mongoose в express-приложение.md",
-    "01 Notes/202509251616 Отдача HTML и статичных файлов в Express.md",
-    "01 Notes/202509251544 Мидлвар для парсинга данных.md",
-    "01 Notes/202509251537 Мидлвары в express.md",
-    "01 Notes/202509251534 Получение параметров с помощью req.param.md",
-    "01 Notes/202509251531 Динамический роутинг express.md",
-    "01 Notes/202509251450 Объект запроса req в express.md",
     "Обмен времени.png",
     "Обратный dns-запрос.png",
     "Пример tcp-соединения.png",
