@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "202510231253 Веб-приложения"
             }
+          },
+          {
+            "id": "fe92467588052ab7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +195,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "dd142834dd365ea3",
+  "active": "fe92467588052ab7",
   "lastOpenFiles": [
-    "01 Notes/202510231204 Сеть.md",
     "01 Notes/202510231253 Веб-приложения.md",
+    "02 Structure notes/JavaScript.md",
+    "01 Notes/202510231204 Сеть.md",
     "01 Notes/202510221459 Обмен данными.md",
     "01 Notes/202510231251 Протокол передачи гипертекста(HTTP).md",
     "01 Notes/202510231246 URL-адрес.md",
@@ -212,7 +224,6 @@
     "01 Notes/202510080950 Кэширование на клиенте.md",
     "01 Notes/202510071245 Инвалидация кэша.md",
     "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
-    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
     "03 Assets/Обмен времени.png",
     "03 Assets/Обратный dns-запрос.png",
     "03 Assets/Пример tcp-соединения.png",
