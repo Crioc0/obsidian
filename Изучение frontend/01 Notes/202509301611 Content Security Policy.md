@@ -2,6 +2,8 @@
 created: 2025-09-30 16:11
 tags:
   - security
+repeat: spaced every day
+due_at: 2025-10-24T06:00:00.000+03:00
 ---
 # 202509301611 Content Security Policy
 
