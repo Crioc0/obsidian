@@ -176,7 +176,21 @@
             }
           },
           {
-            "id": "dfcd8f483b3f8a71",
+            "id": "ecc76ff2dbed1465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510201036 Динамическое программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510201036 Динамическое программирование"
+            }
+          },
+          {
+            "id": "f15a9217cfe695bc",
             "type": "leaf",
             "state": {
               "type": "repeating-notes-due-view",
@@ -186,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -349,8 +363,15 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "dfcd8f483b3f8a71",
+  "active": "f15a9217cfe695bc",
   "lastOpenFiles": [
+    "01 Notes/202510170845 Логические операторы.md",
+    "01 Notes/202510080950 Кэширование на клиенте.md",
+    "01 Notes/202510071245 Инвалидация кэша.md",
+    "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
+    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
+    "01 Notes/202510081407 Передача входных параметров.md",
     "01 Notes/202510081406 Компоненты Vue.md",
     "01 Notes/202510081321 Остановка обратного вызова.md",
     "01 Notes/202510081320 Время обратного вызова в наблюдателях.md",
@@ -369,14 +390,7 @@
     "01 Notes/202510081003 Заголовок If-None-Match.md",
     "01 Notes/202510080958 Валидация кэша.md",
     "01 Notes/202510080951 Заголовок Cache-Control и Expires.md",
-    "01 Notes/202510080950 Кэширование на клиенте.md",
     "01 Notes/202510071556 Тестирование в Vue.md",
-    "01 Notes/202510071555 Линтинг во Vue.md",
-    "01 Notes/202510071552 Управление состоянием в Vue.md",
-    "01 Notes/202510071550 Обработка событий в Vue.md",
-    "01 Notes/202510071549 Отрисовка списков в Vue.md",
-    "01 Notes/202510071548 Условный рендеринг в Vue.md",
-    "01 Notes/202510071544 Привязка inline-стилей в Vue.md",
     "Обмен времени.png",
     "Обратный dns-запрос.png",
     "Пример tcp-соединения.png",
