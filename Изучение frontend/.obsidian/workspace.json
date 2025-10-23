@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241122 Индексы в MongoDB.md",
+                "file": "01 Notes/202510081038 Кэширование статики.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202509241122 Индексы в MongoDB"
+              "title": "202510081038 Кэширование статики"
             }
           },
           {
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509241122 Индексы в MongoDB.md",
+                "file": "01 Notes/202510081038 Кэширование статики.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509241122 Индексы в MongoDB"
+              "title": "Структура 202510081038 Кэширование статики"
             }
           },
           {
@@ -279,11 +279,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": false
     }
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
+    "01 Notes/202509241122 Индексы в MongoDB.md",
     "01 Notes/202509241153 Как происходит поиск с массивами и поддокументами в MongoDB.md",
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
@@ -311,7 +314,6 @@
     "01 Notes/202510221516 Запрос к серверу имен.md",
     "01 Notes/202510221529 Рекурсивный запрос.md",
     "01 Notes/202510211341 Связи.md",
-    "01 Notes/202510221129 Транспортный уровень.md",
     "Пример tcp-соединения.png",
     "Сегменты TCP.png",
     "Pasted image 20251022130346.png",
