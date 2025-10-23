@@ -5,6 +5,10 @@ tags:
   - mongodb
   - nodejs
   - basic
+  - review
+sr-due: 2025-10-27
+sr-interval: 4
+sr-ease: 270
 ---
 # 202509240808 Как подключить MongoDB в NodeJS
 

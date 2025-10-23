@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510230839 TELNET.md",
+                "file": "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510230839 TELNET"
+              "title": "202509240819 Какие типы данных есть в MongoDB"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#basic",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +172,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510230839 TELNET.md",
+                "file": "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510230839 TELNET"
+              "title": "Структура 202509240819 Какие типы данных есть в MongoDB"
             }
           },
           {
@@ -294,6 +293,8 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202510230839 TELNET.md",
     "01 Notes/202510230817 Доступ.md",
     "01 Notes/202510230818 Терминалы.md",
@@ -320,8 +321,6 @@
     "01 Notes/202509291449 Группировка данных GROUP BY.md",
     "01 Notes/202509291038 Создание таблиц CREATE.md",
     "01 Notes/202509290956 Оператор SELECT.md",
-    "01 Notes/202509301639 CRSF-атака.md",
-    "02 Structure notes/Vue.md",
     "Пример tcp-соединения.png",
     "Сегменты TCP.png",
     "Pasted image 20251022130346.png",
