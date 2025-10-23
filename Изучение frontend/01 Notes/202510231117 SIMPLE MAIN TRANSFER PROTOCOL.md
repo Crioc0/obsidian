@@ -93,6 +93,8 @@ That brain of mine is something more than merely mortal; as time will show.
 QUIT
 ```
 
+Получив это, сервер должен попрощаться и закрыть TCP-соединение
+
 # Связанные идеи
 
 - 
