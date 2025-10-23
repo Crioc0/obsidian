@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510231242 Язык разметки гипертекста.md",
+                "file": "02 Structure notes/Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510231242 Язык разметки гипертекста"
-            }
-          },
-          {
-            "id": "f3b9a5b7488609f7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Network"
             }
           }
         ]
@@ -196,6 +186,8 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
+    "02 Structure notes/Computer Science.md",
+    "01 Notes/202510231246 URL-адрес.md",
     "01 Notes/202510231204 Сеть.md",
     "01 Notes/202510231242 Язык разметки гипертекста.md",
     "01 Notes/202510221459 Обмен данными.md",
@@ -221,8 +213,6 @@
     "01 Notes/202510081407 Передача входных параметров.md",
     "01 Notes/202510081406 Компоненты Vue.md",
     "01 Notes/202510081321 Остановка обратного вызова.md",
-    "01 Notes/202510081320 Время обратного вызова в наблюдателях.md",
-    "01 Notes/202510081318 Очистка от побочных эффектов в наблюдателях.md",
     "03 Assets/Обмен времени.png",
     "03 Assets/Обратный dns-запрос.png",
     "03 Assets/Пример tcp-соединения.png",
