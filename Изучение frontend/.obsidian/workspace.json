@@ -64,9 +64,19 @@
               "icon": "clock",
               "title": "Repeat"
             }
+          },
+          {
+            "id": "0b442d42e2c786fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 202510200844 Вложенные циклы и степенные множества"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -188,13 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510200844 Вложенные циклы и степенные множества"
+              "title": "Структура"
             }
           },
           {
@@ -230,10 +238,10 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "b158fb1336bcd47d",
+  "active": "0b442d42e2c786fa",
   "lastOpenFiles": [
-    "01 Notes/202510221502 Имена (DNS).md",
     "01 Notes/202510200844 Вложенные циклы и степенные множества.md",
+    "01 Notes/202510221502 Имена (DNS).md",
     "01 Notes/202510221057 Информационные сообщения.md",
     "01 Notes/202510081038 Кэширование статики.md",
     "01 Notes/202510081003 Заголовок If-None-Match.md",
