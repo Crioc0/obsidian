@@ -212,9 +212,19 @@
               "icon": "clock",
               "title": "Repeat"
             }
+          },
+          {
+            "id": "545180014b7a5ae8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -377,8 +387,9 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "65c55100e3ac06b2",
+  "active": "545180014b7a5ae8",
   "lastOpenFiles": [
+    "01 Notes/202510171652 Экспоненциальное время.md",
     "01 Notes/202510201036 Динамическое программирование.md",
     "01 Notes/202510170845 Логические операторы.md",
     "01 Notes/202510080950 Кэширование на клиенте.md",
@@ -404,7 +415,6 @@
     "01 Notes/202510081038 Кэширование статики.md",
     "01 Notes/202510081003 Заголовок If-None-Match.md",
     "01 Notes/202510080958 Валидация кэша.md",
-    "01 Notes/202510080951 Заголовок Cache-Control и Expires.md",
     "Обмен времени.png",
     "Обратный dns-запрос.png",
     "Пример tcp-соединения.png",
