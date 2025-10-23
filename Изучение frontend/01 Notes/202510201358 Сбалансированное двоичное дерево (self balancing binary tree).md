@@ -1,8 +1,9 @@
 ---
-repeat: spaced every day
+repeat: spaced every 24 hours
 created: 2025-10-20 13:58
 tags:
   - computerScience
+due_at: 2025-10-24T10:45:32.205+03:00
 ---
 # 202510201358 Сбалансированное двоичное дерево (self balancing binary tree)
 

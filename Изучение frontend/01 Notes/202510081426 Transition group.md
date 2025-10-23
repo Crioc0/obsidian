@@ -1,8 +1,9 @@
 ---
-repeat: spaced every day
+repeat: spaced every 24 hours
 created: 2025-10-08 14:26
 tags:
   - vue
+due_at: 2025-10-24T10:45:17.476+03:00
 ---
 # 202510081426 Transition group
 
