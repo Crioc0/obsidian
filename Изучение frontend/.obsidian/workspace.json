@@ -162,16 +162,6 @@
             }
           },
           {
-            "id": "dec0cc735016fa63",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Repeat"
-            }
-          },
-          {
             "id": "3c29541aac6527b0",
             "type": "leaf",
             "state": {
@@ -183,6 +173,16 @@
               },
               "icon": "lucide-file",
               "title": "202510081407 Передача входных параметров"
+            }
+          },
+          {
+            "id": "dfcd8f483b3f8a71",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
             }
           }
         ],
@@ -349,7 +349,7 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "3c29541aac6527b0",
+  "active": "dfcd8f483b3f8a71",
   "lastOpenFiles": [
     "01 Notes/202510081406 Компоненты Vue.md",
     "01 Notes/202510081321 Остановка обратного вызова.md",
