@@ -171,8 +171,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,7 +281,7 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "cda92534d9acf094",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
     "01 Notes/202510201532 Распределенная модель баз данных.md",
     "02 Structure notes/Database.md",
