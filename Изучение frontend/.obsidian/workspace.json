@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "d08a41140634a1b8",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
+          },
+          {
             "id": "f3b9a5b7488609f7",
             "type": "leaf",
             "state": {
