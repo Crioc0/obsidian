@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510231204 Сеть.md",
+                "file": "01 Notes/202510231253 Веб-приложения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510231204 Сеть"
+              "title": "202510231253 Веб-приложения"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
-    "01 Notes/202510221459 Обмен данными.md",
     "01 Notes/202510231204 Сеть.md",
+    "01 Notes/202510231253 Веб-приложения.md",
+    "01 Notes/202510221459 Обмен данными.md",
     "01 Notes/202510231251 Протокол передачи гипертекста(HTTP).md",
     "01 Notes/202510231246 URL-адрес.md",
     "02 Structure notes/Network.md",
@@ -212,7 +213,6 @@
     "01 Notes/202510071245 Инвалидация кэша.md",
     "01 Notes/202510011227 Создание простейшего сервера на NodeJS.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509231654 Что такое MongoDB.md",
     "03 Assets/Обмен времени.png",
     "03 Assets/Обратный dns-запрос.png",
     "03 Assets/Пример tcp-соединения.png",
