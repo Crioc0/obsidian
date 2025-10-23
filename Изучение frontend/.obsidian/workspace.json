@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510230839 TELNET.md",
-                "mode": "preview",
+                "file": "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510230839 TELNET"
+              "title": "202509241029 В каком формате записываются запросы в MongoDB"
             }
           },
           {
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510230839 TELNET.md",
+                "file": "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510230839 TELNET"
+              "title": "Структура 202509241029 В каком формате записываются запросы в MongoDB"
             }
           },
           {
@@ -258,19 +258,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "314a93366fbd9f04",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -291,13 +281,13 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "314a93366fbd9f04",
+  "active": "dd142834dd365ea3",
   "lastOpenFiles": [
-    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
-    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202510230839 TELNET.md",
     "01 Notes/202510230817 Доступ.md",
     "01 Notes/202510230818 Терминалы.md",
