@@ -278,7 +278,8 @@
       "random-note:Открыть случайную заметку": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Изучать карточки": false
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "dd142834dd365ea3",
