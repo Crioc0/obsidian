@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#unknown-tag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,11 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из 202510231503 Шифротекст и ключ шифрования"
             }
           },
           {
@@ -239,12 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 202510231503 Шифротекст и ключ шифрования"
             }
           },
           {
@@ -280,7 +282,7 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "c5e1b935fabcedf4",
+  "active": "cda92534d9acf094",
   "lastOpenFiles": [
     "01 Notes/202510201532 Распределенная модель баз данных.md",
     "02 Structure notes/Database.md",
