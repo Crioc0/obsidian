@@ -84,8 +84,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,6 +196,8 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
+    "templates/Zettelcasten Note.md",
+    "01 Notes/202510230839 TELNET.md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
     "01 Notes/202510171652 Экспоненциальное время.md",
     "01 Notes/202510201036 Динамическое программирование.md",
@@ -221,8 +222,6 @@
     "01 Notes/202510081234 Stateful сессии NestJs.md",
     "01 Notes/202510081233 Stateless и statefull.md",
     "01 Notes/202510081040 Управление кэшэм на стороне клиента в Nest.js.md",
-    "01 Notes/202510081038 Кэширование статики.md",
-    "01 Notes/202510081003 Заголовок If-None-Match.md",
     "Обмен времени.png",
     "Обратный dns-запрос.png",
     "Пример tcp-соединения.png",
