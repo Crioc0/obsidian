@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+                "file": "01 Notes/202509251114 TTL индексы в MongoDB.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202509240808 Как подключить MongoDB в NodeJS"
+              "title": "202509251114 TTL индексы в MongoDB"
             }
           },
           {
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+                "file": "01 Notes/202509251114 TTL индексы в MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509240808 Как подключить MongoDB в NodeJS"
+              "title": "Структура 202509251114 TTL индексы в MongoDB"
             }
           },
           {
@@ -297,15 +297,21 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
-    "01 Notes/202509231654 Что такое MongoDB.md",
-    "01 Notes/202510081038 Кэширование статики.md",
-    "01 Notes/202509241122 Индексы в MongoDB.md",
+    "01 Notes/202509251034 Уникальные индексы (unique).md",
+    "01 Notes/202509241603 Мультиключевой индекс.md",
+    "01 Notes/202509241554 Индекс по нескольким полям.md",
+    "01 Notes/202509241548 Индекс по одному полю (single field index).md",
+    "01 Notes/202509241500 Что такое курсор в MongoDB.md",
+    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "01 Notes/202509241153 Как происходит поиск с массивами и поддокументами в MongoDB.md",
+    "01 Notes/202509241122 Индексы в MongoDB.md",
     "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
     "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
     "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
+    "01 Notes/202510081038 Кэширование статики.md",
     "01 Notes/202510230839 TELNET.md",
     "01 Notes/202510230817 Доступ.md",
     "01 Notes/202510230818 Терминалы.md",
@@ -318,13 +324,7 @@
     "02 Structure notes/Network.md",
     "02 Structure notes/Computer Science.md",
     "01 Notes/202510221502 Имена.md",
-    "01 Notes/202510221559 Регистрация домена.md",
-    "01 Notes/202510221510 Серверы имен.md",
-    "01 Notes/202510221545 Обратный DNS-запрос.md",
     "Обратный dns-запрос.png",
-    "01 Notes/202510221535 Типы записей в сервере имен.md",
-    "01 Notes/202510221516 Запрос к серверу имен.md",
-    "01 Notes/202510221529 Рекурсивный запрос.md",
     "Пример tcp-соединения.png",
     "Сегменты TCP.png",
     "Pasted image 20251022130346.png",
