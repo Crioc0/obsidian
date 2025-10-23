@@ -7,6 +7,8 @@ tags:
   - basic
 
 
+repeat: spaced every day
+due_at: 2025-10-24T06:00:00.000+03:00
 ---
 # 202509240808 Как подключить MongoDB в NodeJS
 
