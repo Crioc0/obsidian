@@ -70,7 +70,12 @@ DATA
 354 End data with <CR><LF>.<CR><LF>
 ```
 
-Затем клиент передает сообщение. Заголовки From, To и Date являются обязательными. Так же можно указать 
+Затем клиент передает сообщение. Заголовки From, To и Date являются обязательными. Так же можно указать заголовок **Subject**. Тело сообщения также необязательно
+```
+From: 
+Date: Wed, 27 Nov 2002 15:30:34 +0100 
+To: That brain of mine is something more than merely mortal; as time will show. .
+```
 
 # Связанные идеи
 
