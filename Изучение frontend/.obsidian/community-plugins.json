@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-linter",
   "templater-obsidian",
-  "obsidian-filename-heading-sync"
+  "obsidian-filename-heading-sync",
+  "obsidian-spaced-repetition"
 ]

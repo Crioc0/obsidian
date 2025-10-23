@@ -259,9 +259,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "314a93366fbd9f04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -278,10 +288,11 @@
       "obsidian-git:Open Git source control": false,
       "random-note:Открыть случайную заметку": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "dd142834dd365ea3",
+  "active": "314a93366fbd9f04",
   "lastOpenFiles": [
     "01 Notes/202510230839 TELNET.md",
     "01 Notes/202510230817 Доступ.md",
