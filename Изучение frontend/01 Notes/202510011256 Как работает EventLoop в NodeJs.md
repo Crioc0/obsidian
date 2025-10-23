@@ -1,7 +1,9 @@
 ---
 created: 2025-10-01 12:56
 tags:
-  -
+  - nodejs
+repeat: spaced every day
+due_at: 2025-10-24T06:00:00.000+03:00
 ---
 # 202510011256 Как работает EventLoop в NodeJs
 
