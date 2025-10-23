@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509251531 Динамический роутинг express.md",
+                "file": "01 Notes/202509260919  Обновление документов mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509251531 Динамический роутинг express"
+              "title": "202509260919  Обновление документов mongoose"
             }
           }
         ],
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509251531 Динамический роутинг express.md",
+                "file": "01 Notes/202509260919  Обновление документов mongoose.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509251531 Динамический роутинг express"
+              "title": "Структура 202509260919  Обновление документов mongoose"
             }
           },
           {
@@ -312,6 +312,18 @@
   },
   "active": "84ca9bb573cb0fcf",
   "lastOpenFiles": [
+    "01 Notes/202509260915 Чтение документов mongoose.md",
+    "01 Notes/202509260850 Создание документов mongoose.md",
+    "01 Notes/202509260844 Хэширование паролей в NodeJS.md",
+    "01 Notes/202509260834 Хеширование пароля.md",
+    "01 Notes/202509260828 Модели mongoose.md",
+    "01 Notes/202509260815 Схемы mongoose.md",
+    "01 Notes/202509251635 Как подключить Mongoose в express-приложение.md",
+    "01 Notes/202509251616 Отдача HTML и статичных файлов в Express.md",
+    "01 Notes/202509251544 Мидлвар для парсинга данных.md",
+    "01 Notes/202509251537 Мидлвары в express.md",
+    "01 Notes/202509251534 Получение параметров с помощью req.param.md",
+    "01 Notes/202509251531 Динамический роутинг express.md",
     "01 Notes/202509251450 Объект запроса req в express.md",
     "01 Notes/202509251447 Объект ответа res в express.md",
     "01 Notes/202509251438 Настройка роутинга в express.md",
@@ -326,18 +338,6 @@
     "01 Notes/202509241554 Индекс по нескольким полям.md",
     "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241500 Что такое курсор в MongoDB.md",
-    "01 Notes/202509241205 Что такое проекции в MongoDB.md",
-    "01 Notes/202509241153 Как происходит поиск с массивами и поддокументами в MongoDB.md",
-    "01 Notes/202509241122 Индексы в MongoDB.md",
-    "01 Notes/202509241034 Как фильтровать данные в MongoDB.md",
-    "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
-    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
-    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
-    "01 Notes/202509231654 Что такое MongoDB.md",
-    "01 Notes/202510081038 Кэширование статики.md",
-    "01 Notes/202510230839 TELNET.md",
-    "01 Notes/202510230817 Доступ.md",
     "Обмен времени.png",
     "Обратный dns-запрос.png",
     "Пример tcp-соединения.png",
