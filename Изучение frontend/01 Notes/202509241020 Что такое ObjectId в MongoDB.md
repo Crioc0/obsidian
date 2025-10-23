@@ -4,8 +4,12 @@ tags:
   - backend
   - basic
   - mongodb
+  - review
 aliases:
   - objectId
+sr-due: 2025-10-27
+sr-interval: 4
+sr-ease: 270
 ---
 # 202509241020 Что такое ObjectId в MongoDB
 

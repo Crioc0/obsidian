@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+                "file": "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202509240819 Какие типы данных есть в MongoDB"
+              "title": "202509241029 В каком формате записываются запросы в MongoDB"
             }
           },
           {
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
+                "file": "01 Notes/202509241029 В каком формате записываются запросы в MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509240819 Какие типы данных есть в MongoDB"
+              "title": "Структура 202509241029 В каком формате записываются запросы в MongoDB"
             }
           },
           {
@@ -293,6 +293,8 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
+    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
+    "01 Notes/202509240819 Какие типы данных есть в MongoDB.md",
     "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
     "01 Notes/202509231654 Что такое MongoDB.md",
     "01 Notes/202510230839 TELNET.md",
@@ -319,8 +321,6 @@
     "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
     "01 Notes/202510061305 Создание большого количества записей.md",
     "01 Notes/202509291449 Группировка данных GROUP BY.md",
-    "01 Notes/202509291038 Создание таблиц CREATE.md",
-    "01 Notes/202509290956 Оператор SELECT.md",
     "Пример tcp-соединения.png",
     "Сегменты TCP.png",
     "Pasted image 20251022130346.png",
