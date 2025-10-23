@@ -2,9 +2,9 @@
 repeat: spaced every day
 created: 2025-10-23 11:17
 tags:
-  - 
+  - network
 aliases:
-  - 
+  -
 ---
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):*
