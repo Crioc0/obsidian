@@ -277,7 +277,6 @@
       "random-note:Открыть случайную заметку": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "templater-obsidian:Templater": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "repeat-plugin:Repeat due notes": false
     }
   },
