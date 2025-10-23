@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510231202 Получение электронных писем.md",
+                "file": "01 Notes/202510231204 Сеть.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510231202 Получение электронных писем"
+              "title": "202510231204 Сеть"
             }
           },
           {
@@ -196,13 +196,14 @@
   },
   "active": "dd142834dd365ea3",
   "lastOpenFiles": [
+    "01 Notes/202510230817 Доступ.md",
+    "01 Notes/202510231204 Сеть.md",
     "01 Notes/202510231057 Почта.md",
     "01 Notes/202510231202 Получение электронных писем.md",
     "01 Notes/202510231200 Отправка электронных писем.md",
     "01 Notes/202510231117 SIMPLE MAIN TRANSFER PROTOCOL.md",
     "03 Assets/Tcp-соединение.png",
     "01 Notes/202510231103 Почтовые сервисы.md",
-    "01 Notes/202510230817 Доступ.md",
     "01 Notes/202510230839 TELNET.md",
     "templates/Zettelcasten Note.md",
     "01 Notes/202509251114 TTL индексы в MongoDB.md",
@@ -222,7 +223,6 @@
     "01 Notes/202510081317 WatchEffect.md",
     "01 Notes/202510081315 Нетерпеливые и единичные наблюдатели.md",
     "01 Notes/202510081313 Глубокие наблюдатели.md",
-    "01 Notes/202510081310 Наблюдатели Vue.md",
     "03 Assets/Обмен времени.png",
     "03 Assets/Обратный dns-запрос.png",
     "03 Assets/Пример tcp-соединения.png",
