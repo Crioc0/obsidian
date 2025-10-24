@@ -196,21 +196,9 @@
               "icon": "lucide-file",
               "title": "202510240959 Симметричные шрифты"
             }
-          },
-          {
-            "id": "313b6ccdd429dccd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251024101819.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251024101819"
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -373,10 +361,10 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "313b6ccdd429dccd",
+  "active": "766ab5432744b246",
   "lastOpenFiles": [
+    "Шрифт Вернама с двоичным кодом.png",
     "01 Notes/202510240959 Симметричные шрифты.md",
-    "Pasted image 20251024101819.png",
     "01 Notes/202510240957 Виды шифров.md",
     "02 Structure notes/Security.md",
     "01 Notes/202510231816 Устаревшие шифры.md",
