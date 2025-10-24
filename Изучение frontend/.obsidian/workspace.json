@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510241115 Блочные шифры.md",
+                "file": "01 Notes/202510241254 Режим Cipher Block Chaining, CBC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510241115 Блочные шифры"
+              "title": "202510241254 Режим Cipher Block Chaining, CBC"
             }
           },
           {
@@ -231,9 +231,10 @@
   },
   "active": "09f7e65d663965b3",
   "lastOpenFiles": [
+    "01 Notes/202510241115 Блочные шифры.md",
+    "01 Notes/202510241254 Режим Cipher Block Chaining, CBC.md",
     "01 Notes/202510241246 Режим Electronic Codebook.md",
     "Изображение в режиме ECB.png",
-    "01 Notes/202510241115 Блочные шифры.md",
     "01 Notes/202510240959 Симметричные шифры.md",
     "Упрощенная схема блочного шифра.png",
     "01 Notes/202510241020 Потоковые шрифты.md",
