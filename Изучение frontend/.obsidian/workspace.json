@@ -151,12 +151,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510231816 Устаревшие шифры.md",
+                "file": "01 Notes/202510240917 Продукционные шифры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510231816 Устаревшие шифры"
+              "title": "202510240917 Продукционные шифры"
             }
           }
         ],
@@ -192,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Шифр подс",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -325,9 +325,10 @@
   },
   "active": "d54f6f6165f5646b",
   "lastOpenFiles": [
+    "01 Notes/202510231816 Устаревшие шифры.md",
+    "01 Notes/202510240917 Продукционные шифры.md",
     "01 Notes/202510240827 Шифр подстановки.md",
     "Шифр подстановки.png",
-    "01 Notes/202510231816 Устаревшие шифры.md",
     "01 Notes/202510230817 Доступ.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
     "02 Structure notes/Security.md",
