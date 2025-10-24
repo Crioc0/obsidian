@@ -4,8 +4,8 @@ tags:
   - basic
   - backend
   - mongodb
-repeat: spaced every day
-due_at: 2025-10-24T06:00:00.000+03:00
+repeat: spaced every 48 hours
+due_at: 2025-10-26T08:33:50.655+03:00
 ---
 # 202509241548 Индекс по одному полю (single field index)
 
