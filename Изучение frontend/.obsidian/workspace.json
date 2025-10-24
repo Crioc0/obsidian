@@ -51,12 +51,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510231816 Устаревшие шифры.md",
+                "file": "01 Notes/202510240827 Шифр подстановки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510231816 Устаревшие шифры"
+              "title": "202510240827 Шифр подстановки"
+            }
+          },
+          {
+            "id": "a0e7f836c737429d",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
             }
           },
           {
@@ -116,16 +126,6 @@
             }
           },
           {
-            "id": "d7de0b495f714737",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Repeat"
-            }
-          },
-          {
             "id": "c5e1b935fabcedf4",
             "type": "leaf",
             "state": {
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -298,10 +298,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "fe92467588052ab7",
+  "active": "a0e7f836c737429d",
   "lastOpenFiles": [
-    "02 Structure notes/Security.md",
     "01 Notes/202510231816 Устаревшие шифры.md",
+    "01 Notes/202510240827 Шифр подстановки.md",
+    "02 Structure notes/Security.md",
     "01 Notes/202510231821 Зигзагообразный шифр.md",
     "Зигзагообразный шрифт.png",
     "01 Notes/202510231817 Шифр сдвига.md",
