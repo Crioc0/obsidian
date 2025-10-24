@@ -3,8 +3,8 @@ created: 2025-09-25 16:35
 tags:
   - mongoose
   - express
-repeat: spaced every day
-due_at: 2025-10-24T06:00:00.000+03:00
+repeat: spaced every 48 hours
+due_at: 2025-10-26T08:37:32.323+03:00
 ---
 # 202509251635 Как подключить Mongoose в express-приложение
 
