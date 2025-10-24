@@ -5,8 +5,8 @@ tags:
   - authentication
   - express
   - mongoose
-repeat: spaced every day
-due_at: 2025-10-24T06:00:00.000+03:00
+repeat: spaced every 48 hours
+due_at: 2025-10-26T08:40:00.253+03:00
 hidden: false
 ---
 # 202509261053 Аутентификация с помощью Express и Mongoose

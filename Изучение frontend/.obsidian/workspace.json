@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "bc811eeea27e9587",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Repeat"
-            }
-          },
-          {
             "id": "cda92534d9acf094",
             "type": "leaf",
             "state": {
@@ -134,9 +124,29 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "7b5d9be294d55ab1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "70bcfb5a62b7eb81",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,7 +308,7 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "bc811eeea27e9587",
+  "active": "70bcfb5a62b7eb81",
   "lastOpenFiles": [
     "01 Notes/202510230817 Доступ.md",
     "01 Notes/202509241205 Что такое проекции в MongoDB.md",
