@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "206e01eaf34e0f73",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251024105511.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251024105511"
+            }
+          },
+          {
             "id": "766ab5432744b246",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,10 +245,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "35bdb99a00145540",
+  "active": "206e01eaf34e0f73",
   "lastOpenFiles": [
-    "01 Notes/202510241020 Потоковые шрифты.md",
     "01 Notes/202510241049 Случайный код.md",
+    "Pasted image 20251024105511.png",
+    "01 Notes/202510241020 Потоковые шрифты.md",
     "01 Notes/202510240959 Симметричные шрифты.md",
     "01 Notes/202510240957 Виды шифров.md",
     "01 Notes/202510201532 Распределенная модель баз данных.md",
@@ -266,11 +279,9 @@
     "01 Notes/202510221057 Информационные сообщения.md",
     "01 Notes/202510081038 Кэширование статики.md",
     "01 Notes/202510081003 Заголовок If-None-Match.md",
-    "01 Notes/202510080951 Заголовок Cache-Control и Expires.md",
     "03 Assets/Tcp-соединение.png",
     "03 Assets/Обмен времени.png",
     "03 Assets/Обратный dns-запрос.png",
-    "03 Assets/Пример tcp-соединения.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
