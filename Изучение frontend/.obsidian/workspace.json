@@ -158,21 +158,9 @@
               "icon": "lucide-file",
               "title": "202510240929 Шифр Вернама"
             }
-          },
-          {
-            "id": "e035b3665a2566f7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Ра.png"
-              },
-              "icon": "lucide-image",
-              "title": "Ра"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -335,10 +323,10 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "e035b3665a2566f7",
+  "active": "d54f6f6165f5646b",
   "lastOpenFiles": [
+    "Шифр вернама.png",
     "01 Notes/202510240929 Шифр Вернама.md",
-    "Ра.png",
     "01 Notes/202510231816 Устаревшие шифры.md",
     "01 Notes/202510240923 Шифр Виженера.md",
     "Шифр Виженера.png",
