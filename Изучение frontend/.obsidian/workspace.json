@@ -196,9 +196,21 @@
               "icon": "lucide-file",
               "title": "202510240959 Симметричные шрифты"
             }
+          },
+          {
+            "id": "313b6ccdd429dccd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251024101819.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251024101819"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -361,10 +373,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "766ab5432744b246",
+  "active": "313b6ccdd429dccd",
   "lastOpenFiles": [
-    "01 Notes/202510240957 Виды шифров.md",
     "01 Notes/202510240959 Симметричные шрифты.md",
+    "Pasted image 20251024101819.png",
+    "01 Notes/202510240957 Виды шифров.md",
     "02 Structure notes/Security.md",
     "01 Notes/202510231816 Устаревшие шифры.md",
     "01 Notes/202510240956 Без названия.md",
@@ -393,12 +406,10 @@
     "01 Notes/202510081003 Заголовок If-None-Match.md",
     "01 Notes/202510080951 Заголовок Cache-Control и Expires.md",
     "01 Notes/202510080950 Кэширование на клиенте.md",
-    "01 Notes/202510071250 Кэширование с учетом параметров.md",
     "03 Assets/Tcp-соединение.png",
     "03 Assets/Обмен времени.png",
     "03 Assets/Обратный dns-запрос.png",
     "03 Assets/Пример tcp-соединения.png",
-    "03 Assets/Сегменты TCP.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
