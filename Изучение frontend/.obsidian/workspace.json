@@ -158,9 +158,21 @@
               "icon": "lucide-file",
               "title": "202510240929 Шифр Вернама"
             }
+          },
+          {
+            "id": "e035b3665a2566f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251024093421.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251024093421"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -323,11 +335,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "d54f6f6165f5646b",
+  "active": "e035b3665a2566f7",
   "lastOpenFiles": [
+    "01 Notes/202510240929 Шифр Вернама.md",
     "Pasted image 20251024093421.png",
     "01 Notes/202510231816 Устаревшие шифры.md",
-    "01 Notes/202510240929 Шифр Вернама.md",
     "01 Notes/202510240923 Шифр Виженера.md",
     "Шифр Виженера.png",
     "01 Notes/202510240917 Продукционные шифры.md",
@@ -360,7 +372,6 @@
     "03 Assets/Пример tcp-соединения.png",
     "03 Assets/Сегменты TCP.png",
     "03 Assets/UDP-пакет.png",
-    "03 Assets/Передача с помощью протокола IP.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
