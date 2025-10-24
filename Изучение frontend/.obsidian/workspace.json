@@ -182,9 +182,19 @@
               "icon": "lucide-file",
               "title": "202510240957 Виды шифров"
             }
+          },
+          {
+            "id": "766ab5432744b246",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -347,11 +357,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "09f7e65d663965b3",
+  "active": "766ab5432744b246",
   "lastOpenFiles": [
     "01 Notes/202510240957 Виды шифров.md",
-    "01 Notes/202510240956 Без названия.md",
     "01 Notes/202510231816 Устаревшие шифры.md",
+    "01 Notes/202510240956 Без названия.md",
     "01 Notes/202510240940 Шифровальные машины.md",
     "01 Notes/202510240929 Шифр Вернама.md",
     "Расшифровка шифра вернама.png",
