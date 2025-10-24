@@ -10,3 +10,5 @@ Vite позволяет импортировать модули из папки 
 ```ts
 ismpor style! from '/style.module.css'
 ```
+
+Можно использовать tailwind css и 
