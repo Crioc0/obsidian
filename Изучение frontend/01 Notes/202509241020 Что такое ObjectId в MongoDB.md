@@ -8,8 +8,8 @@ tags:
 aliases:
   - objectId
 
-repeat: spaced every day
-due_at: 2025-10-24T06:00:00.000+03:00
+repeat: spaced every 48 hours
+due_at: 2025-10-26T08:32:30.918+03:00
 ---
 # 202509241020 Что такое ObjectId в MongoDB
 
