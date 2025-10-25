@@ -3,8 +3,8 @@ created: 2025-10-01 13:01
 tags:
   - nodejs
   - typescript
-repeat: spaced every day
-due_at: 2025-10-24T06:00:00.000+03:00
+repeat: spaced every 48 hours
+due_at: 2025-10-27T10:24:06.694+03:00
 ---
 # 202510011301 Работа с tsconfig для nodeJS
 
