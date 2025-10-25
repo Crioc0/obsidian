@@ -1,6 +1,7 @@
 ---
 tags:
   - уровень_0
+  - javaScript
 ---
 ### Связи с другими Structure Notes
 

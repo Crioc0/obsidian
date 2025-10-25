@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#vue  ",
+  "search": "tag:#javascript",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#уровень3",
+      "query": "tag:#уровень_3",
       "color": {
         "a": 1,
         "rgb": 14361804
@@ -46,6 +46,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.296875,
   "linkDistance": 187,
-  "scale": 0.2292013594174882,
+  "scale": 0.45050811767577137,
   "close": false
 }
