@@ -75,8 +75,8 @@
             "state": {
               "type": "repeating-notes-due-view",
               "state": {},
-              "icon": "clock",
-              "title": "Repeat"
+              "icon": "lucide-ghost",
+              "title": "repeating-notes-due-view"
             }
           },
           {
@@ -216,21 +216,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Express"
-            }
-          },
-          {
-            "id": "8931235a5ec4568e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Структура Express"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,7 +228,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -246,12 +235,10 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "random-note:Открыть случайную заметку": false,
-      "obsidian-git:Open Git source control": false,
-      "repeat-plugin:Repeat due notes": false
+      "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "1fc02a2d24bc10f6",
+  "active": "6e318ffebdb70cbe",
   "lastOpenFiles": [
     "templates/Zettelcasten Note.md",
     "Conflicts.md",

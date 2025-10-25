@@ -1,13 +1,1 @@
-[
-  "obsidian-git",
-  "dataview",
-  "obsidian-linter",
-  "templater-obsidian",
-  "obsidian-filename-heading-sync",
-<<<<<<< HEAD
-  "repeat-plugin"
-=======
-  "repeat-plugin",
-  "metadata-menu"
->>>>>>> origin/main
-]
+[]
