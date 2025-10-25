@@ -1,6 +1,7 @@
 ---
 tags:
   - уровень_0
+  - sql
 ---
 ### Связи с другими Structure Notes
 
