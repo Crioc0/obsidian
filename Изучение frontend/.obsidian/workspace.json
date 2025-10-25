@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241548 Индекс по одному полю (single field index).md",
+                "file": "01 Notes/202509241554 Индекс по нескольким полям.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241548 Индекс по одному полю (single field index)"
+              "title": "202509241554 Индекс по нескольким полям"
             }
           },
           {
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509241548 Индекс по одному полю (single field index).md",
+                "file": "01 Notes/202509241554 Индекс по нескольким полям.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509241548 Индекс по одному полю (single field index)"
+              "title": "Структура 202509241554 Индекс по нескольким полям"
             }
           }
         ],
@@ -239,6 +239,8 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509241122 Индексы в MongoDB.md",
+    "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241500 Курсор в MongoDB.md",
     "01 Notes/202509251305 Когда стоит использовать индексы в MongoDB.md",
     "01 Notes/202509251132 Создание и управление индексами в MongoDB.md",
@@ -247,12 +249,10 @@
     "01 Notes/202509251034 Уникальные индексы (unique).md",
     "01 Notes/202509241603 Мультиключевой индекс.md",
     "01 Notes/202509241554 Индекс по нескольким полям.md",
-    "01 Notes/202509241548 Индекс по одному полю (single field index).md",
     "01 Notes/202509241029 Запросы в MongoDB.md",
     "01 Notes/202509241034 Фильтры данных в MongoDB.md",
     "01 Notes/202509241205 Проекции в MongoDB.md",
     "01 Notes/202509241153 Поиск в массивах и поддокументах в MongoDB.md",
-    "01 Notes/202509241122 Индексы в MongoDB.md",
     "01 Notes/202510201537 Репликация с многочисленными ведущими.md",
     "01 Notes/202510221045 Превышение размера.md",
     "02 Structure notes/Express.md",
