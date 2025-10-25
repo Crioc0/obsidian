@@ -2,8 +2,8 @@
 created: 2025-10-05 18:01
 tags:
   - nestjs
-repeat: spaced every day
-due_at: 2025-10-24T06:00:00.000+03:00
+repeat: spaced every 24 hours
+due_at: 2025-10-26T10:26:29.293+03:00
 ---
 # 202510051801 Exeption Filter
 
