@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202509241029 Запросы в MongoDB.md",
+                "file": "01 Notes/202509241500 Что такое курсор в MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509241029 Запросы в MongoDB"
+              "title": "202509241500 Что такое курсор в MongoDB"
             }
           },
           {
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202509241029 Запросы в MongoDB.md",
+                "file": "01 Notes/202509241500 Что такое курсор в MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202509241029 Запросы в MongoDB"
+              "title": "Структура 202509241500 Что такое курсор в MongoDB"
             }
           }
         ],
@@ -239,9 +239,10 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509241205 Проекции в MongoDB.md",
+    "01 Notes/202509241029 Запросы в MongoDB.md",
     "01 Notes/202509241153 Поиск в массивах и поддокументах в MongoDB.md",
     "01 Notes/202509241034 Фильтры данных в MongoDB.md",
-    "01 Notes/202509241029 Запросы в MongoDB.md",
     "01 Notes/202509241122 Индексы в MongoDB.md",
     "01 Notes/202510201537 Репликация с многочисленными ведущими.md",
     "01 Notes/202510221045 Превышение размера.md",
@@ -274,7 +275,6 @@
     "01 Notes/202510221510 Серверы имен.md",
     "01 Notes/202510221505 Домены.md",
     "01 Notes/202510221502 Имена (DNS).md",
-    "01 Notes/202510221459 Обмен данными.md",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
