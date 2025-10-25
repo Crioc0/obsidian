@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#подраздел",
+      "query": "tag:#подма",
       "color": {
         "a": 1,
         "rgb": 9491719
@@ -39,6 +39,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.296875,
   "linkDistance": 187,
-  "scale": 0.11660891579457225,
+  "scale": 0.16348370567220363,
   "close": false
 }
