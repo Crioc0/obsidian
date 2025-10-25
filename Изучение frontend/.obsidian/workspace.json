@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
+                "file": "01 Notes/202509240819 Типы данных есть в MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510011230 Потоки в теле запроса NodeJS"
+              "title": "202509240819 Типы данных есть в MongoDB"
             }
           },
           {
@@ -140,8 +140,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
+                "file": "01 Notes/202509240819 Типы данных есть в MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510011230 Потоки в теле запроса NodeJS"
+              "title": "Структура 202509240819 Типы данных есть в MongoDB"
             }
           }
         ],
@@ -240,6 +239,11 @@
   },
   "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
+    "01 Notes/202509240819 Типы данных есть в MongoDB.md",
+    "01 Notes/202509240808 Как подключить MongoDB в NodeJS.md",
+    "01 Notes/202509231654 Что такое MongoDB.md",
+    "01 Notes/202510011230 Потоки в теле запроса NodeJS.md",
     "01 Notes/202510211351 Канальный уровень.md",
     "01 Notes/202510081419 Встроенные компоненты в Vue.md",
     "02 Structure notes/Express.md",
@@ -271,11 +275,6 @@
     "01 Notes/202510221245 Номер подтверждения.md",
     "01 Notes/202510221241 Порядковый номер.md",
     "01 Notes/202510221204 Номер порта.md",
-    "01 Notes/202510221202 Сегменты TCP.md",
-    "01 Notes/202510221200 Протокол управления передачей данных(TCP).md",
-    "01 Notes/202510221153 Ограничения UDP.md",
-    "01 Notes/202510221151 Контрольная сумма UDP.md",
-    "01 Notes/202510221147 Клиент и сервер.md",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
