@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,9 +186,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "mongoose"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1fc02a2d24bc10f6",
+  "active": "43c06d9df8b34475",
   "lastOpenFiles": [
     "02 Structure notes/Express.md",
     "02 Structure notes/Database.md",

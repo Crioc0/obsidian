@@ -1,6 +1,6 @@
 ---
 tags:
-  - structure-notes
+  - предмет
 ---
 ### Связи с другими Structure Notes
 
