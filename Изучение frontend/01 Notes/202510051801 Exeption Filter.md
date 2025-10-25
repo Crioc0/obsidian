@@ -2,6 +2,7 @@
 created: 2025-10-05 18:01
 tags:
   - nestjs
+  - уровень_1
 repeat: spaced every 24 hours
 due_at: 2025-10-26T10:26:29.293+03:00
 ---
