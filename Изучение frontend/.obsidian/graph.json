@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#предмет",
+      "query": "tag:#уровень_0",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#тема",
+      "query": "tag:#уровень_1",
       "color": {
         "a": 1,
         "rgb": 65505
       }
     },
     {
-      "query": "tag:#подмаршрут",
+      "query": "tag:#уровень_2",
       "color": {
         "a": 1,
         "rgb": 9491719

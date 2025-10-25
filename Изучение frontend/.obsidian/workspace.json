@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#подраздел",
+                "query": "tag:#предмет",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,7 +233,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "43c06d9df8b34475",
   "lastOpenFiles": [
     "01 Notes/202510031430 Типы данных в Javascript.md",
     "01 Notes/202510071540 Работа со стилями Vue.md",
