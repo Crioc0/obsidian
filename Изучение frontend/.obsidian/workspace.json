@@ -78,9 +78,19 @@
               "icon": "clock",
               "title": "Repeat"
             }
+          },
+          {
+            "id": "1fc02a2d24bc10f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -241,10 +251,10 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "97f469aa16d31ac7",
+  "active": "1fc02a2d24bc10f6",
   "lastOpenFiles": [
-    "Conflicts.md",
     "templates/Zettelcasten Note.md",
+    "Conflicts.md",
     "conflict-files-obsidian-git.md",
     "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "03 Assets/Шифр подстановки.png",
