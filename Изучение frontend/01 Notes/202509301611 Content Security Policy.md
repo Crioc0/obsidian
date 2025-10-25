@@ -2,11 +2,13 @@
 created: 2025-09-30 16:11
 tags:
   - security
+repeat: spaced every day
+due_at: 2025-10-24T06:00:00.000+03:00
 ---
 # 202509301611 Content Security Policy
 
 *Ссылка на StructureNote:* [[Security]]
-*Ссылка на исходник или контекст (если есть):*  [ЯПрактикум](https://practicum.yandex.ru/learn/backend-nodejs/courses/16b47298-e20d-4fde-9619-1ab305039a00/sprints/564238/topics/511a777e-323b-4964-9150-d06eaeb48080/lessons/7fb4f5c7-cb70-4243-904c-c4ff8d37469a/)
+*Ссылка на исходник или контекст (если есть):* [ЯПрактикум](https://practicum.yandex.ru/learn/backend-nodejs/courses/16b47298-e20d-4fde-9619-1ab305039a00/sprints/564238/topics/511a777e-323b-4964-9150-d06eaeb48080/lessons/7fb4f5c7-cb70-4243-904c-c4ff8d37469a/)
 
 Если хакер все равно внедряет скрипт в сайт, на помощь приходит инструкция Content Security Policy
 
@@ -44,6 +46,7 @@ Content-Security-Policy: default-src 'self'; img-src *; media-src media1.com med
 ### Связанные идеи:
 
 * [[202509301511 XSS]]
+
 ---
 
 *Что стоит развить? Какие вопросы возникли?*

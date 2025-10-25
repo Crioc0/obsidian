@@ -4,7 +4,15 @@ tags:
 ---
 ### Связи с другими Structure Notes
 
-[[]]
+[[SQL]] [[Database]] [[Network]] [[Security]] 
+
+## Подразделы
+
+```dataview
+LIST
+FROM #computerScience  AND #substructure  
+SORT file.ctime DESC
+```
 
 ## Последние заметки за неделю
 
