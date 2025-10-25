@@ -1,6 +1,7 @@
 ---
 tags:
   - уровень_0
+  - typeORM
 ---
 ### Связи с другими Structure Notes
 
