@@ -1,10 +1,11 @@
 ---
-repeat: spaced every day
+repeat: spaced every 24 hours
 created: <% tp.file.creation_date() %>
 tags:
   - 
 aliases:
   - 
+du_at:
 ---
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):*
