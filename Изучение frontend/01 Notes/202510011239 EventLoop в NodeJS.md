@@ -2,7 +2,7 @@
 created: 2025-10-01 12:39
 tags:
   - nodejs
-  - substructure
+  - тема
 repeat: spaced every 48 hours
 due_at: 2025-10-27T10:23:00.307+03:00
 ---
