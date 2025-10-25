@@ -70,16 +70,6 @@
             }
           },
           {
-            "id": "8a08bd0c2ef40f3b",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Repeat"
-            }
-          },
-          {
             "id": "458709d40ac7ec34",
             "type": "leaf",
             "state": {
@@ -91,6 +81,16 @@
               },
               "icon": "lucide-file",
               "title": "Zettelcasten Note"
+            }
+          },
+          {
+            "id": "6217708bc7a400ca",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
             }
           }
         ],
@@ -255,7 +255,7 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "458709d40ac7ec34",
+  "active": "6217708bc7a400ca",
   "lastOpenFiles": [
     "Conflicts.md",
     "conflict-files-obsidian-git.md",
