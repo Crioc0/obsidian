@@ -1,6 +1,7 @@
 ---
 tags:
   - уровень_0
+  - vue
 ---
 ### Связи с другими Structure Notes
 
