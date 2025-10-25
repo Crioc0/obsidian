@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 14361804
       }
+    },
+    {
+      "query": "tag:#уровень_4",
+      "color": {
+        "a": 1,
+        "rgb": 14077020
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.296875,
   "linkDistance": 187,
-  "scale": 0.22920135941748745,
+  "scale": 0.3213363860503502,
   "close": false
 }
