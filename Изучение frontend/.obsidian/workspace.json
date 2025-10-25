@@ -70,16 +70,6 @@
             }
           },
           {
-            "id": "97f469aa16d31ac7",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "repeating-notes-due-view"
-            }
-          },
-          {
             "id": "1fc02a2d24bc10f6",
             "type": "leaf",
             "state": {
@@ -87,6 +77,16 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Граф"
+            }
+          },
+          {
+            "id": "6741aaf5f5afeae4",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
             }
           }
         ],
@@ -163,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/B-деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для B-деревья"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -186,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -201,7 +200,7 @@
                 "searchQuery": "mongoose"
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -219,8 +218,7 @@
               "title": "Структура Express"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,10 +233,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "random-note:Открыть случайную заметку": false
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-git:Open Git source control": false,
+      "repeat-plugin:Repeat due notes": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6e318ffebdb70cbe",
+  "active": "e04ceba2b26082bb",
   "lastOpenFiles": [
     "templates/Zettelcasten Note.md",
     "Conflicts.md",

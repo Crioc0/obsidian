@@ -1,1 +1,8 @@
-[]
+[
+  "obsidian-git",
+  "obsidian-linter",
+  "dataview",
+  "obsidian-filename-heading-sync",
+  "repeat-plugin",
+  "templater-obsidian"
+]
