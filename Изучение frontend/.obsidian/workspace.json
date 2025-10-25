@@ -11,10 +11,14 @@
             "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510081420 Transition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510081420 Transition"
             }
           },
           {
@@ -115,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#architecture",
+                "query": "tag:#algorithms",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +192,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -203,12 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Notes/202510081420 Transition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 202510081420 Transition"
             }
           }
         ],
@@ -233,7 +238,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "43c06d9df8b34475",
   "lastOpenFiles": [
     "01 Notes/202510231204 Сеть.md",
     "01 Notes/202510221502 Имена (DNS).md",
