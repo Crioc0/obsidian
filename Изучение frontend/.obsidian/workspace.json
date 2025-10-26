@@ -102,9 +102,19 @@
               "icon": "clock",
               "title": "Repeat"
             }
+          },
+          {
+            "id": "34bf6decdb98e759",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -253,8 +263,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ef4935a0bc05f75",
+  "active": "34bf6decdb98e759",
   "lastOpenFiles": [
+    "01 Notes/202510231516 202510231516.md",
     "01 Notes/202510031430 Типы данных в Javascript.md",
     "01 Notes/202510071344 Объекты в JS.md",
     "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
@@ -280,7 +291,6 @@
     "02 Structure notes/SQL.md",
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
     "01 Notes/202510241049 Случайный код.md",
-    "02 Structure notes/Security.md",
     "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "03 Assets/Шифр подстановки.png",
     "03 Assets/Шифр вернама.png",
