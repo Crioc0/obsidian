@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "88eba4df0f1c515b",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Repeat"
-            }
-          },
-          {
             "id": "d273c42e844a6e37",
             "type": "leaf",
             "state": {
@@ -101,6 +91,16 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Граф"
+            }
+          },
+          {
+            "id": "8ef4935a0bc05f75",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
             }
           }
         ],
@@ -253,7 +253,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40c7e113b56c18e0",
+  "active": "8ef4935a0bc05f75",
   "lastOpenFiles": [
     "01 Notes/202510031430 Типы данных в Javascript.md",
     "01 Notes/202510071344 Объекты в JS.md",
