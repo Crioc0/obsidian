@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#computerScience",
+  "search": "tag:#network",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.296875,
   "linkDistance": 187,
-  "scale": 0.6316046762907233,
+  "scale": 0.32133638605034476,
   "close": true
 }

@@ -1,6 +1,7 @@
 ---
 tags:
   - уровень_0
+  - network
 ---
 ### Связи с другими Structure Notes
 
