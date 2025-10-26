@@ -11,7 +11,7 @@ hidden: false
 ---
 # 202509261053 Аутентификация с помощью Express и Mongoose
 
-*Ссылка на StructureNote:* [[MongoDB]] [[02 Structure notes/Mongoose|Mongoose]]
+*Ссылка на StructureNote:* [[02 Structure notes/Mongoose|Mongoose]] [[Express]]
 *Ссылка на исходник или контекст (если есть):* [ЯПрактикум](https://practicum.yandex.ru/learn/backend-nodejs/courses/16b47298-e20d-4fde-9619-1ab305039a00/sprints/564238/topics/a4928f0d-5f69-4053-bea3-fa90d3a2a89f/lessons/24dcb381-2616-47de-ba41-18aacaa0df57/)
 
 Для того, чтобы авторизовать пользователя, нужно получить данные из req и сравнить из с данными из БД. Чтобы проверить захешированный пароль, нужно взять пароль, полученный от пользователя, захешировать его и сравнить его с паролем, хранящимся в БД.
