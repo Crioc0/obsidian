@@ -5,6 +5,7 @@ tags:
   - authentication
   - express
   - mongoose
+  - уровень_1
 repeat: spaced every 48 hours
 due_at: 2025-10-26T08:40:00.253+03:00
 hidden: false
