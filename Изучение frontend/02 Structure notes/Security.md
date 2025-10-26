@@ -1,6 +1,7 @@
 ---
 tags:
   - уровень_0
+  - security
 ---
 ### Связи с другими Structure Notes
 
