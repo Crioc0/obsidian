@@ -1,10 +1,11 @@
 ---
-repeat: spaced every day
+repeat: spaced every 48 hours
 created: 2025-10-23 11:17
 tags:
   - network
 aliases:
   -
+due_at: 2025-10-28T16:50:23.449+03:00
 ---
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):*

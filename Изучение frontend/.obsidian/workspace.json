@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "88eba4df0f1c515b",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
+          },
+          {
             "id": "d273c42e844a6e37",
             "type": "leaf",
             "state": {
@@ -83,7 +93,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +243,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "224ef981f35d3753",
+  "active": "88eba4df0f1c515b",
   "lastOpenFiles": [
     "01 Notes/202510211325 Парадигмы программирования.md",
     "01 Notes/202510171448 Временная сложность T(n).md",
