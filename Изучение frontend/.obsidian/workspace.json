@@ -97,14 +97,10 @@
             "id": "40c7e113b56c18e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510031430 Типы данных в Javascript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510031430 Типы данных в Javascript"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -259,6 +255,11 @@
   },
   "active": "40c7e113b56c18e0",
   "lastOpenFiles": [
+    "01 Notes/202510031430 Типы данных в Javascript.md",
+    "01 Notes/202510071344 Объекты в JS.md",
+    "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
+    "01 Notes/202510071357 Преобразование объектов в примитивы.md",
+    "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
     "01 Notes/202510031435 Методы примитивов.md",
     "01 Notes/202510071404 Объект window.md",
     "01 Notes/202510071405 Объект location.md",
@@ -280,11 +281,6 @@
     "01 Notes/202510011206 Чек-лист безопасности приложения на express.md",
     "01 Notes/202510241049 Случайный код.md",
     "02 Structure notes/Security.md",
-    "01 Notes/202510231816 Устаревшие шифры.md",
-    "01 Notes/202510240940 Шифровальные машины.md",
-    "01 Notes/202510240929 Шифр Вернама.md",
-    "01 Notes/202510240923 Шифр Виженера.md",
-    "01 Notes/202510240827 Шифр подстановки.md",
     "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "03 Assets/Шифр подстановки.png",
     "03 Assets/Шифр вернама.png",
