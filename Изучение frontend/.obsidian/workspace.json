@@ -103,10 +103,14 @@
             "id": "2a725397d8c02e17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510220959 Петля маршрутизации.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510220959 Петля маршрутизации"
             }
           }
         ],
@@ -274,6 +278,7 @@
   },
   "active": "2a725397d8c02e17",
   "lastOpenFiles": [
+    "01 Notes/202510171448 Временная сложность T(n).md",
     "01 Notes/202510221007 Превышение времени IP-пакета.md",
     "01 Notes/202510061154 Один ко многим TypeORM.md",
     "01 Notes/202509260828 Модели mongoose.md",
@@ -307,7 +312,6 @@
     "01 Notes/202509241205 Проекции в MongoDB.md",
     "01 Notes/202509241029 Запросы в MongoDB.md",
     "01 Notes/202509240819 Типы данных в MongoDB.md",
-    "00 Inbox/Vite.md",
     "Изображение в режиме ECB.png",
     "Упрощенная схема блочного шифра.png",
     "Без названия 1.canvas",
