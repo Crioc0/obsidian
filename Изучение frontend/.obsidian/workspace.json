@@ -115,12 +115,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510071511 Eventloop в JavaScript.md",
+                "file": "01 Notes/202510071402 Spread и rest операторы в JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510071511 Eventloop в JavaScript"
+              "title": "202510071402 Spread и rest операторы в JS"
             }
           }
         ],
@@ -289,6 +289,7 @@
   "active": "a8c9ac67075aeb34",
   "lastOpenFiles": [
     "02 Structure notes/JavaScript.md",
+    "01 Notes/202510071511 Eventloop в JavaScript.md",
     "01 Notes/202510071513 Сборка мусора JavaScript.md",
     "01 Notes/202510071529 Реактивность в JavaScript.md",
     "01 Notes/202509300826 Как работает INNER JOIN.md",
@@ -313,7 +314,6 @@
     "01 Notes/202510071549 Отрисовка списков в Vue.md",
     "01 Notes/202510071540 Работа со стилями Vue.md",
     "01 Notes/202510071544 Привязка inline-стилей в Vue.md",
-    "01 Notes/202510071542 Синтаксис указания стилей с помощью массивов.md",
     "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "03 Assets/Шифр подстановки.png",
     "03 Assets/Шифр вернама.png",
