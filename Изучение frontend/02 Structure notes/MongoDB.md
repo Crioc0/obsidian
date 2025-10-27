@@ -1,6 +1,7 @@
 ---
 tags:
-  - structure-notes
+  - уровень_0
+  - mongodb
 ---
 ### Связи с другими Structure Notes
 

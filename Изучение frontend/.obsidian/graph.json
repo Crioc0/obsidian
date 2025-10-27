@@ -8,17 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#structure-notes  ",
+      "query": "tag:#уровень_0",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#substructure",
+      "query": "tag:#уровень_1",
       "color": {
         "a": 1,
         "rgb": 65505
+      }
+    },
+    {
+      "query": "tag:#уровень_2",
+      "color": {
+        "a": 1,
+        "rgb": 9491719
+      }
+    },
+    {
+      "query": "tag:#уровень_3",
+      "color": {
+        "a": 1,
+        "rgb": 14361804
+      }
+    },
+    {
+      "query": "tag:#уровень_4",
+      "color": {
+        "a": 1,
+        "rgb": 14077020
       }
     }
   ],
@@ -32,6 +53,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.296875,
   "linkDistance": 187,
-  "scale": 0.1166089157945732,
+  "scale": 0.1634837056722048,
   "close": true
 }

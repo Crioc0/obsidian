@@ -2,12 +2,13 @@
 created: 2025-10-08 12:42
 tags:
   - nestjs
+  - уровень_1
 repeat: spaced every day
 due_at: 2025-10-24T06:00:00.000+03:00
 ---
 # 202510081242 Cookies NestJs
 
-*Ссылка на StructureNote:*
+*Ссылка на StructureNote:* [[Nest.js]]
 *Ссылка на исходник или контекст (если есть):*
 
 Одним из способов передачи сесcионных данных или `id` сессии являются Cookies.

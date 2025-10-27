@@ -2,7 +2,6 @@
 created: 2025-10-08 12:34
 tags:
   - nestjs
-  - express
 repeat: spaced every day
 due_at: 2025-10-24T06:00:00.000+03:00
 ---

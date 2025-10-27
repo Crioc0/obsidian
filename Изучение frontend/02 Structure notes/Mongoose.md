@@ -1,6 +1,6 @@
 ---
 tags:
-  - structure-notes
+  - уровень_0
 ---
 ### Связи с другими Structure Notes
 

@@ -1,6 +1,7 @@
 ---
 tags:
-  - structure-notes
+  - уровень_0
+  - computerScience
 ---
 ### Связи с другими Structure Notes
 

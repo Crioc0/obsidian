@@ -1,5 +1,5 @@
 ---
-repeat: spaced every day
+repeat: spaced every 24 hours
 created: <% tp.file.creation_date() %>
 tags:
   - 
