@@ -100,7 +100,7 @@
             }
           },
           {
-            "id": "c3de2ec9155c7f1e",
+            "id": "32d4c79865ec0b16",
             "type": "leaf",
             "state": {
               "type": "repeating-notes-due-view",
@@ -272,7 +272,7 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "c3de2ec9155c7f1e",
+  "active": "32d4c79865ec0b16",
   "lastOpenFiles": [
     "01 Notes/202509300826 Как работает INNER JOIN.md",
     "01 Notes/202509291206 Приведение типов в запросах.md",
