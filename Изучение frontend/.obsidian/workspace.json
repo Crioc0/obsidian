@@ -54,9 +54,29 @@
               "icon": "lucide-file",
               "title": "202510241020 Потоковые шрифты"
             }
+          },
+          {
+            "id": "52c84881ccaa49d0",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
+          },
+          {
+            "id": "fd9795dfa9a7a8bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,10 +239,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "9116d8caeded1486",
+  "active": "8931235a5ec4568e",
   "lastOpenFiles": [
-    "01 Notes/202510240959 Симметричные шифры.md",
     "00 Inbox/Vite.md",
+    "01 Notes/202510231242 Язык разметки гипертекста.md",
+    "01 Notes/202510240959 Симметричные шифры.md",
     "01 Notes/202510241115 Блочные шифры.md",
     "01 Notes/202510241254 Режим Cipher Block Chaining, CBC.md",
     "01 Notes/202510241246 Режим Electronic Codebook.md",
@@ -255,7 +276,6 @@
     "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
     "02 Structure notes/Database.md",
     "01 Notes/202510231516 202510231516.md",
-    "01 Notes/202510221502 Имена (DNS).md",
     "03 Assets/Tcp-соединение.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
