@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00cf473a2fd43d24",
+        "id": "56fbc446741525b9",
         "type": "tabs",
         "children": [
           {
-            "id": "224ef981f35d3753",
+            "id": "caf289bffee46a3c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,63 +18,21 @@
             }
           },
           {
-            "id": "d273c42e844a6e37",
+            "id": "09f7e65d663965b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510022045 Защитник.md",
+                "file": "00 Inbox/Vite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510022045 Защитник"
+              "title": "Vite"
             }
           },
           {
-            "id": "a530b440c956be55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510041333 DTO в NestJS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510041333 DTO в NestJS"
-            }
-          },
-          {
-            "id": "06ce7b83cb967e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510081419 Встроенные компоненты в Vue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510081419 Встроенные компоненты в Vue"
-            }
-          },
-          {
-            "id": "458709d40ac7ec34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Zettelcasten Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zettelcasten Note"
-            }
-          },
-          {
-            "id": "1fc02a2d24bc10f6",
+            "id": "35bdb99a00145540",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -84,7 +42,21 @@
             }
           },
           {
-            "id": "40c7e113b56c18e0",
+            "id": "766ab5432744b246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510241020 Потоковые шрифты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510241020 Потоковые шрифты"
+            }
+          },
+          {
+            "id": "fd9795dfa9a7a8bf",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,7 +66,41 @@
             }
           },
           {
-            "id": "8ef4935a0bc05f75",
+            "id": "df4b61108c4fb06c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "5db289e187df9c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202510231204 Сеть.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510231204 Сеть"
+            }
+          },
+          {
+            "id": "2a725397d8c02e17",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "32d4c79865ec0b16",
             "type": "leaf",
             "state": {
               "type": "repeating-notes-due-view",
@@ -104,21 +110,17 @@
             }
           },
           {
-            "id": "34bf6decdb98e759",
+            "id": "a8c9ac67075aeb34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Возникновение науки - истоки античной преднауки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Возникновение науки - истоки античной преднауки"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -150,8 +152,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#уровень_0",
-                "matchingCase": true,
+                "query": "tag:#network",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -175,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -191,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Возникновение науки - истоки античной преднауки.md",
+                "file": "Zettlecasten/B-деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +203,21 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Возникновение науки - истоки античной преднауки"
+              "title": "Обратные ссылки для B-деревья"
+            }
+          },
+          {
+            "id": "f0042f80cd020efd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 202510231503 Шифротекст и ключ шифрования"
             }
           },
           {
@@ -210,8 +226,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true,
+                "sortOrder": "frequency",
+                "useHierarchy": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -225,17 +241,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Возникновение науки - истоки античной преднауки.md",
+                "file": "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Возникновение науки - истоки античной преднауки"
+              "title": "Структура 202510231503 Шифротекст и ключ шифрования"
             }
           },
           {
-            "id": "b66ff08d3135ea21",
+            "id": "8931235a5ec4568e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -245,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -259,41 +275,41 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "random-note:Открыть случайную заметку": false,
       "obsidian-git:Open Git source control": false,
-      "repeat-plugin:Repeat due notes": false,
-      "templater-obsidian:Templater": false
+      "random-note:Открыть случайную заметку": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "templater-obsidian:Templater": false,
+      "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "34bf6decdb98e759",
+  "active": "a8c9ac67075aeb34",
   "lastOpenFiles": [
     "00 Inbox/Возникновение науки - истоки античной преднауки.md",
-    "Conflicts.md",
-    "01 Notes/202510231202 Получение электронных писем.md",
-    "01 Notes/202510231200 Отправка электронных писем.md",
-    "01 Notes/202510231103 Почтовые сервисы.md",
-    "01 Notes/202510231516 202510231516.md",
+    "02 Structure notes/JavaScript.md",
+    "01 Notes/202510071402 Spread и rest операторы в JS.md",
+    "01 Notes/202510031437 Массивы в JS.md",
     "01 Notes/202510031430 Типы данных в Javascript.md",
+    "01 Notes/202510031439 Иммутабельные методы для работы с массивами.md",
+    "01 Notes/202510031450 Копирование объектов.md",
+    "01 Notes/202510071330 Функции-конструкторы.md",
     "01 Notes/202510071344 Объекты в JS.md",
     "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
-    "01 Notes/202510071357 Преобразование объектов в примитивы.md",
-    "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
-    "01 Notes/202510031435 Методы примитивов.md",
-    "01 Notes/202510071404 Объект window.md",
-    "01 Notes/202510071405 Объект location.md",
-    "01 Notes/202510071403 Объект history.md",
-    "02 Structure notes/JavaScript.md",
-    "01 Notes/202509241603 Мультиключевой индекс.md",
-    "01 Notes/202509241122 Индексы в MongoDB.md",
-    "01 Notes/202509251126 Разреженные индексы (partial index).md",
-    "01 Notes/202509241020 Что такое ObjectId в MongoDB.md",
-    "01 Notes/202509241034 Фильтры данных в MongoDB.md",
-    "01 Notes/202509251132 Когда стоит создавать индексы в MongoDB.md",
-    "01 Notes/202509260925 Удаление документов mongoose.md",
-    "02 Structure notes/MongoDB.md",
-    "02 Structure notes/Express.md",
-    "02 Structure notes/Database.md",
+    "01 Notes/202510071350 Методы объекта, this.md",
+    "01 Notes/202510071400 Событие popstate.md",
+    "01 Notes/202510071511 Eventloop в JavaScript.md",
+    "01 Notes/202510071513 Сборка мусора JavaScript.md",
+    "01 Notes/202510071529 Реактивность в JavaScript.md",
+    "01 Notes/202509300826 Как работает INNER JOIN.md",
+    "01 Notes/202509291206 Приведение типов в запросах.md",
+    "01 Notes/202509241029 Запросы в MongoDB.md",
+    "01 Notes/202509241205 Проекции в MongoDB.md",
+    "01 Notes/202509291138 Агрегирующие функции.md",
+    "01 Notes/202509291150 Агрегирующая функция AVG.md",
+    "01 Notes/202509291148 Агрегирующая функция SUM.md",
+    "01 Notes/202509291142 Агрегирующая функция Count.md",
+    "01 Notes/202510220959 Петля маршрутизации.md",
+    "01 Notes/202510171448 Временная сложность T(n).md",
+    "01 Notes/202510221007 Превышение времени IP-пакета.md",
     "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "03 Assets/Шифр подстановки.png",
     "03 Assets/Шифр вернама.png",
@@ -302,19 +318,19 @@
     "03 Assets/Расшифровка шифра вернама.png",
     "03 Assets/Потоковый шрифт с случайным кодом.png",
     "03 Assets/Изображение в режиме ECB.png",
-    "03 Assets/распределенная бд с одним комьютером.png",
-    "03 Assets/Чтение числа 32 из ячейки с адресом 211.png",
-    "00 Inbox",
-    "03 Assets",
-    "02 Structure notes",
-    "tags",
-    "01 Notes",
-    "Zettlecasten/Без названия 2.base",
+    "Изображение в режиме ECB.png",
+    "Упрощенная схема блочного шифра.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "Без названия.canvas",
-    "Браузерное окружение, спецификации.html",
-    "Без названия 1.canvas",
-    "Zettlecasten/react/Без названия"
+    "Zettlecasten/Без названия 2.base",
+    "Zettlecasten/Без названия 7.base",
+    "Zettlecasten/Без названия 5.base",
+    "Zettlecasten/Без названия 4.base",
+    "Zettlecasten/Без названия 3.base",
+    "Zettlecasten/Без названия 6.base",
+    "tags",
+    "03 Assets"
   ]
 }
