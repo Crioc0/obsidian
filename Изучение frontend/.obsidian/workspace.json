@@ -118,9 +118,23 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "c30d507a0a61c0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Механицизм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Механицизм"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -282,8 +296,10 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "a8c9ac67075aeb34",
+  "active": "c30d507a0a61c0e1",
   "lastOpenFiles": [
+    "01 Notes/202511111248 Без названия.md",
+    "00 Inbox/Механицизм.md",
     "00 Inbox/Возникновение науки - истоки античной преднауки.md",
     "02 Structure notes/JavaScript.md",
     "01 Notes/202510071402 Spread и rest операторы в JS.md",
@@ -308,8 +324,6 @@
     "01 Notes/202509291148 Агрегирующая функция SUM.md",
     "01 Notes/202509291142 Агрегирующая функция Count.md",
     "01 Notes/202510220959 Петля маршрутизации.md",
-    "01 Notes/202510171448 Временная сложность T(n).md",
-    "01 Notes/202510221007 Превышение времени IP-пакета.md",
     "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "03 Assets/Шифр подстановки.png",
     "03 Assets/Шифр вернама.png",
