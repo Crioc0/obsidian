@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Французкий материализм Дени Дендро.md",
+                "file": "00 Inbox/Французкий материализм Дени Дендро и Ламетри.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Французкий материализм Дени Дендро"
+              "title": "Французкий материализм Дени Дендро и Ламетри"
             }
           }
         ],
@@ -264,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Французкий материализм Дени Дендро.md",
+                "file": "00 Inbox/Французкий материализм Дени Дендро и Ламетри.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Французкий материализм Дени Дендро"
+              "title": "Исходящие ссылки из Французкий материализм Дени Дендро и Ламетри"
             }
           }
         ],
@@ -296,8 +296,9 @@
   },
   "active": "03aef1a94c9b9ca5",
   "lastOpenFiles": [
+    "Pasted image 20251112204417.png",
     "00 Inbox/Английский идеализм Джордж Беркли.md",
-    "00 Inbox/Французкий материализм Дени Дендро.md",
+    "00 Inbox/Французкий материализм Дени Дендро и Ламетри.md",
     "Pasted image 20251112204240.png",
     "Pasted image 20251112204107.png",
     "Pasted image 20251112204037.png",
@@ -331,7 +332,6 @@
     "01 Notes/202510071353 Символы (Symbols) в JavaScript.md",
     "01 Notes/202510031435 Методы примитивов.md",
     "01 Notes/202510071404 Объект window.md",
-    "01 Notes/202510071405 Объект location.md",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
