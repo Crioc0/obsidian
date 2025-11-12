@@ -121,67 +121,18 @@
             "id": "03aef1a94c9b9ca5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "00 Inbox/Теория познания Джона Лока.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "ea6d7b6034115743",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Теория познания Джона Лока"
             }
           }
         ],
-        "currentTab": 10
-      },
-      {
-        "id": "81b68686dc916e51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d2f56a0de63e7a0",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "0e14cd3379d4532c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -313,11 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Inbox/Теория познания Джона Лока.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Теория познания Джона Лока"
             }
           }
         ],
@@ -342,7 +294,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b66ff08d3135ea21",
+  "active": "03aef1a94c9b9ca5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "00 Inbox/Теория познания Джона Лока.md",
