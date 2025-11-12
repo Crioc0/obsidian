@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Теория познания Джона Лока.md",
+                "file": "00 Inbox/Английский идеализм Джордж Беркли.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Теория познания Джона Лока"
+              "title": "Английский идеализм Джордж Беркли"
             }
           }
         ],
@@ -264,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Теория познания Джона Лока.md",
+                "file": "00 Inbox/Английский идеализм Джордж Беркли.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Теория познания Джона Лока"
+              "title": "Исходящие ссылки из Английский идеализм Джордж Беркли"
             }
           }
         ],
@@ -296,13 +296,15 @@
   },
   "active": "03aef1a94c9b9ca5",
   "lastOpenFiles": [
+    "00 Inbox/Теория познания Джона Лока.md",
+    "00 Inbox/Английский идеализм Джордж Беркли.md",
+    "01 Notes/202511122039 Без названия.md",
     "Pasted image 20251112202913.png",
     "Pasted image 20251112202905.png",
     "Pasted image 20251112202801.png",
     "Pasted image 20251112202759.png",
     "Pasted image 20251112202726.png",
     "conflict-files-obsidian-git.md",
-    "00 Inbox/Теория познания Джона Лока.md",
     "Pasted image 20251112202432.png",
     "00 Inbox/Эмпиризм Бекона.md",
     "00 Inbox/Возникновение науки - истоки античной преднауки.md",
@@ -330,8 +332,6 @@
     "01 Notes/202510071404 Объект window.md",
     "01 Notes/202510071405 Объект location.md",
     "01 Notes/202510071403 Объект history.md",
-    "02 Structure notes/JavaScript.md",
-    "03 Assets/Шрифт Вернама с двоичным кодом.png",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
