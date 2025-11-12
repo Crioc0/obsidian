@@ -243,6 +243,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "622cfb0852aa2280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Inbox/Возникновение науки - истоки античной преднауки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Возникновение науки - истоки античной преднауки"
+            }
           }
         ],
         "currentTab": 3
