@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Английский идеализм Джордж Беркли.md",
+                "file": "00 Inbox/Французкий материализм Дени Дендро.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Английский идеализм Джордж Беркли"
+              "title": "Французкий материализм Дени Дендро"
             }
           }
         ],
@@ -264,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Английский идеализм Джордж Беркли.md",
+                "file": "00 Inbox/Французкий материализм Дени Дендро.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Английский идеализм Джордж Беркли"
+              "title": "Исходящие ссылки из Французкий материализм Дени Дендро"
             }
           }
         ],
@@ -296,10 +296,12 @@
   },
   "active": "03aef1a94c9b9ca5",
   "lastOpenFiles": [
+    "00 Inbox/Английский идеализм Джордж Беркли.md",
+    "00 Inbox/Французкий материализм Дени Дендро.md",
+    "Pasted image 20251112204240.png",
     "Pasted image 20251112204107.png",
     "Pasted image 20251112204037.png",
     "00 Inbox/Теория познания Джона Лока.md",
-    "00 Inbox/Английский идеализм Джордж Беркли.md",
     "01 Notes/202511122039 Без названия.md",
     "Pasted image 20251112202913.png",
     "Pasted image 20251112202905.png",
@@ -314,8 +316,6 @@
     "00 Inbox/Рационализм.md",
     "Additional Instructions.md",
     "Pasted image 20251111131726.png",
-    "Pasted image 20251111131349.png",
-    "Pasted image 20251111130852.png",
     "01 Notes/202511111248 Без названия.md",
     "01 Notes/202511122022 Без названия.md",
     "00 Inbox/Vite.md",
