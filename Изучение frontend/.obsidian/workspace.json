@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Учение канта.md",
+                "file": "00 Inbox/Неокантианство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Учение канта"
+              "title": "Неокантианство"
             }
           }
         ],
@@ -278,12 +278,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Учение канта.md",
+                "file": "00 Inbox/Неокантианство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Учение канта"
+              "title": "Исходящие ссылки из Неокантианство"
             }
           }
         ],
@@ -312,7 +312,7 @@
   "lastOpenFiles": [
     "Pasted image 20251116190346.png",
     "01 Notes/202511161902 Без названия.md",
-    "00 Inbox/Учение канта.md",
+    "00 Inbox/Неокантианство.md",
     "01 Notes/Без названия.md",
     "00 Inbox/Эмпиризм Бекона.md",
     "00 Inbox/Французкий материализм Дени Дендро и Жульен Ламетри.md",
