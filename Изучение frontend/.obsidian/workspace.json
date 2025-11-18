@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Vite.md",
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vite"
+              "title": "202509271816 Защита роутов авторизацией"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#уровень_0",
+                "query": "Bea",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -278,12 +279,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Vite.md",
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Vite"
+              "title": "Исходящие ссылки из 202509271816 Защита роутов авторизацией"
             }
           }
         ],
@@ -310,10 +311,10 @@
   },
   "active": "4138e7f20ab31eaf",
   "lastOpenFiles": [
+    "00 Inbox/Vite.md",
     "00 Inbox/Английский идеализм Джордж Беркли.md",
     "00 Inbox/Возникновение науки - истоки античной преднауки.md",
     "00 Inbox/Эмпиризм Бекона.md",
-    "00 Inbox/Vite.md",
     "00 Inbox/Неокантианство.md",
     "00 Inbox/Рационализм.md",
     "00 Inbox/Теория познания Джона Лока.md",
