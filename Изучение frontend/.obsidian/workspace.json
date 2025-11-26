@@ -128,89 +128,9 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
-          },
-          {
-            "id": "1b83722e741aed71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
-            }
-          },
-          {
-            "id": "a4862f2a8b3f9342",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251112202913.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251112202913"
-            }
-          },
-          {
-            "id": "14303200606d8ef2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "e1d3c21be0b2d596",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Conflicts.md",
-                "bFile": "Изучение frontend/Conflicts.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Conflicts"
-            }
-          },
-          {
-            "id": "3516f05f1569dc34",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Conflicts.md",
-                "bFile": "Изучение frontend/Conflicts.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Conflicts"
-            }
-          },
-          {
-            "id": "45648ecea06f009a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Conflicts.md",
-                "bFile": "Изучение frontend/Conflicts.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Conflicts"
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -372,13 +292,13 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "45648ecea06f009a",
+  "active": "9f403a795232390e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Conflicts.md",
+    "Additional Instructions.md",
+    "conflict-files-obsidian-git.md",
     "Без названия.md",
     "01 Notes/202511261147 Без названия.md",
-    "Conflicts.md",
     "Pasted image 20251112202913.png",
     "Pasted image 20251116190346.png",
     "Pasted image 20251112204709.png",
@@ -389,7 +309,6 @@
     "Pasted image 20251112204037.png",
     "Pasted image 20251112202905.png",
     "Pasted image 20251112202801.png",
-    "Additional Instructions.md",
     "01 Notes/202511161902 Без названия.md",
     "00 Inbox/Французкий материализм Дени Дендро и Жульен Ламетри.md",
     "00 Inbox/Теория познания Джона Лока.md",
