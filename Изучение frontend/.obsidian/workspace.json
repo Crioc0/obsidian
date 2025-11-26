@@ -140,9 +140,77 @@
               "icon": "lucide-book-up",
               "title": "примечания к выпуску 1.10.3"
             }
+          },
+          {
+            "id": "a4862f2a8b3f9342",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251112202913.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251112202913"
+            }
+          },
+          {
+            "id": "14303200606d8ef2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
+                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "e1d3c21be0b2d596",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/Conflicts.md",
+                "bFile": "Изучение frontend/Conflicts.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Conflicts"
+            }
+          },
+          {
+            "id": "3516f05f1569dc34",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/Conflicts.md",
+                "bFile": "Изучение frontend/Conflicts.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Conflicts"
+            }
+          },
+          {
+            "id": "45648ecea06f009a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/Conflicts.md",
+                "bFile": "Изучение frontend/Conflicts.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Conflicts"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -304,15 +372,32 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "1b83722e741aed71",
+  "active": "45648ecea06f009a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Conflicts.md",
+    "Без названия.md",
+    "01 Notes/202511261147 Без названия.md",
+    "Conflicts.md",
+    "Pasted image 20251112202913.png",
+    "Pasted image 20251116190346.png",
+    "Pasted image 20251112204709.png",
+    "Pasted image 20251112204600.png",
+    "Pasted image 20251112204417.png",
+    "Pasted image 20251112204240.png",
+    "Pasted image 20251112204107.png",
+    "Pasted image 20251112204037.png",
+    "Pasted image 20251112202905.png",
+    "Pasted image 20251112202801.png",
+    "Additional Instructions.md",
+    "01 Notes/202511161902 Без названия.md",
+    "00 Inbox/Французкий материализм Дени Дендро и Жульен Ламетри.md",
+    "00 Inbox/Теория познания Джона Лока.md",
+    "00 Inbox/Неокантианство.md",
+    "00 Inbox/Английский идеализм Джордж Беркли.md",
     "00 Inbox/Эмпиризм Бекона.md",
-    "Pasted image 20251111131726.png",
-    "Pasted image 20251111131349.png",
     "00 Inbox/Механицизм.md",
     "00 Inbox/Рационализм.md",
-    "Pasted image 20251111130852.png",
-    "Pasted image 20251111130612.png",
     "01 Notes/202511111248 Без названия.md",
     "00 Inbox/Возникновение науки - истоки античной преднауки.md",
     "02 Structure notes/JavaScript.md",
@@ -325,22 +410,6 @@
     "01 Notes/202510071344 Объекты в JS.md",
     "01 Notes/202510071338 Вложенное (глубокое) копирование.md",
     "01 Notes/202510071350 Методы объекта, this.md",
-    "01 Notes/202510071400 Событие popstate.md",
-    "01 Notes/202510071511 Eventloop в JavaScript.md",
-    "01 Notes/202510071513 Сборка мусора JavaScript.md",
-    "01 Notes/202510071529 Реактивность в JavaScript.md",
-    "01 Notes/202509300826 Как работает INNER JOIN.md",
-    "01 Notes/202509291206 Приведение типов в запросах.md",
-    "01 Notes/202509241029 Запросы в MongoDB.md",
-    "01 Notes/202509241205 Проекции в MongoDB.md",
-    "01 Notes/202509291138 Агрегирующие функции.md",
-    "01 Notes/202509291150 Агрегирующая функция AVG.md",
-    "03 Assets/Шрифт Вернама с двоичным кодом.png",
-    "03 Assets/Шифр подстановки.png",
-    "03 Assets/Шифр вернама.png",
-    "03 Assets/Шифр Виженера.png",
-    "03 Assets/Упрощенная схема блочного шифра.png",
-    "03 Assets/Расшифровка шифра вернама.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Zettlecasten/Без названия 1.base",
