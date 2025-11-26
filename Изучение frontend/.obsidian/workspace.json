@@ -128,9 +128,23 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "a0138b7cae772685",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/.obsidian/workspace.json",
+                "bFile": "Изучение frontend/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -292,11 +306,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "9f403a795232390e",
+  "active": "a0138b7cae772685",
   "lastOpenFiles": [
     "Conflicts.md",
     "Additional Instructions.md",
-    "conflict-files-obsidian-git.md",
+    "Conflicts.md",
     "Без названия.md",
     "01 Notes/202511261147 Без названия.md",
     "Pasted image 20251112202913.png",
