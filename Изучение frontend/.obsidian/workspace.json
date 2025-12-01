@@ -135,16 +135,28 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
+                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
+                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "f3d618e3067bac9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.6"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -306,12 +318,11 @@
       "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "a0138b7cae772685",
+  "active": "f3d618e3067bac9a",
   "lastOpenFiles": [
     "Conflicts.md",
-    "Additional Instructions.md",
-    "Conflicts.md",
     "Без названия.md",
+    "Additional Instructions.md",
     "01 Notes/202511261147 Без названия.md",
     "Pasted image 20251112202913.png",
     "Pasted image 20251116190346.png",
