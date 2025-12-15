@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56fbc446741525b9",
+        "id": "00cf473a2fd43d24",
         "type": "tabs",
         "children": [
           {
-            "id": "caf289bffee46a3c",
+            "id": "224ef981f35d3753",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,49 +18,63 @@
             }
           },
           {
-            "id": "09f7e65d663965b3",
+            "id": "d273c42e844a6e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Дизайн.md",
+                "file": "01 Notes/202510022045 Защитник.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дизайн"
+              "title": "202510022045 Защитник"
             }
           },
           {
-            "id": "db4bab8b8c30be77",
+            "id": "a530b440c956be55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Structure notes/Итераторы.md",
+                "file": "01 Notes/202510041333 DTO в NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Итераторы"
+              "title": "202510041333 DTO в NestJS"
             }
           },
           {
-            "id": "bdf8932ab2e0a0ee",
+            "id": "06ce7b83cb967e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202512151247 Без названия.md",
+                "file": "01 Notes/202510081419 Встроенные компоненты в Vue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202512151247 Без названия"
+              "title": "202510081419 Встроенные компоненты в Vue"
             }
           },
           {
-            "id": "35bdb99a00145540",
+            "id": "458709d40ac7ec34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Zettelcasten Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zettelcasten Note"
+            }
+          },
+          {
+            "id": "1fc02a2d24bc10f6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -70,21 +84,7 @@
             }
           },
           {
-            "id": "766ab5432744b246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510241020 Потоковые шрифты.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510241020 Потоковые шрифты"
-            }
-          },
-          {
-            "id": "fd9795dfa9a7a8bf",
+            "id": "40c7e113b56c18e0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,41 +94,7 @@
             }
           },
           {
-            "id": "df4b61108c4fb06c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "5db289e187df9c0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/202510231204 Сеть.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510231204 Сеть"
-            }
-          },
-          {
-            "id": "2a725397d8c02e17",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "32d4c79865ec0b16",
+            "id": "8ef4935a0bc05f75",
             "type": "leaf",
             "state": {
               "type": "repeating-notes-due-view",
@@ -138,41 +104,49 @@
             }
           },
           {
-            "id": "a8c9ac67075aeb34",
+            "id": "34bf6decdb98e759",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "c30d507a0a61c0e1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "a0138b7cae772685",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "bFile": "Изучение frontend/conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "00 Inbox/Теория познания Джона Лока.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Теория познания Джона Лока"
             }
           },
           {
-            "id": "f3d618e3067bac9a",
+            "id": "03aef1a94c9b9ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Эмпиризм Бекона.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эмпиризм Бекона"
+            }
+          },
+          {
+            "id": "4138e7f20ab31eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202509271816 Защита роутов авторизацией"
+            }
+          },
+          {
+            "id": "7c95772004bc8008",
             "type": "leaf",
             "state": {
               "type": "release-notes",
@@ -184,45 +158,50 @@
             }
           },
           {
-            "id": "fafa79aff4f3f384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conflicts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conflicts"
-            }
-          },
-          {
-            "id": "3fe1e9ffdcbff4ee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "2ac33fd3239570a2",
+            "id": "6729ea963cff9575",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Изучение frontend/.obsidian/workspace.json",
-                "bFile": "Изучение frontend/.obsidian/workspace.json",
+                "aFile": "Изучение frontend/Без названия.md",
+                "bFile": "Изучение frontend/Без названия.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Без названия"
+            }
+          },
+          {
+            "id": "690e29296994261e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/01 Notes/202512061852 Без названия.md",
+                "bFile": "Изучение frontend/01 Notes/202512061852 Без названия.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: 202512061852 Без названия"
+            }
+          },
+          {
+            "id": "6a4867d8179e2633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/202512141204 Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202512141204 Без названия"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -254,8 +233,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#network",
-                "matchingCase": false,
+                "query": "Bea",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -279,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 300
   },
   "right": {
     "id": "6b71f0a5fa852ccf",
@@ -295,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlecasten/B-деревья.md",
+                "file": "00 Inbox/Возникновение науки - истоки античной преднауки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,21 +284,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для B-деревья"
-            }
-          },
-          {
-            "id": "f0042f80cd020efd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из 202510231503 Шифротекст и ключ шифрования"
+              "title": "Обратные ссылки для Возникновение науки - истоки античной преднауки"
             }
           },
           {
@@ -328,8 +293,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -343,17 +308,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510231503 Шифротекст и ключ шифрования.md",
+                "file": "00 Inbox/Возникновение науки - истоки античной преднауки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510231503 Шифротекст и ключ шифрования"
+              "title": "Структура Возникновение науки - истоки античной преднауки"
             }
           },
           {
-            "id": "8931235a5ec4568e",
+            "id": "b66ff08d3135ea21",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -361,9 +326,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "622cfb0852aa2280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Notes/202509271816 Защита роутов авторизацией.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 202509271816 Защита роутов авторизацией"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -377,62 +356,62 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Открыть случайную заметку": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "templater-obsidian:Templater": false,
-      "repeat-plugin:Repeat due notes": false
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-git:Open Git source control": false,
+      "repeat-plugin:Repeat due notes": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bdf8932ab2e0a0ee",
+  "active": "6a4867d8179e2633",
   "lastOpenFiles": [
     "02 Structure notes/Итераторы.md",
     "01 Notes/202512151247 Без названия.md",
     "01 Notes/202512151246 Без названия.md",
-    "02 Structure notes/Дизайн.md",
     "01 Notes/202512141204 Без названия.md",
-    "01 Notes/202512061852 Без названия.md",
-    "01 Notes/202512011234 202512011234.md",
-    "00 Inbox/Vite.md",
     "conflict-files-obsidian-git.md",
-    "Conflicts.md",
+    "01 Notes/202512061852 Без названия.md",
+    "02 Structure notes/Дизайн.md",
+    "01 Notes/202512011234 202512011234.md",
     "Без названия.md",
-    "Additional Instructions.md",
     "01 Notes/202511261147 Без названия.md",
-    "Pasted image 20251112202913.png",
+    "00 Inbox/Vite.md",
+    "00 Inbox/Английский идеализм Джордж Беркли.md",
+    "00 Inbox/Возникновение науки - истоки античной преднауки.md",
+    "00 Inbox/Эмпиризм Бекона.md",
+    "00 Inbox/Неокантианство.md",
+    "00 Inbox/Рационализм.md",
+    "00 Inbox/Теория познания Джона Лока.md",
+    "00 Inbox/Механицизм.md",
     "Pasted image 20251116190346.png",
+    "01 Notes/202511161902 Без названия.md",
+    "00 Inbox/Французкий материализм Дени Дендро и Жульен Ламетри.md",
     "Pasted image 20251112204709.png",
     "Pasted image 20251112204600.png",
     "Pasted image 20251112204417.png",
     "Pasted image 20251112204240.png",
     "Pasted image 20251112204107.png",
     "Pasted image 20251112204037.png",
+    "01 Notes/202511122039 Без названия.md",
+    "Pasted image 20251112202913.png",
     "Pasted image 20251112202905.png",
     "Pasted image 20251112202801.png",
-    "01 Notes/202511161902 Без названия.md",
-    "00 Inbox/Французкий материализм Дени Дендро и Жульен Ламетри.md",
-    "00 Inbox/Теория познания Джона Лока.md",
-    "00 Inbox/Неокантианство.md",
-    "00 Inbox/Английский идеализм Джордж Беркли.md",
-    "00 Inbox/Эмпиризм Бекона.md",
-    "00 Inbox/Механицизм.md",
-    "00 Inbox/Рационализм.md",
+    "Additional Instructions.md",
     "01 Notes/202511111248 Без названия.md",
-    "00 Inbox/Возникновение науки - истоки античной преднауки.md",
-    "02 Structure notes/JavaScript.md",
-    "01 Notes/202510071402 Spread и rest операторы в JS.md",
-    "01 Notes/202510031437 Массивы в JS.md",
-    "Без названия 1.canvas",
-    "Без названия.canvas",
+    "01 Notes/202511122022 Без названия.md",
+    "Conflicts.md",
+    "01 Notes/202510231202 Получение электронных писем.md",
+    "00 Inbox",
+    "03 Assets",
+    "02 Structure notes",
+    "tags",
+    "01 Notes",
+    "Zettlecasten/Без названия 2.base",
     "Zettlecasten/Без названия 1.base",
     "Zettlecasten/Без названия.base",
-    "Zettlecasten/Без названия 2.base",
-    "Zettlecasten/Без названия 7.base",
-    "Zettlecasten/Без названия 5.base",
-    "Zettlecasten/Без названия 4.base",
-    "Zettlecasten/Без названия 3.base",
-    "Zettlecasten/Без названия 6.base",
-    "tags",
-    "03 Assets"
+    "Без названия.canvas",
+    "Браузерное окружение, спецификации.html",
+    "Без названия 1.canvas",
+    "Zettlecasten/react/Без названия"
   ]
 }
