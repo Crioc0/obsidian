@@ -74,36 +74,6 @@
             }
           },
           {
-            "id": "1fc02a2d24bc10f6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "40c7e113b56c18e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "8ef4935a0bc05f75",
-            "type": "leaf",
-            "state": {
-              "type": "repeating-notes-due-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Repeat"
-            }
-          },
-          {
             "id": "34bf6decdb98e759",
             "type": "leaf",
             "state": {
@@ -175,14 +145,14 @@
             "id": "0ae155c532682c47",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "01 Notes/202509240819 Типы данных в MongoDB.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "202509240819 Типы данных в MongoDB"
             }
           },
           {
@@ -199,8 +169,7 @@
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -362,8 +331,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ae155c532682c47",
+  "active": "224ef981f35d3753",
   "lastOpenFiles": [
+    "01 Notes/202509240819 Типы данных в MongoDB.md",
     "01 Notes/202601122054 Без названия.md",
     "01 Notes/202512141204 Без названия.md",
     "conflict-files-obsidian-git.md",
@@ -399,7 +369,6 @@
     "01 Notes/202511122039 Без названия.md",
     "Pasted image 20251112202913.png",
     "Pasted image 20251112202905.png",
-    "Additional Instructions.md",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
