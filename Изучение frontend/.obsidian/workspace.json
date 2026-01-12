@@ -158,35 +158,6 @@
             }
           },
           {
-            "id": "6729ea963cff9575",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/Без названия.md",
-                "bFile": "Изучение frontend/Без названия.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Без названия"
-            }
-          },
-          {
-            "id": "690e29296994261e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/01 Notes/202512061852 Без названия.md",
-                "bFile": "Изучение frontend/01 Notes/202512061852 Без названия.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 202512061852 Без названия"
-            }
-          },
-          {
             "id": "6a4867d8179e2633",
             "type": "leaf",
             "state": {
@@ -213,23 +184,9 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
-          },
-          {
-            "id": "9472b663de2ef16a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Изучение frontend/01 Notes/202512151247 Что такое итератор.md",
-                "bFile": "Изучение frontend/01 Notes/202512151247 Что такое итератор.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 202512151247 Что такое итератор"
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -391,7 +348,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9472b663de2ef16a",
+  "active": "6a4867d8179e2633",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "01 Notes/202512151247 Что такое итератор.md",
