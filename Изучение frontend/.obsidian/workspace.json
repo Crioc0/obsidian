@@ -213,9 +213,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "9472b663de2ef16a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/01 Notes/202512151247 Что такое итератор.md",
+                "bFile": "Изучение frontend/01 Notes/202512151247 Что такое итератор.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 202512151247 Что такое итератор"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -377,9 +391,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b66ff08d3135ea21",
+  "active": "9472b663de2ef16a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "01 Notes/202512151247 Что такое итератор.md",
     "01 Notes/202601122050 Что такое функция.md",
     "01 Notes/202512141204 Без названия.md",
     "Pasted image 20251221084930.png",
@@ -414,7 +429,6 @@
     "Pasted image 20251112202905.png",
     "Additional Instructions.md",
     "01 Notes/202511111248 Без названия.md",
-    "01 Notes/202511122022 Без названия.md",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
