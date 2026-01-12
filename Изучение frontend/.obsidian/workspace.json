@@ -199,9 +199,23 @@
               "icon": "lucide-file",
               "title": "202512141204 Без названия"
             }
+          },
+          {
+            "id": "babde72065894a6f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Изучение frontend/.obsidian/workspace.json",
+                "bFile": "Изучение frontend/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -363,13 +377,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a4867d8179e2633",
+  "active": "b66ff08d3135ea21",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "01 Notes/202601122050 Что такое функция.md",
+    "01 Notes/202512141204 Без названия.md",
+    "Pasted image 20251221084930.png",
+    "01 Notes/202512151247.md",
     "02 Structure notes/Итераторы.md",
     "01 Notes/202512151247 Без названия.md",
     "01 Notes/202512151246 Без названия.md",
-    "01 Notes/202512141204 Без названия.md",
-    "conflict-files-obsidian-git.md",
     "01 Notes/202512061852 Без названия.md",
     "02 Structure notes/Дизайн.md",
     "01 Notes/202512011234 202512011234.md",
@@ -395,12 +412,9 @@
     "01 Notes/202511122039 Без названия.md",
     "Pasted image 20251112202913.png",
     "Pasted image 20251112202905.png",
-    "Pasted image 20251112202801.png",
     "Additional Instructions.md",
     "01 Notes/202511111248 Без названия.md",
     "01 Notes/202511122022 Без названия.md",
-    "Conflicts.md",
-    "01 Notes/202510231202 Получение электронных писем.md",
     "00 Inbox",
     "03 Assets",
     "02 Structure notes",
