@@ -3,6 +3,7 @@ tags:
   - уровень_0
   - typeORM
 ---
+# TypeORM
 ### Связи с другими Structure Notes
 
 [[]]
