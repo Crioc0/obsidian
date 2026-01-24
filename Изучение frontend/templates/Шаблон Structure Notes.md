@@ -2,6 +2,7 @@
 tags:
   - уровень_0
 ---
+# Шаблон Structure Notes
 ### Связи с другими Structure Notes
 
 [[]]

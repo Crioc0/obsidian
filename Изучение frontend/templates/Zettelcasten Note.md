@@ -4,6 +4,7 @@ tags:
 created: 2026-01-24
 related:
 ---
+# Zettelcasten Note
 # 
 
 ## Что это? (Определение)
