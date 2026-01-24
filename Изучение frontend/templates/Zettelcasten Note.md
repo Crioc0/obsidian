@@ -4,9 +4,9 @@ tags:
   - review
 created: 2026-01-24
 related:
-sr-due: 2026-01-28
-sr-interval: 4
-sr-ease: 270
+
+repeat: daily
+due_at: 2026-01-25T06:00:00.000+03:00
 ---
 # Zettelcasten Note
 
