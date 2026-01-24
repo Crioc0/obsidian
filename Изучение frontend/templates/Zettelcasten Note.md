@@ -1,8 +1,12 @@
 ---
 tags:
   - концепция
+  - review
 created: 2026-01-24
 related:
+sr-due: 2026-01-28
+sr-interval: 4
+sr-ease: 270
 ---
 # Zettelcasten Note
 
