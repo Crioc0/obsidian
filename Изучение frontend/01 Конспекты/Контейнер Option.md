@@ -8,7 +8,7 @@ related:
 repeat: daily
 due_at: 2026-01-25T16:03:38.464+03:00
 ---
-# Option
+# Контейнер Option
 
 
 ## Что это? (Определение)
@@ -30,7 +30,22 @@ getUserById(42)
 .map(friends => friends.filter(({name}) => name.startWith("B")));
 // Функция выполнится только в случае Some
 ```
-
+Пример контейнера Option с использованием классов
 ```js
-class Option { static None = new Option(0); static Some(value) { return new Option(1, value); }; #value; #state = 0; // 0 значит данных нет constructor(state, value = undefined) { this.#state = state; this.#value = value; } isNone() { return this.#state === 0; } or(value) { return this.isNone() ? Option.Some(value) : this; } flatMap(fn) { return this.isNone() ? this : fn(this.#value); } map(fn) { return this.isNone
+class Option { 
+	static None = new Option(0); 
+	static Some(value) { return new Option(1, value); }; 
+	#value; 
+	#state = 0; // 0 значит данных нет 
+	constructor(state, value = undefined) { 
+		this.#state = state; 
+		this.#value = value; } 
+	isNone() { return this.#state === 0; } 
+	
+	or(value) { return this.isNone() ? Option.Some(value) : this; } 
+	
+	flatMap(fn) { return this.isNone() ? this : fn(this.#value); } 
+	
+	map(fn) { return this.isNone() ? this : Option.Some(fn(this.#value)); 
+}
 ```
