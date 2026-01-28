@@ -24,15 +24,15 @@ API Promise в JS удобно использовать в качестве за
 ```js
 function readConfig() { 
 	return readFileSync("/etc/app/config.json") 
-	.catch(_ => fs.readFile("~/.config/app.json")) 
-	.catch(_ => fs.readFile("config.json")) 
-	.then(content => { 
+		.catch(_ => fs.readFile("~/.config/app.json")) 
+		.catch(_ => fs.readFile("config.json")) 
+		.then(content => { 
 		if (content.trim().length > 0) { 
 			return content; 
 		} 
 		throw "Empty config"; }) 
-	.then(JSON.parse) 
-	.catch(_ => ({})); // Дефолтные настройки 
+		.then(JSON.parse) 
+		.catch(_ => ({})); // Дефолтные настройки 
 }
  
 readConfig().then(console.log);
