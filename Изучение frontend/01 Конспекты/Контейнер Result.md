@@ -28,7 +28,22 @@ console.log(Result.Err("Ooops").unwrap(42)); // 42
 ```
 Либо завернуть unwrap внутрь блока if
 ```js
-const value = Result.Err("Ooops"); if (!value.isErr()) { const raw = value.unwrap(); console.log(raw); }
+const value = Result.Err("Ooops"); 
+if (!value.isErr()) { 
+	const raw = value.unwrap(); 
+	console.log(raw); 
+	 }
+```
+Или инвертировать условие
+```js
+function doSomething(value) { 
+	if (value.isErr()) { 
+		return value; 
+	} 
+	value = value.unwrap(); 
+	console.log(value); 
+	
+	return Result.Ok(); }
 ```
 
 Так же можно повторить логику unwrap с использованием **генераторов**, по сути повторяя логику async await без завязки на микротаски, но код станет зашумленным, а использование генераторов не бесплатно
@@ -98,4 +113,31 @@ class Result {
 } 
 console.log(Result.Ok(42).unwrap()); // 42 
 console.log(Result.Err(42).unwrap()); // Oops
+```
+Пример с генераторами
+```js
+function exec(fn) { 
+	const ctx = fn() ; 
+	function next(step) { 
+		try { 
+			if (step.done) { 
+				return Result.resolve(step.value ) ; 
+			} 
+			
+			return Result.resolve(step.value ) 
+				.then((value) => next(ctx.next(value))) 
+				.catch((err) => next(ctx.throw(err))); 
+		} catch (err) { 
+			return Result.Err(err) ; 
+		} 
+	}
+	 
+	return next(ctx.next()) ; 
+} 
+
+exec (function* (){ 
+	let value = yield Result.Ok (42 ) ; 
+	console .log(value) ; 
+	yield Result.Err ("Ooops" ) 
+	}).catch (console .error ); // "Ooops
 ```
