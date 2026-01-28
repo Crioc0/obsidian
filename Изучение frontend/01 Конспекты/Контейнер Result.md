@@ -22,7 +22,7 @@ due_at: 2026-01-25T16:03:38.464+03:00
 
 
 ## Как это работает? (Принцип)
-
+Все равно происходит создание микротакски при await по концепции Thenable объектов, но можно сделать метод unwrap, который будет возвращать значение контейнера или выбрасывать исключение. По сути await работает также, но await функция не дает исключению выйти за её пределы.  А в случае с unwrap в синхронном контексте выброшенное исключение может наделать дел
 
 ## Пример 
 
@@ -56,4 +56,37 @@ class Result {
 }
  
 console.log(await Result.Ok(42)); // 42
+```
+
+Пример с unwrap
+```js
+class Result { 
+	static Err(value) { return new Result(0, value); }; 
+	static Ok(value) { return new Result(1, value); }; 
+	static resolve(value) { return value instanceof Result ? value : Result.Ok(value); }; 
+	#value; 
+	#state = 0; // 0 значит ошибка 
+	constructor(state, value = undefined) { 
+		this.#state = state; 
+		this.#value = value; 
+	} 
+	
+	isErr() { return this.#state === 0; } 
+	unwrap() { 
+		if (this.isErr()) { 
+			throw this.#value; 
+		} else { 
+			return this.#value; 
+		} 
+	} 
+	unwrapErr() { 
+		if (this.isErr()) { 
+			return this.#value; 
+		} else { 
+		throw this.#value; 
+		} 
+	} 
+} 
+console.log(Result.Ok(42).unwrap()); // 42 
+console.log(Result.Err(42).unwrap()); // Oops
 ```
