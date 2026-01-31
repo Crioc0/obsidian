@@ -19,8 +19,8 @@ due_at: 2026-02-01T09:47:25.551+03:00
 ## Как это работает? (Принцип)
 Структурно можно использовать несколько тегов :
 1) **caption** для описания (или названия) таблицы
-2) **colgroup** для указания групп столбцов. (должен указываться обязательно перед любыми тегами таблицы кроме **figcaption**). 
-3) **col** должен находиться внутри **colgroup** Для указания нужно передать атрибут **span** с числом колонок в группе
+2) **colgroup** для указания групп столбцов. (должен указываться обязательно перед любыми тегами таблицы кроме **figcaption**).  
+3) **col** должен находиться внутри **colgroup**  Для указания нужно передать атрибут **span** с числом колонок в группе
 4) **thead** для указания строк шапки таблицы (ячеек с заголовками)
 5) **th** для указания ячеек в заголовке
 6) **tbody** для указания тела таблицы
@@ -33,3 +33,33 @@ due_at: 2026-02-01T09:47:25.551+03:00
 ![[Pasted image 20260131211543.png]]
 
 ## Пример 
+```html
+<table>
+  <caption>
+    Superheros and sidekicks
+  </caption>
+  <colgroup>
+    <col />
+    <col span="2" class="batman" />
+    <col span="2" class="flash" />
+  </colgroup>
+  <thead>
+    <tr>
+      <td></td>
+      <th scope="col">Batman</th>
+      <th scope="col">Robin</th>
+      <th scope="col">The Flash</th>
+      <th scope="col">Kid Flash</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Skill</th>
+      <td>Smarts, strong</td>
+      <td>Dex, acrobat</td>
+      <td>Super speed</td>
+      <td>Super speed</td>
+    </tr>
+  </tbody>
+</table>
+```
