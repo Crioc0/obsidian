@@ -1,6 +1,5 @@
 ---
 tags:
-  - концепция
   - review
 created: 2026-01-24
 related:
