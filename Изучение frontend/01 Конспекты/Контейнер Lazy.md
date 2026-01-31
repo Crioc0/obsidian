@@ -4,8 +4,8 @@ tags:
   - review
 created: 2026-01-24
 related:
-repeat: spaced every day
-due_at: 2026-01-30T06:00:00.000+03:00
+repeat: spaced every 12 hours
+due_at: 2026-01-31T07:50:43.751+03:00
 ---
 # Контейнер Lazy
 
