@@ -3,6 +3,7 @@ tags:
   - review
 created: 2026-01-24
 related:
+  - "[[Частично примененные функции]]"
 repeat: spaced every 96 hours
 due_at: 2026-02-06T16:18:39.524+03:00
 ---
@@ -15,8 +16,17 @@ due_at: 2026-02-06T16:18:39.524+03:00
 ## Улучшенный вариант
 ```ts
 function call(fn,...args){
-	if()	
+	if(fn.length > args.length)	{
+		return fn.bind(null, ...args)
+	}
+	
+	return fn(...args)
 }
+
+const sum = (a,b,c)=>a+b+c
+const add42 = call(sum,10,32)
+
+console.log(call(add42,10)); // 52
 ```
 
 
