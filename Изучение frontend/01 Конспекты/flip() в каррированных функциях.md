@@ -66,7 +66,7 @@ const fruitsToCheck = ['apple', 'grape'];
 filter(hasValue(items), fruitsToCheck); // ['apple']
 ```
 
-с этим примером пjдробнее
+с этим примером подробнее
 Когда мы хотим проверить, содержится ли элемент в массиве, мы обычно думаем так:
 
 - У нас есть массив `items`
@@ -92,4 +92,36 @@ const hasValue = flip(includes);
 // Теперь hasValue имеет сигнатуру: (array, value) => boolean
 // Или в каррированном виде: (array) => (value) => boolean
 ```
-Что происходит в 
+Что происходит в примере
+```js
+const items = ['apple', 'banana', 'orange'];
+const fruitsToCheck = ['apple', 'grape'];
+
+// 1. hasValue(items) возвращает функцию:
+//    (value) => includes(value, items)
+
+// 2. filter применяет эту функцию к каждому элементу fruitsToCheck:
+//    Для 'apple': hasValue(items)('apple') => includes('apple', items) => true
+//    Для 'grape': hasValue(items)('grape') => includes('grape', items) => false
+
+filter(hasValue(items), fruitsToCheck); // ['apple']
+```
+Визуализация потока данных
+```js
+
+///
+fruitsToCheck = ['apple', 'grape']
+items = ['apple', 'banana', 'orange']
+
+filter(hasValue(items), fruitsToCheck)
+  ↓
+filter(
+  fruit => includes(fruit, ['apple', 'banana', 'orange']),
+  ['apple', 'grape']
+)
+  ↓
+[
+  'apple'  // проходит проверку: 'apple' ∈ ['apple', 'banana', 'orange']
+  // 'grape' не проходит
+]
+```
