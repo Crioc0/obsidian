@@ -53,3 +53,43 @@ divideBy2(10); // 5 (10 / 2)
 const divideBy5 = divideBy(5);
 divideBy5(10); // 2 (10 / 5)
 ```
+Пример исользования в библиотеке
+```js
+// В библиотеке Ramda flip используется часто
+import { flip, includes, filter } from 'ramda';
+
+const hasValue = flip(includes);
+
+const items = ['apple', 'banana', 'orange'];
+const fruitsToCheck = ['apple', 'grape'];
+
+filter(hasValue(items), fruitsToCheck); // ['apple']
+```
+
+с этим примером пjдробнее
+Когда мы хотим проверить, содержится ли элемент в массиве, мы обычно думаем так:
+
+- У нас есть массив `items`
+- Мы хотим проверить, содержит ли он определенное значение
+
+Но функция `includes` ожидает: `includes(value, array)`
+
+Поэтому если мы хотим создать функцию `hasValue`, которая принимает массив и проверяет, содержит ли он значение, нам нужно:
+```js
+// Так не сработает, потому что includes ожидает значение первым
+const hasValue = (array) => (value) => includes(value, array); 
+
+// Или с каррированием:
+const hasValue = (array) => includes(???)(array) // Проблема: includes ждет значение первым
+```
+Решение следующее
+```js
+// flip(includes) меняет порядок аргументов:
+// Было: includes(value, array) => boolean
+// Стало: flip(includes)(array, value) => boolean
+
+const hasValue = flip(includes);
+// Теперь hasValue имеет сигнатуру: (array, value) => boolean
+// Или в каррированном виде: (array) => (value) => boolean
+```
+Что происходит в 
