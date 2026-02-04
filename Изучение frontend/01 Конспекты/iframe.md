@@ -4,6 +4,7 @@ tags:
   - HTML
 created: 2026-01-24
 related:
+  - "[[HTML]]"
 repeat: spaced every 96 hours
 due_at: 2026-02-06T16:18:37.313+03:00
 ---
