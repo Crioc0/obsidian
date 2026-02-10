@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Виды вычислительный контейнеров]]"
-repeat: spaced every 28 hours
-due_at: 2026-02-06T01:18:48.255+03:00
+repeat: spaced every 56 hours
+due_at: 2026-02-12T18:20:15.529+03:00
 ---
 # Контейнер Result
 
