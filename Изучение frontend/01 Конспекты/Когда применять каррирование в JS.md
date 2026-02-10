@@ -1,8 +1,10 @@
 ---
 tags:
   - review
+  - концепция
 created: 2026-01-24
 related:
+  - "[[Каррирование]]"
 repeat: spaced every 96 hours
 due_at: 2026-02-06T16:18:39.524+03:00
 ---

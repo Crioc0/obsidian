@@ -4,8 +4,8 @@ tags:
   - review
 created: 2026-01-24
 related:
-repeat: spaced every 48 hours
-due_at: 2026-02-04T16:18:51.869+03:00
+repeat: spaced every 96 hours
+due_at: 2026-02-08T21:20:22.127+03:00
 ---
 # Контейнер Promise в ФП
 
