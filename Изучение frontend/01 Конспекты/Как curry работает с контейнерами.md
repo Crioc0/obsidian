@@ -20,7 +20,23 @@ Option.Some(42).map(sum).map(fn=>fn(10))
 
 Но возникает проблема -  функция не знает, как работать с этим Option
 ```js
-findAge("Боб").map(curry((a)))
+findAge("Боб").map(curry((a+b)=>a+b)).map(sum=>sum(findAge("Джен")))
+
+// TypeError : sum ждет число, а получает Option<number>
+```
+
+Можно вызвать функцию на контейнере напрямую с помощью map, но появляется обертка в виде Option Option
+```js
+findAge("Боб").
+	.map(curry((a,b)=>a+b))
+	.map(sum=>findAge("Джен").map(sum)) //Option<Option<number>>
+```
+Для избегания этого можно использовать flatMap
+```js
+findAge("Боб").
+	.map(curry((a,b)=>a+b))
+	.flatMap(sum=>findAge("Джен").map(sum)) //<Option<number>
+```
 ```
 
 ## Зачем это нужно? (Применение)
