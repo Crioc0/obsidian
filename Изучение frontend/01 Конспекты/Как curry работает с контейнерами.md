@@ -37,7 +37,7 @@ findAge("Боб").
 	.map(curry((a,b)=>a+b))
 	.flatMap(sum=>findAge("Джен").map(sum)) //<Option<number>
 ```
-```
+
 
 ## Зачем это нужно? (Применение)
 
