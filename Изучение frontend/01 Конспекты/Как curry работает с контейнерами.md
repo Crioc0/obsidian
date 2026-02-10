@@ -38,6 +38,14 @@ findAge("Боб").
 	.flatMap(sum=>findAge("Джен").map(sum)) //<Option<number>
 ```
 
+Чтобы не городить flatMap, можно использовать метод ap
+Он будет вызывать функцию в контексте контейнера с переданными аргументами. результатом буде значение также упакованное в контейнер
+```js
+Option.Some(42).map(sum).ap(10) // Some(52)
+Option.None.map(sum).ap(Option.Some(10)) // None
+Option.Some(42).map(sum).ap(Option.None) // None
+```
+
 
 ## Зачем это нужно? (Применение)
 
@@ -50,3 +58,7 @@ Option.Some(42).map(sum)
 ```
 
 ## Пример 
+
+
+## Ссылки
+[[Метод ap]]
