@@ -43,6 +43,10 @@ const modifiers = ['primary', 'secondary', 'disabled'];
  // ] 
  console.log(classes1);
 ```
+
+Можно применять с несколькими функциями
+```jj
+```
 ## Зачем это нужно? (Применение)
 
 
