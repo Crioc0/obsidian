@@ -5,7 +5,7 @@ tags:
 created: 2026-01-24
 related:
 repeat: spaced every 96 hours
-due_at: 2026-02-08T21:20:16.897+03:00
+due_at: 2026-02-28T15:31:47.802+03:00
 ---
 # Promise API взамен исключений
 

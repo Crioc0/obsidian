@@ -5,7 +5,7 @@ tags:
 created: 2026-01-24
 related:
 repeat: spaced every 96 hours
-due_at: 2026-02-08T21:19:51.576+03:00
+due_at: 2026-02-28T15:31:44.670+03:00
 ---
 # Контейнер Lazy
 
