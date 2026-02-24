@@ -5,7 +5,7 @@ tags:
 created: 2026-01-24
 related:
 repeat: spaced every 96 hours
-due_at: 2026-02-06T16:18:39.524+03:00
+due_at: 2026-02-28T15:26:45.588+03:00
 ---
 # flip() в каррированных функциях
 
