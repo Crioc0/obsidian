@@ -2,7 +2,7 @@
 tags:
   - MOC
 ---
-# Шаблон Structure Notes
+# CSS
 ### Связи с другими Structure Notes
 
 [[]]
@@ -11,15 +11,15 @@ tags:
 
 ```dataview
 LIST
-FROM #  
+FROM #CSS   
 WHERE file.ctime >= date(now) - dur(7 days)
 SORT file.ctime DESC
 ```
 
-## Все заметки о MongoDB
+## Все заметки о CSS
 
 ```dataview
 TABLE file.ctime as "Создана"
-FROM # 
+FROM #CSS  
 SORT file.ctime DESC
 ```
