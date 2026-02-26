@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[01 Конспекты/Компьютерные сети|Компьютерные сети]]"
-repeat: spaced every 24 hours
-due_at: 2026-02-25T15:30:41.846+03:00
+repeat: spaced every 48 hours
+due_at: 2026-02-28T14:00:13.314+03:00
 ---
 # Протокол TCP IP
 
