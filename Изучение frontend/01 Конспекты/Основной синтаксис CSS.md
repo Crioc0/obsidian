@@ -6,7 +6,7 @@ created: 2026-01-24
 related:
   - "[[CSS]]"
 repeat: spaced every 36 hours
-due_at: 2026-02-26T03:28:21.527+03:00
+due_at: 2026-02-28T02:05:34.578+03:00
 ---
 # Основной синтаксис CSS
 
