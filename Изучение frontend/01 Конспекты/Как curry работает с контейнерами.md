@@ -4,8 +4,8 @@ tags:
   - концепция
 created: 2026-01-24
 related:
-repeat: spaced every 48 hours
-due_at: 2026-02-26T15:27:48.037+03:00
+repeat: spaced every 96 hours
+due_at: 2026-03-03T14:14:58.436+03:00
 ---
 # Как curry работает с контейнерами
 
