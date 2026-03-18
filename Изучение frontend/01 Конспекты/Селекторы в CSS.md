@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Основной синтаксис CSS]]"
-repeat: spaced every 96 hours
-due_at: 2026-03-03T14:15:13.510+03:00
+repeat: spaced every 186 hours
+due_at: 2026-03-26T06:00:00.000+03:00
 ---
 # Селекторы в CSS
 

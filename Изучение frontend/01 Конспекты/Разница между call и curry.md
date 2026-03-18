@@ -4,8 +4,8 @@ tags:
   - концепция
 created: 2026-01-24
 related:
-repeat: spaced every 72 hours
-due_at: 2026-03-02T14:16:13.206+03:00
+repeat: spaced every 144 hours
+due_at: 2026-03-24T11:32:27.365+03:00
 ---
 # Разница между call и curry
 

@@ -4,8 +4,8 @@ tags:
   - концепция
 created: 2026-01-24
 related:
-repeat: spaced every 96 hours
-due_at: 2026-02-28T15:26:45.588+03:00
+repeat: spaced every 144 hours
+due_at: 2026-03-24T11:32:57.961+03:00
 ---
 # flip() в каррированных функциях
 

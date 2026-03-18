@@ -4,8 +4,8 @@ tags:
   - review
 created: 2026-01-24
 related:
-repeat: spaced every 96 hours
-due_at: 2026-02-28T15:31:47.802+03:00
+repeat: spaced every 186 hours
+due_at: 2026-03-26T06:00:00.000+03:00
 ---
 # Promise API взамен исключений
 

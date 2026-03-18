@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[CSS]]"
-repeat: spaced every 36 hours
-due_at: 2026-02-28T02:05:34.578+03:00
+repeat: spaced every 72 hours
+due_at: 2026-03-21T11:32:54.609+03:00
 ---
 # Основной синтаксис CSS
 
