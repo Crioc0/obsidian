@@ -1,6 +1,5 @@
 ---
 tags:
-  - review
 created: 2026-01-24
 related:
 repeat: spaced every 24 hours
