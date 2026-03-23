@@ -2,7 +2,6 @@
 tags:
   - MOC
 ---
-# HTML
 
 
 ## Последние заметки за неделю
@@ -21,4 +20,4 @@ TABLE file.ctime as "Создана"
 FROM #HTML  
 SORT file.ctime DESC
 ```
-# Без названия
+# HTML

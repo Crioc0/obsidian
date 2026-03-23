@@ -1,7 +1,6 @@
 ---
 tags:
-  - review
-  - концепция
+  - ФП
 created: 2026-01-24
 related:
 repeat: spaced every 72 hours

@@ -1,7 +1,5 @@
 ---
 tags:
-  - review
-  - концепция
 created: 2026-01-24
 related:
 repeat: spaced every 144 hours
