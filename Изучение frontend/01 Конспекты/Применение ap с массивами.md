@@ -3,8 +3,9 @@ tags:
   - ФП
 created: 2026-01-24
 related:
-repeat: spaced every 72 hours
-due_at: 2026-03-21T11:32:55.212+03:00
+  - "[[Аппликативные функторы]]"
+repeat: spaced every 144 hours
+due_at: 2026-03-29T13:07:55.614+03:00
 ---
 # Применение ap с массивами
 
