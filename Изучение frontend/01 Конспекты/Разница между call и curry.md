@@ -1,11 +1,10 @@
 ---
 tags:
-  - review
-  - концепция
+  - ФП
 created: 2026-01-24
 related:
-repeat: spaced every 144 hours
-due_at: 2026-03-24T11:32:27.365+03:00
+repeat: spaced every 279 hours
+due_at: 2026-04-05T06:00:00.000+03:00
 ---
 # Разница между call и curry
 

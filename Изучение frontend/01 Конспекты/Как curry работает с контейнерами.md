@@ -1,7 +1,6 @@
 ---
 tags:
-  - review
-  - концепция
+  - ФП
 created: 2026-01-24
 related:
 repeat: spaced every 186 hours
@@ -62,4 +61,3 @@ Option.Some(42).map(sum)
 
 ## Ссылки
 [[Аппликативные функторы]] 
-[[Вычислительные контейнеры]]

@@ -1,9 +1,9 @@
 ---
 tags:
-  - концепция
-  - review
+  - ФП
 created: 2026-01-24
 related:
+  - "[[Контейнер Promise в ФП]]"
 repeat: spaced every 186 hours
 due_at: 2026-03-26T06:00:00.000+03:00
 ---

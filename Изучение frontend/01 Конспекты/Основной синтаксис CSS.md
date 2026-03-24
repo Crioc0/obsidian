@@ -1,12 +1,15 @@
 ---
 tags:
-  - review
   - CSS
 created: 2026-01-24
 related:
   - "[[CSS]]"
 repeat: spaced every 144 hours
+<<<<<<< HEAD
 due_at: 2026-03-27T13:46:41.327+03:00
+=======
+due_at: 2026-03-29T13:07:59.154+03:00
+>>>>>>> origin/main
 ---
 # Основной синтаксис CSS
 
