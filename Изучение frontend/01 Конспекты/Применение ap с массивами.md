@@ -3,14 +3,11 @@ tags:
   - ФП
 created: 2026-01-24
 related:
-<<<<<<< HEAD
-repeat: spaced every 144 hours
-due_at: 2026-03-27T13:46:38.889+03:00
-=======
+
   - "[[Аппликативные функторы]]"
 repeat: spaced every 144 hours
 due_at: 2026-03-29T13:07:55.614+03:00
->>>>>>> origin/main
+
 ---
 # Применение ap с массивами
 
