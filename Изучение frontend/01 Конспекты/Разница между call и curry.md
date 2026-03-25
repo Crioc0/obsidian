@@ -3,7 +3,7 @@ tags:
   - ФП
 created: 2026-01-24
 related:
-repeat: spaced every 279 hours
+repeat: spaced every 274 hours
 due_at: 2026-04-05T06:00:00.000+03:00
 ---
 # Разница между call и curry
