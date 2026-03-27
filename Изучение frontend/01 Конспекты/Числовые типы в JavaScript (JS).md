@@ -40,3 +40,4 @@ const bigNumber = 9007199254740991n; // bigint
 Number(42n) + 1;  // 43
 ```
 ## Ссылки
+[[Тип number и стандарт IEEE 754]] 
