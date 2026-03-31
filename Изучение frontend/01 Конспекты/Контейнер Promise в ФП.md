@@ -4,8 +4,8 @@ tags:
   - subMOC
 created: 2026-01-24
 related:
-repeat: spaced every 258 hours
-due_at: 2026-03-29T06:00:00.000+03:00
+repeat: spaced every 518 hours
+due_at: 2026-04-22T06:00:00.000+03:00
 ---
 # Контейнер Promise в ФП
 
