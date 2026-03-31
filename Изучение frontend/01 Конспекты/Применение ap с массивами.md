@@ -5,8 +5,8 @@ created: 2026-01-24
 related:
 
   - "[[Аппликативные функторы]]"
-repeat: spaced every 144 hours
-due_at: 2026-03-29T13:07:55.614+03:00
+repeat: spaced every 278 hours
+due_at: 2026-04-12T06:00:00.000+03:00
 
 ---
 # Применение ap с массивами
