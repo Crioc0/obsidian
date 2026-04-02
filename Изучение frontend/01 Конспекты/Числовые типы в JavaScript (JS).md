@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
-repeat: spaced every 48 hours
-due_at: 2026-04-02T15:39:21.968+03:00
+repeat: spaced every 96 hours
+due_at: 2026-04-06T15:40:50.670+03:00
 ---
 # Числовые типы в JavaScript (JS)
 

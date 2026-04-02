@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Тип number и стандарт IEEE 754]]"
-repeat: spaced every 48 hours
-due_at: 2026-04-02T15:37:03.609+03:00
+repeat: spaced every 96 hours
+due_at: 2026-04-06T15:40:15.991+03:00
 ---
 # Тип number и побитовые операции
 
