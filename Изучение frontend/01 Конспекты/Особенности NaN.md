@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Тип number и стандарт IEEE 754]]"
-repeat: spaced every 48 hours
-due_at: 2026-04-02T15:36:34.004+03:00
+repeat: spaced every 96 hours
+due_at: 2026-04-06T15:39:26.200+03:00
 ---
 # Особенности NaN
 

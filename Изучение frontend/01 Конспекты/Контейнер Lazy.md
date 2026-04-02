@@ -3,8 +3,8 @@ tags:
   - ФП
 created: 2026-01-24
 related:
-repeat: spaced every 207 hours
-due_at: 2026-04-02T06:00:00.000+03:00
+repeat: spaced every 398 hours
+due_at: 2026-04-19T06:00:00.000+03:00
 ---
 # Контейнер Lazy
 
