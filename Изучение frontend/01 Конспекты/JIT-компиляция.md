@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Компиляция и компилятор]]"
-repeat: spaced every 96 hours
-due_at: 2026-04-04T15:43:01.943+03:00
+repeat: spaced every 183 hours
+due_at: 2026-04-14T06:00:00.000+03:00
 ---
 # JIT-компиляция
 
