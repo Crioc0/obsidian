@@ -1,7 +1,7 @@
 ---
 tags:
   - база
-  - subMOC
+  - MOC
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
