@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Кэш-память]]"
-repeat: spaced every 48 hours
-due_at: 2026-04-08T14:40:47.216+03:00
+repeat: spaced every 96 hours
+due_at: 2026-04-13T10:03:48.416+03:00
 ---
 
 # Кэш и объекты в JS
