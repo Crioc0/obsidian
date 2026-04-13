@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Массивы]]"
-repeat: spaced every 48 hours
-due_at: 2026-04-12T11:13:56.599+03:00
+repeat: spaced every 96 hours
+due_at: 2026-04-17T09:18:35.769+03:00
 ---
 
 # Массивы в JS
