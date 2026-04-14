@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Процессор и память]]"
-repeat: spaced every 96 hours
-due_at: 2026-04-13T10:04:23.625+03:00
+repeat: spaced every 187 hours
+due_at: 2026-04-22T06:00:00.000+03:00
 ---
 
 # SIMD инструкции
