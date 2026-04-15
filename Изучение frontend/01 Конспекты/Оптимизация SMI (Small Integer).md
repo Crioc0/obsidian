@@ -3,8 +3,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Динамическая типизация и указатели]]"
-repeat: spaced every 187 hours
-due_at: 2026-04-15T06:00:00.000+03:00
+repeat: spaced every 378 hours
+due_at: 2026-05-01T06:00:00.000+03:00
 ---
 # Оптимизация SMI (Small Integer)
 

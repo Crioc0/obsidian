@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Типизированные массивы]]"
-repeat: spaced every 48 hours
-due_at: 2026-04-15T09:19:24.143+03:00
+repeat: spaced every 96 hours
+due_at: 2026-04-19T12:24:21.458+03:00
 ---
 
 # ArrayBuffer
