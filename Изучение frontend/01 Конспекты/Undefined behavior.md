@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Массивы]]"
-repeat: spaced every 72 hours
-due_at: 2026-04-16T09:18:32.969+03:00
+repeat: spaced every 144 hours
+due_at: 2026-04-22T21:20:49.393+03:00
 ---
 
 # Undefined behavior
