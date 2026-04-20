@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
-repeat: spaced every 72 hours
-due_at: 2026-04-19T21:20:23.867+03:00
+repeat: spaced every 144 hours
+due_at: 2026-04-26T16:27:09.750+03:00
 ---
 
 # View над данными
