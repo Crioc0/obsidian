@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Массивы в JS]]"
-repeat: spaced every 144 hours
-due_at: 2026-04-23T11:11:11.440+03:00
+repeat: spaced every 281 hours
+due_at: 2026-05-10T06:00:00.000+03:00
 ---
 
 # Ограничения массивов в JS
