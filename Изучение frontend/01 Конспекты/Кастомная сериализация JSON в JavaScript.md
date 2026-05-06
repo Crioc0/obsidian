@@ -5,7 +5,7 @@ created: 2026-01-24
 related:
   - "[[JSON]]"
 repeat: spaced every 24 hours
-due_at: 2026-02-27T14:05:30.956+03:00
+due_at: 2026-05-07T16:17:13.356+03:00
 ---
 
 # Кастомная сериализация JSON в JavaScript

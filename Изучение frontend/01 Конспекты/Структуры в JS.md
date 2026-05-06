@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Структуры]]"
-repeat: spaced every 182 hours
-due_at: 2026-04-29T06:00:00.000+03:00
+repeat: spaced every 278 hours
+due_at: 2026-05-18T06:00:00.000+03:00
 ---
 
 # Структуры в JS
