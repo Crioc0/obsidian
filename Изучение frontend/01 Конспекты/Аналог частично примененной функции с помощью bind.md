@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Частично примененные функции]]"
-repeat: spaced every 1406 hours
-due_at: 2026-07-04T06:00:00.000+03:00
+repeat: spaced every 1410 hours
+due_at: 2026-07-07T06:00:00.000+03:00
 ---
 # Аналог частично примененной функции с помощью bind
 
