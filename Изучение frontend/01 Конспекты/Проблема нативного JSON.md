@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[JSON]]"
-repeat: spaced every 24 hours
-due_at: 2026-05-07T16:17:23.392+03:00
+repeat: spaced every 48 hours
+due_at: 2026-05-11T12:04:49.235+03:00
 ---
 
 # Проблема нативного JSON
