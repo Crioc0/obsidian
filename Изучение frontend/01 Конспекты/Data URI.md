@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[View-подход чтения данных]]"
-repeat: spaced every 24 hours
-due_at: 2026-05-07T16:17:42.604+03:00
+repeat: spaced every 48 hours
+due_at: 2026-05-13T21:05:13.754+03:00
 ---
 
 # Data URI
