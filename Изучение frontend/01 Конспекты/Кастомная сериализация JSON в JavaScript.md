@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[JSON]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-11T12:03:50.808+03:00
+repeat: spaced every 96 hours
+due_at: 2026-05-15T21:13:55.754+03:00
 ---
 
 # Кастомная сериализация JSON в JavaScript
