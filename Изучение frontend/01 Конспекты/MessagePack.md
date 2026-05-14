@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Бинарные форматы данных]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-13T21:08:30.060+03:00
+repeat: spaced every 96 hours
+due_at: 2026-05-18T11:35:23.435+03:00
 ---
 
 # MessagePack
