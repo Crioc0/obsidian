@@ -5,7 +5,11 @@ created: 2026-01-24
 related:
   - "[[Бинарные форматы данных]]"
 repeat: spaced every 96 hours
+<<<<<<< HEAD
 due_at: 2026-05-19T21:04:37.413+03:00
+=======
+due_at: 2026-05-18T11:35:23.435+03:00
+>>>>>>> origin/main
 ---
 
 # MessagePack
