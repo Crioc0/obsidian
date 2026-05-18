@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Абстрактные структуры данных]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-16T11:41:11.628+03:00
+repeat: spaced every 96 hours
+due_at: 2026-05-22T14:46:20.784+03:00
 ---
 
 # Массив в JS как реализация стека, очереди и дека
