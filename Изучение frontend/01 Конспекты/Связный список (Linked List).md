@@ -6,7 +6,7 @@ related:
   - "[[Абстрактные структуры данных]]"
 repeat: spaced every 96 hours
 <<<<<<< HEAD
-due_at: 2026-05-21T21:33:57.038+03:00
+Связный список (Linked List)
 =======
 due_at: 2026-05-22T14:45:19.342+03:00
 >>>>>>> origin/main
