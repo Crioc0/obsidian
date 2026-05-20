@@ -5,11 +5,9 @@ created: 2026-01-24
 related:
   - "[[View-подход чтения данных]]"
 repeat: spaced every 96 hours
-<<<<<<< HEAD
-due_at: 2026-05-19T21:05:13.198+03:00
-=======
+
 due_at: 2026-05-18T11:37:45.173+03:00
->>>>>>> origin/main
+
 ---
 
 # FlatBuffer

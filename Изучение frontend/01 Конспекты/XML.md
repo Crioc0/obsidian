@@ -5,11 +5,9 @@ created: 2026-01-24
 related:
   - "[[Текстовый формат данных]]"
 repeat: spaced every 96 hours
-<<<<<<< HEAD
-due_at: 2026-05-19T21:04:45.024+03:00
-=======
+
 due_at: 2026-05-18T11:37:11.800+03:00
->>>>>>> origin/main
+
 ---
 
 # XML
