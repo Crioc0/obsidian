@@ -4,12 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Бинарные форматы данных]]"
-repeat: spaced every 96 hours
-<<<<<<< HEAD
-due_at: 2026-05-19T21:06:57.650+03:00
-=======
-due_at: 2026-05-18T11:38:46.085+03:00
->>>>>>> origin/main
+repeat: spaced every 186 hours
+
+due_at: 2026-05-28T06:00:00.000+03:00
+
 ---
 
 # Protobuff

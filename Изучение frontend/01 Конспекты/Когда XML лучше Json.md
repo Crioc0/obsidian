@@ -4,12 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[XML]]"
-repeat: spaced every 96 hours
-<<<<<<< HEAD
-due_at: 2026-05-19T21:07:12.451+03:00
-=======
-due_at: 2026-05-18T11:39:49.039+03:00
->>>>>>> origin/main
+repeat: spaced every 186 hours
+
+due_at: 2026-05-28T06:00:00.000+03:00
+
 ---
 
 # Когда XML лучше Json
