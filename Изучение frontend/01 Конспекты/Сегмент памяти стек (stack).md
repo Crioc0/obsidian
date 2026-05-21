@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Сегменты памяти]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-20T14:50:51.893+03:00
+repeat: spaced every 96 hours
+due_at: 2026-05-25T15:08:36.923+03:00
 ---
 
 # Сегмент памяти стек (stack)

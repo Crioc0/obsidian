@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Сегменты памяти]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-20T14:50:59.952+03:00
+repeat: spaced every 96 hours
+due_at: 2026-05-25T15:08:43.767+03:00
 ---
 
 # Сегмент памяти куча (heap)

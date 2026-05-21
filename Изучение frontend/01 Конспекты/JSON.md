@@ -5,9 +5,9 @@ tags:
 created: 2026-01-24
 related:
   - "[[Текстовый формат данных]]"
-repeat: spaced every 96 hours
+repeat: spaced every 183 hours
 
-due_at: 2026-05-18T11:38:03.615+03:00
+due_at: 2026-05-29T06:00:00.000+03:00
 
 ---
 
