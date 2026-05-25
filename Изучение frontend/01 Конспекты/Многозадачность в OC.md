@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-24T13:21:25.535+03:00
+repeat: spaced every 96 hours
+due_at: 2026-05-29T12:38:47.163+03:00
 ---
 
 # Многозадачность в OC
