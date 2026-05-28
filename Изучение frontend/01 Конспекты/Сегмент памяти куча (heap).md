@@ -4,7 +4,7 @@ tags:
 created: 2026-01-24
 related:
   - "[[Сегменты памяти]]"
-repeat: spaced every 185 hours
+repeat: spaced every 179 hours
 due_at: 2026-06-05T06:00:00.000+03:00
 ---
 

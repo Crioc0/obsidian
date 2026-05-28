@@ -4,9 +4,9 @@ tags:
 created: 2026-01-24
 related:
   - "[[XML]]"
-repeat: spaced every 186 hours
+repeat: spaced every 371 hours
 
-due_at: 2026-05-28T06:00:00.000+03:00
+due_at: 2026-06-13T06:00:00.000+03:00
 
 ---
 
