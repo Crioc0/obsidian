@@ -5,7 +5,9 @@ created: 2026-01-24
 related:
   - "[[Управление памятью]]"
 repeat: spaced every 48 hours
+
 due_at: 2026-05-30T18:33:06.177+03:00
+
 ---
 
 # RAII (Resource Acquisition Is Initialization)
