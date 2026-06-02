@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Управление памятью]]"
-repeat: spaced every 48 hours
-due_at: 2026-05-31T08:25:23.756+03:00
+repeat: spaced every 96 hours
+due_at: 2026-06-06T16:13:32.680+03:00
 ---
 
 # Режим реальных адресов (DOS) vs Защищённый режим
