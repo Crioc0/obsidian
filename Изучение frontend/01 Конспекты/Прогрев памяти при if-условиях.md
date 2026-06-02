@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Процессор и память]]"
-repeat: spaced every 566 hours
-due_at: 2026-05-30T06:00:00.000+03:00
+repeat: spaced every 1118 hours
+due_at: 2026-07-19T06:00:00.000+03:00
 ---
 
 # Прогрев памяти при if-условиях
