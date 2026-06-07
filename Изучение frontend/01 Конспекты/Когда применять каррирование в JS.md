@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Каррирование]]"
-repeat: spaced every 1022 hours
-due_at: 2026-06-04T06:00:00.000+03:00
+repeat: spaced every 2029 hours
+due_at: 2026-08-31T06:00:00.000+03:00
 ---
 # Когда применять каррирование в JS
 
