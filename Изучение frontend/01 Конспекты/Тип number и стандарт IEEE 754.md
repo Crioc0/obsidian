@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Числовые типы в JavaScript (JS)]]"
-repeat: spaced every 762 hours
-due_at: 2026-06-10T06:00:00.000+03:00
+repeat: spaced every 1526 hours
+due_at: 2026-08-14T06:00:00.000+03:00
 ---
 # Тип number и стандарт IEEE 754
 
