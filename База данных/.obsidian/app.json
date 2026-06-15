@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 Конспекты",
+  "attachmentFolderPath": "03 Assets",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "templates/"
+  ]
+}

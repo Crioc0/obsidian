@@ -1,0 +1,457 @@
+{
+  "main": {
+    "id": "a72e248ce64be1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "464f55d4f124b400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d75ed0e2b9fa604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Абстрактные структуры данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Абстрактные структуры данных"
+            }
+          },
+          {
+            "id": "c58e1af14f8a83e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/XML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XML"
+            }
+          },
+          {
+            "id": "231147ff324edd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Сегменты памяти.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сегменты памяти"
+            }
+          },
+          {
+            "id": "ce7202322a24547f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "09923be9638add8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "aa99370978c96085",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "4f8687bf9e16e519",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "9dd6b7d133a78a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Своппиг и страничная адресация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Своппиг и страничная адресация"
+            }
+          },
+          {
+            "id": "c2782d127369663b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC/Полезности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полезности"
+            }
+          },
+          {
+            "id": "2b7795ed0db2bd2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Сервисы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сервисы"
+            }
+          },
+          {
+            "id": "c8fcd30eeb2eeec2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "5db9cf479980b3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Без динамической памяти.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без динамической памяти"
+            }
+          },
+          {
+            "id": "4208768354a7fbdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Полезные библиотеки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полезные библиотеки"
+            }
+          },
+          {
+            "id": "f1d513263d20c87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Задача текстового редактора.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задача текстового редактора"
+            }
+          },
+          {
+            "id": "068cb4e67fecaabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Конспекты/Задача текстового редактора.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задача текстового редактора"
+            }
+          },
+          {
+            "id": "1ff368c0c79cf816",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03 Assets/Виртуальная машина V8.png"
+              },
+              "icon": "lucide-image",
+              "title": "Виртуальная машина V8"
+            }
+          },
+          {
+            "id": "bbd6ecce49e97979",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
+          },
+          {
+            "id": "cc451e63a963f8f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d055913a742b9626",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b8f6fef848e8d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3489c7e710df99a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8354cee038bacafc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Задача текстового редактора",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "765b7f8d32c30acf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c8b37856b203092",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd72cf04440a12dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27dbda15ebcbc93c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Конспекты/Типизация.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Типизация"
+            }
+          },
+          {
+            "id": "3567d90d7ed454f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Конспекты/Типизация.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Типизация"
+            }
+          },
+          {
+            "id": "1be71dfdbaf01772",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "21bb64c344700bef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "e83f2cfce64b00ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Конспекты/Функциональное программирование.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Функциональное программирование"
+            }
+          },
+          {
+            "id": "afb74c533810446d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "repeat-plugin:Repeat due notes": false
+    }
+  },
+  "active": "cc451e63a963f8f1",
+  "lastOpenFiles": [
+    "03 Assets/1.3 в number.png",
+    "MOC/ФП парадигма.md",
+    "MOC/Computer Science.md",
+    "01 Конспекты/Задача текстового редактора.md",
+    "conflict-files-obsidian-git.md",
+    "Conflicts.md",
+    "roadmap/Изучение Vite.md",
+    "roadmap/vite/Week-08/TASK-022-Microfrontend-Platform.md",
+    "roadmap/vite/Week-08",
+    "roadmap/vite/Week-07/TASK-021-Mount-Unmount.md",
+    "roadmap/vite/Week-07/TASK-020-Shared-Dependencies.md",
+    "roadmap/vite/Week-07/TASK-019-Host-Remote.md",
+    "roadmap/vite/Week-07",
+    "roadmap/vite/Week-06/TASK-018-Lazy-Routes.md",
+    "roadmap/vite/Week-06/TASK-017-Bundle-Optimization.md",
+    "roadmap/vite/Week-06/TASK-016-Bundle-Analysis.md",
+    "roadmap/vite/Week-06",
+    "roadmap/vite/Week-05/TASK-015-Virtual-Module.md",
+    "roadmap/vite/Week-05/TASK-013-Plugin-Lifecycle.md",
+    "roadmap/vite/Week-05/TASK-014-Custom-Plugin.md",
+    "roadmap/vite/Week-05",
+    "roadmap/vite/Week-04/TASK-012-Aliases.md",
+    "roadmap/vite/Week-04/TASK-011-Environments.md",
+    "roadmap/vite/Week-04/TASK-010-Vite-Config.md",
+    "roadmap/vite/Week-04",
+    "roadmap/vite/Week-03/TASK-009-Dist-Analysis.md",
+    "roadmap/vite/Week-03/TASK-008-ManualChunks.md",
+    "roadmap/vite/Week-03/TASK-007-Rollup-Architecture.md",
+    "roadmap/vite/Week-03",
+    "roadmap/vite/Week-02/TASK-006-OptimizeDeps.md",
+    "roadmap/vite/Week-02/TASK-005-HMR.md",
+    "roadmap/vite/Week-02/TASK-004-Dev-Server.md",
+    "roadmap/vite/Week-02",
+    "roadmap/vite/Week-01",
+    "roadmap/vite",
+    "roadmap",
+    "03 Assets/Хранение данных.png",
+    "03 Assets/Работа стека.png",
+    "03 Assets/Стек вызовов.png",
+    "03 Assets/Очередь.png",
+    "03 Assets/Стек.png",
+    "03 Assets/Пример представления структуры.png",
+    "03 Assets/Pasted image 20260507121309.png",
+    "03 Assets/Pasted image 20260507121304.png",
+    "03 Assets/Двухмерная и трехмерное пространство.png",
+    "Без названия.canvas"
+  ]
+}

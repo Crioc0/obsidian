@@ -1,0 +1,16 @@
+{
+  "showDueCountInStatusBar": true,
+  "showRibbonIcon": true,
+  "ignoreFolderPath": "templates",
+  "morningReviewTime": "06:00",
+  "eveningReviewTime": "18:00",
+  "defaultRepeat": {
+    "repeatStrategy": "SPACED",
+    "repeatPeriod": 1,
+    "repeatPeriodUnit": "DAY",
+    "repeatTimeOfDay": "AM"
+  },
+  "enqueueNonRepeatingNotes": false,
+  "filterQuery": "",
+  "savedFilters": []
+}
