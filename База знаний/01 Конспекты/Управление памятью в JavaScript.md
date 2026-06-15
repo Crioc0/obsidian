@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Управление памятью]]"
-repeat: spaced every 181 hours
-due_at: 2026-06-15T06:00:00.000+03:00
+repeat: spaced every 349 hours
+due_at: 2026-06-30T06:00:00.000+03:00
 ---
 
 # Управление памятью в JavaScript
