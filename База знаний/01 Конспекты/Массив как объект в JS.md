@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Объекты в JS]]"
-repeat: spaced every 48 hours
-due_at: 2026-06-19T11:28:18.744+03:00
+repeat: spaced every 72 hours
+due_at: 2026-06-24T12:08:24.779+03:00
 ---
 
 # Массив как объект в JS

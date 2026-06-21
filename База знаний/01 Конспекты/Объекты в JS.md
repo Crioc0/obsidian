@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Ассоциативные массивы]]"
-repeat: spaced every 48 hours
-due_at: 2026-06-19T11:29:15.402+03:00
+repeat: spaced every 72 hours
+due_at: 2026-06-24T12:03:42.605+03:00
 ---
 
 # Объекты в JS

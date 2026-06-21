@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Объекты в JS]]"
-repeat: spaced every 48 hours
-due_at: 2026-06-19T11:24:36.665+03:00
+repeat: spaced every 72 hours
+due_at: 2026-06-24T12:05:08.525+03:00
 ---
 
 # Map и Set

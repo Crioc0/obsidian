@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Vite]]"
-repeat: spaced every 96 hours
-due_at: 2026-06-20T15:02:45.879+03:00
+repeat: spaced every 144 hours
+due_at: 2026-06-27T12:09:03.609+03:00
 ---
 
 # Zettelcasten Note
