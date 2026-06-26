@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Графы]]"
-repeat: spaced every 24 hours
-due_at: 2026-02-27T14:05:30.956+03:00
+repeat: spaced every 36 hours
+due_at: 2026-06-26T09:14:20.005+03:00
 ---
 
 # Графовые базы данных (Neo4j, ArangoDB)
