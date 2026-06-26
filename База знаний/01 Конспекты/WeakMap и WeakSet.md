@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Объекты в JS]]"
-repeat: spaced every 72 hours
-due_at: 2026-06-24T12:08:10.794+03:00
+repeat: spaced every 108 hours
+due_at: 2026-06-29T09:13:26.525+03:00
 ---
 
 # WeakMap и WeakSet
