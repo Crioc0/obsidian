@@ -4,7 +4,7 @@ tags:
   - сборка
 ---
 
-# Moc
+# Vite
 
 ### Связи с другими Structure Notes
 
