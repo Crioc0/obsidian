@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Процессы в ОС]]"
-repeat: spaced every 349 hours
-due_at: 2026-06-28T06:00:00.000+03:00
+repeat: spaced every 523 hours
+due_at: 2026-07-27T06:00:00.000+03:00
 ---
 
 # Потоки (Threads )
