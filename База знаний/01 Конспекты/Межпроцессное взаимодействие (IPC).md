@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Процессы в ОС]]"
-repeat: spaced every 350 hours
-due_at: 2026-06-26T06:00:00.000+03:00
+repeat: spaced every 691 hours
+due_at: 2026-08-03T06:00:00.000+03:00
 ---
 
 # Межпроцессное взаимодействие (IPC)
