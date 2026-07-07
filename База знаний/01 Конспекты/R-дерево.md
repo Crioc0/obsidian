@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Дерево]]"
-repeat: spaced every 36 hours
-due_at: 2026-07-06T22:40:55.216+03:00
+repeat: spaced every 54 hours
+due_at: 2026-07-09T22:16:21.426+03:00
 ---
 
 # R-дерево

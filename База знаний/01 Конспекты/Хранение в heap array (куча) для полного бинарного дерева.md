@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Вложение дерева в массив]]"
-repeat: spaced every 36 hours
-due_at: 2026-07-06T22:40:21.386+03:00
+repeat: spaced every 54 hours
+due_at: 2026-07-09T22:17:14.272+03:00
 ---
 
 # Хранение в heap array (куча) для полного бинарного дерева
