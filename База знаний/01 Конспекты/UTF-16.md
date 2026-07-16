@@ -4,8 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
-repeat: spaced every 48 hours
-due_at: 2026-07-11T18:55:51.504+03:00
+repeat: spaced every 96 hours
+
+due_at: 2026-07-20T16:41:21.495+03:00
+
 ---
 
 # UTF-16

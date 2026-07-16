@@ -4,8 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 48 hours
-due_at: 2026-07-11T18:57:59.847+03:00
+repeat: spaced every 72 hours
+
+due_at: 2026-07-19T16:41:29.134+03:00
+
 ---
 
 # Метод localeCompare

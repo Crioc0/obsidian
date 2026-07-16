@@ -4,9 +4,9 @@ tags:
 created: 2026-01-24
 related:
   - "[[Бинарные форматы данных]]"
-repeat: spaced every 709 hours
+repeat: spaced every 1406 hours
 
-due_at: 2026-07-13T06:00:00.000+03:00
+due_at: 2026-09-13T06:00:00.000+03:00
 
 ---
 

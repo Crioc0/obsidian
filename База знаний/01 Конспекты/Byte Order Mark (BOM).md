@@ -4,8 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
-repeat: spaced every 48 hours
-due_at: 2026-07-11T18:54:41.742+03:00
+repeat: spaced every 72 hours
+
+due_at: 2026-07-19T16:41:27.770+03:00
+
 ---
 
 # Byte Order Mark (BOM)
