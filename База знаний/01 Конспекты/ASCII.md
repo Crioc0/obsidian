@@ -4,9 +4,9 @@ tags:
 created: 2026-01-24
 related:
   - "[[Символы и строки]]"
-repeat: spaced every 48 hours
+repeat: spaced every 96 hours
 
-due_at: 2026-07-11T18:54:36.799+03:00
+due_at: 2026-07-20T16:41:28.425+03:00
 
 ---
 
