@@ -5,7 +5,11 @@ created: 2026-01-24
 related:
   - "[[Строки в JS]]"
 repeat: spaced every 48 hours
+<<<<<<< HEAD
 due_at: 2026-07-18T16:26:56.747+03:00
+=======
+due_at: 2026-07-11T18:57:59.847+03:00
+>>>>>>> origin/main
 ---
 
 # Метод localeCompare

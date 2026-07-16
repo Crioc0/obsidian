@@ -5,7 +5,9 @@ created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
 repeat: spaced every 48 hours
-due_at: 2026-07-18T16:26:14.142+03:00
+
+due_at: 2026-07-11T18:55:55.687+03:00
+
 ---
 
 # UTF-32

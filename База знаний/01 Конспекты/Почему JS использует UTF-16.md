@@ -4,8 +4,13 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
+<<<<<<< HEAD
 repeat: spaced every 48 hours
 due_at: 2026-07-18T16:27:10.837+03:00
+=======
+repeat: spaced every 36 hours
+due_at: 2026-07-11T06:58:11.875+03:00
+>>>>>>> origin/main
 ---
 
 # Почему JS использует UTF-16

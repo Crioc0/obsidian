@@ -5,7 +5,9 @@ created: 2026-01-24
 related:
   - "[[Строки в JS]]"
 repeat: spaced every 48 hours
-due_at: 2026-07-18T16:25:42.105+03:00
+
+due_at: 2026-07-11T18:54:32.387+03:00
+
 ---
 
 # API TextEncoder и TextDecoder
