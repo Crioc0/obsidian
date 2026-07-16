@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 24 hours
-due_at: 2026-02-27T14:05:30.956+03:00
+repeat: spaced every 48 hours
+due_at: 2026-07-18T16:26:03.240+03:00
 ---
 
 # Intl.Segmenter
