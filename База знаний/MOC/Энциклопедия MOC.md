@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - superMOC
 ---
 
 # Энциклопедия MOC
@@ -8,5 +8,4 @@ tags:
 ### Связи с другими Structure Notes
 
 [[Полезности]]
-[[ФП парадигма]]
 [[Computer Science]]
