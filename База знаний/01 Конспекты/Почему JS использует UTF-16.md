@@ -5,8 +5,8 @@ created: 2026-01-24
 related:
   - "[[Строки в JS]]"
 
-repeat: spaced every 36 hours
-due_at: 2026-07-11T06:58:11.875+03:00
+repeat: spaced every 72 hours
+due_at: 2026-07-19T18:51:44.299+03:00
 
 ---
 

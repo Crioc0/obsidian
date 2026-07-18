@@ -8,8 +8,8 @@ related:
 repeat: spaced every 36 hours
 due_at: 2026-07-18T04:26:22.394+03:00
 =======
-repeat: spaced every 48 hours
-due_at: 2026-07-11T18:56:50.542+03:00
+repeat: spaced every 96 hours
+due_at: 2026-07-20T18:51:53.060+03:00
 >>>>>>> origin/main
 ---
 
