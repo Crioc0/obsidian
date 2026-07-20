@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Язык регулярных выражений]]"
-repeat: spaced every 24 hours
-due_at: 2026-02-27T14:05:30.956+03:00
+repeat: spaced every 48 hours
+due_at: 2026-07-22T10:31:41.708+03:00
 ---
 
 # Управляющие последовательности (escape sequences)

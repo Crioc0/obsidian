@@ -5,9 +5,9 @@ created: 2026-01-24
 related:
   - "[[Строки в JS]]"
 
-repeat: spaced every 72 hours
+repeat: spaced every 144 hours
 
-due_at: 2026-07-20T10:27:45.567+03:00
+due_at: 2026-07-26T10:29:57.711+03:00
 
 
 ---

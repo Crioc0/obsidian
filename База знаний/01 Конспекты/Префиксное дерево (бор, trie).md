@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Алгоритмы поиска по строке]]"
-repeat: spaced every 48 hours
-due_at: 2026-07-18T16:41:40.874+03:00
+repeat: spaced every 96 hours
+due_at: 2026-07-24T10:29:11.246+03:00
 ---
 
 # Префиксное дерево (бор, trie)
