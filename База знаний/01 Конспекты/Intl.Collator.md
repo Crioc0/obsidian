@@ -4,9 +4,9 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 96 hours
+repeat: spaced every 184 hours
 
-due_at: 2026-07-20T16:41:19.563+03:00
+due_at: 2026-07-29T06:00:00.000+03:00
 
 ---
 
