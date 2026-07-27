@@ -5,10 +5,10 @@ created: 2026-01-24
 related:
   - "[[Дерево]]"
 
-repeat: spaced every 162 hours
+repeat: spaced every 327 hours
 
 
-due_at: 2026-07-24T04:28:57.498+03:00
+due_at: 2026-08-10T06:00:00.000+03:00
 
 ---
 

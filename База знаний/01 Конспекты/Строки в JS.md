@@ -6,8 +6,8 @@ created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
   - "[[Текстовый формат данных]]"
-repeat: spaced every 96 hours
-due_at: 2026-07-24T10:29:15.341+03:00
+repeat: spaced every 183 hours
+due_at: 2026-08-04T06:00:00.000+03:00
 ---
 
 # Строки в JS
