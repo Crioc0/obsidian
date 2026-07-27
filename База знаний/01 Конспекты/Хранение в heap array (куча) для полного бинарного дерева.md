@@ -5,9 +5,9 @@ created: 2026-01-24
 related:
   - "[[Вложение дерева в массив]]"
 
-repeat: spaced every 162 hours
+repeat: spaced every 327 hours
 
-due_at: 2026-07-23T10:41:32.303+03:00
+due_at: 2026-08-10T06:00:00.000+03:00
 
 ---
 
