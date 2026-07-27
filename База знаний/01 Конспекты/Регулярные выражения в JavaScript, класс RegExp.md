@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Регулярные выражения]]"
-repeat: spaced every 48 hours
-due_at: 2026-07-22T10:31:19.861+03:00
+repeat: spaced every 96 hours
+due_at: 2026-07-31T14:54:57.930+03:00
 ---
 
 # Регулярные выражения в JavaScript, класс RegExp
