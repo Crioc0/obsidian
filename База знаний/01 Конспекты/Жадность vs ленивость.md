@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Язык регулярных выражений]]"
-repeat: spaced every 72 hours
-due_at: 2026-07-30T14:46:44.936+03:00
+repeat: spaced every 144 hours
+due_at: 2026-08-05T15:34:37.805+03:00
 ---
 
 # Жадность vs ленивость
