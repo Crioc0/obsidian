@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Тип number и стандарт IEEE 754]]"
-repeat: spaced every 1430 hours
-due_at: 2026-08-01T06:00:00.000+03:00
+repeat: spaced every 1431 hours
+due_at: 2026-10-02T06:00:00.000+03:00
 ---
 # number в двоичном виде
 
