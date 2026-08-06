@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Обход коллекций]]"
-repeat: spaced every 48 hours
-due_at: 2026-08-06T11:07:40.490+03:00
+repeat: spaced every 96 hours
+due_at: 2026-08-10T17:45:53.673+03:00
 ---
 
 # Обход коллекции через foreach
