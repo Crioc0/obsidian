@@ -5,7 +5,7 @@ created: 2026-01-24
 related:
   - "[[Итераторы]]"
 repeat: spaced every 72 hours
-due_at: 2026-08-09T17:46:29.013+03:00
+due_at: 2026-08-17T15:27:00.349+03:00
 ---
 
 # Iterator и Iterable
