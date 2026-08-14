@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Хэш-функции]]"
-repeat: spaced every 572 hours
-due_at: 2026-08-10T06:00:00.000+03:00
+repeat: spaced every 1142 hours
+due_at: 2026-10-01T06:00:00.000+03:00
 ---
 
 # Соль (salt) для защиты от радужных таблиц
