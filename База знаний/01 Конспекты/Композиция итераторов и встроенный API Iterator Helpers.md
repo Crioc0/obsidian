@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Итераторы]]"
-repeat: spaced every 96 hours
-due_at: 2026-08-11T19:17:47.906+03:00
+repeat: spaced every 182 hours
+due_at: 2026-08-22T06:00:00.000+03:00
 ---
 
 # Композиция итераторов и встроенный API Iterator Helpers

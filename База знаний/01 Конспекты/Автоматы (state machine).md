@@ -5,7 +5,7 @@ created: 2026-01-24
 related:
   - "[[Computer Science]]"
 repeat: spaced every 144 hours
-due_at: 2026-08-12T17:49:22.018+03:00
+due_at: 2026-08-20T15:57:44.793+03:00
 ---
 
 # Автоматы (state machine)
