@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Итераторы]]"
-repeat: spaced every 96 hours
-due_at: 2026-08-18T15:43:48.410+03:00
+repeat: spaced every 178 hours
+due_at: 2026-08-23T06:00:00.000+03:00
 ---
 
 # Итераторы как основа API
