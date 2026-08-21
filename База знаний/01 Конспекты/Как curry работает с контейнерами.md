@@ -3,13 +3,10 @@ tags:
   - ФП
 created: 2026-01-24
 related:
-<<<<<<< HEAD
-repeat: spaced every 2846 hours
-due_at: 2026-11-12T06:00:00.000+03:00
-=======
+
 repeat: spaced every 2840 hours
 due_at: 2026-11-09T06:00:00.000+03:00
->>>>>>> origin/main
+
 ---
 # Как curry работает с контейнерами
 

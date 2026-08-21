@@ -4,13 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Дерево]]"
-<<<<<<< HEAD
-repeat: spaced every 108 hours
-due_at: 2026-07-21T03:49:58.926+03:00
-=======
+
 repeat: spaced every 81 hours
 due_at: 2026-07-13T03:47:35.056+03:00
->>>>>>> origin/main
+
 ---
 
 # Бинарное дерево поиска BST
