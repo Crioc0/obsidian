@@ -6,8 +6,13 @@ related:
 
   - "[[Аппликативные функторы]]"
 <<<<<<< HEAD
+<<<<<<< HEAD
 repeat: spaced every 3177 hours
 due_at: 2027-01-01T06:00:00.000+03:00
+=======
+repeat: spaced every 3182 hours
+due_at: 2026-12-30T06:00:00.000+03:00
+>>>>>>> origin/main
 =======
 repeat: spaced every 3182 hours
 due_at: 2026-12-30T06:00:00.000+03:00

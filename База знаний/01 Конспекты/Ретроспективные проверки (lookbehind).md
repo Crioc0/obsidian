@@ -7,7 +7,10 @@ related:
 
 repeat: spaced every 96 hours
 due_at: 2026-08-24T15:55:51.265+03:00
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 ---
 
 # Ретроспективные проверки (lookbehind)
