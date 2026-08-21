@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 355 hours
-due_at: 2026-08-19T06:00:00.000+03:00
+repeat: spaced every 345 hours
+due_at: 2026-09-05T06:00:00.000+03:00
 ---
 
 # Сравнение строк и привязанность к локали в JS
