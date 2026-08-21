@@ -4,16 +4,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Обход коллекций]]"
-<<<<<<< HEAD
-repeat: spaced every 177 hours
-due_at: 2026-08-29T06:00:00.000+03:00
-=======
+
 repeat: spaced every 96 hours
 due_at: 2026-08-23T13:10:35.863+03:00
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> origin/main
+
 ---
 
 # Обход коллекции через foreach
