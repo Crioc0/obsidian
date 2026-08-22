@@ -1,7 +1,7 @@
 ---
 tags:
-  - база
   - ТекстовыйФорматДанных
+  - subMOC
 created: 2026-01-24
 related:
   - "[[Текстовый формат данных]]"
@@ -74,4 +74,9 @@ persons.forEach(person => {
 ```
 ## Ссылки
 
-- [[Когда XML лучше Json]]
+```dataview
+LIST
+FROM #XML  
+SORT file.ctime DESC
+```
+

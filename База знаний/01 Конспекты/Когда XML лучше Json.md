@@ -1,13 +1,11 @@
 ---
 tags:
-  - база
+  - XML
 created: 2026-01-24
 related:
   - "[[XML]]"
 repeat: spaced every 1454 hours
-
 due_at: 2026-09-15T06:00:00.000+03:00
-
 ---
 
 # Когда XML лучше Json

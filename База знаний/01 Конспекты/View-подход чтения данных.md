@@ -1,14 +1,11 @@
 ---
 tags:
-  - база
+  - СпособыОбработкиИнформации
 created: 2026-01-24
 related:
   - "[[Способы обработки информации, термины]]"
-  - "[[Кодирование и декодирование]]"
 repeat: spaced every 1406 hours
-
 due_at: 2026-09-13T06:00:00.000+03:00
-
 ---
 
 # View-подход чтения данных
@@ -39,5 +36,8 @@ console.log(view.getInt16(12, true));  // 100
 
 ## Ссылки
 
-- [[FlatBuffer]] 
-- [[Data URI]] 
+```dataview
+LIST
+FROM #View-ПодходЧтенияДанных  
+SORT file.ctime DESC
+```
