@@ -1,6 +1,6 @@
 ---
 tags:
-  - база
+  - Unicode
   - subMOC
 created: 2026-01-24
 related:
@@ -35,11 +35,8 @@ console.log([...str].length); // 1 — правильно считает сим�
 
 ## Ссылки
 
-- [[Почему JS использует UTF-16]]
-- [[Нюансы с суррогатными парами в JS]] 
-- [[Кодировка исходных данных и кодировка строк]]
-- [[API TextEncoder и TextDecoder]]
-- [[Оптимизации движком строк]]
-- [[Сравнение строк и привязанность к локали в JS]]
-- [[Intl.Collator]]
-- [[Intl.Segmenter]]
+```dataview
+LIST
+FROM #СтрокиJS  
+SORT file.ctime DESC
+```

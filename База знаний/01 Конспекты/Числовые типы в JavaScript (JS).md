@@ -1,7 +1,7 @@
 ---
 tags:
-  - база
   - subMOC
+  - Числа
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
@@ -41,5 +41,9 @@ const bigNumber = 9007199254740991n; // bigint
 Number(42n) + 1;  // 43
 ```
 ## Ссылки
-[[Тип number и стандарт IEEE 754]]
-[[Тип BigInt]] 
+
+```dataview
+LIST
+FROM #ЧислаJS 
+SORT file.ctime DESC
+```

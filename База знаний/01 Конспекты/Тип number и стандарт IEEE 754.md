@@ -1,7 +1,7 @@
 ---
 tags:
-  - база
   - MOC
+  - Числа
 created: 2026-01-24
 related:
   - "[[Числовые типы в JavaScript (JS)]]"

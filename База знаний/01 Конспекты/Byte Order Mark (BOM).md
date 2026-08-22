@@ -1,13 +1,11 @@
 ---
 tags:
-  - база
+  - Unicode
 created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
 repeat: spaced every 396 hours
-
 due_at: 2026-08-23T06:00:00.000+03:00
-
 ---
 
 # Byte Order Mark (BOM)

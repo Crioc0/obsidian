@@ -1,13 +1,11 @@
 ---
 tags:
-  - база
+  - Unicode
 created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
-
 repeat: spaced every 96 hours
 due_at: 2026-07-20T18:51:49.422+03:00
-
 ---
 
 # Комбинируемые символы и графемы в Unicode
