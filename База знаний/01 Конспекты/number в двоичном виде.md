@@ -1,6 +1,6 @@
 ---
 tags:
-  - база
+  - Числа
 created: 2026-01-24
 related:
   - "[[Тип number и стандарт IEEE 754]]"
