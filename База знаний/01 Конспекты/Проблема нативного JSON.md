@@ -1,6 +1,6 @@
 ---
 tags:
-  - база
+  - JSON
 created: 2026-01-24
 related:
   - "[[JSON]]"

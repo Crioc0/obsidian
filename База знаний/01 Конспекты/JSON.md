@@ -71,5 +71,8 @@ JSON — это текстовый формат обмена данными, о�
 
 ## Ссылки
 
-- [[Кастомная сериализация JSON в JavaScript]]
-- [[Проблема нативного JSON]]
+```dataview
+LIST
+FROM #JSON 
+SORT file.ctime DESC
+```
