@@ -1,15 +1,11 @@
 ---
 tags:
-  - база
+  - Деревья
 created: 2026-01-24
 related:
   - "[[Дерево]]"
-
 repeat: spaced every 782 hours
-
-
 due_at: 2026-09-16T06:00:00.000+03:00
-
 ---
 
 # R-дерево
