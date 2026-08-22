@@ -1,14 +1,12 @@
 ---
 tags:
-  - база
   - subMOC
+  - array
 created: 2026-01-24
 related:
   - "[[Массивы]]"
-
 repeat: spaced every 2944 hours
 due_at: 2026-12-17T06:00:00.000+03:00
-
 ---
 
 # Массивы в JS
