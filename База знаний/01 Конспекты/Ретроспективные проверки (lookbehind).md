@@ -1,13 +1,11 @@
 ---
 tags:
-  - база
+  - regexp
 created: 2026-01-24
 related:
   - "[[Язык регулярных выражений]]"
-
 repeat: spaced every 96 hours
 due_at: 2026-08-24T15:55:51.265+03:00
-
 ---
 
 # Ретроспективные проверки (lookbehind)
