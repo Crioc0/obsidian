@@ -1,13 +1,11 @@
 ---
 tags:
-  - база
+  - CSS
 created: 2026-01-24
 related:
   - "[[Тип number и стандарт IEEE 754]]"
-
 repeat: spaced every 2243 hours
 due_at: 2026-10-11T06:00:00.000+03:00
-
 ---
 # Тип number и побитовые операции
 

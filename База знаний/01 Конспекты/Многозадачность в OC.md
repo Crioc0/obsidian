@@ -1,6 +1,7 @@
 ---
 tags:
   - MOC
+  - МногозадачностьВОС
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
