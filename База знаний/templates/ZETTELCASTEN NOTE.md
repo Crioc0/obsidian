@@ -1,11 +1,12 @@
 ---
 tags:
-created:
+created: <% tp.date.now("YYYY-MM-DD") %>
 related:
 repeat: spaced every 24 hours
 due_at:
 ---
 
-# ZETTELCASTEN NOTE
+# Zettelcasten Note
 
 # Ссылки
+- 
