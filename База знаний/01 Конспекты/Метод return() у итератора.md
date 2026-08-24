@@ -5,7 +5,7 @@ created: 2026-08-24
 related:
   - "[[Итераторы]]"
 repeat: spaced every 24 hours
-due_at:
+due_at: 2026-08-25T11:49:50.682+03:00
 ---
 
 # Метод return() у итератора

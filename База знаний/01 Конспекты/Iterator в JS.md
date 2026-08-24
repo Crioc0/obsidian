@@ -4,8 +4,8 @@ tags:
 created: 2026-08-24
 related:
   - "[[Итераторы]]"
-repeat: spaced every 24 hours
-due_at:
+repeat: spaced every 36 hours
+due_at: 2026-08-25T23:49:05.741+03:00
 ---
 
 # Iterator в JS
