@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Итераторы]]"
-repeat: spaced every 108 hours
-due_at: 2026-08-24T00:51:16.019+03:00
+repeat: spaced every 162 hours
+due_at: 2026-08-31T05:31:42.792+03:00
 ---
 
 # Iterator и Iterable
