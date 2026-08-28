@@ -4,8 +4,8 @@ tags:
 created: 2026-08-24
 related:
   - "[[Iterator в JS]]"
-repeat: spaced every 36 hours
-due_at: 2026-08-25T23:55:13.658+03:00
+repeat: spaced every 54 hours
+due_at: 2026-08-30T15:53:38.790+03:00
 ---
 
 # Производительность итераторов в JS
