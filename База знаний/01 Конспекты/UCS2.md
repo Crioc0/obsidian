@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Символы и строки]]"
-repeat: spaced every 96 hours
-due_at: 2026-08-26T16:01:19.929+03:00
+repeat: spaced every 144 hours
+due_at: 2026-09-03T09:59:26.445+03:00
 ---
 
 # UCS2
