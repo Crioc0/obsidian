@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Бинарная куча]]"
-repeat: spaced every 108 hours
-due_at: 2026-08-27T04:03:42.225+03:00
+repeat: spaced every 162 hours
+due_at: 2026-09-06T07:18:12.044+03:00
 ---
 
 # Пирамидальная сортировка (heap sort)
