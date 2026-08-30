@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Символы и строки]]"
-repeat: spaced every 274 hours
-due_at: 2026-08-27T06:00:00.000+03:00
+repeat: spaced every 401 hours
+due_at: 2026-09-16T06:00:00.000+03:00
 ---
 
 # Юникод (Unicode)

@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Юникод (Unicode)]]"
-repeat: spaced every 144 hours
-due_at: 2026-08-28T16:05:34.304+03:00
+repeat: spaced every 209 hours
+due_at: 2026-09-08T06:00:00.000+03:00
 ---
 
 # Комбинируемые символы и графемы в Unicode

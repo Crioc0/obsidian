@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Абстрактные структуры данных]]"
-repeat: spaced every 1022 hours
-due_at: 2026-08-28T06:00:00.000+03:00
+repeat: spaced every 1529 hours
+due_at: 2026-11-02T06:00:00.000+03:00
 ---
 
 # Связный список (Linked List)
