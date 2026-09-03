@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Язык регулярных выражений]]"
-repeat: spaced every 278 hours
-due_at: 2026-09-03T06:00:00.000+03:00
+repeat: spaced every 421 hours
+due_at: 2026-09-21T06:00:00.000+03:00
 ---
 
 # Свойство lastIndex у регулярного выражения
