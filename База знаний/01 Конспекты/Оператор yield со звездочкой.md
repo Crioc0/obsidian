@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Генераторы]]"
-repeat: spaced every 36 hours
-due_at: 2026-09-03T08:34:10.738+03:00
+repeat: spaced every 54 hours
+due_at: 2026-09-05T23:06:45.524+03:00
 ---
 
 # Оператор yield со звездочкой

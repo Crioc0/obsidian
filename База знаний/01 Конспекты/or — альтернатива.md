@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Реализация парсер комбинаторов в JS]]"
-repeat: spaced every 36 hours
-due_at: 2026-09-03T08:29:48.594+03:00
+repeat: spaced every 54 hours
+due_at: 2026-09-05T23:06:23.214+03:00
 ---
 
 # or — альтернатива
