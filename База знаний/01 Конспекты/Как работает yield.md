@@ -5,7 +5,7 @@ created: 2026-08-30
 related:
   - "[[Генераторы]]"
 repeat: spaced every 54 hours
-due_at: 2026-09-05T23:05:34.823+03:00
+due_at: 2026-09-09T01:52:31.542+03:00
 ---
 
 # Как работает yield
