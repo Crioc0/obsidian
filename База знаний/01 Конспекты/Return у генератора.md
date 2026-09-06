@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Генераторы]]"
-repeat: spaced every 54 hours
-due_at: 2026-09-05T23:06:58.638+03:00
+repeat: spaced every 108 hours
+due_at: 2026-09-11T07:58:57.265+03:00
 ---
 
 # Return у генератора

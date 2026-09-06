@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 542 hours
-due_at: 2026-09-06T06:00:00.000+03:00
+repeat: spaced every 1066 hours
+due_at: 2026-10-21T06:00:00.000+03:00
 ---
 
 # API TextEncoder и TextDecoder
