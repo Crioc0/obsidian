@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Итераторы]]"
-repeat: spaced every 81 hours
-due_at: 2026-09-13T01:39:15.317+03:00
+repeat: spaced every 41 hours
+due_at: 2026-09-16T12:52:07.145+03:00
 ---
 
 # Методы return и throw у генератора
