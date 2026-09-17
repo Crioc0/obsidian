@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Реализация парсер комбинаторов в JS]]"
-repeat: spaced every 54 hours
-due_at: 2026-09-17T02:21:56.890+03:00
+repeat: spaced every 81 hours
+due_at: 2026-09-21T01:39:23.272+03:00
 ---
 
 # tag — фабрика парсеров
