@@ -5,7 +5,7 @@ created: 2026-08-30
 related:
   - "[[Генераторы]]"
 repeat: spaced every 108 hours
-due_at: 2026-09-19T08:21:54.838+03:00
+due_at: 2026-09-24T09:03:55.310+03:00
 ---
 
 # Return у генератора

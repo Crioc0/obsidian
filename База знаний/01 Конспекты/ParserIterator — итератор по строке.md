@@ -5,7 +5,7 @@ created: 2026-08-30
 related:
   - "[[Реализация парсер комбинаторов в JS]]"
 repeat: spaced every 108 hours
-due_at: 2026-09-19T08:21:55.454+03:00
+due_at: 2026-09-24T09:03:54.575+03:00
 ---
 
 # ParserIterator — итератор по строке
