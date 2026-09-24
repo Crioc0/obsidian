@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Итераторы]]"
-repeat: spaced every 108 hours
-due_at: 2026-09-24T09:03:54.227+03:00
+repeat: spaced every 162 hours
+due_at: 2026-10-01T10:21:00.912+03:00
 ---
 
 # Передача данных в next
