@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Иерархия числовых типов]]"
-repeat: spaced every 2060 hours
-due_at: 2026-09-29T06:00:00.000+03:00
+repeat: spaced every 3092 hours
+due_at: 2027-02-19T06:00:00.000+03:00
 ---
 # Десятично-двоичное представление (BCD)
 

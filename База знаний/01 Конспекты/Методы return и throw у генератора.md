@@ -5,7 +5,7 @@ created: 2026-08-30
 related:
   - "[[Итераторы]]"
 repeat: spaced every 93 hours
-due_at: 2026-09-28T13:20:25.039+03:00
+due_at: 2026-10-17T06:57:02.605+03:00
 ---
 
 # Методы return и throw у генератора
