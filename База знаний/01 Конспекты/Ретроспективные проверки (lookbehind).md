@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Язык регулярных выражений]]"
-repeat: spaced every 273 hours
-due_at: 2026-10-01T06:00:00.000+03:00
+repeat: spaced every 261 hours
+due_at: 2026-10-24T06:00:00.000+03:00
 ---
 
 # Ретроспективные проверки (lookbehind)
