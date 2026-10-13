@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Символы и строки]]"
-repeat: spaced every 471 hours
-due_at: 2026-10-11T06:00:00.000+03:00
+repeat: spaced every 477 hours
+due_at: 2026-11-02T06:00:00.000+03:00
 ---
 
 # Кодовые страницы (codepage)
