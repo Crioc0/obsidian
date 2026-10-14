@@ -5,8 +5,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Текстовый формат данных]]"
-repeat: spaced every 706 hours
-due_at: 2026-10-14T06:00:00.000+03:00
+repeat: spaced every 705 hours
+due_at: 2026-11-13T06:00:00.000+03:00
 ---
 
 # JSON
