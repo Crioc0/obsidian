@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 54 hours
-due_at: 2026-10-15T15:53:36.765+03:00
+repeat: spaced every 81 hours
+due_at: 2026-10-19T17:40:56.653+03:00
 ---
 
 # Нюансы с суррогатными парами в JS
