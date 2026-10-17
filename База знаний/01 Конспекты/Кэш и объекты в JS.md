@@ -6,8 +6,8 @@ created: 2026-01-24
 related:
   - "[[Кэш-память]]"
   - "[[Объекты в JS]]"
-repeat: spaced every 1498 hours
-due_at: 2026-10-17T06:00:00.000+03:00
+repeat: spaced every 2248 hours
+due_at: 2027-01-19T06:00:00.000+03:00
 ---
 
 # Кэш и объекты в JS
