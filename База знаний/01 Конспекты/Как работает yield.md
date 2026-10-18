@@ -4,8 +4,8 @@ tags:
 created: 2026-08-30
 related:
   - "[[Генераторы]]"
-repeat: spaced every 123 hours
-due_at: 2026-10-18T12:49:56.610+03:00
+repeat: spaced every 178 hours
+due_at: 2026-10-26T06:00:00.000+03:00
 ---
 
 # Как работает yield
