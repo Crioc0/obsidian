@@ -4,8 +4,8 @@ tags:
 created: 2026-08-24
 related:
   - "[[Итераторы]]"
-repeat: spaced every 122 hours
-due_at: 2026-10-23T21:44:49.833+03:00
+repeat: spaced every 183 hours
+due_at: 2026-11-01T06:00:00.000+03:00
 ---
 
 # Метод return() у итератора
