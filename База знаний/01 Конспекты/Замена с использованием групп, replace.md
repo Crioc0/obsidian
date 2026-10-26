@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Язык регулярных выражений]]"
-repeat: spaced every 309 hours
-due_at: 2026-10-26T06:00:00.000+03:00
+repeat: spaced every 306 hours
+due_at: 2026-11-08T06:00:00.000+03:00
 ---
 
 # Замена с использованием групп, replace
