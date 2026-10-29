@@ -3,8 +3,8 @@ tags:
   - ФП
 created: 2026-01-24
 related:
-repeat: spaced every 1066 hours
-due_at: 2026-10-29T06:00:00.000+03:00
+repeat: spaced every 1600 hours
+due_at: 2027-01-04T06:00:00.000+03:00
 ---
 # flip() в каррированных функциях
 
