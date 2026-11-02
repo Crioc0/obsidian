@@ -5,8 +5,10 @@ tags:
 created: 2026-01-24
 related:
   - "[[Computer Science]]"
-repeat: spaced every 591 hours
-due_at: 2026-11-24T06:00:00.000+03:00
+
+repeat: spaced every 596 hours
+due_at: 2026-11-25T06:00:00.000+03:00
+
 ---
 
 # Автоматы (state machine)
