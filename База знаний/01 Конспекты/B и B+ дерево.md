@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Дерево]]"
-repeat: spaced every 621 hours
-due_at: 2026-11-08T06:00:00.000+03:00
+repeat: spaced every 927 hours
+due_at: 2026-12-17T06:00:00.000+03:00
 ---
 
 # B и B+ дерево
