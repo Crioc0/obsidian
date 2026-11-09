@@ -5,10 +5,10 @@ created: 2026-01-24
 related:
   - "[[Контейнер Promise в ФП]]"
 
-repeat: spaced every 2846 hours
+repeat: spaced every 5679 hours
 
 
-due_at: 2026-11-09T06:00:00.000+03:00
+due_at: 2027-07-04T06:00:00.000+03:00
 
 ---
 # Promise API взамен исключений

@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
 
-repeat: spaced every 2840 hours
-due_at: 2026-11-09T06:00:00.000+03:00
+repeat: spaced every 5679 hours
+due_at: 2027-07-04T06:00:00.000+03:00
 
 ---
 # Как curry работает с контейнерами
