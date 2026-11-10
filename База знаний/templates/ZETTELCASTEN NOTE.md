@@ -6,7 +6,7 @@ repeat: spaced every 24 hours
 due_at: <% tp.date.now("YYYY-MM-DD") %>T06:00:00.000+03:00
 ---
 
-# Zettelcasten Note
+# ZETTELCASTEN NOTE
 
 # Ссылки
 - 
