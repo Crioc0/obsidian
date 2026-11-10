@@ -1,6 +1,3 @@
-# Модуль 1: Промисы, async await и ошибки
-## Модуль 1: Промисы, async/await и обработка ошибок
-
 ### Материалы
 
 - [ ] [Using promises — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
