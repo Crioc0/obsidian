@@ -8,9 +8,9 @@
   - Как `await` ждёт промис, top-level await, обработка rejected promises
 - [x] [Promise — Glossary — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Promise)
   - Краткое определение промиса
-- [ ] [Using the Fetch API — MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [x] [Using the Fetch API — MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
   - `fetch`, `Response`, `response.ok`, JSON, ошибки, отмена
-- [ ] [AbortController — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
+- [x] [AbortController — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
   - Создание контроллера и вызов `abort()`
 - [ ] [AbortSignal — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal)
   - Как `signal` связывает отмену с `fetch`
