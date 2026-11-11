@@ -12,7 +12,7 @@
   - `fetch`, `Response`, `response.ok`, JSON, ошибки, отмена
 - [x] [AbortController — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
   - Создание контроллера и вызов `abort()`
-- [ ] [AbortSignal — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal)
+- [x] [AbortSignal — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal)
   - Как `signal` связывает отмену с `fetch`
 - [ ] [Working with JSON — MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
   - Практический пример `fetch` + `response.json()`
