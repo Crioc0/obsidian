@@ -1,6 +1,6 @@
 ### Материалы
 
-- [ ] [Using promises — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+- [x] [Using promises — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   - Промисы, `then/catch/finally`, chaining, error handling
 - [ ] [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
   - Состояния промиса, конструктор, `then`, `catch`, `finally`
