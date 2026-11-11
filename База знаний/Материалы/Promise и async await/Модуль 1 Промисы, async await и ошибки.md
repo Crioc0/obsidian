@@ -6,7 +6,7 @@
   - Состояния промиса, конструктор, `then`, `catch`, `finally`
 - [x] [await — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
   - Как `await` ждёт промис, top-level await, обработка rejected promises
-- [ ] [Promise — Glossary — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Promise)
+- [x] [Promise — Glossary — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Promise)
   - Краткое определение промиса
 - [ ] [Using the Fetch API — MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
   - `fetch`, `Response`, `response.ok`, JSON, ошибки, отмена
