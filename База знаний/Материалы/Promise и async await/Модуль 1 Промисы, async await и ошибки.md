@@ -2,9 +2,9 @@
 
 - [x] [Using promises — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   - Промисы, `then/catch/finally`, chaining, error handling
-- [ ] [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [x] [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
   - Состояния промиса, конструктор, `then`, `catch`, `finally`
-- [ ] [await — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+- [x] [await — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
   - Как `await` ждёт промис, top-level await, обработка rejected promises
 - [ ] [Promise — Glossary — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Promise)
   - Краткое определение промиса
