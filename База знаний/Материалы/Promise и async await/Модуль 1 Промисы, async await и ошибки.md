@@ -19,7 +19,7 @@
 
 ### Порядок чтения
 
-1. [ ] [Using promises — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) — до раздела **Error handling**
+1. [x] [Using promises — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) — до раздела **Error handling**
 2. [ ] [await — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) — особенно поведение при rejected promise
 3. [ ] [Using the Fetch API — MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) — `response.ok`, `response.status`, `response.json()`
 4. [ ] [AbortController — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortController) и [AbortSignal — MDN](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal) — перед практикой с отменой запроса
