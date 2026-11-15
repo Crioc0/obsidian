@@ -5,8 +5,8 @@ created: 2026-08-30
 related:
   - "[[Генераторы]]"
 
-repeat: spaced every 332 hours
-due_at: 2026-11-14T06:00:00.000+03:00
+repeat: spaced every 663 hours
+due_at: 2026-12-13T06:00:00.000+03:00
 
 ---
 
