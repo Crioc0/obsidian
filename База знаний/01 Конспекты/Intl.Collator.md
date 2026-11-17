@@ -4,8 +4,8 @@ tags:
 created: 2026-01-24
 related:
   - "[[Строки в JS]]"
-repeat: spaced every 498 hours
-due_at: 2026-11-17T06:00:00.000+03:00
+repeat: spaced every 999 hours
+due_at: 2026-12-29T06:00:00.000+03:00
 ---
 
 # Intl.Collator
