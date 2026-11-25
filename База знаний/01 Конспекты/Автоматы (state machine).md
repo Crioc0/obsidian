@@ -6,8 +6,8 @@ created: 2026-01-24
 related:
   - "[[Computer Science]]"
 
-repeat: spaced every 596 hours
-due_at: 2026-11-25T06:00:00.000+03:00
+repeat: spaced every 1190 hours
+due_at: 2027-01-14T06:00:00.000+03:00
 
 ---
 
